@@ -1,0 +1,104 @@
+{
+  "cc": "de",
+  "lang": "de",
+  "repo": "Komentar-DE-RVG-2004",
+  "repo_dir": "/Volumes/LaCie/open-commentary/de/Komentar-DE-RVG-2004",
+  "title": "Kommentar zum Rechtsanwaltsvergütungsgesetz (RVG)",
+  "source_path": "/Volumes/LaCie/open-commentary/_work/de/Komentar-DE-RVG-2004/sources/canonical.md",
+  "intro_file": "00-einleitung.md",
+  "intro_desc": "Systematik, Methode und Quellenstand",
+  "labels": {
+    "text": "Wortlaut der Vorschrift",
+    "chapter": "Kommentarkapitel",
+    "notes": "Amtlicher Quellenhinweis"
+  },
+  "chapters": [
+    {
+      "n": 1,
+      "slug": "abschnitt-1",
+      "title": "Abschnitt 1 — Allgemeine Vorschriften"
+    },
+    {
+      "n": 2,
+      "slug": "abschnitt-2",
+      "title": "Abschnitt 2 — Gebührenvorschriften"
+    },
+    {
+      "n": 3,
+      "slug": "abschnitt-3",
+      "title": "Abschnitt 3 — Angelegenheit"
+    },
+    {
+      "n": 4,
+      "slug": "abschnitt-4",
+      "title": "Abschnitt 4 — Gegenstandswert"
+    },
+    {
+      "n": 5,
+      "slug": "abschnitt-5",
+      "title": "Abschnitt 5 — Außergerichtliche Beratung und Vertretung"
+    },
+    {
+      "n": 6,
+      "slug": "abschnitt-6",
+      "title": "Abschnitt 6 — Gerichtliche Verfahren"
+    },
+    {
+      "n": 7,
+      "slug": "abschnitt-7",
+      "title": "Abschnitt 7 — Straf- und Bußgeldsachen sowie bestimmte sonstige Verfahren"
+    },
+    {
+      "n": 8,
+      "slug": "abschnitt-8",
+      "title": "Abschnitt 8 — Beigeordneter oder bestellter Rechtsanwalt, Beratungshilfe"
+    },
+    {
+      "n": 9,
+      "slug": "abschnitt-9",
+      "title": "Abschnitt 9 — Übergangs- und Schlussvorschriften"
+    },
+    {
+      "n": 10,
+      "slug": "anlagen",
+      "title": "Anlagen 1 und 2: vollständiger amtlicher Text"
+    },
+    {
+      "n": 11,
+      "slug": "vv-teil-1",
+      "title": "Vergütungsverzeichnis, Teil 1 – Einzelkommentierung"
+    },
+    {
+      "n": 12,
+      "slug": "vv-teil-2",
+      "title": "Vergütungsverzeichnis, Teil 2 – Einzelkommentierung"
+    },
+    {
+      "n": 13,
+      "slug": "vv-teil-3",
+      "title": "Vergütungsverzeichnis, Teil 3 – Einzelkommentierung"
+    },
+    {
+      "n": 14,
+      "slug": "vv-teil-4",
+      "title": "Vergütungsverzeichnis, Teil 4 – Einzelkommentierung"
+    },
+    {
+      "n": 15,
+      "slug": "vv-teil-5",
+      "title": "Vergütungsverzeichnis, Teil 5 – Einzelkommentierung"
+    },
+    {
+      "n": 16,
+      "slug": "vv-teil-6",
+      "title": "Vergütungsverzeichnis, Teil 6 – Einzelkommentierung"
+    },
+    {
+      "n": 17,
+      "slug": "vv-teil-7",
+      "title": "Vergütungsverzeichnis, Teil 7 – Einzelkommentierung"
+    }
+  ],
+  "legal_text_date": "2026-10-19",
+  "raw_xml_path": "/Volumes/LaCie/open-commentary/_work/de/Komentar-DE-RVG-2004/sources/rvg.xml"
+}

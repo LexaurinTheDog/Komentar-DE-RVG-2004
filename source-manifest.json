@@ -1,0 +1,110 @@
+{
+  "generated_at": "2026-10-19T15:58:23.648498+00:00",
+  "files": [
+    {
+      "path": "sources/KORE307422020.md",
+      "bytes": 45695,
+      "sha256": "9eb8f58952b71646a775265c7a9b704bdb8f76f32d7810f62ce87e4367ad3fff"
+    },
+    {
+      "path": "sources/KORE307422020.response",
+      "bytes": 16208,
+      "sha256": "2c211c4a251bd31d1b95cb7fc85ad37290048c11507a6649df80006094a1cfec"
+    },
+    {
+      "path": "sources/KORE307422020.xml",
+      "bytes": 63945,
+      "sha256": "f6f41a3b3840f632e79cbec5979bc4bca9b81c52e89ff0b8f2107e69d9b77460"
+    },
+    {
+      "path": "sources/KORE716052025.md",
+      "bytes": 49512,
+      "sha256": "caafe0ac1f66e740fbcd5efcc9bb059a8e03453dd2a8e2a0911057ee00908137"
+    },
+    {
+      "path": "sources/KORE716052025.response",
+      "bytes": 15165,
+      "sha256": "0144477674dffdb2f2b7f9fe0fc981b503b828fdc4879435d25b75f357b45621"
+    },
+    {
+      "path": "sources/KORE716052025.xml",
+      "bytes": 61687,
+      "sha256": "32e45760bf275a90dd9a80d388c58f86628fa1b8a5223bd1d5e675441a5620ca"
+    },
+    {
+      "path": "sources/bgbl-2025-318.pdf",
+      "bytes": 363624,
+      "sha256": "89f50d3f611d6f05089d6d4827783cf1531cfd3c800cd808e86c763b9db28c41"
+    },
+    {
+      "path": "sources/bgbl-2025-318.txt",
+      "bytes": 34192,
+      "sha256": "2a31441a6082843808f66a8ce587aea69db2d657cd948a2347e1758c5ba3207d"
+    },
+    {
+      "path": "sources/bgh-response-142379.html",
+      "bytes": 52257,
+      "sha256": "6e577b01de7aa9861b2482c918654b297fa743f5dccdab1bcb6fa819f54f59a1"
+    },
+    {
+      "path": "sources/canonical.md",
+      "bytes": 197571,
+      "sha256": "2e72d40669cae70b287e28c9690fcc1f439a7ce197bc1888106bb96f059367eb"
+    },
+    {
+      "path": "sources/case-source-comparison.json",
+      "bytes": 758,
+      "sha256": "9424f990889f2e2e0a787369ac2ed1df4ac4370353442983897d6d3995ad4e96"
+    },
+    {
+      "path": "sources/change-map.json",
+      "bytes": 23484,
+      "sha256": "d8f9288d255475667d61809a732160ce4af23d8a60d3152e38271ef725f1b898"
+    },
+    {
+      "path": "sources/discovery-search.json",
+      "bytes": 5890,
+      "sha256": "98ac12cd13fc68f8d879e3bbdff0fa58ae2b9ea41c2d2b376567acd0219e7fd6"
+    },
+    {
+      "path": "sources/gii-updates.html",
+      "bytes": 74406,
+      "sha256": "f2c92645e935e53c51e5f69a06756484133dff26f032251a8b6db1d778bb045c"
+    },
+    {
+      "path": "sources/intake-2026-10-02.md",
+      "bytes": 202259,
+      "sha256": "ab0a3dff2cef5997573234da63b086e6e4ed11c5c9e43b89cf9647898fda5d19"
+    },
+    {
+      "path": "sources/rvg-index.html",
+      "bytes": 21362,
+      "sha256": "7e9f02d6a7dc1934d08e4463457f1c15649d20bfd365778bff502c55f2eb80dd"
+    },
+    {
+      "path": "sources/rvg.html",
+      "bytes": 439849,
+      "sha256": "f458ee8f7e744b89eaec3e11a79a7ddd888f7ea607925fe0571dbd17f813d6c4"
+    },
+    {
+      "path": "sources/rvg.xml",
+      "bytes": 330910,
+      "sha256": "be5571d1735031133f154071b08a77ccdb89f3e047330ed057a494dfd128f5d1"
+    },
+    {
+      "path": "sources/rvg.zip",
+      "bytes": 55552,
+      "sha256": "51019d65e1d783759d31a3d67ff21ec35d922d309a82d575a08848c89de42dde"
+    },
+    {
+      "path": "sources/search-log.json",
+      "bytes": 2124,
+      "sha256": "c76fc14c11606e46737f88cacf62062b632a82675a069f641ade34b7932afb2b"
+    },
+    {
+      "path": "sources/verification.json",
+      "bytes": 5091,
+      "sha256": "681edca406419d41f48f9544f0e7a9541d31f0fe91e094d6c5915ca5f596411a"
+    }
+  ]
+}

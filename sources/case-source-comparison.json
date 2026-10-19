@@ -1,0 +1,18 @@
+[
+  {
+    "decision": "KORE307422020",
+    "ecli": "ECLI:DE:BGH:2020:130220UIXZR140.19.0",
+    "local_read_version_sha256": "9eb8f58952b71646a775265c7a9b704bdb8f76f32d7810f62ce87e4367ad3fff",
+    "fresh_official_xml_sha256": "f6f41a3b3840f632e79cbec5979bc4bca9b81c52e89ff0b8f2107e69d9b77460",
+    "missing_exact_sections": [],
+    "content_equal_for_judicial_sections": true
+  },
+  {
+    "decision": "KORE716052025",
+    "ecli": "ECLI:DE:BGH:2025:080525UIXZR90.23.0",
+    "local_read_version_sha256": "caafe0ac1f66e740fbcd5efcc9bb059a8e03453dd2a8e2a0911057ee00908137",
+    "fresh_official_xml_sha256": "32e45760bf275a90dd9a80d388c58f86628fa1b8a5223bd1d5e675441a5620ca",
+    "missing_exact_sections": [],
+    "content_equal_for_judicial_sections": true
+  }
+]

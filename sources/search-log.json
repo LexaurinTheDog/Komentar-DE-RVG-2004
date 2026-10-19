@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-19",
+  "jurisdiction": "DE",
+  "scope": "Selective primary-source research on §3a; not an exhaustive per-unit case-law search.",
+  "steps": [
+    {
+      "method": "firecrawl search",
+      "query": "site.rechtsprechung-im-internet.de RVG 3a Vergütungsvereinbarung 2020 IX ZR",
+      "evidence": "sources/discovery-search.json",
+      "result": "Discovery results used only for navigation, not authority."
+    },
+    {
+      "method": "web search",
+      "queries": [
+        "RVG zuletzt geändert 2026 2025 318 2026 2027 Art 14",
+        "site.bundesgerichtshof.de IX ZR 140/19 13. Februar 2020 Vergütungsvereinbarung",
+        "site.recht.bund.de bgbl 2025 318 Artikel 14 23 Inkrafttreten",
+        "site.rechtsprechung-im-internet.de RVG IX ZR 90/23 2024"
+      ],
+      "result": "Official promulgation and court database locations identified."
+    },
+    {
+      "method": "local corpus manifest search",
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/manifest.jsonl",
+      "query": "IX ZR 140/19|IX ZR 90/23",
+      "results": [
+        "KORE307422020",
+        "KORE716052025"
+      ]
+    },
+    {
+      "method": "official ZIP download and XML parsing",
+      "results": [
+        "sources/KORE307422020.response",
+        "sources/KORE716052025.response"
+      ],
+      "full_text_read": true,
+      "cards": [
+        "cases/bgh-2020-ix-zr-140-19.md",
+        "cases/bgh-2025-ix-zr-90-23.md"
+      ]
+    },
+    {
+      "method": "PDF format rejection",
+      "result": "juris.bundesgerichtshof.de responses were HTML after redirect; not used as judgment PDF. Official RII XML used instead."
+    }
+  ],
+  "case_coverage": [
+    {
+      "ids": [
+        "p3a"
+      ],
+      "cases": [
+        "KORE307422020",
+        "KORE716052025"
+      ],
+      "use": "Directly cited selected primary authority."
+    },
+    {
+      "ids": "all remaining 343 units",
+      "cases": [],
+      "use": "Statutory explanation; no individually verified additional case is asserted. Technical and repealed units do not receive invented authorities. No per-unit comprehensive search claimed."
+    }
+  ]
+}

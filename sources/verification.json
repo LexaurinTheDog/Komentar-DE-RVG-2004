@@ -1,0 +1,120 @@
+{
+  "decisive_date": "2026-10-19",
+  "requests": [
+    {
+      "url": "https://www.gesetze-im-internet.de/rvg/",
+      "accessed_at": "2026-10-19T15:27:47.413373+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "7e9f02d6a7dc1934d08e4463457f1c15649d20bfd365778bff502c55f2eb80dd",
+      "local_path": "sources/rvg-index.html"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/rvg/RVG.xml.zip",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/rvg/BJNR078800004.html",
+      "accessed_at": "2026-10-19T15:27:48.854576+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "f458ee8f7e744b89eaec3e11a79a7ddd888f7ea607925fe0571dbd17f813d6c4",
+      "local_path": "sources/rvg.html"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/rvg/xml.zip",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T15:28:13.711276+00:00",
+      "sha256": "51019d65e1d783759d31a3d67ff21ec35d922d309a82d575a08848c89de42dde",
+      "content_type": "application/zip",
+      "validated_format": "ZIP with RVG XML",
+      "local_path": "sources/rvg.zip",
+      "members": [
+        "BJNR078800004.xml"
+      ]
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2025/318/regelungstext.pdf?__blob=publicationFile&v=2",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T15:28:45.458262+00:00",
+      "sha256": "89f50d3f611d6f05089d6d4827783cf1531cfd3c800cd808e86c763b9db28c41",
+      "content_type": "application/pdf",
+      "validated_format": "PDF magic",
+      "local_path": "sources/bgbl-2025-318.pdf"
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=104814&Blank=1.pdf",
+      "error": "Expected PDF rejected: response was redirected HTML, not PDF."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=142379&Blank=1.pdf",
+      "error": "Expected PDF rejected: response was redirected HTML, not PDF."
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE716052025.zip",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T15:34:41.289678+00:00",
+      "sha256": "0144477674dffdb2f2b7f9fe0fc981b503b828fdc4879435d25b75f357b45621",
+      "content_type": "application/zip",
+      "local_path": "sources/KORE716052025.response",
+      "validated_format": "ZIP with judgment XML",
+      "members": [
+        "jb-KORE716052025.xml"
+      ]
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE307422020.zip",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T15:34:41.431899+00:00",
+      "sha256": "2c211c4a251bd31d1b95cb7fc85ad37290048c11507a6649df80006094a1cfec",
+      "content_type": "application/zip",
+      "local_path": "sources/KORE307422020.response",
+      "validated_format": "ZIP with judgment XML",
+      "members": [
+        "jb-KORE307422020.xml"
+      ]
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T15:53:59.535475+00:00",
+      "sha256": "f2c92645e935e53c51e5f69a06756484133dff26f032251a8b6db1d778bb045c",
+      "content_type": "text/html",
+      "local_path": "sources/gii-updates.html"
+    }
+  ],
+  "version_evidence": {
+    "official_consolidation": "Neugefasst durch Bek. v. 15.3.2022 I 610; zuletzt geändert durch Art. 14 G v. 8.12.2025 I Nr. 318",
+    "xml_builddate": "20260630215537",
+    "last_amendment": "sources/bgbl-2025-318.pdf",
+    "commencement": {
+      "2026-01-01": "Art. 21 Abs. 2: Art. 14 Nrn. 1, 3, 4 (Inhaltsübersicht, §33, §61)",
+      "2026-07-01": "Art. 21 Abs. 3: Art. 14 Nr. 2 (§19 Abs.1 S.2 Nr.6)"
+    },
+    "decisive_date": "2026-10-19",
+    "intake_comparison": "Standangaben und builddate unverändert; mechanischer Textvergleich in change-map.json.",
+    "current_text_basis": "GII XML, full HTML, current official update service and promulgated commencement; access/build timestamp alone not used as commencement proof.",
+    "verification_date": "2026-10-19",
+    "scope_note": "GII current consolidation and official update service checked; no identified post-intake RVG amendment. This is not a guarantee against unpublished or not yet incorporated legislation."
+  },
+  "derived_files": [
+    {
+      "path": "sources/rvg.xml",
+      "sha256": "be5571d1735031133f154071b08a77ccdb89f3e047330ed057a494dfd128f5d1",
+      "format": "XML parsed successfully",
+      "expected_identifier": "RVG"
+    },
+    {
+      "path": "sources/KORE307422020.xml",
+      "sha256": "f6f41a3b3840f632e79cbec5979bc4bca9b81c52e89ff0b8f2107e69d9b77460",
+      "format": "XML parsed successfully",
+      "expected_identifier": "KORE307422020"
+    },
+    {
+      "path": "sources/KORE716052025.xml",
+      "sha256": "32e45760bf275a90dd9a80d388c58f86628fa1b8a5223bd1d5e675441a5620ca",
+      "format": "XML parsed successfully",
+      "expected_identifier": "KORE716052025"
+    }
+  ]
+}
