@@ -1,0 +1,70 @@
+{
+  "identifier": "RVG",
+  "title": "Gesetz über die Vergütung der Rechtsanwältinnen und Rechtsanwälte",
+  "country": "de",
+  "authoring_started_at": "2026-10-19T15:27:00+00:00",
+  "decisive_date": "2026-10-19",
+  "updated_at": "2026-10-19T16:00:08.429335+00:00",
+  "stage": "drafted_technical_validation",
+  "official_norm_units": 81,
+  "numbered_paragraphs": 79,
+  "annexes": 2,
+  "numbered_tariffs": 231,
+  "operative_preliminary_remarks": 32,
+  "total_units": 344,
+  "completed_units": 344,
+  "commentary_chars": 275039,
+  "chapters": 17,
+  "source_checks": {
+    "official_source": "https://www.gesetze-im-internet.de/rvg/",
+    "raw_xml": "sources/rvg.xml",
+    "verification": "sources/verification.json",
+    "commencement": "Art.21 BGBl.2025 I Nr.318: 2026-01-01 and 2026-07-01",
+    "change_map": "sources/change-map.json",
+    "normative_changes_since_intake": 0,
+    "all_official_character_streams_equal": true,
+    "format_validation": "ZIP/XML parsed; expected RVG identifiers checked. Promulgation PDF signature checked and text extracted. Disguised HTML rejected."
+  },
+  "case_law_sources": [
+    {
+      "court": "BGH",
+      "date": "2020-02-13",
+      "docket": "IX ZR 140/19",
+      "ecli": "ECLI:DE:BGH:2020:130220UIXZR140.19.0",
+      "source": "sources/KORE307422020.xml"
+    },
+    {
+      "court": "BGH",
+      "date": "2025-05-08",
+      "docket": "IX ZR 90/23",
+      "ecli": "ECLI:DE:BGH:2025:080525UIXZR90.23.0",
+      "source": "sources/KORE716052025.xml"
+    }
+  ],
+  "case_law_scope": "Selective research on remuneration agreements; not exhaustive case-law research for all 344 units.",
+  "validation": {
+    "repo": "Komentar-DE-RVG-2004",
+    "units": 344,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 275039,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "completeness": {
+    "report": "completeness.json",
+    "missing_ids": [],
+    "duplicates": [],
+    "audit": "audit-result.json",
+    "ok": true
+  },
+  "remaining_limitations": [
+    "Independent second substantive pass pending; no external legal approval.",
+    "Two selectively researched BGH decisions; no exhaustive per-unit case-law survey.",
+    "External procedural, tax and professional laws referenced by RVG are not separately reproduced or comprehensively commented.",
+    "Consolidation/current-update verification cannot guarantee discovery of unpublished or not-yet-incorporated legislation."
+  ],
+  "unresolved_material_source_blockers": [],
+  "independent_review_complete": false,
+  "publication_or_push_performed": false
+}

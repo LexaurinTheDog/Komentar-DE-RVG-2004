@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:58:23.648498+00:00",
+  "generated_at": "2026-10-19T15:59:50.384803+00:00",
   "files": [
     {
       "path": "sources/KORE307422020.md",
@@ -77,6 +77,21 @@
       "sha256": "ab0a3dff2cef5997573234da63b086e6e4ed11c5c9e43b89cf9647898fda5d19"
     },
     {
+      "path": "sources/rejected-bgh-104814.html",
+      "bytes": 52257,
+      "sha256": "22e9f28c3b7b54964ebbc9e04248fc0f7a25975899b95210a46397f3bd75d839"
+    },
+    {
+      "path": "sources/rejected-bgh-142379.html",
+      "bytes": 52257,
+      "sha256": "4c1af91d11e43f6345f775409a984fccea37f28a000b2fd2937cc0e6730ce091"
+    },
+    {
+      "path": "sources/rejected-rvg-xml-path.html",
+      "bytes": 236,
+      "sha256": "9448f8a1159c9b14e3e1b9d8eab1a6ddf88d26e1f888a34cef430c756e4e6e1e"
+    },
+    {
       "path": "sources/rvg-index.html",
       "bytes": 21362,
       "sha256": "7e9f02d6a7dc1934d08e4463457f1c15649d20bfd365778bff502c55f2eb80dd"
@@ -103,8 +118,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 5091,
-      "sha256": "681edca406419d41f48f9544f0e7a9541d31f0fe91e094d6c5915ca5f596411a"
+      "bytes": 7137,
+      "sha256": "5050b28a953b6d610220f6f58c9ae983b29a80a43a53321a177be902927302d5"
     }
   ]
 }

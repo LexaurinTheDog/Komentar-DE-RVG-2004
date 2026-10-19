@@ -15,3 +15,5 @@ Die Rechtsprechungsauswahl umfasst zwei im amtlichen Volltext gesicherte BGH-Urt
 Originalkommentar © 2026 Vojtěch Říha. Der Originalkommentar steht unter [Apache-2.0](LICENSE). Amtliche Gesetzes- und Entscheidungstexte sind gesondertes Quellenmaterial; die Lizenz des Originalkommentars begründet daran keine ausschließlichen Rechte. Kommerzielle Entscheidungsredaktionen und Literaturtexte wurden nicht übernommen. Projektbezug: [LexaurinTheDog](https://github.com/LexaurinTheDog).
 
 **Entwurf mit technischer Validierung.** Eine unabhängige zweite inhaltliche Prüfung steht noch aus. Es wird keine externe anwaltliche Freigabe behauptet. Das Werk wird ohne Gewähr bereitgestellt und ersetzt keine Beratung im konkreten Mandat; insbesondere müssen Auftrag, Übergangsrecht, Beiordnung und Gebührenentstehung im Einzelfall geprüft werden.
+
+Gesetze im Internet ist eine amtlich bereitgestellte, nicht selbst verkündete Konsolidierung. Bei einem Widerspruch ist das im Bundesgesetzblatt verkündete Recht maßgeblich.

@@ -81,6 +81,39 @@
       "sha256": "f2c92645e935e53c51e5f69a06756484133dff26f032251a8b6db1d778bb045c",
       "content_type": "text/html",
       "local_path": "sources/gii-updates.html"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/rvg/RVG.xml.zip",
+      "accessed_at": "2026-10-19T15:59:48.676008+00:00",
+      "http_status": 404,
+      "final_url": "https://www.gesetze-im-internet.de/rvg/RVG.xml.zip",
+      "content_type": "text/html; charset=iso-8859-1",
+      "sha256": "9448f8a1159c9b14e3e1b9d8eab1a6ddf88d26e1f888a34cef430c756e4e6e1e",
+      "local_path": "sources/rejected-rvg-xml-path.html",
+      "diagnostic": "Expected ZIP; confirmed 404 diagnostic",
+      "used_as_authority": false
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=104814&Blank=1.pdf",
+      "accessed_at": "2026-10-19T15:59:48.806547+00:00",
+      "http_status": 200,
+      "final_url": "https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html",
+      "content_type": "text/html;charset=utf-8",
+      "sha256": "22e9f28c3b7b54964ebbc9e04248fc0f7a25975899b95210a46397f3bd75d839",
+      "local_path": "sources/rejected-bgh-104814.html",
+      "diagnostic": "Expected PDF; redirected HTML rejected",
+      "used_as_authority": false
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=142379&Blank=1.pdf",
+      "accessed_at": "2026-10-19T15:59:49.640235+00:00",
+      "http_status": 200,
+      "final_url": "https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html",
+      "content_type": "text/html;charset=utf-8",
+      "sha256": "4c1af91d11e43f6345f775409a984fccea37f28a000b2fd2937cc0e6730ce091",
+      "local_path": "sources/rejected-bgh-142379.html",
+      "diagnostic": "Expected PDF; redirected HTML rejected",
+      "used_as_authority": false
     }
   ],
   "version_evidence": {
@@ -116,5 +149,6 @@
       "format": "XML parsed successfully",
       "expected_identifier": "KORE716052025"
     }
-  ]
+  ],
+  "format_rejection_note": "Early discovery attempts without complete timing were retained as diagnostics; repeat attempts below capture full responses. Only successful format-validated official ZIP/XML and promulgation PDF are authoritative evidence for this manuscript."
 }
