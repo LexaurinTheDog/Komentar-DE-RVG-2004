@@ -2,7 +2,6 @@
   "identifier": "RVG",
   "title": "Gesetz über die Vergütung der Rechtsanwältinnen und Rechtsanwälte",
   "country": "de",
-  "authoring_started_at": "2026-10-19T15:27:00+00:00",
   "decisive_date": "2026-10-19",
   "updated_at": "2026-10-19T16:00:08.429335+00:00",
   "stage": "drafted_technical_validation",
@@ -66,5 +65,13 @@
   ],
   "unresolved_material_source_blockers": [],
   "independent_review_complete": false,
-  "publication_or_push_performed": false
+  "publication_or_push_performed": false,
+  "authoring_started_date": "2026-10-19",
+  "quality": {
+    "report": "quality-report.json",
+    "ok": true,
+    "broken_local_links": 0,
+    "identical_long_sentences": 0,
+    "identical_long_paragraphs": 0
+  }
 }
