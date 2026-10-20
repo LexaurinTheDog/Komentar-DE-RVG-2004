@@ -1,0 +1,234 @@
+{
+  "generated_at": "2026-10-20T13:15:37.546950+00:00",
+  "cards": [
+    {
+      "card": "cases/ag-nuernberg-2024-02-14-401-ds-207-js-8267-22.md",
+      "title": "AG Nürnberg, 14. Februar 2024 – 401 Ds 207 Js 8267/22",
+      "sha256": "d7643095bb7e669e2e9cf1ecd775ed6c52c3d5b28c5d427249ded14e6b48fe9f"
+    },
+    {
+      "card": "cases/ag-nuernberg-2024-05-02-401-ds-207-js-8267-22.md",
+      "title": "AG Nürnberg, 2. Mai 2024 – 401 Ds 207 Js 8267/22",
+      "sha256": "309f17d7b8d4eded909f5c0aa3cc1f54c148d1c9edd5311ef694163a8d7bb5fe"
+    },
+    {
+      "card": "cases/bag-2012-3-azb-22-11.md",
+      "title": "BAG, Beschluss vom 18. April 2012 – 3 AZB 22/11",
+      "sha256": "32d60b2bf360b1e7152cac355eea163d9aeb2fceeee7697dbba152035579f858"
+    },
+    {
+      "card": "cases/bag-2024-4-azb-22-23.md",
+      "title": "BAG, Beschluss vom 18. April 2024 – 4 AZB 22/23",
+      "sha256": "4da8e5970903cf6c79cc0cca8ab4de0a9170814f92ea389ad89884a90732991c"
+    },
+    {
+      "card": "cases/bgh-2010-vii-zb-116-09.md",
+      "title": "BGH, Beschluss vom 28. Oktober 2010 – VII ZB 116/09",
+      "sha256": "8933d44ce1985d05990c7bc0052344207fe91640f40ccf022ee9e3507e88a9cd"
+    },
+    {
+      "card": "cases/bgh-2010-viii-zb-16-10.md",
+      "title": "BGH, Beschluss vom 12. Oktober 2010 – VIII ZB 16/10",
+      "sha256": "87766b086dde4fd939730e4966494ada0ee024c83df29b8e057a1a0a8711a4de"
+    },
+    {
+      "card": "cases/bgh-2011-ix-zr-123-10.md",
+      "title": "BGH, Urteil vom 20. Januar 2011 – IX ZR 123/10",
+      "sha256": "a6c4cdf44ea72bd8426e85ddcb6566c58cfc904744ba0f214f1e804769b887e0"
+    },
+    {
+      "card": "cases/bgh-2011-ix-zr-153-10.md",
+      "title": "BGH, Urteil vom 14. April 2011 – IX ZR 153/10",
+      "sha256": "2e0474d2335d8019bc562d1209bbbcf4f839d3df4ffd3758bb50776553b754a7"
+    },
+    {
+      "card": "cases/bgh-2012-vi-zb-46-11-vv7006-vv7008.md",
+      "title": "BGH, Beschluss vom 17. April 2012 – VI ZB 46/11",
+      "sha256": "1fd1a83461879d09a32bf1c256fa3bb319554fe9cad7640dc092f12c1f2a015e"
+    },
+    {
+      "card": "cases/bgh-2012-vi-zb-46-11.md",
+      "title": "BGH, Beschluss vom 17. April 2012 – VI ZB 46/11",
+      "sha256": "05d258826f7fb91b0a5faed01c3b2e9b14d0cfa436945a4b16c133b537c7a1d9"
+    },
+    {
+      "card": "cases/bgh-2012-viii-zr-323-11.md",
+      "title": "BGH, Urteil vom 11. Juli 2012 – VIII ZR 323/11",
+      "sha256": "64511dec68ffcfc74041b4e51f6462fcff8472647c899f88cf1deeb208f28442"
+    },
+    {
+      "card": "cases/bgh-2013-ix-zr-306-12.md",
+      "title": "BGH, Urteil vom 4. Juli 2013 – IX ZR 306/12",
+      "sha256": "97bc100972b787503e27108bd6c6edf0900f4a7c8287f6d73010d3a67940ec82"
+    },
+    {
+      "card": "cases/bgh-2013-xi-zb-2-13.md",
+      "title": "BGH, Beschluss vom 15. Oktober 2013 – XI ZB 2/13",
+      "sha256": "ee0bcc3424cfbec01f145addeef4ec314cd6882e3f18e12e3d0577b6a080b628"
+    },
+    {
+      "card": "cases/bgh-2015-ix-zb-62-13.md",
+      "title": "BGH, Beschluss vom 26. März 2015 – IX ZB 62/13",
+      "sha256": "6fbc1c58535b0d23f60f3c838cd79ef36a041d4b90fb9e7ea27658aec08c98b6"
+    },
+    {
+      "card": "cases/bgh-2017-i-zb-1-17.md",
+      "title": "BGH, Beschluss vom 14. Juni 2017 – I ZB 1/17",
+      "sha256": "1b4fdd5b3534c8458fcda1ffa6b8791097ea451a67a81291286093d772c2e64d"
+    },
+    {
+      "card": "cases/bgh-2017-ix-zr-243-16.md",
+      "title": "BGH, Urteil vom 14. Dezember 2017 – IX ZR 243/16",
+      "sha256": "60cc41bd30dec460c057d18f058518255882d1f0cee2520da253d7b8d7ec986f"
+    },
+    {
+      "card": "cases/bgh-2017-v-zb-152-16.md",
+      "title": "BGH, Beschluss vom 16. November 2017 – V ZB 152/16",
+      "sha256": "7f3e34de3e7d3be21e982781dafeb9876bef5435c13274c65525ec6dd063d146"
+    },
+    {
+      "card": "cases/bgh-2017-vi-zb-21-16.md",
+      "title": "BGH, Beschluss vom 24. Januar 2017 – VI ZB 21/16",
+      "sha256": "719e125a8b67c75f4436909950abb7f64ab0ff32d780ef37238ee873a2dacb5e"
+    },
+    {
+      "card": "cases/bgh-2018-3-str-625-17.md",
+      "title": "BGH, Beschluss vom 29. November 2018 – 3 StR 625/17",
+      "sha256": "187bb2c2c9e357b1ca4c4a7946538a166c4f24d170afffc1acddc74147d174b0"
+    },
+    {
+      "card": "cases/bgh-2018-vii-zb-60-17.md",
+      "title": "BGH, Beschluss vom 24. Januar 2018 – VII ZB 60/17",
+      "sha256": "e42c4db349ede28d3df0b093be490b15c3844f254e161d26ea0396890f062e81"
+    },
+    {
+      "card": "cases/bgh-2018-xii-zb-112-17.md",
+      "title": "BGH, Beschluss vom 7. Februar 2018 – XII ZB 112/17",
+      "sha256": "afcdb7ef75f1f706e1bc0bad2fdc6b97458be82ef9f50fcff8041e7e5c7d17ab"
+    },
+    {
+      "card": "cases/bgh-2019-1-str-454-17.md",
+      "title": "BGH, Beschluss vom 4. Juni 2019 – 1 StR 454/17",
+      "sha256": "a362f7de25c8d89bd88a80b8080c3e08b1f9f01e76756e41991fd890b525cb88"
+    },
+    {
+      "card": "cases/bgh-2019-i-zb-104-18.md",
+      "title": "BGH, Beschluss vom 18. Juli 2019 – I ZB 104/18",
+      "sha256": "589840e4c2294a85e9651ad669bb6b4d2c4ec3a8a32d853a31547b9550dbba3b"
+    },
+    {
+      "card": "cases/bgh-2020-ix-zr-140-19.md",
+      "title": "BGH, Urteil vom 13. Februar 2020 – IX ZR 140/19",
+      "sha256": "6809dfb71742cd03d9a63871898646e20e98b7b8cd9ab51ac826fd1092567be2"
+    },
+    {
+      "card": "cases/bgh-2023-v-za-3-23.md",
+      "title": "BGH, Beschluss vom 20. Juli 2023 – V ZA 3/23",
+      "sha256": "d7869422306c60eaca317745c95a205a3b051584f1de8657fedd089b7fa03fc4"
+    },
+    {
+      "card": "cases/bgh-2023-vi-zb-39-21.md",
+      "title": "BGH, Beschluss vom 24. Oktober 2023 – VI ZB 39/21",
+      "sha256": "759f1de435aef5fac31c2c5c68d1a84e6b3fa2d575167bd93511459d791b21a8"
+    },
+    {
+      "card": "cases/bgh-2023-xiii-zb-76-20.md",
+      "title": "BGH, Beschluss vom 21. März 2023 – XIII ZB 76/20",
+      "sha256": "5dfa28ae8f7b9354ccc350000da77d6a4a96507c07578bac22c4e387e5f11a8f"
+    },
+    {
+      "card": "cases/bgh-2024-vi-zb-58-22.md",
+      "title": "BGH, Beschluss vom 26. März 2024 – VI ZB 58/22",
+      "sha256": "870a172c2d4bbe721a07d2febf976c78c909c68ab0010222f7fdec4d44d55f84"
+    },
+    {
+      "card": "cases/bgh-2025-3-bgs-440-25.md",
+      "title": "BGH, Ermittlungsrichterin, Beschluss vom 17. Juli 2025 – 3 BGs 440/25",
+      "sha256": "ebd86048a03081f108ff3093669751ff1d6a6bf681d9bb0d7c4a5c5f0daf9e59"
+    },
+    {
+      "card": "cases/bgh-2025-ix-zr-90-23.md",
+      "title": "BGH, Urteil vom 8. Mai 2025 – IX ZR 90/23",
+      "sha256": "7f2da1793b78eff5895114a254b852ef0ab210e471dc87ee51de6f0773459111"
+    },
+    {
+      "card": "cases/bgh-2026-5-str-524-25.md",
+      "title": "BGH, Beschluss vom 28. Januar 2026 – 5 StR 524/25",
+      "sha256": "24f5f7f02a8882e8d96e19bd125a05b86c7a797db2b71ea099d14c84a53b805c"
+    },
+    {
+      "card": "cases/bsg-2013-b-11-al-15-12-r.md",
+      "title": "BSG, Urteil vom 17. Dezember 2013 – B 11 AL 15/12 R",
+      "sha256": "e66d14a81e3475cc6153a9009f571745a2ea51f899ef9c3065fca47ca4d685dc"
+    },
+    {
+      "card": "cases/bsg-2020-b-4-as-13-20-r.md",
+      "title": "BSG, Urteil vom 17. September 2020 – B 4 AS 13/20 R",
+      "sha256": "0ca7c84587827b7c0dee3f468da5360e0939ae2792ae745471e39020868f8dc0"
+    },
+    {
+      "card": "cases/bverfg-2011-1-bvr-3171-10.md",
+      "title": "BVerfG, 1. Juni 2011 – 1 BvR 3171/10",
+      "sha256": "bee3544c6b89a64323a8804050df287088207f1fee4faaa83bd330c131584145"
+    },
+    {
+      "card": "cases/bverfg-2019-1-bvr-1955-17.md",
+      "title": "BVerfG, Beschluss vom 22. Juli 2019 – 1 BvR 1955/17",
+      "sha256": "1e5c57cb8414ad07657a04f1aa6f3d4e47e01e12f6a0a3bad015aa404ce9b25a"
+    },
+    {
+      "card": "cases/bverfg-2020-1-bvr-533-20.md",
+      "title": "BVerfG, Beschluss vom 2. November 2020 – 1 BvR 533/20",
+      "sha256": "fb07db0545e7f4efc68e79fadd98a948378f2ffdf7b4ccd1a2f35e959a4e9c3f"
+    },
+    {
+      "card": "cases/bverfg-2021-1-bvr-533-20.md",
+      "title": "BVerfG, Beschluss vom 3. März 2021 – 1 BvR 533/20",
+      "sha256": "7f48e2bb7a14b36e52ddd8c13b2bea47da2fd5a17482df2f82a48a74b3c76e24"
+    },
+    {
+      "card": "cases/bverfg-2023-2-bvr-739-17.md",
+      "title": "BVerfG, Beschluss vom 28. September 2023 – 2 BvR 739/17",
+      "sha256": "494b7e2a9f708e7281d2c7c673a5aa6d19089373ba2bd736dbb444dccebcd4f7"
+    },
+    {
+      "card": "cases/bverwg-2009-2-av-4-09.md",
+      "title": "BVerwG, Beschluss vom 11. November 2009 – 2 AV 4.09",
+      "sha256": "9c0cc405f225ca8aa319a6c2b6ad8fd762d14d374275540ea6f2c409d5d5e19f"
+    },
+    {
+      "card": "cases/bverwg-2014-9-kst-6-14.md",
+      "title": "BVerwG, Beschluss vom 30. September 2014 – 9 KSt 6/14",
+      "sha256": "a53ce7eae6227c40e5e9aa8a123b3f18caee3e00c5d03859b33c5e84e50d78d0"
+    },
+    {
+      "card": "cases/bverwg-2015-2-wdb-1-15.md",
+      "title": "BVerwG, Beschluss vom 25. November 2015 – 2 WDB 1/15",
+      "sha256": "d718cc0daf87e0d31a52704d82528eb4fa863178f7fc9460db43d49e729dd251"
+    },
+    {
+      "card": "cases/bverwg-2019-1-wds-kst-2-19.md",
+      "title": "BVerwG, Beschluss vom 6. November 2019 – 1 WDS-KSt 2/19",
+      "sha256": "1772907f3aa5dfa3055d47a7c9a9c718b0cf02276fd9108bdeb74a6ee61ff235"
+    },
+    {
+      "card": "cases/bverwg-2025-11-kst-2-25.md",
+      "title": "BVerwG, Beschluss vom 21. Oktober 2025 – 11 KSt 2.25",
+      "sha256": "8138820bd322296ecaa2c85a4be42e16f5b3fcdb93a274371159586daea9d879"
+    },
+    {
+      "card": "cases/bverwg-2026-10-kst-1-25.md",
+      "title": "BVerwG, Beschluss vom 4. Februar 2026 – 10 KSt 1.25",
+      "sha256": "54a2f8d31f27c4d682b5fb15b08b273cc45cf60d8363fdb0979cb162be534891"
+    },
+    {
+      "card": "cases/olg-muenchen-2021-4-ws-3-21.md",
+      "title": "OLG München, Beschluss vom 19. Juli 2021 – 4 Ws 3/21",
+      "sha256": "cb606d33fe74eddb2bf00616cdddec271562ed3447b7b4743c191af2cf3e5629"
+    }
+  ],
+  "card_count": 45,
+  "counting_note": "Fallkarten, nicht notwendig verschiedene Entscheidungen; ergänzende Karten zu derselben Entscheidung bleiben gesondert erhalten.",
+  "source_index": "cases/README.md",
+  "selective": true
+}

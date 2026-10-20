@@ -1,12 +1,12 @@
 # Quellen und Reproduzierbarkeit
 
-Prüfdatum: **19. Oktober 2026**. Deutsches Bundesrecht; es werden keine tschechischen Vorschriften kommentiert.
+Rechtsstand: **19. Oktober 2026**; dokumentierte amtliche Nachprüfungen: **20. Oktober 2026**. Zusammenstellung aus vorhandenen Belegen, ohne neuen Netzabruf. Deutsches Bundesrecht; es werden keine tschechischen Vorschriften kommentiert.
 
 - [Gesetze im Internet: RVG](https://www.gesetze-im-internet.de/rvg/), [amtliches XML-Angebot](https://www.gesetze-im-internet.de/rvg/xml.zip): [gesichertes ZIP](sources/rvg.zip), [entpacktes XML](sources/rvg.xml), [HTML-Gesamttext](sources/rvg.html), [Index](sources/rvg-index.html). XML mit jurabk/amtabk RVG und doknr BJNR078800004 geprüft.
 - [Verkündung BGBl. 2025 I Nr. 318](https://www.recht.bund.de/bgbl/1/2025/318/regelungstext.pdf?__blob=publicationFile&v=2): [PDF-Snapshot](sources/bgbl-2025-318.pdf), [durchsuchbare Extraktion](sources/bgbl-2025-318.txt). Artikel 14 und Artikel 21 ergeben die seit 1.1.2026 beziehungsweise 1.7.2026 wirksamen Änderungen.
 - [Amtlicher Aktualitätendienst](https://www.gesetze-im-internet.de/aktuDienst.html): [Snapshot](sources/gii-updates.html), ergänzend auf nach dem Intake hinzugekommene Änderungen geprüft. Konsolidierungsdatum oder Abruf allein wird nicht als Nachweis des Inkrafttretens verwendet.
 - [Originalintake vom 2.10.2026](sources/intake-2026-10-02.md): unverändert aufbewahrte Fassung. [Änderungsabbildung](sources/change-map.json): 80 Einheiten mit identischem normalisierten Inhalt; bei Anlage 1 wurde ausschließlich der Fundstellenhinweis vom normativen Text in die Hinweise verschoben. Keine inhaltliche Gesetzesänderung festgestellt. Die Normabweichungsprüfung selbst erfolgt strenger über den XML-Zeichenstrom.
-- [Rechtsprechung mit Einzelfallkarten](cases/README.md): sechs BGH-, drei BVerfG- und ein BSG-Volltext aus Rechtsprechung im Internet. Original-XML und ZIP-Antworten werden aufbewahrt. [Suchprotokoll](sources/search-log.json) und [inhaltlicher Quellenversionsabgleich](sources/case-source-comparison.json) begrenzen die Aussagen zur Recherche.
+- [Rechtsprechung mit Einzelfallkarten](cases/README.md): selektive amtliche Volltexte aus den dokumentierten Prüfbatches; [aktueller Fallkartenbestand](case-manifest.json). Original-XML und ZIP-Antworten werden aufbewahrt. [Suchprotokoll](sources/search-log.json) und [inhaltlicher Quellenversionsabgleich](sources/case-source-comparison.json) begrenzen die Aussagen zur Recherche.
 
 [Verifikationsprotokoll](sources/verification.json) enthält tatsächliche URL, Zugriffszeit, HTTP-Ergebnis, Content-Type, SHA-256 und Formatprüfung. Ein zunächst erprobter XML-Pfad war nicht vorhanden; vermeintliche BGH-PDF-Antworten wurden als HTML erkannt und nicht als PDF verwendet. Maßgeblich sind die anschließend erfolgreich geprüften offiziellen ZIP/XML-Quellen. [Dateimanifest](source-manifest.json) erfasst die gespeicherten Belege.
 
