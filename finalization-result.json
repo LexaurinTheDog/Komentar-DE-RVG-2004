@@ -1,510 +1,70 @@
 {
   "kind": "finalization",
-  "complete": false,
-  "stage": "assembled_before_strict_validation",
-  "assembled_at": "2026-10-20T13:16:13.288012+00:00",
-  "units": 344,
+  "complete": true,
+  "stage": "drafted_technical_validation",
+  "recorded_at": "2026-10-20T13:17:34.088463+00:00",
+  "decisive_date": "2026-10-19",
+  "scope": "Assemble existing ledger-reviewed material and technical evidence only.",
+  "total_units": 344,
+  "completed_units": 344,
   "chapters": 17,
+  "commentary_chars": 626549,
   "case_cards": 45,
-  "commentary_preserved": true,
+  "case_card_note": "Cards may address the same decision; not a count of unique decisions.",
   "ledger_batches": 18,
+  "all_review_fingerprints_match": true,
+  "commentary_and_statutory_source_preserved": true,
+  "source_evidence": {
+    "verification": "sources/verification.json",
+    "preflight": "preflight-result.json",
+    "source_manifest_files": 602,
+    "all_source_hashes_equal": true,
+    "work_output_source_bytes_equal": true,
+    "new_network_requests_in_finalization": 0,
+    "last_dated_version_evidence": "sources/review-vv7005-vv7008-2026-10-20/version-evidence.json"
+  },
   "independent_coverage": {
-    "ok": true,
-    "official_xml": "/Volumes/LaCie/open-commentary/_work/de/Komentar-DE-RVG-2004/sources/rvg.xml",
-    "expected_units": 81,
-    "parsed_units": 344,
+    "official_norms": 81,
+    "expected": 344,
+    "parsed": 344,
     "missing": [],
     "extra": [],
-    "label_mapping": [
-      {
-        "official": "§ 1",
-        "parsed": [
-          "p1"
-        ]
-      },
-      {
-        "official": "§ 2",
-        "parsed": [
-          "p2"
-        ]
-      },
-      {
-        "official": "§ 3",
-        "parsed": [
-          "p3"
-        ]
-      },
-      {
-        "official": "§ 3a",
-        "parsed": [
-          "p3a"
-        ]
-      },
-      {
-        "official": "§ 4",
-        "parsed": [
-          "p4"
-        ]
-      },
-      {
-        "official": "§ 4a",
-        "parsed": [
-          "p4a"
-        ]
-      },
-      {
-        "official": "§ 4b",
-        "parsed": [
-          "p4b"
-        ]
-      },
-      {
-        "official": "§ 5",
-        "parsed": [
-          "p5"
-        ]
-      },
-      {
-        "official": "§ 6",
-        "parsed": [
-          "p6"
-        ]
-      },
-      {
-        "official": "§ 7",
-        "parsed": [
-          "p7"
-        ]
-      },
-      {
-        "official": "§ 8",
-        "parsed": [
-          "p8"
-        ]
-      },
-      {
-        "official": "§ 9",
-        "parsed": [
-          "p9"
-        ]
-      },
-      {
-        "official": "§ 10",
-        "parsed": [
-          "p10"
-        ]
-      },
-      {
-        "official": "§ 11",
-        "parsed": [
-          "p11"
-        ]
-      },
-      {
-        "official": "§ 12",
-        "parsed": [
-          "p12"
-        ]
-      },
-      {
-        "official": "§ 12a",
-        "parsed": [
-          "p12a"
-        ]
-      },
-      {
-        "official": "§ 12b",
-        "parsed": [
-          "p12b"
-        ]
-      },
-      {
-        "official": "§ 12c",
-        "parsed": [
-          "p12c"
-        ]
-      },
-      {
-        "official": "§ 13",
-        "parsed": [
-          "p13"
-        ]
-      },
-      {
-        "official": "§ 14",
-        "parsed": [
-          "p14"
-        ]
-      },
-      {
-        "official": "§ 15",
-        "parsed": [
-          "p15"
-        ]
-      },
-      {
-        "official": "§ 15a",
-        "parsed": [
-          "p15a"
-        ]
-      },
-      {
-        "official": "§ 16",
-        "parsed": [
-          "p16"
-        ]
-      },
-      {
-        "official": "§ 17",
-        "parsed": [
-          "p17"
-        ]
-      },
-      {
-        "official": "§ 18",
-        "parsed": [
-          "p18"
-        ]
-      },
-      {
-        "official": "§ 19",
-        "parsed": [
-          "p19"
-        ]
-      },
-      {
-        "official": "§ 20",
-        "parsed": [
-          "p20"
-        ]
-      },
-      {
-        "official": "§ 21",
-        "parsed": [
-          "p21"
-        ]
-      },
-      {
-        "official": "§ 22",
-        "parsed": [
-          "p22"
-        ]
-      },
-      {
-        "official": "§ 23",
-        "parsed": [
-          "p23"
-        ]
-      },
-      {
-        "official": "§ 23a",
-        "parsed": [
-          "p23a"
-        ]
-      },
-      {
-        "official": "§ 23b",
-        "parsed": [
-          "p23b"
-        ]
-      },
-      {
-        "official": "§ 24",
-        "parsed": [
-          "p24"
-        ]
-      },
-      {
-        "official": "§ 25",
-        "parsed": [
-          "p25"
-        ]
-      },
-      {
-        "official": "§ 26",
-        "parsed": [
-          "p26"
-        ]
-      },
-      {
-        "official": "§ 27",
-        "parsed": [
-          "p27"
-        ]
-      },
-      {
-        "official": "§ 28",
-        "parsed": [
-          "p28"
-        ]
-      },
-      {
-        "official": "§ 29",
-        "parsed": [
-          "p29"
-        ]
-      },
-      {
-        "official": "§ 29a",
-        "parsed": [
-          "p29a"
-        ]
-      },
-      {
-        "official": "§ 30",
-        "parsed": [
-          "p30"
-        ]
-      },
-      {
-        "official": "§ 31",
-        "parsed": [
-          "p31"
-        ]
-      },
-      {
-        "official": "§ 31a",
-        "parsed": [
-          "p31a"
-        ]
-      },
-      {
-        "official": "§ 31b",
-        "parsed": [
-          "p31b"
-        ]
-      },
-      {
-        "official": "§ 32",
-        "parsed": [
-          "p32"
-        ]
-      },
-      {
-        "official": "§ 33",
-        "parsed": [
-          "p33"
-        ]
-      },
-      {
-        "official": "§ 34",
-        "parsed": [
-          "p34"
-        ]
-      },
-      {
-        "official": "§ 35",
-        "parsed": [
-          "p35"
-        ]
-      },
-      {
-        "official": "§ 36",
-        "parsed": [
-          "p36"
-        ]
-      },
-      {
-        "official": "§ 37",
-        "parsed": [
-          "p37"
-        ]
-      },
-      {
-        "official": "§ 38",
-        "parsed": [
-          "p38"
-        ]
-      },
-      {
-        "official": "§ 38a",
-        "parsed": [
-          "p38a"
-        ]
-      },
-      {
-        "official": "§ 39",
-        "parsed": [
-          "p39"
-        ]
-      },
-      {
-        "official": "§ 40",
-        "parsed": [
-          "p40"
-        ]
-      },
-      {
-        "official": "§ 41",
-        "parsed": [
-          "p41"
-        ]
-      },
-      {
-        "official": "§ 41a",
-        "parsed": [
-          "p41a"
-        ]
-      },
-      {
-        "official": "§ 42",
-        "parsed": [
-          "p42"
-        ]
-      },
-      {
-        "official": "§ 43",
-        "parsed": [
-          "p43"
-        ]
-      },
-      {
-        "official": "§ 44",
-        "parsed": [
-          "p44"
-        ]
-      },
-      {
-        "official": "§ 45",
-        "parsed": [
-          "p45"
-        ]
-      },
-      {
-        "official": "§ 46",
-        "parsed": [
-          "p46"
-        ]
-      },
-      {
-        "official": "§ 47",
-        "parsed": [
-          "p47"
-        ]
-      },
-      {
-        "official": "§ 48",
-        "parsed": [
-          "p48"
-        ]
-      },
-      {
-        "official": "§ 49",
-        "parsed": [
-          "p49"
-        ]
-      },
-      {
-        "official": "§ 50",
-        "parsed": [
-          "p50"
-        ]
-      },
-      {
-        "official": "§ 51",
-        "parsed": [
-          "p51"
-        ]
-      },
-      {
-        "official": "§ 52",
-        "parsed": [
-          "p52"
-        ]
-      },
-      {
-        "official": "§ 53",
-        "parsed": [
-          "p53"
-        ]
-      },
-      {
-        "official": "§ 53a",
-        "parsed": [
-          "p53a"
-        ]
-      },
-      {
-        "official": "§ 54",
-        "parsed": [
-          "p54"
-        ]
-      },
-      {
-        "official": "§ 55",
-        "parsed": [
-          "p55"
-        ]
-      },
-      {
-        "official": "§ 56",
-        "parsed": [
-          "p56"
-        ]
-      },
-      {
-        "official": "§ 57",
-        "parsed": [
-          "p57"
-        ]
-      },
-      {
-        "official": "§ 58",
-        "parsed": [
-          "p58"
-        ]
-      },
-      {
-        "official": "§ 59",
-        "parsed": [
-          "p59"
-        ]
-      },
-      {
-        "official": "§ 59a",
-        "parsed": [
-          "p59a"
-        ]
-      },
-      {
-        "official": "§ 59b",
-        "parsed": [
-          "p59b"
-        ]
-      },
-      {
-        "official": "§ 60",
-        "parsed": [
-          "p60"
-        ]
-      },
-      {
-        "official": "§ 61",
-        "parsed": [
-          "p61"
-        ]
-      },
-      {
-        "official": "§ 62",
-        "parsed": [
-          "p62"
-        ]
-      },
-      {
-        "official": "Anlage 1",
-        "parsed": [
-          "a1"
-        ]
-      },
-      {
-        "official": "Anlage 2",
-        "parsed": [
-          "a2"
-        ]
-      }
-    ]
+    "duplicates": [],
+    "production_coverage_ok": true,
+    "all_full_normative_character_streams_equal": true
   },
-  "new_substantive_review": false,
+  "strict_validation": {
+    "repo": "Komentar-DE-RVG-2004",
+    "units": 344,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 626549,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "quality": {
+    "local_links_checked": 833,
+    "broken_local_links": [],
+    "repeated_long_sentences": 0,
+    "repeated_long_paragraphs": 0,
+    "source_manifest_hash_mismatches": [],
+    "placeholders": []
+  },
+  "technical_fixes": [
+    "Telephone URI targets in preserved EUR-Lex sources are classified as non-filesystem links; source bytes and strict validator are unchanged.",
+    "Independent XML annex-child evidence resolves the earlier 81-parent/344-expanded-unit coverage mismatch."
+  ],
+  "content_checkpoint_work_commit": "70b10b6e5ae89abbaa8f1d370060104da1a059fe",
+  "content_checkpoint_output_commit": "d28a22a61abcb4967a0723e627eb4469ad5c4745",
+  "unresolved_blockers": [],
+  "limitations": [
+    "Die Finalisierung prüft Zusammenstellung und Nachweisintegrität. Sie liest die bereits ledger-geprüften Kommentierungen nicht erneut juristisch und ist keine neue unabhängige Inhaltsprüfung.",
+    "Selektive Rechtsprechungsauswertung; keine erschöpfende Recherche aller Einheiten, Folgeentscheidungen oder mittelbaren Gesetzesänderungen.",
+    "Rechtsstand bleibt der Bearbeitungsbeginn 19. Oktober 2026; amtliche Nachprüfungen vom 20. Oktober sind dokumentiert. Kein vollständiges historisches Gesetzesarchiv; Fremdgesetze nur im jeweils belegten Kontext.",
+    "Texttreue, Vollständigkeit, Mindestlänge und Wiederholungskontrollen beweisen keine juristische Qualität. Keine externe anwaltliche Freigabe und keine Gesamtbandfreigabe durch diese Finalisierung."
+  ],
+  "new_independent_review_performed": false,
   "whole_book_completion_claimed": false,
-  "unresolved_blockers": []
+  "external_professional_approval": false,
+  "publication_or_push_performed": false
 }

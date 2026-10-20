@@ -3,8 +3,8 @@
   "title": "Gesetz über die Vergütung der Rechtsanwältinnen und Rechtsanwälte",
   "country": "de",
   "decisive_date": "2026-10-19",
-  "updated_at": "2026-10-20T13:15:37.548102+00:00",
-  "stage": "finalization_checks_pending",
+  "updated_at": "2026-10-20T13:17:34.088463+00:00",
+  "stage": "drafted_technical_validation",
   "official_norm_units": 81,
   "numbered_paragraphs": 79,
   "annexes": 2,
@@ -310,24 +310,21 @@
       "warnings": [],
       "ok": true
     },
-    "validated_at": "2026-10-20T13:11:53.019611+00:00",
-    "validated_work_commit": "faee7b07ce489cd1b607f059b051f532c9762936",
-    "validated_output_commit": "5cafbee1d8c6382a7a085bf867f80160bcbde7fd",
+    "validated_at": "2026-10-20T13:17:34.088463+00:00",
     "build": "success",
     "independent_xml_coverage": {
+      "official_norms": 81,
       "expected": 344,
       "parsed": 344,
       "missing": [],
+      "extra": [],
       "duplicates": [],
-      "ok": true
+      "production_coverage_ok": true,
+      "all_full_normative_character_streams_equal": true
     },
-    "assigned_complete_wording_matches": 4,
-    "unassigned_commentary_blocks_preserved": 340,
-    "local_links_checked": 776,
+    "local_links_checked": 833,
     "broken_local_links": [],
-    "exact_repeated_long_sentences": 0,
-    "exact_repeated_long_paragraphs": 0,
-    "meaning": "Technical results supplement the actual exact four-unit substantive review. No whole-book completion or external professional approval."
+    "meaning": "Technical assembly of prior reviewed batches; no new substantive or external review."
   },
   "completeness": {
     "report": "completeness.json",
@@ -347,11 +344,8 @@
   "publication_or_push_performed": false,
   "authoring_started_date": "2026-10-19",
   "quality": {
-    "ok": true,
-    "local_links_checked": 776,
-    "broken_local_links": [],
-    "identical_long_sentences": 0,
-    "identical_long_paragraphs": 0
+    "report": "quality-report.json",
+    "ok": true
   },
   "previous_authoring_stage": "drafted_technical_validation",
   "preflight": {
@@ -1711,7 +1705,9 @@
   "review_batches": 18,
   "new_substantive_review_performed": false,
   "finalization": {
+    "complete": true,
+    "result": "finalization-result.json",
     "ledger_check": "finalization-ledger-check.json",
-    "result": "finalization-result.json"
+    "review_batches": 18
   }
 }

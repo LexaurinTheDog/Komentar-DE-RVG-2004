@@ -50,3 +50,9 @@ Texttreue, Vollständigkeit, Mindestlänge und Wiederholungskontrollen beweisen 
 Die selektiven Fallkarten erhalten ihre jeweiligen Quellen, Randnummern und Einschränkungen; ergänzende Karten zur gleichen Entscheidung werden nicht als zusätzliche verschiedene Urteile gezählt. Technische oder weggefallene Einheiten ohne ausgewählten verifizierten Fall bleiben entsprechend dokumentiert. Bekannte widersprüchliche amtliche Metadaten werden in den betreffenden Fallkarten offengelegt.
 
 Es erfolgen keine Veröffentlichung, kein Push und keine externe Übermittlung. Ein späterer frischer Prüfprozess kann auf den hier zusammengestellten Stand aufsetzen.
+
+## Technisches Ergebnis der Zusammenstellung
+
+Strenge Validierung: 344 Einheiten, Wortlautübereinstimmung 100 %, keine Fehler oder Warnungen. Unabhängige XML-Abdeckung: 344 erwartet und vorhanden, keine Lücken, Zusatzkennungen oder Doppelungen. Alle 81 vollständigen normativen Haupttexte stimmen im Zeichenstrom überein. 602 Quelldateien und 45 Fallkarten sind in WORK und OUTPUT bytegleich nachgewiesen. 833 lokale Verknüpfungen sind auflösbar; keine identischen langen Kommentarsätze oder Absätze, keine Manifestabweichungen oder Platzhalter gefunden. Telefon-URIs aus archivierten EUR-Lex-Seiten wurden als Telefonziele eingeordnet, ohne die Quelle zu ändern. Der strenge Validator bleibt unverändert.
+
+Diese Zahlen dokumentieren den technischen Zusammenstellungsauftrag. Die 344 Kommentarblöcke und der Gesetzeswortlaut sind gegenüber dem Ledgerstand unverändert. Der Entwurfsstatus und die Grenzen der selektiven Inhaltsprüfungen bleiben bestehen.

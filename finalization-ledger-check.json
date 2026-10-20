@@ -1,6 +1,6 @@
 {
   "kind": "finalization_ledger_integrity",
-  "checked_at": "2026-10-20T13:16:27.484798+00:00",
+  "checked_at": "2026-10-20T13:17:43.699778+00:00",
   "ledger_sha256": "4c8d870fe624c1ce19b5f706dc3fb923bfcfa0a9d82502c817736ae8db29d75b",
   "source_sha256": "fac368e07bb0413ec5bbb27ff1c2612a8bf7b7ebd346412b6afc8d1d3470e9c6",
   "batch_count": 18,

@@ -965,5 +965,16 @@
   ],
   "whole_book_completion_claimed": false,
   "new_independent_review_performed": false,
-  "external_professional_approval": false
+  "external_professional_approval": false,
+  "technical_validation": {
+    "repo": "Komentar-DE-RVG-2004",
+    "units": 344,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 626549,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "finalization_result": "finalization-result.json",
+  "validation_recorded_at": "2026-10-20T13:17:34.088463+00:00"
 }

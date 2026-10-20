@@ -187,5 +187,79 @@ def manifest():
         {'path':str(p.relative_to(W)), 'bytes':p.stat().st_size, 'sha256':sha(p)}
         for p in sorted((W/'sources').rglob('*')) if p.is_file()]})
 
+def record():
+    meta, units, comments, rows = checked_ledger()
+    coverage = read('preflight-coverage.json')
+    production_coverage = read('preflight-production-coverage.json')
+    audit, quality = read('audit-result.json'), read('quality-report.json')
+    assert all(r['ok'] for r in [coverage, production_coverage, audit, quality])
+    assert not quality['broken_local_links'] and not quality['source_manifest_hash_mismatches']
+    validation = subprocess.run([sys.executable, '-B', str(TOOLS/'validate.py'), str(W)],
+                                text=True, capture_output=True, check=True)
+    strict = json.loads(validation.stdout)
+    assert strict['ok'] and strict['verbatim_ratio'] == 1.0
+    dump('validation.json', strict)
+    sources = read('source-manifest.json')['files']
+    assert all(sha(W/f['path']) == f['sha256'] for f in sources)
+    out = Path(meta['repo_dir'])
+    assert all(sha(W/f['path']) == sha(out/f['path']) for f in sources)
+    cases = read('case-manifest.json')['cards']
+    assert all(sha(W/f['card']) == f['sha256'] == sha(out/f['card']) for f in cases)
+    def commit(path):
+        return subprocess.check_output(['git','-C',str(path),'rev-parse','HEAD'],text=True).strip()
+    recorded = now()
+    result = {'kind':'finalization', 'complete':True, 'stage':'drafted_technical_validation',
+        'recorded_at':recorded, 'decisive_date':meta['legal_text_date'],
+        'scope':'Assemble existing ledger-reviewed material and technical evidence only.',
+        'total_units':len(units), 'completed_units':len(comments), 'chapters':len(meta['chapters']),
+        'commentary_chars':sum(map(len,comments.values())), 'case_cards':len(cases),
+        'case_card_note':'Cards may address the same decision; not a count of unique decisions.',
+        'ledger_batches':len(rows), 'all_review_fingerprints_match':True,
+        'commentary_and_statutory_source_preserved':True,
+        'source_evidence':{'verification':'sources/verification.json',
+            'preflight':'preflight-result.json', 'source_manifest_files':len(sources),
+            'all_source_hashes_equal':True, 'work_output_source_bytes_equal':True,
+            'new_network_requests_in_finalization':0,
+            'last_dated_version_evidence':'sources/review-vv7005-vv7008-2026-10-20/version-evidence.json'},
+        'independent_coverage':{'official_norms':coverage['official_norm_count'],
+            'expected':coverage['expected_count'], 'parsed':coverage['parsed_count'],
+            'missing':coverage['missing_ids'], 'extra':coverage['extra_ids'],
+            'duplicates':coverage['duplicate_ids'], 'production_coverage_ok':production_coverage['ok'],
+            'all_full_normative_character_streams_equal':audit['all_official_character_streams_equal']},
+        'strict_validation':strict, 'quality':{'local_links_checked':quality['local_links_checked'],
+            'broken_local_links':quality['broken_local_links'],
+            'repeated_long_sentences':len(quality['identical_sentences_over_90_characters']),
+            'repeated_long_paragraphs':len(quality['identical_paragraphs_over_150_characters']),
+            'source_manifest_hash_mismatches':quality['source_manifest_hash_mismatches'],
+            'placeholders':quality['placeholders']},
+        'technical_fixes':['Telephone URI targets in preserved EUR-Lex sources are classified as non-filesystem links; source bytes and strict validator are unchanged.',
+            'Independent XML annex-child evidence resolves the earlier 81-parent/344-expanded-unit coverage mismatch.'],
+        'content_checkpoint_work_commit':commit(W), 'content_checkpoint_output_commit':commit(out),
+        'unresolved_blockers':[], 'limitations':LIMITS, 'new_independent_review_performed':False,
+        'whole_book_completion_claimed':False, 'external_professional_approval':False,
+        'publication_or_push_performed':False}
+    dump('finalization-result.json',result)
+    r = read('review-result.json')
+    r.update(technical_validation=strict, finalization_result='finalization-result.json',
+             validation_recorded_at=recorded)
+    dump('review-result.json',r)
+    status = read('status.json')
+    status.update(stage='drafted_technical_validation', updated_at=recorded,
+        validation={'strict':strict,'validated_at':recorded,'build':'success',
+                    'independent_xml_coverage':result['independent_coverage'],
+                    'local_links_checked':quality['local_links_checked'],'broken_local_links':[],
+                    'meaning':'Technical assembly of prior reviewed batches; no new substantive or external review.'},
+        quality={'report':'quality-report.json','ok':True},
+        finalization={'complete':True,'result':'finalization-result.json',
+                      'ledger_check':'finalization-ledger-check.json','review_batches':len(rows)})
+    dump('status.json',status)
+    p = W/'REVIEW.md'
+    text = p.read_text()
+    marker = '\n## Technisches Ergebnis der Zusammenstellung\n'
+    text = text.split(marker)[0]
+    text += marker+f'''\nStrenge Validierung: {len(units)} Einheiten, Wortlautübereinstimmung 100 %, keine Fehler oder Warnungen. Unabhängige XML-Abdeckung: 344 erwartet und vorhanden, keine Lücken, Zusatzkennungen oder Doppelungen. Alle 81 vollständigen normativen Haupttexte stimmen im Zeichenstrom überein. {len(sources)} Quelldateien und {len(cases)} Fallkarten sind in WORK und OUTPUT bytegleich nachgewiesen. {quality['local_links_checked']} lokale Verknüpfungen sind auflösbar; keine identischen langen Kommentarsätze oder Absätze, keine Manifestabweichungen oder Platzhalter gefunden. Telefon-URIs aus archivierten EUR-Lex-Seiten wurden als Telefonziele eingeordnet, ohne die Quelle zu ändern. Der strenge Validator bleibt unverändert.\n\nDiese Zahlen dokumentieren den technischen Zusammenstellungsauftrag. Die 344 Kommentarblöcke und der Gesetzeswortlaut sind gegenüber dem Ledgerstand unverändert. Der Entwurfsstatus und die Grenzen der selektiven Inhaltsprüfungen bleiben bestehen.\n'''
+    p.write_text(text)
+    print(json.dumps({'stage':status['stage'],'strict_validation':strict,'local_links':quality['local_links_checked'],'source_files':len(sources),'ok':True}))
+
 if __name__ == '__main__':
-    {'assemble':assemble,'sync':sync,'manifest':manifest,'check':checked_ledger}[sys.argv[1]]()
+    {'assemble':assemble,'sync':sync,'manifest':manifest,'check':checked_ledger,'record':record}[sys.argv[1]]()
