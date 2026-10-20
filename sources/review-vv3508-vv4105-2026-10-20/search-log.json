@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-20",
+  "scope": [
+    "vv3508",
+    "vv3509",
+    "vv3510",
+    "vv3511",
+    "vv3512",
+    "vv3513",
+    "vv3514",
+    "vv3515",
+    "vv3516",
+    "vv3517",
+    "vv3518",
+    "vb4",
+    "vb4.1",
+    "vv4100",
+    "vv4101",
+    "vv4102",
+    "vv4103",
+    "vb4.1.2",
+    "vv4104",
+    "vv4105"
+  ],
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii",
+  "local_search": {
+    "pattern": "(Nr\\.?|Nummer|Nrn\\.)\\s*(410[0-5]|351[3-8])\\b|Vorbemerkung 4(\\.| Abs)",
+    "matched_markdown_files": 37,
+    "evidence": "local-corpus-search.txt",
+    "method": "Selective candidate search; false positives in non-RVG fee schedules excluded. Only selected decisions read and relied on."
+  },
+  "web_search": {
+    "firecrawl": "firecrawl-search-4102.json",
+    "additional": "Built-in search: official-site queries4102/Verhandeln and3516/Terminsgebühr. Old3506/3516case snippets were not adopted; third-party results not authorities."
+  },
+  "official_full_texts_read": [
+    "KORE616772026",
+    "KORE308962010"
+  ],
+  "authoritative_fetches": "authority-requests.json",
+  "comparison": "case-source-comparison.json",
+  "supported_units": {
+    "KORE616772026": [
+      "vv4100",
+      "vv4101",
+      "vv4103",
+      "vv4104",
+      "vv4105"
+    ],
+    "KORE308962010": [
+      "vv3513",
+      "vb4"
+    ]
+  },
+  "no_additional_case_selected": [
+    "vv3508",
+    "vv3509",
+    "vv3510",
+    "vv3511",
+    "vv3512",
+    "vv3514",
+    "vv3515",
+    "vv3516",
+    "vv3517",
+    "vv3518",
+    "vb4.1",
+    "vv4102",
+    "vb4.1.2"
+  ],
+  "limitations": "Selective primary database/national corpus review. No exhaustive negative per-unit search or later-case census. 2010decision used only for preserved general court-appearance distinction; altered broader wording ofVorb3Abs3 checked against current statute."
+}

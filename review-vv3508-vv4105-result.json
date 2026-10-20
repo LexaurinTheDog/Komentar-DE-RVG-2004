@@ -1,0 +1,275 @@
+{
+  "complete": false,
+  "task": "bounded_independent_second_pass",
+  "title": "RVG",
+  "decisive_date": "2026-10-19",
+  "verified_at": "2026-10-20T11:46:20.445551+00:00",
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "vv3508",
+    "vv3509",
+    "vv3510",
+    "vv3511",
+    "vv3512",
+    "vv3513",
+    "vv3514",
+    "vv3515",
+    "vv3516",
+    "vv3517",
+    "vv3518",
+    "vb4",
+    "vb4.1",
+    "vv4100",
+    "vv4101",
+    "vv4102",
+    "vv4103",
+    "vb4.1.2",
+    "vv4104",
+    "vv4105"
+  ],
+  "changed_ids": [
+    "vv3508",
+    "vv3509",
+    "vv3510",
+    "vv3511",
+    "vv3512",
+    "vv3513",
+    "vv3514",
+    "vv3515",
+    "vv3516",
+    "vv3517",
+    "vv3518",
+    "vb4",
+    "vb4.1",
+    "vv4100",
+    "vv4101",
+    "vv4102",
+    "vv4103",
+    "vb4.1.2",
+    "vv4104",
+    "vv4105"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "vv3508",
+      "finding": "Satz 2,3 an ausschließliches gesetzliches BGH-Vertretungsregime und Revisionsnichtzulassungsbeschwerde gebunden. Anrechnung und Zuordnung der Satzvariante zu3516 präzisiert; kein zusätzlicher Gebührentatbestand neben3506.",
+      "disposition": "corrected; complete official wording and internal references reviewed",
+      "source_location": {
+        "table_index": 3,
+        "row_index": 147,
+        "first_cell": "3508"
+      }
+    },
+    {
+      "id": "vv3509",
+      "finding": "Satz1,8 und alle entsprechend anwendbaren3201-Anmerkungsalternativen erklärt. Bereits erfolgte Einlegung, eigene Gegnertätigkeit, Ermäßigung statt Kumulation und fortdauernde Anrechnung getrennt.",
+      "disposition": "corrected; complete official wording and internal references reviewed",
+      "source_location": {
+        "table_index": 3,
+        "row_index": 148,
+        "first_cell": "3509"
+      }
+    },
+    {
+      "id": "vv3510",
+      "finding": "Alle sechs Schutzrechtsgruppen mit sämtlichen Entscheidungsalternativen geprüft und konkret erläutert, einschließlich Geheimhaltung, geografischer Angaben, zweier Design-Nichtigkeits-/Löschungswege und Widerspruchsausschuss. Keine allgemeine Gerichtszuständigkeitsgebühr oder unbelegte Frühbeendigungsreduktion.",
+      "disposition": "corrected; complete official wording and internal references reviewed",
+      "source_location": {
+        "table_index": 3,
+        "row_index": 150,
+        "first_cell": "3510"
+      }
+    },
+    {
+      "id": "vv3511",
+      "finding": "Aktuellen Rahmen78–889Euro, §3-Auswahl, vollständige§14-Kriterien und eigenständige spätere Bemessung vor Anrechnung nach§14Abs2 ergänzt. Altauftragsvorbehalt und fehlende automatische Terminsgebühr erklärt.",
+      "disposition": "corrected; complete official wording and internal references reviewed",
+      "source_location": {
+        "table_index": 3,
+        "row_index": 158,
+        "first_cell": "3511"
+      }
+    },
+    {
+      "id": "vv3512",
+      "finding": "Rahmen105–1151Euro, Vorrang vor3506, konkrete Zulassungsarbeit, anschließende Anrechnung und§14Abs2 erklärt. Fehlende Revision ist keine rückwirkende Erfolgsbedingung.",
+      "disposition": "corrected; complete official wording and internal references reviewed",
+      "source_location": {
+        "table_index": 3,
+        "row_index": 160,
+        "first_cell": "3512"
+      }
+    },
+    {
+      "id": "vv3513",
+      "finding": "Zu enge Konzentration auf tatsächliche Gerichtstermine korrigiert: qualifizierte außergerichtliche Besprechungen nachVorb3Abs3 einbezogen. Schriftentscheidung, fehlende generelle3104-Verweisung und ausgefallenen Termin getrennt; BGHVIII ZB16/10 nur als begrenzte vergleichende Auslegung verwendet.",
+      "disposition": "corrected; complete official wording and internal references reviewed",
+      "source_location": {
+        "table_index": 3,
+        "row_index": 162,
+        "first_cell": "3513"
+      }
+    },
+    {
+      "id": "vv3514",
+      "finding": "Kumulative Beschwerdegegenstände und gerichtliche Terminbestimmung, Satz1,2 als Höhenregel und fortbestehender Entstehungstatbestand erläutert. Erledigungsbesprechung ohne Terminbestimmung trägt für sich nicht die Erhöhung.",
+      "disposition": "corrected; complete official wording and internal references reviewed",
+      "source_location": {
+        "table_index": 3,
+        "row_index": 163,
+        "first_cell": "3514"
+      }
+    },
+    {
+      "id": "vv3515",
+      "finding": "Rahmen26–275Euro und Abgrenzung3517/3518 konkretisiert. Unzutreffend enge tatsächliche-Termins-Annahme durch vollständigeVorb3Abs3-Anwendung ersetzt; Bemessung nicht mechanisch aus3501 übernommen.",
+      "disposition": "corrected; complete official wording and internal references reviewed",
+      "source_location": {
+        "table_index": 3,
+        "row_index": 164,
+        "first_cell": "3515"
+      }
+    },
+    {
+      "id": "vv3516",
+      "finding": "Alle vier Grundnummern, deren Satzvarianten einschließlich3508, außergerichtliche Erledigungsbesprechung, fehlende allgemeine fiktive Terminsgebühr und positionsgenaue Anrechnung erklärt.",
+      "disposition": "corrected; complete official wording and internal references reviewed",
+      "source_location": {
+        "table_index": 3,
+        "row_index": 165,
+        "first_cell": "3516"
+      }
+    },
+    {
+      "id": "vv3517",
+      "finding": "Rahmen65–665Euro, Trennung der Zulassungsbeschwerde und Berufung nach§17Nr9, qualifizierte außergerichtliche Termine und keine ungeschriebene Terminsanrechnung erläutert.",
+      "disposition": "corrected; complete official wording and internal references reviewed",
+      "source_location": {
+        "table_index": 3,
+        "row_index": 166,
+        "first_cell": "3517"
+      }
+    },
+    {
+      "id": "vv3518",
+      "finding": "Rahmen78–863Euro, echte Terminstatbestände statt bloßer schriftlicher Entscheidung, eigene Bemessung und keine Erweiterung der Verfahrensanrechnung erklärt. Praktische Prüfliste zum Beschwerdeabschnitt ergänzt.",
+      "disposition": "corrected; complete official wording and internal references reviewed",
+      "source_location": {
+        "table_index": 3,
+        "row_index": 167,
+        "first_cell": "3518"
+      }
+    },
+    {
+      "id": "vb4",
+      "finding": "Alle fünf Absätze einzeln geprüft: vollständiger Rollenkatalog, Informationshandlung, allgemeiner gerichtlicher Terminstatbestand mit besonderen Ausnahmen, Ausfallvoraussetzungen, Freiheitszuschlag sowie vollständigeTeil3-Verweisung. BGHVIII ZB16/10 begrenzt auf Zivil-/Strafrechtsabgrenzung.",
+      "disposition": "corrected; complete official wording and internal references reviewed",
+      "source_location": {
+        "table_index": 4,
+        "row_index": 2,
+        "first_cell": "Vorbemerkung 4: (1) Für die Tätigkeit als Beistand oder Vertreter eines Privatklägers, eines Nebenklägers, eines Einziehungs- oder Nebenbeteiligten, eines Verletzten, eines Zeugen oder Sachverständigen und im Verfahren nach dem Strafrechtlichen Rehabilitierungsgesetz sind die Vorschriften dieses Teils entsprechend anzuwenden. (2) Die Verfahrensgebühr entsteht für das Betreiben des Geschäfts einschließlich der Information. (3) Die Terminsgebühr entsteht für die Teilnahme an gerichtlichen Terminen, soweit nichts anderes bestimmt ist. Der Rechtsanwalt erhält die Terminsgebühr auch, wenn er zu einem anberaumten Termin erscheint, dieser aber aus Gründen, die er nicht zu vertreten hat, nicht stattfindet. Dies gilt nicht, wenn er rechtzeitig von der Aufhebung oder Verlegung des Termins in Kenntnis gesetzt worden ist. (4) Befindet sich der Beschuldigte nicht auf freiem Fuß, entsteht die Gebühr mit Zuschlag. (5) Für folgende Tätigkeiten entstehen Gebühren nach den Vorschriften des Teils 3: 1.im Verfahren über die Erinnerung oder die Beschwerde gegen einen Kostenfestsetzungsbeschluss (§ 464b StPO) und im Verfahren über die Erinnerung gegen den Kostenansatz und im Verfahren über die Beschwerde gegen die Entscheidung über diese Erinnerung,2.in der Zwangsvollstreckung aus Entscheidungen, die über einen aus der Straftat erwachsenen vermögensrechtlichen Anspruch oder die Erstattung von Kosten ergangen sind (§§ 406b, 464b StPO), für die Mitwirkung bei der Ausübung der Veröffentlichungsbefugnis und im Beschwerdeverfahren gegen eine dieser Entscheidungen."
+      }
+    },
+    {
+      "id": "vb4.1",
+      "finding": "Beide Sicherungsverwahrungsverfahren, Reichweite§17Nr12, nichtvermögensrechtlicher Täter-Opfer-Ausgleich sowie Wartezeit-/Unterbrechungsausnahmen genau erläutert. Konkretes70-/40-Minuten-Beispiel und keine Addition kurzer Pausen zur Einzelstunde.",
+      "disposition": "corrected; complete official wording and internal references reviewed",
+      "source_location": {
+        "table_index": 4,
+        "row_index": 4,
+        "first_cell": "Vorbemerkung 4.1: (1) Dieser Abschnitt ist auch anzuwenden auf die Tätigkeit im Verfahren über die im Urteil vorbehaltene Sicherungsverwahrung und im Verfahren über die nachträgliche Anordnung der Sicherungsverwahrung. (2) Durch die Gebühren wird die gesamte Tätigkeit als Verteidiger entgolten. Hierzu gehören auch Tätigkeiten im Rahmen des Täter-Opfer-Ausgleichs, soweit der Gegenstand nicht vermögensrechtlich ist. (3) Kommt es für eine Gebühr auf die Dauer der Teilnahme an der Hauptverhandlung an, so sind auch Wartezeiten und Unterbrechungen an einem Hauptverhandlungstag als Teilnahme zu berücksichtigen. Dies gilt nicht für Wartezeiten und Unterbrechungen, die der Rechtsanwalt zu vertreten hat, sowie für Unterbrechungen von jeweils mindestens einer Stunde, soweit diese unter Angabe einer konkreten Dauer der Unterbrechung oder eines Zeitpunkts der Fortsetzung der Hauptverhandlung angeordnet wurden."
+      }
+    },
+    {
+      "id": "vv4100",
+      "finding": "Rahmen48–432Euro und Festbetrag192Euro getrennt; erstmalige Einarbeitung, Einmaligkeit, spätere Verteidigung und5100-Anrechnung konkretisiert. BGH3BGs440/25 als begrenzter Ersatzbestellungsfall eingefügt.",
+      "disposition": "corrected; complete official wording and internal references reviewed",
+      "source_location": {
+        "table_index": 4,
+        "row_index": 6,
+        "first_cell": "4100"
+      }
+    },
+    {
+      "id": "vv4101",
+      "finding": "Rahmen48–540Euro/Festbetrag235Euro als gesamte Zuschlagsposition, nicht additiver Vollbetrag erklärt. Einmaligkeit, Haftbezug und Einzelauftrag vor Zuschlag geprüft; aktueller BGH-Fall mit Grenzen.",
+      "disposition": "corrected; complete official wording and internal references reviewed",
+      "source_location": {
+        "table_index": 4,
+        "row_index": 8,
+        "first_cell": "4101"
+      }
+    },
+    {
+      "id": "vv4102",
+      "finding": "Vollständigen Fünferkatalog, Verhandlungsmerkmal derHaft-/Unterbringungstermine, Rahmen48–360Euro/Festbetrag163Euro und doppelte Tages-/Dreierbündelung präzisiert. Vier Tage mit je zwei Vernehmungen ergeben zwei Bündel; keine automatische Tagesgebühr.",
+      "disposition": "corrected; complete official wording and internal references reviewed",
+      "source_location": {
+        "table_index": 4,
+        "row_index": 9,
+        "first_cell": "4102"
+      }
+    },
+    {
+      "id": "vv4103",
+      "finding": "Rahmen48–450Euro/Festbetrag199Euro, fortgeltende Bündelung und AbgrenzungHaftbesuch/Hauptverhandlung/Einzelbestellung erläutert. BGH3BGs440/25 nicht als Entscheidung über alleHaftverhandlungs- oder Mischbündelfragen ausgegeben.",
+      "disposition": "corrected; complete official wording and internal references reviewed",
+      "source_location": {
+        "table_index": 4,
+        "row_index": 16,
+        "first_cell": "4103"
+      }
+    },
+    {
+      "id": "vb4.1.2",
+      "finding": "Gleichstellung derPrivatklagevorbereitung mit Ermittlungsphase erklärt; Vollmandat von isolierterSchriftsatzanfertigung getrennt. Keine automatischeErstattung, keine unbegrenzteFortrechnung nach gerichtlichemÜbergang; Bezug4100und4102Nr5 ergänzt.",
+      "disposition": "corrected; complete official wording and internal references reviewed",
+      "source_location": {
+        "table_index": 4,
+        "row_index": 18,
+        "first_cell": "Vorbemerkung 4.1.2: Die Vorbereitung der Privatklage steht der Tätigkeit im vorbereitenden Verfahren gleich."
+      }
+    },
+    {
+      "id": "vv4104",
+      "finding": "Rahmen48–348Euro/Festbetrag158Euro, Informationsbeginn und sämtliche Phasengrenzen einschließlich mündlicherAnklage erklärt. §17Nr10a und einmaligeGrundgebühr unterschieden; BGH-Einzelbestellung als begrenzte Abgrenzung.",
+      "disposition": "corrected; complete official wording and internal references reviewed",
+      "source_location": {
+        "table_index": 4,
+        "row_index": 19,
+        "first_cell": "4104"
+      }
+    },
+    {
+      "id": "vv4105",
+      "finding": "Rahmen48–435Euro/Festbetrag193Euro, ersetzendeZuschlagsnummer und unverändertePhasengrenze dargestellt. Haftbesuche, Auslagen, besondereTermine und Einzelbestellung getrennt; praktischePrüfliste ergänzt.",
+      "disposition": "corrected; complete official wording and internal references reviewed",
+      "source_location": {
+        "table_index": 4,
+        "row_index": 21,
+        "first_cell": "4105"
+      }
+    }
+  ],
+  "limitations": [
+    "Completed review restricted to exactly20assigned units; other324commentary blocks preserved, not reviewed in this round.",
+    "No whole-book completion or external professional approval.",
+    "Two selectively chosen official decisions read in full; no exhaustive case-law or subsequent-case research. 3BGs440/25 is an investigating-judge ruling in a specific replacement appointment, not a senate ruling on every short appointment.",
+    "Current consolidation, actual commencement and intake change-map checked; no full historical or indirect-amendment archive audit.",
+    "Technical wording agreement, completeness and repetition checks do not certify legal quality."
+  ],
+  "official_source": "sources/review-vv3508-vv4105-2026-10-20/rvg.xml",
+  "source_verification": "sources/review-vv3508-vv4105-2026-10-20/requests.json",
+  "version_evidence": "sources/review-vv3508-vv4105-2026-10-20/version-evidence.json",
+  "unit_evidence": "review-vv3508-vv4105-unit-evidence.json",
+  "case_sources": "sources/review-vv3508-vv4105-2026-10-20/authority-requests.json",
+  "all_assigned_official_wording_equal": true,
+  "all_unassigned_commentary_preserved": true,
+  "whole_book_review_complete": false,
+  "external_professional_approval": false,
+  "validation": {
+    "build": "pending",
+    "strict": "pending"
+  }
+}

@@ -1878,6 +1878,91 @@
       "local_path": "sources/review-vv3337-vv3507-2026-10-20/zpo-278.html",
       "sha256": "97d8a6a5042c8f32322d8c4d4494a54dc662713e781048b46669a88e2bd31bc4",
       "validated_format": "HTML parsed, text extracted, expected statutory context read"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/rvg/",
+      "accessed_at": "2026-10-20T11:40:42.100708+00:00",
+      "purpose": "bounded independent substantive review vv3508–vv4105, 20 exact units",
+      "http_status": 200,
+      "final_url": "https://www.gesetze-im-internet.de/rvg/",
+      "content_type": "text/html",
+      "local_path": "sources/review-vv3508-vv4105-2026-10-20/index.html",
+      "sha256": "7e9f02d6a7dc1934d08e4463457f1c15649d20bfd365778bff502c55f2eb80dd",
+      "validated_format": "HTML document and RVG identifier where applicable"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/rvg/xml.zip",
+      "accessed_at": "2026-10-20T11:40:42.269916+00:00",
+      "purpose": "bounded independent substantive review vv3508–vv4105, 20 exact units",
+      "http_status": 200,
+      "final_url": "https://www.gesetze-im-internet.de/rvg/xml.zip",
+      "content_type": "application/zip",
+      "local_path": "sources/review-vv3508-vv4105-2026-10-20/rvg.zip",
+      "sha256": "51019d65e1d783759d31a3d67ff21ec35d922d309a82d575a08848c89de42dde",
+      "members": [
+        "BJNR078800004.xml"
+      ],
+      "validated_format": "ZIP and XML parsed; expected identifier verified",
+      "xml_path": "sources/review-vv3508-vv4105-2026-10-20/rvg.xml",
+      "xml_sha256": "be5571d1735031133f154071b08a77ccdb89f3e047330ed057a494dfd128f5d1",
+      "identical_to_manuscript_source": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "accessed_at": "2026-10-20T11:40:42.432091+00:00",
+      "purpose": "bounded independent substantive review vv3508–vv4105, 20 exact units",
+      "http_status": 200,
+      "final_url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "content_type": "text/html",
+      "local_path": "sources/review-vv3508-vv4105-2026-10-20/updates.html",
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+      "validated_format": "HTML document and RVG identifier where applicable"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2025/318/regelungstext.pdf?__blob=publicationFile&v=2",
+      "accessed_at": "2026-10-20T11:40:42.593888+00:00",
+      "purpose": "bounded independent substantive review vv3508–vv4105, 20 exact units",
+      "http_status": 200,
+      "final_url": "https://www.recht.bund.de/bgbl/1/2025/318/regelungstext.pdf?__blob=publicationFile&v=2",
+      "content_type": "application/pdf",
+      "local_path": "sources/review-vv3508-vv4105-2026-10-20/bgbl-318.pdf",
+      "sha256": "89f50d3f611d6f05089d6d4827783cf1531cfd3c800cd808e86c763b9db28c41",
+      "validated_format": "PDF magic, byte-identical to commencement text previously extracted and read",
+      "identical_to_manuscript_source": true
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE616772026.zip",
+      "accessed_at": "2026-10-20T11:41:52.030116+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "local_path": "sources/review-vv3508-vv4105-2026-10-20/KORE616772026.zip",
+      "sha256": "95a209f3497b36ec78d00bccf6266b4f7e460ab8ff0994cba2bb4ada091e7fa3",
+      "validated_format": "ZIP, single expected decision XML, XML parsed",
+      "xml_path": "sources/review-vv3508-vv4105-2026-10-20/KORE616772026.xml",
+      "xml_sha256": "5f06966d41351d20d5de5e2f2572db0c0eae3a0a24b4747a90a62345b2f61c5c",
+      "court": "BGH",
+      "date": "20250717",
+      "docket": "3 BGs 440/25",
+      "ecli": "ECLI:DE:BGH:2025:170725B3BGS440.25.0",
+      "local_intake_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore616772026.md",
+      "local_intake_sha256": "9cb5f1c963a4ad1035786b5d78f018634040367c78f4d07e3c0face4c5a5d862"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE308962010.zip",
+      "accessed_at": "2026-10-20T11:41:52.295730+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "local_path": "sources/review-vv3508-vv4105-2026-10-20/KORE308962010.zip",
+      "sha256": "68259be8bc981891f329d42c9dae728214d250aeb2434d9890df3b5f4f55d5d6",
+      "validated_format": "ZIP, single expected decision XML, XML parsed",
+      "xml_path": "sources/review-vv3508-vv4105-2026-10-20/KORE308962010.xml",
+      "xml_sha256": "9ef99c8e65cf13056c19acdff86c6481513b1b8da5ed3fe3300e536d8f753ea4",
+      "court": "BGH",
+      "date": "20101012",
+      "docket": "VIII ZB 16/10",
+      "ecli": "",
+      "local_intake_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore308962010.md",
+      "local_intake_sha256": "c5ce44d6c89f49f881c6de9021180d1b3eb8da9b961c39aef14634d5bc83bc30"
     }
   ],
   "version_evidence": {
@@ -2184,6 +2269,12 @@
     "date": "2026-10-20",
     "decisive_date": "2026-10-19",
     "records": "sources/review-vv3337-vv3507-2026-10-20/requests.json",
+    "version_basis": "Existing promulgated Article 14 and commencement Article 21 re-read; current RVG XML compared byte for byte. Date of retrieval is not proof of commencement."
+  },
+  "bounded_review_vv3508_vv4105_recheck": {
+    "date": "2026-10-20",
+    "decisive_date": "2026-10-19",
+    "records": "sources/review-vv3508-vv4105-2026-10-20/requests.json",
     "version_basis": "Existing promulgated Article 14 and commencement Article 21 re-read; current RVG XML compared byte for byte. Date of retrieval is not proof of commencement."
   }
 }

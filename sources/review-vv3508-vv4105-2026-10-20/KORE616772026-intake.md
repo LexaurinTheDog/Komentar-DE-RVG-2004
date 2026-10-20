@@ -1,0 +1,80 @@
+---
+source: rechtsprechung-im-internet
+country: de
+document_type: decision
+court: BGH
+chamber: Ermittlungsrichter
+ecli: ECLI:DE:BGH:2025:170725B3BGS440.25.0
+doknr: KORE616772026
+case_number: 3 BGs 440/25
+date: '2025-07-17'
+decision_type: Beschluss
+norms: null
+prior_instance: 'vorgehend BGH, 18. Juni 2025, Az: 2 BJs 313/24-10'
+source_url: https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE616772026
+download_url: https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE616772026.zip
+chars: 8186
+license: amtliches Werk (§ 5 UrhG)
+retrieved_at: '2026-10-03T18:34:06Z'
+---
+
+# BGH 3 BGs 440/25 (2025-07-17)
+
+- **Gericht:** BGH Ermittlungsrichter
+- **Datum:** 2025-07-17
+- **Aktenzeichen:** 3 BGs 440/25
+- **ECLI:** ECLI:DE:BGH:2025:170725B3BGS440.25.0
+- **Dokumenttyp:** Beschluss
+- **Normen:** —
+
+## Tenor
+
+Die Erinnerung von Rechtsanwalt gegen den Beschluss der Rechtspflegerin des Bundesgerichtshofs vom 18. Juni 2025 wird als unbegründet verworfen.
+
+Die Entscheidung ergeht gerichtsgebührenfrei; Auslagen werden nicht erstattet.
+
+## Gründe
+
+1 1. Der Beschuldigte wurde aufgrund des Haftbefehls des Ermittlungsrichters des Bundesgerichtshofs vom 25. April 2025 - - am 13. Mai 2025 festgenommen und am selben Tag zur Eröffnung des Haftbefehls dem Ermittlungsrichter des Bundesgerichtshofs vorgeführt. Mit Beschlüssen des Ermittlungsrichters des Bundesgerichtshofs vom 13. Mai 2025 sind der Wahlverteidiger , , als Pflichtverteidiger und - wegen Verhinderung des Wahlverteidigers - Rechtsanwalt als Pflichtverteidiger für den Termin - - bestellt worden.
+
+2 2. Mit Schreiben vom 21. Mai 2025 hat Rechtsanwalt die Festsetzung von Gebühren und Auslagen beantragt. Neben einer Grundgebühr nach Nr. 4101 VV RVG hat er die Festsetzung einer Verfahrensgebühr nach Nr. 4105 VV RVG und die Festsetzung der Terminsgebühr nach Nr. 4103 VV RVG nebst Auslagenpauschale nach Nr. 7002 VV RVG beantragt.
+
+3 3. Mit Beschluss vom 18. Juni 2025 - - hat die Rechtspflegerin dem Antrag teilweise stattgegeben und unter Berücksichtigung einer Verfahrensgebühr für eine Einzeltätigkeit nach Nr. 4301 VV RVG und einer Auslagenpauschale nach Nr. 7002 VV RVG die zu erstattenden Auslagen nebst Umsatzsteuer auf 285,60 € festgesetzt.
+
+4 4. Mit Schreiben vom 1. Juli 2025 hat Rechtanwalt gegen den Beschluss vom 18. Juni 2025 Erinnerung eingelegt. Er wendet sich gegen die rechtliche Einordnung der von ihm übernommenen Tätigkeit als Einzeltätigkeit nach Nr. 4103 VV RVG und verfolgt die Festsetzung der von ihm beantragten Grund-, Verfahrens- und Terminsgebühr in voller Höhe weiter. Mit Beschluss vom 8. Juli 2025 - - hat die Rechtspflegerin der Erinnerung nicht abgeholfen und dem zuständigen Ermittlungsrichter zur Entscheidung vorgelegt.
+
+5 5. Am 15. Juli 2025 hat die Kostenprüfungsbeamtin des Bundesgerichtshofs Stellung genommen und sich der Rechtsauffassung der Rechtspflegerin angeschlossen.
+
+II.
+
+6 Das zulässige Rechtsmittel (§ 56 Abs. 1 Satz 1 RVG) bleibt in der Sache ohne Erfolg. Dem Erinnerungsführer steht der geltend gemachte Anspruch auf Festsetzung einer Grundgebühr nach Nr. 4101 VV RVG, einer Verfahrensgebühr nach Nr. 4105 VV RVG und einer Terminsgebühr nach Nr. 4103 VV RVG, nicht zu.
+
+7 1. Es ist streitig, ob dem wegen Verhinderung des Wahlverteidigers nur für den Termin zur Haftbefehlseröffnung bestellte Pflichtverteidiger als Vergütung eine Verfahrensgebühr für eine Einzeltätigkeit nach Nr. 4301 VV RVG oder aber eine Grund-, Verfahrens- und Terminsgebühr nach Nr. 4101, Nr. 4105 bzw. Nr. 4103 VV RVG zusteht, mithin ob der als Terminsvertreter bestellte Verteidiger gebührenrechtlich wie ein uneingeschränkt bestellter Pflichtverteidiger zu behandeln ist.
+
+8 a) Nach einer Auffassung beschränkt sich der Vergütungsanspruch des Terminsvertreters, der anstelle des verhinderten Verteidigers für einzelne Hauptverhandlungstage als Verteidiger des Beschuldigten bestellt worden ist, nicht auf die Terminsgebühr, sondern umfasst alle durch die anwaltliche Tätigkeit im Einzelfall verwirklichten Gebührentatbestände des Teils 4 Abschnitt 1 des Vergütungsverzeichnisses in Anlage 1 zu § 2 Abs. 2 RVG; er ist danach dem eigentlich bestellten Verteidiger gebührenrechtlich gleichzustellen (OLG Karlsruhe, Beschluss vom 16. Juli 2008 - 3 Ws 281/08, NJW 2008, 2935; OLG Düsseldorf, Beschluss vom 29. Oktober 2008 - 1 Ws 318/08 -, juris; OLG Hamm, Beschluss vom 23. März 2006 - 3 Ws 586/05 -, juris; OLG Köln, Beschluss vom 26. März 2010 - 2 Ws 129/10 -, AGS 2011, 286; OLG Bamberg, Beschluss vom 21. Dezember 2020 - 1 Ws 700/10, NStZ-RR 2011, 223; OLG München, Beschluss vom 27. Februar 2014 - 4c Ws 2/14, NJOZ 2014, 1478; OLG Nürnberg, Beschluss vom 13. November 2014 - 2 Ws 553/14, NStZ-RR 2015, 95; OLG Saarbrücken, Beschluss vom 10. November 2014 - 1 Ws 148/14, NJOZ 2015, 1166; Thüringer Oberlandesgericht, Beschluss vom 14. April 2021 - (S) AR 62/20 -, JurBüro 2021, 576). Dies soll entsprechend auch dann gelten, wenn der Terminsvertreter für einen Termin zur Haftbefehlseröffnung oder für einen Haftprüfungstermin bestellt worden ist (OLG Karlsruhe, Beschluss vom 9. Februar 2023 - 2 Ws 13/23, juris Rn. 11; einschränkend OLG Koblenz, Beschluss vom 4. Juli 2024 - 2 Ws 412/24, juris Rn. 7 [nur für den Fall eines noch nicht beauftragten Wahlverteidigers]).
+
+9 b) Nach anderer Auffassung ist der nur für den Termin zur Haftbefehlseröffnung als Vertreter des verhinderten Verteidigers gebührenrechtlich nicht dem für das gesamte Verfahren beigeordneten Pflichtverteidiger gleichzustellen. Die Tätigkeit des Terminsvertreters ist danach gebührenrechtlich als Einzeltätigkeit im Sinne von Teil 4 Abschnitt 3 VV RVG anzusehen (OLG Stuttgart, Beschluss vom 23. Januar 2023 - 4 Ws 13/23, juris Rn. 13).
+
+10 c) Die letztgenannte Auffassung ist zutreffend.
+
+11 In Teil 4 Abschnitt 3 VV RVG ist nach Absatz 1 der Vorbemerkung zu den Gebührentatbeständen Nrn. 4300 bis 4303 VV RVG die Vergütung des Rechtsanwalts geregelt, der nicht insgesamt mit der Interessenwahrnehmung beauftragt ist, also nicht den vollen Verteidigungsauftrag hat, sondern hieraus nur eine einzelne Tätigkeit übernimmt. Bei den dort genannten Einzeltätigkeiten erhält der Rechtsanwalt jeweils eine festgelegte Verfahrensgebühr, andere Gebühren werden ihm nicht gewährt. Eine Grund-, Verfahrens- und Terminsgebühr verdient nur derjenige Rechtsanwalt, der auch über die einzelne Tätigkeit hinaus für den Mandanten tätig ist (OLG Stuttgart, Beschluss vom 23. Januar 2023 - 4 Ws 13/23, juris Rn. 14).
+
+12 In Nr. 4301 Nr. 4 VV RVG ist als Einzeltätigkeit u.a. die Beistandleistung bei einer richterlichen Vernehmung geregelt. Zu den Beistandleistungen bei richterlichen Vernehmungen gehört die Vorführung nach § 115 Abs. 2 StPO (BeckOK RVG/Knaudt, Stand 1. Juni 2025, RVG VV 4301 Rn. 18.1; Toussaint/Felix, Kostenrecht, 55. Aufl., RVG VV 4301 Rn. 13).
+
+13 Die Abgrenzung, ob eine Einzeltätigkeit im Sinne der Vorbemerkung zu Teil 4 Abschnitt 3 VV RVG vorliegt, ist beim bestellten Rechtsanwalt vom Umfang der gerichtlichen Bestellung abhängig (BeckOK RVG/Knaudt, Stand 1. Juni 2025, RVG VV Vorbemerkung 4.3 Rn. 3). Maßgeblich hierfür ist der Wortlaut der Entscheidung, durch den die Bestellung erfolgt ist (OLG Stuttgart, Beschluss vom 23. Januar 2023 - 4 Ws 13/23, juris Rn. 13).
+
+14 2. Gemessen an diesen rechtlichen Maßgaben musste dem Rechtsmittel hier der Erfolg versagt werden. Die Rechtspflegerin hat zu Recht eine Verfahrensgebühr für eine Einzeltätigkeit nach Nr. 4301 VV RVG festgesetzt.
+
+15 a) Nach dem Wortlaut des Beschlusses vom 13. Mai 2025 - - ist Rechtsanwalt dem Beschuldigten „als Pflichtverteidiger für den heutigen Termin“ bestellt worden, also für die Vorführung und Vernehmung am 13. Mai 2025 vor dem zuständigen Ermittlungsrichter gemäß § 115 Abs. 1 und 2 StPO. Damit ergibt sich bereits aus dem Wortlaut des Beschlusses sowohl eine zeitliche, aber auch inhaltlich beschränkte Bestellung auf die Haftfrage.
+
+16 b) Einer Auslegung des Beschlusses als unbeschränkte Beiordnung von Rechtsanwalt steht zudem entgegen, dass mit weiterem Beschluss vom 13. Mai 2025 im unmittelbaren zeitlichen Zusammenhang der als Wahlverteidiger benannte Rechtsanwalt ohne Einschränkung als Pflichtverteidiger bestellt worden ist und der Beschuldigte damit nicht unverteidigt im Sinne des § 141 Abs. 1 Satz 1 StPO war. Jedenfalls in einem solchen Fall handelt es sich bei der Vertretung des Beschuldigten im Rahmen der Haftvorführung nach § 115 StPO um eine Einzeltätigkeit. In diesem Fall ist offenkundig, dass Rechtsanwalt nur für den Termin bestellt wurde und ihm keine Vollverteidigung übertragen worden ist (vgl. OLG Stuttgart, Beschluss vom 23. Januar 2023 - 4 Ws 13/23, juris Rn. 13; auch OLG Koblenz, Beschluss vom 4. Juli 2024 - 2 Ws 412/24, juris Rn. 7
+
+17 c) Die nach Nr. 4301 VV RVG festgesetzte Verfahrensgebühr ist der Höhe nach nicht zu beanstanden und wird vom Erinnerungsführer auch nicht in Zweifel gezogen.
+
+III.
+
+18 Die Kostenentscheidung beruht auf § 56 Abs. 2 Satz 2 und Satz 3 RVG.
+
+Dr. Adams
+
+Richterin am Bundesgerichtshof

@@ -1,0 +1,34 @@
+{
+  "decisive_date": "2026-10-19",
+  "verified_at": "2026-10-20T11:46:20.445551+00:00",
+  "official_url": "https://www.gesetze-im-internet.de/rvg/",
+  "official_stand": [
+    "Neugefasst durch Bek. v. 15.3.2022 I 610;",
+    "zuletzt geändert durch Art. 14 G v. 8.12.2025 I Nr. 318"
+  ],
+  "xml_sha256": "be5571d1735031133f154071b08a77ccdb89f3e047330ed057a494dfd128f5d1",
+  "rvg_xml_identical_to_authoring": true,
+  "commencement": {
+    "path": "sources/review-vv3508-vv4105-2026-10-20/bgbl-318.pdf",
+    "read": "Actual Article14 and Article21(2)/(3), fresh PDF identical to authenticated extracted text. All amendment and commencement paragraphs reread.",
+    "effective": "Article14numbers1/3/4 since2026-01-01; number2 since2026-07-01; no change to assigned tariffs."
+  },
+  "assigned_change": {
+    "path": "sources/review-vv3103-vv3212-2026-10-20/bgbl-109.pdf",
+    "text_path": "sources/review-vv3103-vv3212-2026-10-20/bgbl-109.txt",
+    "sha256": "1ff13f868178c6ca85497562b13de3e37a591793b5fe9f820432210ca17fc36d",
+    "read": "Article11(2)numbers31–41 and Article13(3) actually read: current assigned money frames and fixed fees effective2025-06-01. Existing authenticated promulgation; not claimed as fresh fetch."
+  },
+  "historical_versions_checked": "All92current XML nodes classified again; no duplicate operative labels or unlabelled operative Content. No separate Eingangsformel; official global notes preserved. Intake and change-map retained; no normative change. Not a complete historical archive.",
+  "annexes_checked": "Anlage1:231tariffs and32operative remarks independently derived from first XML cells before reading parsed IDs; all536rows retained in full parent. Anlage2:all22rows preserved, no invented child identifiers.",
+  "updates": {
+    "path": "sources/review-vv3508-vv4105-2026-10-20/updates.html",
+    "identical_to_prior_snapshot": true,
+    "limitation": "Current update service titles are not an exhaustive indirect-amendment audit."
+  },
+  "external_cross_references": "Only internal RVG cross-references and foreign-act labels already printed in the official RVG annex are substantively used. No Czech law discussed; no additional foreign-act commentary or historic audit claimed.",
+  "limitations": [
+    "Current RVG consolidation and actual published commencement checked, not a complete historical or indirect-amendment archive.",
+    "External provisions support only the expressly described tariff context; no comprehensive commentary or independent historical audit of those statutes."
+  ]
+}

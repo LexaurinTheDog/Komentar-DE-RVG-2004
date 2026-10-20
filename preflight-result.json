@@ -405,5 +405,54 @@
       "reviewed_commentary_units": 20,
       "whole_book_review_complete": false
     }
+  },
+  "bounded_review_vv3508_vv4105_recheck": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/rvg/",
+    "verified_at": "2026-10-20T11:46:20.445551+00:00",
+    "reviewed_ids": [
+      "vv3508",
+      "vv3509",
+      "vv3510",
+      "vv3511",
+      "vv3512",
+      "vv3513",
+      "vv3514",
+      "vv3515",
+      "vv3516",
+      "vv3517",
+      "vv3518",
+      "vb4",
+      "vb4.1",
+      "vv4100",
+      "vv4101",
+      "vv4102",
+      "vv4103",
+      "vb4.1.2",
+      "vv4104",
+      "vv4105"
+    ],
+    "version_evidence": "sources/review-vv3508-vv4105-2026-10-20/version-evidence.json",
+    "http_evidence": "sources/review-vv3508-vv4105-2026-10-20/requests.json",
+    "current_xml_byte_identical": true,
+    "historical_versions_checked": {
+      "operative_duplicates": [],
+      "selection": "One current consolidation, 79 single paragraph nodes and two single annex nodes. Historical quotations and transition references within current provisions are retained as content, not appended as old versions."
+    },
+    "eingangsformel": "No separate Eingangsformel or Präambel and no unlabelled operative Content in this official XML. Global enactment/commencement footnote preserved in sources/rvg-frontmatter.json and canonical.md.",
+    "annexes_checked": "Independent first-cell XML enumeration repeated before comparing manuscript IDs: Anlage1has231tariffs+32remarks; all536rows retained. Anlage2all22rows retained without invented child IDs.",
+    "coverage": {
+      "expected": 344,
+      "parsed": 344,
+      "missing": [],
+      "duplicates": [],
+      "ok": true
+    },
+    "unresolved_blockers": [],
+    "limitations": [
+      "Two selectively chosen official decisions read in full; no exhaustive case-law or subsequent-case research. 3BGs440/25 is an investigating-judge ruling in a specific replacement appointment, not a senate ruling on every short appointment.",
+      "Current consolidation, actual commencement and intake change-map checked; no full historical or indirect-amendment archive audit."
+    ]
   }
 }
