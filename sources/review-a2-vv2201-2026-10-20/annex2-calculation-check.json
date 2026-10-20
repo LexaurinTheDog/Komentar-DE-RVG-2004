@@ -1,0 +1,259 @@
+{
+  "method": "All42 official XML value/fee pairs, both column pairs, independently recomputed from the §13 progression actually read; not a check of every possible bill",
+  "source_sha256": "be5571d1735031133f154071b08a77ccdb89f3e047330ed057a494dfd128f5d1",
+  "pairs": [
+    {
+      "value": 500,
+      "official_fee": "51.50",
+      "computed_fee": "51.50",
+      "equal": true
+    },
+    {
+      "value": 1000,
+      "official_fee": "93.00",
+      "computed_fee": "93.00",
+      "equal": true
+    },
+    {
+      "value": 1500,
+      "official_fee": "134.50",
+      "computed_fee": "134.50",
+      "equal": true
+    },
+    {
+      "value": 2000,
+      "official_fee": "176.00",
+      "computed_fee": "176.00",
+      "equal": true
+    },
+    {
+      "value": 3000,
+      "official_fee": "235.50",
+      "computed_fee": "235.50",
+      "equal": true
+    },
+    {
+      "value": 4000,
+      "official_fee": "295.00",
+      "computed_fee": "295.00",
+      "equal": true
+    },
+    {
+      "value": 5000,
+      "official_fee": "354.50",
+      "computed_fee": "354.50",
+      "equal": true
+    },
+    {
+      "value": 6000,
+      "official_fee": "414.00",
+      "computed_fee": "414.00",
+      "equal": true
+    },
+    {
+      "value": 7000,
+      "official_fee": "473.50",
+      "computed_fee": "473.50",
+      "equal": true
+    },
+    {
+      "value": 8000,
+      "official_fee": "533.00",
+      "computed_fee": "533.00",
+      "equal": true
+    },
+    {
+      "value": 9000,
+      "official_fee": "592.50",
+      "computed_fee": "592.50",
+      "equal": true
+    },
+    {
+      "value": 10000,
+      "official_fee": "652.00",
+      "computed_fee": "652.00",
+      "equal": true
+    },
+    {
+      "value": 13000,
+      "official_fee": "707.00",
+      "computed_fee": "707.00",
+      "equal": true
+    },
+    {
+      "value": 16000,
+      "official_fee": "762.00",
+      "computed_fee": "762.00",
+      "equal": true
+    },
+    {
+      "value": 19000,
+      "official_fee": "817.00",
+      "computed_fee": "817.00",
+      "equal": true
+    },
+    {
+      "value": 22000,
+      "official_fee": "872.00",
+      "computed_fee": "872.00",
+      "equal": true
+    },
+    {
+      "value": 25000,
+      "official_fee": "927.00",
+      "computed_fee": "927.00",
+      "equal": true
+    },
+    {
+      "value": 30000,
+      "official_fee": "1013.00",
+      "computed_fee": "1013.00",
+      "equal": true
+    },
+    {
+      "value": 35000,
+      "official_fee": "1099.00",
+      "computed_fee": "1099.00",
+      "equal": true
+    },
+    {
+      "value": 40000,
+      "official_fee": "1185.00",
+      "computed_fee": "1185.00",
+      "equal": true
+    },
+    {
+      "value": 45000,
+      "official_fee": "1271.00",
+      "computed_fee": "1271.00",
+      "equal": true
+    },
+    {
+      "value": 50000,
+      "official_fee": "1357.00",
+      "computed_fee": "1357.00",
+      "equal": true
+    },
+    {
+      "value": 65000,
+      "official_fee": "1456.50",
+      "computed_fee": "1456.50",
+      "equal": true
+    },
+    {
+      "value": 80000,
+      "official_fee": "1556.00",
+      "computed_fee": "1556.00",
+      "equal": true
+    },
+    {
+      "value": 95000,
+      "official_fee": "1655.50",
+      "computed_fee": "1655.50",
+      "equal": true
+    },
+    {
+      "value": 110000,
+      "official_fee": "1755.00",
+      "computed_fee": "1755.00",
+      "equal": true
+    },
+    {
+      "value": 125000,
+      "official_fee": "1854.50",
+      "computed_fee": "1854.50",
+      "equal": true
+    },
+    {
+      "value": 140000,
+      "official_fee": "1954.00",
+      "computed_fee": "1954.00",
+      "equal": true
+    },
+    {
+      "value": 155000,
+      "official_fee": "2053.50",
+      "computed_fee": "2053.50",
+      "equal": true
+    },
+    {
+      "value": 170000,
+      "official_fee": "2153.00",
+      "computed_fee": "2153.00",
+      "equal": true
+    },
+    {
+      "value": 185000,
+      "official_fee": "2252.50",
+      "computed_fee": "2252.50",
+      "equal": true
+    },
+    {
+      "value": 200000,
+      "official_fee": "2352.00",
+      "computed_fee": "2352.00",
+      "equal": true
+    },
+    {
+      "value": 230000,
+      "official_fee": "2492.00",
+      "computed_fee": "2492.00",
+      "equal": true
+    },
+    {
+      "value": 260000,
+      "official_fee": "2632.00",
+      "computed_fee": "2632.00",
+      "equal": true
+    },
+    {
+      "value": 290000,
+      "official_fee": "2772.00",
+      "computed_fee": "2772.00",
+      "equal": true
+    },
+    {
+      "value": 320000,
+      "official_fee": "2912.00",
+      "computed_fee": "2912.00",
+      "equal": true
+    },
+    {
+      "value": 350000,
+      "official_fee": "3052.00",
+      "computed_fee": "3052.00",
+      "equal": true
+    },
+    {
+      "value": 380000,
+      "official_fee": "3192.00",
+      "computed_fee": "3192.00",
+      "equal": true
+    },
+    {
+      "value": 410000,
+      "official_fee": "3332.00",
+      "computed_fee": "3332.00",
+      "equal": true
+    },
+    {
+      "value": 440000,
+      "official_fee": "3472.00",
+      "computed_fee": "3472.00",
+      "equal": true
+    },
+    {
+      "value": 470000,
+      "official_fee": "3612.00",
+      "computed_fee": "3612.00",
+      "equal": true
+    },
+    {
+      "value": 500000,
+      "official_fee": "3752.00",
+      "computed_fee": "3752.00",
+      "equal": true
+    }
+  ],
+  "ok": true
+}

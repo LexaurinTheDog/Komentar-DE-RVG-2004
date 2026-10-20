@@ -1,0 +1,22 @@
+[
+  {
+    "id": "KSRE148681527",
+    "ecli": "ECLI:DE:BSG:2013:171213UB11AL1512R0",
+    "nonempty_judicial_paragraphs": 24,
+    "missing_exact_paragraphs": [],
+    "all_paragraphs_present": true,
+    "official_xml_sha256": "6d292615f98c61bf7d2e8872ce23040074554007f12514151c19aac71a3dac04",
+    "intake_sha256": "dedad7232d6955206f712962473bb9107c013d3b24e33338991e78618be85926",
+    "method": "Every nonempty official p in all judicial sections matched to local corpus with whitespace removed; complete decisions were actually read."
+  },
+  {
+    "id": "KORE308052018",
+    "ecli": "ECLI:DE:BGH:2017:141217UIXZR243.16.0",
+    "nonempty_judicial_paragraphs": 43,
+    "missing_exact_paragraphs": [],
+    "all_paragraphs_present": true,
+    "official_xml_sha256": "81e4e9b6c8c32536a0c3a56a157c6e975a59231bc1fb9c37b70b607bd48603ce",
+    "intake_sha256": "6f46fa8e0b2cb056e19e899fe30478d6b842242a1836b7353cecb225bdf21273",
+    "method": "Every nonempty official p in all judicial sections matched to local corpus with whitespace removed; complete decisions were actually read."
+  }
+]

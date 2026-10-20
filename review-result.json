@@ -1,193 +1,174 @@
 {
-  "complete": true,
+  "complete": false,
   "task_kind": "bounded_independent_second_pass",
   "decisive_date": "2026-10-19",
-  "reviewed_at": "2026-10-20T10:26:15.629655+00:00",
+  "reviewed_at": "2026-10-20T10:36:54.191942+00:00",
   "units_reviewed": 20,
   "reviewed_ids": [
-    "p47",
-    "p48",
-    "p49",
-    "p50",
-    "p51",
-    "p52",
-    "p53",
-    "p53a",
-    "p54",
-    "p55",
-    "p56",
-    "p57",
-    "p58",
-    "p59",
-    "p59a",
-    "p59b",
-    "p60",
-    "p61",
-    "p62",
-    "a1"
+    "a2",
+    "vb1",
+    "vv1000",
+    "vv1001",
+    "vv1002",
+    "vv1003",
+    "vv1004",
+    "vv1005",
+    "vv1006",
+    "vv1007",
+    "vv1008",
+    "vv1009",
+    "vv1010",
+    "vb2",
+    "vv2100",
+    "vv2101",
+    "vv2102",
+    "vv2103",
+    "vv2200",
+    "vv2201"
   ],
   "changed_ids": [
-    "p48",
-    "p49",
-    "p51",
-    "p52",
-    "p55",
-    "p56",
-    "p57",
-    "p58",
-    "p59",
-    "p59a",
-    "p60",
-    "p61",
-    "p62",
-    "a1"
+    "a2",
+    "vv1000",
+    "vv1002",
+    "vv1003",
+    "vv1004",
+    "vv1005",
+    "vv1006",
+    "vv1008",
+    "vv1009",
+    "vv1010",
+    "vv2100",
+    "vv2101",
+    "vv2102",
+    "vv2103",
+    "vv2200",
+    "vv2201"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "p47",
+      "id": "a2",
+      "status": "corrected",
+      "assessment": "Vollständige Anlage2 mit42Wert-/Gebührenpaaren in beiden Spalten gelesen; alle aus§13 mechanisch nachgerechnet. Keine fehlende Zeile. Genaue5.000/5.001-Euro-Rechnung, Fortsetzung über500.000, Kleinstinkasso-Vorbehalt und besondere§49-Tabelle ergänzt. Art11(3)/13(3)BGBl2025INr109 tatsächlich gelesen: seit1.6.2025;§60 bleibt vorgeschaltet."
+    },
+    {
+      "id": "vb1",
       "status": "checked_no_change",
-      "assessment": "Beide Absätze vollständig geprüft. Entstandene Gebühren, entstandene und künftige Auslagen, angemessene Höhe sowie besondere Verzugsfälle und Beratungshilfeausschluss stimmen. Beispiel trennt künftige Terminsgebühr von Auslagenprognose. Unverändert."
+      "assessment": "Ganzen Wortlaut gelesen. Vorbemerkung als Konkurrenzregel ohne eigenen Gebührentatbestand richtig. Nebeneinander mit anderen Teilen/§34 wird nicht als voraussetzungslose Zusatzgebühr verstanden; qualifizierte Einigung im Beispiel gesondert geprüft. Kein Änderungsbedarf."
     },
     {
-      "id": "p48",
+      "id": "vv1000",
       "status": "corrected",
-      "assessment": "Alle sechs Absätze und sämtliche Nummern gelesen. Die sieben Familienregelungsgegenstände und deren begrenzte Einigungswirkung konkretisiert. Absatz4 auf gesamten PKH-Abschnitt einschließlich Vorbereitung und den gerichtlichen Vorbehalt bezogen. Erstinstanzliche Vorbestellungstätigkeit von Rückwirkung nur im späteren Rechtszug und gesonderter Verbindungserstreckung unterschieden. Absatz2 und ausdrückliche Gegenbestimmung, Absatz5 mit Widerantragsausnahme geprüft."
+      "assessment": "Alle fünf Anmerkungsabsätze und beide Tarifnummern gelesen. Sätze1,5/0,7, Stillhaltebedingung und50%-Wert nach§31b präzisiert. Nrn1003/1004 ändern nur Nummer1. Anerkennung/Verzicht nach aktuellem Wortlaut, Ursächlichkeit, Bedingung/Widerruf, öffentlich-rechtliche Disponibilität, Privatklage-Sondertatbestand und Familien-/Kindschaftsausnahmen einzeln geprüft. Keine pauschale Gebührenfreiheit der Unterhaltsfolgesache."
     },
     {
-      "id": "p49",
-      "status": "corrected",
-      "assessment": "Gesamte Tabelle mit allen19 Wert-/Gebührenstufen gelesen und mit §13 sowie Anlage2 abgeglichen. Ersetzung erst oberhalb4.000, Höchststufe über80.000 mit786 Euro bestätigt. Beispielrechnung374 ×1,3 =486,20 Euro und nächste Stufe10.001 bis13.000 mit389 Euro ergänzt. Zeitrecht weiterhin vorgeschaltet."
-    },
-    {
-      "id": "p50",
+      "id": "vv1001",
       "status": "checked_no_change",
-      "assessment": "Alle drei Absätze gelesen. Einziehungsrang, Begrenzung durch ZPO und Gerichtsbestimmung, Beendigungs- und Zahlungs/Vollstreckungsvoraussetzungen, Mitteilung der Regelvergütung und bereinigte Differenzverteilung richtig. Beispiel Anwaltswechsel behauptet keine sofortige unbedingte Differenzzahlung. Unverändert."
+      "assessment": "Ganzen Tatbestand samt Satz1,5 gelesen. Ernstlich hervorgetretener Scheidungs-/Aufhebungswille und Fortsetzung/Wiederaufnahme der Lebensgemeinschaft, anwaltliche Mitwirkung und Lebenspartnerschaftsübernahme zutreffend. Bloße Entscheidungsvertagung im Beispiel genügt nicht. Unverändert."
     },
     {
-      "id": "p51",
+      "id": "vv1002",
       "status": "corrected",
-      "assessment": "Alle drei Absätze, §42 und §48(6) gelesen. Sonderverfahrenskatalog, selbständige Zumutbarkeit, Ersatz statt Addition, Vorschuss, genaue Bestellungskompetenz, Senatsbesetzung und behördliche Entscheidung präzisiert. BGH1StR454/17 und BVerfG1BvR1955/17 vollständig gelesen. Historische Tarifbeträge, konkrete Zuständigkeitsgrenze, verfassungsrechtliche Prüfung und offengelassene Härtefälle ausdrücklich begrenzt."
+      "assessment": "Beide Sätze und Satz1,5 geprüft. Entstehung nach Rechtsbehelfsänderung oder bisher abgelehntem Verwaltungsakt von bloßer Erfolgsmeldung getrennt. Qualifizierte erledigungsgerichtete Mitwirkung im isolierten Sozialvorverfahren anhand tatsächlichen BSG-Volltexts präzisiert; gegenteilige Vorinstanz und historischer Gebührenrahmen ausdrücklich abgegrenzt."
     },
     {
-      "id": "p52",
+      "id": "vv1003",
       "status": "corrected",
-      "assessment": "Alle sechs Absätze geprüft. Gebührenzahlung von Auslagen getrennt. Entscheidungszuständigkeit, ZPO-Erklärungsverweis, Belehrungs-/Wiedereinsetzungsverknüpfung, besonderer Verjährungszeitpunkt und Ende der Hemmung erst sechs Monate nach Rechtskraft ergänzt. Im OWiG-Fall übernimmt Absatz6 gerade nicht Absatz4; für Behördenentscheidung §57 abgegrenzt. Vorschussausschluss und Familienunterhalt zutreffend."
+      "assessment": "Tarif und beide Absätze vollständig geprüft. Klarstellung nur Nr1000Nummer1, selbständiges Beweisverfahren, sämtliche PKH-Ausnahmen einschließlich§48-Erstreckung, KapMuG-Anmeldung und Gerichtsvollziehergleichstellung ergänzt. In Kindschaftssachen gerichtliche Billigung/nicht disponible Vereinbarung samt Entscheidungsvoraussetzung erklärt. Unterschiedliche Wertteile und§15(3) geprüft."
     },
     {
-      "id": "p53",
+      "id": "vv1004",
+      "status": "corrected",
+      "assessment": "Ganzer Tarif und beide Absätze gelesen. Berufung/Revision, Nichtzulassung und Zulassung mit1,3 richtig. Bezug nur1000Nummer1 hervorgehoben. Verweis auf tatsächliche Beschwerde-/Rechtsbeschwerdekataloge3.2.1/3.2.2 geprüft; keine Einbeziehung erstinstanzlicher FG-Tätigkeit allein wegen Sammelverweises. Kindschaftsübernahme und Mehrgegenstandsbeispiel korrekt."
+    },
+    {
+      "id": "vv1005",
+      "status": "corrected",
+      "assessment": "Ganzer Tatbestand und beide Absätze gelesen. Entstehung von Bezugsbetrag getrennt; höchster Geschäftsgebührenbetrag statt Addition, ohne1008, gerichtliche Anhängigkeit führt1006. Ausschließliche§34-Beratung: halber Anmerkungsbetrag2302=195,50 aus391, nicht halber Höchstrahmen. Teilschätzung nach§14(1) geprüft. Historisches BSG-Entstehungsurteil nur begrenzt verwendet."
+    },
+    {
+      "id": "vv1006",
+      "status": "corrected",
+      "assessment": "Gesamten Tarif samt zwei Absätzen gelesen. Konkrete Verfahrensgebühr der Einigungsangelegenheit als Bezugsgröße, ohne1008, Einheit auch bei nicht rechtshängigen Ansprüchen und Schätzung bei Teilerledigung richtig. Fiktive400-Euro-Basis ist ausdrücklich kein verbindlicher Rahmensatz. Präzisiert."
+    },
+    {
+      "id": "vv1007",
       "status": "checked_no_change",
-      "assessment": "Alle drei Absätze mit §52 gelesen. Absatz1-Auftraggeberanspruch, gesetzlicher Anspruch des Beistands nur gegen Verurteilten und Vereinbarungsanspruch gegen geschützte Person zutreffend unterschieden. Maßgeblich sind persönliche/wirtschaftliche Verhältnisse bei Vereinbarungsabschluss, nicht spätere Verbesserung oder Prozesschancen. Feststellung und entsprechende Absätze3–5 von §52 korrekt. Unverändert."
+      "assessment": "Amtlichen weggefallenen Slot geprüft. Keine aktuelle Gebührenwirkung, historische Anwendung nur bei gesichertem Alttext und§60. Erhaltung der Nummernfolge und Beispiel korrekt. Unverändert."
     },
     {
-      "id": "p53a",
+      "id": "vv1008",
+      "status": "corrected",
+      "assessment": "Tarif sowie alle vier Absätze gelesen. Zuschlagsgrenze2,0 von Gesamtgebühr unterschieden, Fest-/Betragsrahmenmodelle mit30% und Kappung erklärt. Wertgegenstandsidentität, gemeinschaftlicher Betrag und besondere Schwellenanpassung nachAbsatz4 geprüft. Rechnung1,3+3×0,3=2,2 und ausdrücklicher§31(2)-Ausschluss korrekt."
+    },
+    {
+      "id": "vv1009",
+      "status": "corrected",
+      "assessment": "Alle drei Staffelzeilen und fünf Absätze gelesen. Auszahlung statt bloßem Eingang, unbare Gleichstellung, Entnahme, gesonderte Auszahlung, Wertpapiere/Kostbarkeiten, alle drei Ausnahmen und Mindestbetrag1Euro erklärt. Fiktive12.000-Euro-Auszahlung mit25+37,50+5=67,50Euro nachgerechnet. Keine Höchstsatzanwendung auf Gesamtbetrag."
+    },
+    {
+      "id": "vv1010",
+      "status": "corrected",
+      "assessment": "Gesamte Tarifzeile und Folgesatz gelesen. Drei gerichtliche Vernehmungstermine und besonderer Umfang als kumulative Voraussetzungen erklärt. Satz0,3 versus30%-Erweiterung beider Terminsgebührenrahmengrenzen präzisiert. Reiner Vergleichstermin erfüllt Mindestzahl nicht. Prüfliste beibehalten und ergänzt."
+    },
+    {
+      "id": "vb2",
       "status": "checked_no_change",
-      "assessment": "Beide Sätze und amtlichen §397b(3)StPO gelesen. Positive gerichtliche Feststellung, Zeitraum nur bis Bestellung/Beiordnung des anderen Anwalts und Kassenzuordnung richtig. Beispiel begründet keine Staatskassenvergütung allein aus Privatmandat oder anschließender Parallelvertretung. Unverändert."
+      "assessment": "Beide Absätze am vollständigen amtlichen Text geprüft. Vorrang§§34–36, gleiche Bevollmächtigtengebühren für Beistand im erfassten Verwaltungsverfahren und besonderer OLG-Erstinstanz-Strafmaßstab für parlamentarischen Ausschuss richtig. Beispiel behauptet keinen automatischen allgemeinen Geschäftstarif. Unverändert."
     },
     {
-      "id": "p54",
-      "status": "checked_no_change",
-      "assessment": "Gesamte Norm gelesen. Schuldhaftes Veranlassen des Wechsels, Kausalität und gebührenbezogene Beschränkung auf ebenfalls beim Nachfolger entstehende Gebühren korrekt. Kein pauschaler Verfall aller Gebühren und keine Kürzung allein wegen Wechsels behauptet. Unverändert."
-    },
-    {
-      "id": "p55",
+      "id": "vv2100",
       "status": "corrected",
-      "assessment": "Alle sieben Absätze gelesen. Grund- und laufende Rechtszugszuständigkeit bestätigt. Kontaktperson-Landgericht, Beratungshilfe-Amtsgericht und örtliche Anknüpfung konkretisiert. §104(2)Sätze1/2ZPO tatsächlich gelesen; Glaubhaftmachung und Postversicherung von nicht übernommenem Satz3 getrennt. Zahlungsdaten, Nachmeldung und Monatsaufforderung samt Erlöschen richtig. Absatz7 nur auf Absätze1/5 begrenzt."
+      "assessment": "Tarif0,5–1,0 und Anrechnung gelesen. Eigenständigen Prüfauftrag,§14-Bemessung, Ergebnisunabhängigkeit und§34-Vorbehalt konkretisiert. Tatsächlicher BGH-VolltextIXZR243/16 stützt Einordnung des unbedingt erteilten Auftrags; ausdrücklich offengelassene bedingte Gestaltung nicht als abschließend entschieden dargestellt. Spätere Anrechnung statt freier Doppelvergütung."
     },
     {
-      "id": "p56",
+      "id": "vv2101",
       "status": "corrected",
-      "assessment": "Beide Absätze und alle verwiesenen §33-Absätze gelesen. Erinnerung ohne entsprechende Mindestbeschwer/Zweiwochenfrist deutlicher von Beschwerde unterschieden. Letztere mit300-Euro-Grenze/Zulassung, Zustellungsfrist, Instanzengrenzen, Wiedereinsetzung und weiterer Beschwerde erklärt. §61-Vorbehalt, Gebührenfreiheit und Nichterstattung bestätigt."
+      "assessment": "Vollständigen Änderungs-/Bezugstarif gelesen. Fest1,3 ersetzt0,5–1,0, kein additiver Zuschlag. Schriftliche Ausarbeitung von bloßer Ergebnismitteilung und Gerichtsvorprüfung getrennt. Anmerkung der Bezugsnummer bleibt für Folgeauftrag bestehen;§34-Verbrauchergrenzen nicht pauschal auf Tarif übertragen. Gutachtenbeispiel geprüft."
     },
     {
-      "id": "p57",
+      "id": "vv2102",
       "status": "corrected",
-      "assessment": "Beide Sätze und amtlichen §62OWiG gelesen. Besonderer gerichtlicher Antrag statt §56-Erinnerung zutreffend. Gerichtszuständigkeitsverweisung, grundsätzliche Unanfechtbarkeit und gesondertes Kostenregime ergänzt. Keine nicht normierte Zweiwochenfrist übernommen und keine pauschale Gebührenfreiheit behauptet."
+      "assessment": "Vollständigen Tatbestand, Rahmen39–419Euro und Anrechnungsanmerkung gelesen. Sozialrechtliche§3-Fälle und BetragsrahmenangelegenheitenTeile4–6 exakt abgegrenzt. Konkrete§14-Bemessung statt Höchstpreis. Schriftgutachtenverweis2103, Auftrag und Folgeanrechnung geprüft. Änderung und1.6.2025-Wirksamkeit am tatsächlichenBGBl109 nachgelesen."
     },
     {
-      "id": "p58",
+      "id": "vv2103",
       "status": "corrected",
-      "assessment": "Alle drei Absätze und §15a gelesen. Beratungshilfe, Vorrang der ungedeckten Teil3-Vergütung und Anrechnungsdeckel richtig. Für Teile4–6 angelegenheitsbezogen, reguläre Gebühren ohne§51 als Doppelbasis und zweite Wahlanwaltshöchstgrenze bestätigt. Zwei-Stufen-Rückrechnungsbeispiel mit ausdrücklich unterstellten Beträgen ergänzt; keine echten Tarifsätze erfunden."
+      "assessment": "Ganzer Tarif geprüft. Rahmen65–719Euro statt festen Satzes, keine Kumulation mit2102,§14 und weitergeltende Anrechnung der Bezugsgebühr erklärt. Schriftgutachten von kurzer Ergebnismitteilung unterschieden. Sozialbeispiel begrenzt auf§3-Fall. Praktische Abschnittsprüfliste ergänzt."
     },
     {
-      "id": "p59",
+      "id": "vv2200",
       "status": "corrected",
-      "assessment": "Alle drei Absätze gelesen. Übergang erst mit Befriedigung, begrenzter personeller Katalog und Schutz verbleibender Anwaltsforderungen ergänzt. Gerichtskostenweg, grundsätzlicher erstinstanzlicher Ansatz und besondere Bundeskassenzuordnung sowie Beratungshilfeübernahme korrekt. Keine Doppelvereinnahmung im Beispiel."
+      "assessment": "Ganzer Tarif mit§28EuRAG gelesen. Konkrete Verfahrensgebühr als Vergleichsbasis, Vertretungsbefugnis und funktionelles Einvernehmen präzisiert. Fehlendes gesetzliches Vertragsverhältnis zum Mandanten nach§28(3) und abweichende Bestimmung erläutert. Schriftlicher Nachweis§29 gesondert geprüft. Keine Annahme automatischer Mandantenhaftung."
     },
     {
-      "id": "p59a",
+      "id": "vv2201",
       "status": "corrected",
-      "assessment": "Alle vier Absätze und Verweisungen gelesen. Staatsanwaltschaftlicher Verteidiger und Zeugenbeistand, besondere IRG/Polizeivertragsfälle und Bundesamtsfestsetzung richtig getrennt. Landgericht am Behördensitz und Generalbundesanwalt/BGH bei gerichtlichem Antrag sowie gesonderte Pauschgebührzuständigkeiten präzisiert. Abschnitt8-Prüfliste erhalten."
-    },
-    {
-      "id": "p59b",
-      "status": "checked_no_change",
-      "assessment": "Ganze Vorschrift mit allen drei Pflichtangaben gelesen. Wortlautfeststellung statt inhaltlicher Gesetzgebung, Stichtag/Änderungen/Inkrafttreten und Abgrenzung zum Abrufdatum korrekt. Historisches Neufassungsdatum nicht als aktueller Rechtsstand behandelt. Unverändert."
-    },
-    {
-      "id": "p60",
-      "status": "corrected",
-      "assessment": "Alle drei Absätze und sämtliche sechs Sätze des Absatz1 geprüft. Unbedingter Auftrag, Geltung für §45/§59a und Wirksamkeitszeitpunkt bei fehlendem Auftrag konkretisiert. Neue miterfasste Angelegenheit von bloßer Tätigkeit in alter Sache getrennt. Ansprüche außerhalb Kasse, Verweisungsänderungen und Gesamtwertregel korrekt. Pflegeberufe-Altfall vor15.8.2019 samt genauer GKG-Verweisung ergänzt."
-    },
-    {
-      "id": "p61",
-      "status": "corrected",
-      "assessment": "Beide Sätze am aktuellen XML und Art14/21BGBl2025INr318 gelesen. Alte200-Euro-Grenze aus tatsächlicher Änderungsanordnung und Ausnahme des Satz2 ausdrücklich ergänzt; genau200 reicht nicht. Wirtschaftliche Beschwer von Wert getrennt. BT21/2777S13–14 bestätigt Änderungs-/Übergangszweck, liefert keine weitergehende Auflösung jedes denkbaren Grenzfalls. Kein bloßes Abrufdatum als Wirksamkeitsbeweis."
-    },
-    {
-      "id": "p62",
-      "status": "corrected",
-      "assessment": "Gesamten Vorbehalt und aktuellen §20ThUG gelesen. Bisher allgemeine Erklärung um Teil6Abschnitt3-Modell, begrenzte §52-Übernahme, gesonderten Beschwerdeweg und besondere Zwischenphase nach Rechtskraft bis erster Tätigkeit im weiteren Verfahren ergänzt. Fiktives Beispiel grenzt diese besondere Angelegenheit ab. Keine nicht geprüften Sonderbeträge rekonstruiert."
-    },
-    {
-      "id": "a1",
-      "status": "corrected",
-      "assessment": "Vollständige amtliche Anlage1 in acht Tabellen einschließlich Gliederung,536Zeilen, aller Vorbemerkungen, Tarif- und Fortsetzungszeilen gelesen. Elterntext im vollständigen Zeichenstrom verglichen,231Tarifnummern und32Vorbemerkungen unabhängig aus amtlichen ersten Tabellenzellen hergeleitet. Elternkommentar um Teilzuordnung, Auslagenabgrenzung, weggefallene Slots und Prüfliste ergänzt. Keine inhaltliche Zweitprüfung der263nicht zugewiesenen Einzelkommentare behauptet."
+      "assessment": "Ganzer Ermäßigungstarif gelesen. Wertgebühr0,1–0,5 von Mindestbetrag einer einschlägigen Verfahrensgebühr unterschieden. Auftrag/Tätigkeit und Vertragspartei bleiben erforderlich. Fiktive Ablehnung nach Prüfung erfüllt keinen vollen Herstellungstatbestand; fremder späterer Erfolg ändert dies nicht automatisch. Abschnittsprüfliste ergänzt."
     }
   ],
   "limitations": [
-    "Exactly20 assigned units substantively reviewed;324 other commentary blocks preserved against55360cebf38ddb97664ee0f0380cb4a6ddadc1b5.",
-    "Review of full Anlage1 source and its parent commentary is not a second pass of the263 separate VV commentaries.",
-    "Selective case research for§51 only; no additional sufficiently relevant verified case asserted for the other19 units, and no exhaustive negative survey claimed.",
-    "Current official RVG consolidation, actual promulgation and commencement, intake comparison and structural duplicates checked; no complete historical archive or guarantee against unincorporated legislation.",
-    "External-law checks limited to the explained cross-references in ZPO104,OWiG62,BerHG4,StPO397b and ThUG20; no complete separate commentary or historical archive check of these statutes.",
-    "No external professional approval and no whole-book completion claimed."
+    "Exactly20 assigned commentary units reviewed; all324 other blocks unchanged against32f768589f443acd40e96421c866edf4016f8862. No whole-book review or completion claim.",
+    "Selective case research for1002/1005 and2100 only; no new sufficiently relevant verified authority asserted for other17units and no exhaustive negative case survey.",
+    "BSG2013 concerns2006/2007 and the former independent1005 framework; current amount mechanics derive from current statute, not that judgment. BGH2017 leaves conditional-process/preliminary-review issue open.",
+    "Current official RVG, intake comparison, duplicate-node/operative-annex coverage and actual commencement checked; not a complete historical archive or guarantee against unincorporated legislation.",
+    "External EuRAG28/29 and FamFG156/269 checked only as cited cross-references; recent promulgations screened for their effect, not complete separate-law commentaries.",
+    "No external professional approval or publication; source/length checks do not certify legal quality."
   ],
   "whole_book_complete": false,
-  "evidence": "review-p47-a1-unit-evidence.json",
+  "evidence": "review-a2-vv2201-unit-evidence.json",
   "preflight": "preflight-result.json",
+  "case_cards": [
+    "cases/bsg-2013-b-11-al-15-12-r.md",
+    "cases/bgh-2017-ix-zr-243-16.md"
+  ],
   "previous_bounded_results": [
     "review-p1-p14-result.json",
     "review-p15-p30-result.json",
-    "review-p31-p46-result.json"
-  ],
-  "case_cards": [
-    "cases/bgh-2019-1-str-454-17.md",
-    "cases/bverfg-2019-1-bvr-1955-17.md"
+    "review-p31-p46-result.json",
+    "review-p47-a1-result.json"
   ],
   "validation": {
-    "status": "passed",
-    "validated_at": "2026-10-20T10:27:45.816902+00:00",
-    "strict": {
-      "repo": "Komentar-DE-RVG-2004",
-      "units": 344,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 313879,
-      "errors": [],
-      "warnings": [],
-      "ok": true
-    },
-    "validated_manuscript_output_commit": "50d0bef",
-    "independent_coverage_ok": true,
-    "expected_units": 344,
-    "parsed_units": 344,
-    "all_assigned_official_texts_equal": true,
-    "all_other_324_commentaries_unchanged": true,
-    "local_links_checked": 188,
-    "broken_local_links": [],
-    "identical_long_sentences": 0,
-    "identical_long_paragraphs": 0,
-    "quality_report": "quality-report.json",
-    "limitations": "Technical whole-band validation does not establish substantive review of unassigned units."
+    "status": "awaiting build and strict validation"
   }
 }

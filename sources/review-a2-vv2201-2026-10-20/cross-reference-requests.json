@@ -1,0 +1,63 @@
+[
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2025/109/regelungstext.pdf?__blob=publicationFile&v=2",
+    "accessed_at": "2026-10-20T10:29:28.561428+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "local_path": "sources/review-a2-vv2201-2026-10-20/bgbl-109.pdf",
+    "sha256": "1ff13f868178c6ca85497562b13de3e37a591793b5fe9f820432210ca17fc36d",
+    "validated_format": "PDF magic"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/eurag/xml.zip",
+    "accessed_at": "2026-10-20T10:29:28.958667+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "local_path": "sources/review-a2-vv2201-2026-10-20/eurag.zip",
+    "sha256": "e0cca7cc0093f5f4e7952908baa1d65c1871c7fce840202688bcf51082d5c351",
+    "validated_format": "ZIP/XML parsed, jurabk checked",
+    "xml_sha256": "35a076a97f178aa6c486fefa1a51ad2dafc322c994cddfa263caad2e8f51f072",
+    "xml_path": "sources/review-a2-vv2201-2026-10-20/eurag.xml"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+    "accessed_at": "2026-10-20T10:29:29.073640+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "local_path": "sources/review-a2-vv2201-2026-10-20/famfg.zip",
+    "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+    "validated_format": "ZIP/XML parsed, jurabk checked",
+    "xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+    "xml_path": "sources/review-a2-vv2201-2026-10-20/famfg.xml"
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2026/192/regelungstext.pdf?__blob=publicationFile&v=2",
+    "accessed_at": "2026-10-20T10:34:54.734698+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "local_path": "sources/review-a2-vv2201-2026-10-20/bgbl-2026-192.pdf",
+    "sha256": "15fcf268bd8ec91b2c27933d163d5ffbad40ac7dc6af37ba6a70300b112d0ce2",
+    "validated_format": "PDF signature, text extracted separately",
+    "purpose": "Limited commencement and amendment check for cited FamFG/EuRAG cross-references"
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2026/198/regelungstext.pdf?__blob=publicationFile&v=2",
+    "accessed_at": "2026-10-20T10:34:55.094546+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "local_path": "sources/review-a2-vv2201-2026-10-20/bgbl-2026-198.pdf",
+    "sha256": "566f873ec04357c83d73ca87012b77a7a698f6ce146c38fe6c1ae7b7676583dc",
+    "validated_format": "PDF signature, text extracted separately",
+    "purpose": "Limited commencement and amendment check for cited FamFG/EuRAG cross-references"
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2024/320/regelungstext.pdf?__blob=publicationFile&v=2",
+    "accessed_at": "2026-10-20T10:34:55.340224+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "local_path": "sources/review-a2-vv2201-2026-10-20/bgbl-2024-320.pdf",
+    "sha256": "ad8c6731721b453341f22f0927dd197ddbe408a61ee0cf8b3474bbf91892b10f",
+    "validated_format": "PDF signature, text extracted separately",
+    "purpose": "Limited commencement and amendment check for cited FamFG/EuRAG cross-references"
+  }
+]

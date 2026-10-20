@@ -3,7 +3,7 @@
   "title": "Gesetz über die Vergütung der Rechtsanwältinnen und Rechtsanwälte",
   "country": "de",
   "decisive_date": "2026-10-19",
-  "updated_at": "2026-10-20T10:27:45.816902+00:00",
+  "updated_at": "2026-10-20T10:39:07.501486+00:00",
   "stage": "bounded_review_checkpoint",
   "official_norm_units": 81,
   "numbered_paragraphs": 79,
@@ -12,7 +12,7 @@
   "operative_preliminary_remarks": 32,
   "total_units": 344,
   "completed_units": 344,
-  "commentary_chars": 313879,
+  "commentary_chars": 328611,
   "chapters": 17,
   "source_checks": {
     "official_source": "https://www.gesetze-im-internet.de/rvg/",
@@ -27,8 +27,9 @@
     "preflight_version_evidence": "sources/preflight-version-evidence.json",
     "annex_coverage": "annex-coverage.json",
     "frontmatter": "sources/rvg-frontmatter.json",
-    "bounded_review_recheck": "sources/review-p47-a1-2026-10-20/requests.json",
-    "additional_authorities": "sources/review-p47-a1-2026-10-20/authority-requests.json"
+    "bounded_review_recheck": "sources/review-a2-vv2201-2026-10-20/requests.json",
+    "additional_authorities": "sources/review-a2-vv2201-2026-10-20/authority-requests.json",
+    "assigned_version_evidence": "sources/review-a2-vv2201-2026-10-20/version-evidence.json"
   },
   "case_law_sources": [
     {
@@ -86,17 +87,25 @@
       "docket": "1 BvR 1955/17",
       "ecli": "ECLI:DE:BVerfG:2019:rk20190722.1bvr195517",
       "source": "sources/review-p47-a1-2026-10-20/KVRE432221901.xml"
+    },
+    {
+      "court": "BSG",
+      "date": "2013-12-17",
+      "docket": "B 11 AL 15/12 R",
+      "ecli": "ECLI:DE:BSG:2013:171213UB11AL1512R0",
+      "source": "sources/review-a2-vv2201-2026-10-20/KSRE148681527.xml"
+    },
+    {
+      "court": "BGH",
+      "date": "2017-12-14",
+      "docket": "IX ZR 243/16",
+      "ecli": "ECLI:DE:BGH:2017:141217UIXZR243.16.0",
+      "source": "sources/review-a2-vv2201-2026-10-20/KORE308052018.xml"
     }
   ],
-  "case_law_scope": "Eight selectively verified decisions for §§3a,15,15a,33,37,51; no exhaustive research of all344 units.",
+  "case_law_scope": "Ten selectively verified decisions: six BGH, three BVerfG and one BSG; new batch sources support1002/1005 and2100. No exhaustive per-unit research.",
   "validation": {
-    "repo": "Komentar-DE-RVG-2004",
-    "units": 344,
-    "verbatim_ratio": 1.0,
-    "commentary_chars": 313879,
-    "errors": [],
-    "warnings": [],
-    "ok": true
+    "status": "awaiting build and strict validation"
   },
   "completeness": {
     "report": "completeness.json",
@@ -106,11 +115,12 @@
     "ok": true
   },
   "remaining_limitations": [
-    "Current bounded substantive review covers exactly20 IDs p31–p46; all324 unassigned texts preserved. Previous bounded results retained separately. Whole-book review remains incomplete; no external legal approval.",
-    "Six selective full-text decisions: four BGH, two BVerfG; no exhaustive per-unit case-law survey.",
-    "External procedural, tax and professional laws referenced by RVG are not separately reproduced or comprehensively commented.",
-    "Consolidation/current-update verification cannot guarantee discovery of unpublished or not-yet-incorporated legislation.",
-    "Bounded review p47–a1 covers20 exact units, including full annex source and parent commentary;263 VV child commentaries remain outside this pass."
+    "Exactly20 assigned commentary units reviewed; all324 other blocks unchanged against32f768589f443acd40e96421c866edf4016f8862. No whole-book review or completion claim.",
+    "Selective case research for1002/1005 and2100 only; no new sufficiently relevant verified authority asserted for other17units and no exhaustive negative case survey.",
+    "BSG2013 concerns2006/2007 and the former independent1005 framework; current amount mechanics derive from current statute, not that judgment. BGH2017 leaves conditional-process/preliminary-review issue open.",
+    "Current official RVG, intake comparison, duplicate-node/operative-annex coverage and actual commencement checked; not a complete historical archive or guarantee against unincorporated legislation.",
+    "External EuRAG28/29 and FamFG156/269 checked only as cited cross-references; recent promulgations screened for their effect, not complete separate-law commentaries.",
+    "No external professional approval or publication; source/length checks do not certify legal quality."
   ],
   "unresolved_material_source_blockers": [],
   "independent_review_complete": false,
@@ -136,53 +146,55 @@
     "independent_coverage_ok": true
   },
   "bounded_review": {
-    "complete": true,
+    "complete": false,
     "units_reviewed": 20,
     "reviewed_ids": [
-      "p47",
-      "p48",
-      "p49",
-      "p50",
-      "p51",
-      "p52",
-      "p53",
-      "p53a",
-      "p54",
-      "p55",
-      "p56",
-      "p57",
-      "p58",
-      "p59",
-      "p59a",
-      "p59b",
-      "p60",
-      "p61",
-      "p62",
-      "a1"
+      "a2",
+      "vb1",
+      "vv1000",
+      "vv1001",
+      "vv1002",
+      "vv1003",
+      "vv1004",
+      "vv1005",
+      "vv1006",
+      "vv1007",
+      "vv1008",
+      "vv1009",
+      "vv1010",
+      "vb2",
+      "vv2100",
+      "vv2101",
+      "vv2102",
+      "vv2103",
+      "vv2200",
+      "vv2201"
     ],
     "changed_ids": [
-      "p48",
-      "p49",
-      "p51",
-      "p52",
-      "p55",
-      "p56",
-      "p57",
-      "p58",
-      "p59",
-      "p59a",
-      "p60",
-      "p61",
-      "p62",
-      "a1"
+      "a2",
+      "vv1000",
+      "vv1002",
+      "vv1003",
+      "vv1004",
+      "vv1005",
+      "vv1006",
+      "vv1008",
+      "vv1009",
+      "vv1010",
+      "vv2100",
+      "vv2101",
+      "vv2102",
+      "vv2103",
+      "vv2200",
+      "vv2201"
     ],
     "unresolved_blockers": [],
-    "result": "review-result.json",
+    "result": "review-a2-vv2201-result.json",
     "unassigned_units_preserved": 324,
     "whole_book_review_complete": false,
-    "validation": "passed",
-    "strict_validation_ok": true,
-    "validated_output_commit": "50d0bef"
+    "validation": {
+      "status": "awaiting build and strict validation"
+    }
   },
   "previous_bounded_review": {
     "result": "review-p1-p14-result.json",
@@ -374,6 +386,56 @@
       "whole_book_review_complete": false,
       "strict_validation_ok": true,
       "validated_output_commit": "a72b224"
+    },
+    {
+      "complete": true,
+      "units_reviewed": 20,
+      "reviewed_ids": [
+        "p47",
+        "p48",
+        "p49",
+        "p50",
+        "p51",
+        "p52",
+        "p53",
+        "p53a",
+        "p54",
+        "p55",
+        "p56",
+        "p57",
+        "p58",
+        "p59",
+        "p59a",
+        "p59b",
+        "p60",
+        "p61",
+        "p62",
+        "a1"
+      ],
+      "changed_ids": [
+        "p48",
+        "p49",
+        "p51",
+        "p52",
+        "p55",
+        "p56",
+        "p57",
+        "p58",
+        "p59",
+        "p59a",
+        "p60",
+        "p61",
+        "p62",
+        "a1"
+      ],
+      "unresolved_blockers": [],
+      "result": "review-p47-a1-result.json",
+      "unassigned_units_preserved": 324,
+      "whole_book_review_complete": false,
+      "validation": "passed",
+      "strict_validation_ok": true,
+      "validated_output_commit": "50d0bef"
     }
-  ]
+  ],
+  "whole_book_review_complete": false
 }

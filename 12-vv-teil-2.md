@@ -23,7 +23,11 @@ Absatz 1 stellt die besonderen Regeln für Beratung, Steuerhilfe und Schiedsverf
 >
 > Die Gebühr ist auf eine Gebühr für das Rechtsmittelverfahren anzurechnen. | |
 
-Die eigenständig beauftragte Prüfung von Rechtsmittelaussichten erhält eine Rahmenwertgebühr, soweit Nr. 2102 kein besonderes Betragsrahmenmodell vorgibt. Das Ergebnis muss nicht zugunsten der Rechtsmitteleinlegung ausfallen. Die Anrechnung auf eine Gebühr des späteren Rechtsmittelverfahrens verhindert Doppelvergütung derselben Vorbereitung. Beispiel: Nach einem Urteil wird die Kanzlei zunächst nur um eine Erfolgseinschätzung gebeten. Ein später gesondert erteilter Berufungsauftrag macht die Prüfungsgebühr nicht gegenstandslos, verlangt aber die Anrechnung. War dagegen von Anfang an ein unbedingter Rechtsmittelauftrag erteilt, ist die Prüfung als Teil dieses Auftrags einzuordnen; eine zusätzliche Prüfungsgebühr darf nicht allein durch interne Aufteilung erzeugt werden.
+Die gesondert beauftragte Prüfung von Rechtsmittelaussichten erhält eine Wertgebühr von 0,5 bis 1,0, soweit Nr. 2102 kein Betragsrahmenmodell vorgibt. Die konkrete Bestimmung erfolgt anhand des § 14 Absatz 1; weder der Höchstsatz noch ein positives Prüfungsergebnis ist Voraussetzung jeder Vergütung. Ein schriftlich ausgearbeitetes Gutachten führt zu Nr. 2101. Die Anmerkung schreibt die Anrechnung auf eine Gebühr des späteren Rechtsmittelverfahrens vor. Der Unterschied zum bloßen Rat nach § 34 folgt aus dem spezifischen Prüfgegenstand und dem ausdrücklichen Vorbehalt in § 34 Absatz 1.
+
+Von einem solchen Prüfmandat ist die Prüfung innerhalb eines bereits unbedingt erteilten Rechtsmittelauftrags zu unterscheiden. BGH, Urteil vom 14. Dezember 2017 – IX ZR 243/16, Rn. 12–19, ordnet die Prüfung nach auftragsgemäßer Einlegung einer Nichtzulassungsbeschwerde der Verfahrensgebühr zu; eine zusätzliche Nr. 2100 entsteht dadurch nicht. Rn. 17 lässt die allgemeine Einordnung einer ausdrücklich vorgeschalteten Prüfung bei nur bedingtem Prozessauftrag offen. Die Entscheidung belegt daher keinen pauschalen Ausschluss jeder Verbindung von Prüf- und bedingtem Folgeauftrag; [Fallkarte](cases/bgh-2017-ix-zr-243-16.md).
+
+Beispiel: Nach einem Urteil wird eine Kanzlei zunächst ausschließlich um eine Erfolgseinschätzung gebeten. Ein später erteilter Berufungsauftrag verlangt die tarifliche Anrechnung der bereits entstandenen Prüfungsgebühr. Lautete der Auftrag von Beginn an unbedingt auf Einlegung und Durchführung, kann die Kanzlei nicht allein durch interne Aufteilung der Aktenbearbeitung eine weitere außergerichtliche Prüfungsgebühr erzeugen. Auftrag und Zeitpunkt seiner Erweiterung sollten deshalb festgehalten werden.
 
 ### Nr. 2101 VV — Die Prüfung der Erfolgsaussicht eines Rechtsmittels ist mit der Ausarbeitung eines schriftlichen Gutachtens verbunden:
 
@@ -34,7 +38,11 @@ Die eigenständig beauftragte Prüfung von Rechtsmittelaussichten erhält eine R
 >
 > 1,3 |
 
-Die schriftliche gutachtliche Ausarbeitung hebt die Gebühr nach Nr. 2100 auf den festen Satz 1,3. Nicht jeder schriftlich versandte kurze Hinweis ist schon ein ausgearbeitetes Gutachten. Maßgeblich sind der beschränkte Prüfauftrag und seine tatsächliche Erfüllung. Beispiel: Die Kanzlei analysiert die tragenden Urteilsgründe, Rechtsmittelzulässigkeit und Erfolgsaussichten in einem eigenständigen Gutachten. Die besondere Nummer ist dann gegenüber der einfachen Prüfungsgebühr zu prüfen. Die aus Nr. 2100 folgende Anrechnung im späteren Rechtsmittelmandat bleibt relevant; Nr. 2101 schafft keinen zusätzlichen kumulativen Gutachtenzuschlag neben einer nochmals vollen Prüfungsgebühr.
+Ist die Prüfung der Rechtsmittelaussichten mit der Ausarbeitung eines schriftlichen Gutachtens verbunden, beträgt die Gebühr nach Nr. 2100 statt des Rahmens 0,5 bis 1,0 den festen Satz 1,3. Die Nr. 2101 begründet keinen zusätzlichen Gutachtenzuschlag neben einer nochmals vollen Nr. 2100. Der Gegenstand bleibt die gesondert vergütungsfähige Rechtsmittelprüfung; ein Gutachten innerhalb eines unbedingt erteilten Verfahrensauftrags wird nicht allein durch seine schriftliche Form zum selbständigen Prüfmandat.
+
+Nicht jede schriftlich versandte Ergebnisnachricht ist eine gutachtliche Ausarbeitung. Erkennbar sein müssen eine auf den konkreten Rechtsmittelfall bezogene Aufbereitung und begründete rechtliche Beurteilung. Für die spätere Übernahme des Rechtsmittelverfahrens bleibt die Anrechnung aus Nr. 2100 maßgeblich: Die Verweisung ändert den Satz jener Gebühr, beseitigt aber nicht deren Anmerkung. Die gesetzlichen Beratungshöchstbeträge des § 34 sind nicht einfach auf diesen besonderen Wertgebührentatbestand zu übertragen.
+
+Beispiel: Auf zunächst beschränkten Auftrag analysiert die Kanzlei Urteilsgründe, Zulässigkeit und Erfolgsaussichten der Berufung in einer eigenständigen schriftlichen Ausarbeitung. Hier ist der Satz 1,3 zu prüfen. Eine kurze Nachricht „Berufung aussichtslos“ rechtfertigt dieselbe Einordnung ohne ausgearbeitete Prüfung nicht. Geht das Mandat später in die Prozessvertretung über, muss die Rechnung die vorgesehene Anrechnung berücksichtigen.
 
 ### Nr. 2102 VV — Gebühr für die Prüfung der Erfolgsaussicht eines Rechtsmittels in sozialrechtlichen Angelegenheiten, in denen im gerichtlichen Verfahren Betragsrahmengebühren e
 
@@ -46,7 +54,11 @@ Die schriftliche gutachtliche Ausarbeitung hebt die Gebühr nach Nr. 2100 auf de
 >
 > Die Gebühr ist auf eine Gebühr für das Rechtsmittelverfahren anzurechnen. | |
 
-Für die genannten sozialrechtlichen und sonstigen Betragsrahmenangelegenheiten wird die Rechtsmittelaussichtenprüfung als Geldrahmen bemessen. Die konkrete Gebühr folgt § 14; der Höchstbetrag ist kein Regelpreis. Auch hier ist die Gebühr auf eine Gebühr des anschließenden Rechtsmittelverfahrens anzurechnen. Beispiel: Nach einer strafgerichtlichen Entscheidung wird ein anderer Anwalt allein zur Prüfung einer Revision beauftragt. Zunächst sind Umfang des isolierten Auftrags, das passende Gebührenmodell und die tatsächlich erbrachte Prüfung festzustellen. Eine spätere Verteidigung im Rechtsmittelzug erfordert dann die Verknüpfung durch Anrechnung. Ein schriftliches Gutachten kann zur besonderen Nr. 2103 führen.
+Die Nummer gilt für sozialrechtliche Angelegenheiten mit gerichtlichen Betragsrahmengebühren nach § 3 und für Angelegenheiten, für die nach den Teilen 4 bis 6 Betragsrahmengebühren entstehen. Sie ersetzt für die gesonderte Rechtsmittelaussichtenprüfung das Wertgebührenmodell der Nr. 2100 durch den Geldrahmen von 39 bis 419 Euro. Nicht jede öffentlich-rechtliche Sache ist schon deshalb ein Betragsrahmenfall; zuerst ist die gesetzliche Zuordnung zu bestimmen. Die konkrete Gebühr folgt § 14 Absatz 1, der Höchstbetrag ist kein Regelpreis.
+
+Auch hier ist die Gebühr auf eine Gebühr des anschließenden Rechtsmittelverfahrens anzurechnen. Ein schriftlich ausgearbeitetes Gutachten führt zur Nr. 2103. Die Prüfung muss eigenständig beauftragt und geleistet sein. Die im Rahmen einer bereits übernommenen Rechtsmittelverteidigung notwendige Prüfung wird nicht allein wegen ihres Arbeitsumfangs zusätzlich als außergerichtlicher Prüfauftrag abgerechnet. Die geltenden Beträge beruhen auf Artikel 11 Absatz 2 Nrn. 1 und 2 KostBRÄG 2025, wirksam seit 1. Juni 2025; für ältere Aufträge bleibt § 60 vorgeschaltet.
+
+Beispiel: Nach einem Strafurteil erhält ein anderer Rechtsanwalt zunächst nur den Auftrag, die Erfolgsaussichten einer Revision zu untersuchen. Sein begrenzter Auftrag, die tatsächliche Prüfung und die Bemessungsumstände sind festzustellen. Wird er später auch mit dem Rechtsmittelverfahren beauftragt, ist die entstandene Prüfungsgebühr anzurechnen. Dass der erste Prüfbericht von der Revision abrät, macht eine ordnungsgemäß beauftragte und erbrachte Prüfung nicht gebührenfrei.
 
 ### Nr. 2103 VV — Die Prüfung der Erfolgsaussicht eines Rechtsmittels ist mit der Ausarbeitung eines schriftlichen Gutachtens verbunden:
 
@@ -57,7 +69,13 @@ Für die genannten sozialrechtlichen und sonstigen Betragsrahmenangelegenheiten 
 >
 > 65,00 bis 719,00 € |
 
-Die schriftliche gutachtliche Ausarbeitung erhöht im Anwendungsbereich der Nr. 2102 den Betragsrahmen. Innerhalb dieses Rahmens bleibt eine konkrete Bemessung nach § 14 erforderlich. Die Nummer ersetzt das einfachere Prüfungsmodell; beide Gebühren werden nicht zusätzlich addiert. Beispiel: Ein Anwalt erstellt auf begrenzten Auftrag ein ausführliches Gutachten zu den Erfolgsaussichten eines sozialrechtlichen Rechtsmittels. Neben der Feststellung, dass ein Gutachten vorliegt, muss er Umfang und Schwierigkeit sowie die übrigen Bemessungsumstände begründen. Die spätere Rechtsmitteleinlegung löst die Anrechnungsfrage aus. Eine gewöhnliche Mandantenmitteilung mit bloßem Ergebnis rechtfertigt nicht ohne Weiteres den höheren Gutachtenrahmen.
+Die schriftliche gutachtliche Ausarbeitung verändert im Anwendungsbereich der Nr. 2102 den Geldrahmen auf 65 bis 719 Euro. Anders als Nr. 2101 nennt die Vorschrift keinen festen Satz; innerhalb des erweiterten Rahmens ist die konkrete Gebühr weiterhin nach § 14 Absatz 1 zu bestimmen. Ein besonders sorgfältiges Gutachten rechtfertigt deshalb nicht automatisch den Höchstbetrag. Die Anforderung einer eigenständigen gutachtlichen Ausarbeitung ist von einer gewöhnlichen schriftlichen Mitteilung des Prüfungsergebnisses zu unterscheiden.
+
+Die Nummer setzt die nach Nr. 2102 vergütungsfähige Rechtsmittelaussichtenprüfung voraus und verändert deren Höhe. Beide Gebühren werden nicht addiert. Die Anrechnung auf eine Gebühr des späteren Rechtsmittelverfahrens gilt entsprechend der Anmerkung zur Bezugsnummer weiter. Auch der höhere Rahmen ersetzt nicht die vorgelagerte Abgrenzung zum bereits unbedingt übernommenen gerichtlichen Verfahrensauftrag.
+
+Beispiel: Eine Anwältin erstellt auf beschränkten Auftrag ein ausführliches Gutachten über die Zulässigkeit und Begründetheit eines sozialrechtlichen Rechtsmittels in einem §-3-Fall. Sie muss neben dem Vorliegen eines Gutachtens Umfang, Schwierigkeit und die übrigen Umstände ihrer Gebührenbestimmung begründen. Eine später übernommene Vertretung im Rechtsmittelzug erfordert anschließend die Anrechnung. Der Betrag von 719 Euro ist eine gesetzliche Rahmengrenze, kein pauschaler Gutachtenpreis.
+
+Prüfliste zur Rechtsmittelvorprüfung: Auftrag und etwaige Bedingung dokumentieren; Wert- oder Betragsrahmenmodell wählen; schriftliches Gutachten von Ergebnisnachricht unterscheiden; Höhe begründen; bei anschließendem Verfahrensmandat Anrechnung erfassen.
 
 #### Abschnitt 2 Herstellung des Einvernehmens
 
@@ -72,7 +90,11 @@ Die schriftliche gutachtliche Ausarbeitung erhöht im Anwendungsbereich der Nr. 
 > zustehenden
 > Verfahrensgebühr |
 
-Die Herstellung des bezeichneten europarechtlichen Einvernehmens wird mit einer Geschäftsgebühr in Höhe der Verfahrensgebühr eines Bevollmächtigten oder Verteidigers vergütet. Der Vergleichsmaßstab richtet sich also nach dem konkreten Verfahren; die Nummer nennt keinen einheitlichen festen Eurobetrag. Beispiel: Ein in einem anderen Mitgliedstaat tätiger Anwalt benötigt für das inländische Verfahren das gesetzlich vorgesehene Einvernehmen. Wird dieses durch den hierfür beauftragten Anwalt hergestellt, ist die passende Verfahrensgebühr als Bezugsgröße zu bestimmen. Eine bloße Korrespondenz zwischen Berufsträgern ohne die gesetzlichen Voraussetzungen löst den Sondertatbestand nicht aus. Scheitert die Herstellung, ist Nr. 2201 statt des vollen Modells zu prüfen.
+Die Geschäftsgebühr entsteht für die Herstellung des Einvernehmens nach § 28 EuRAG. Sie entspricht der einem Bevollmächtigten oder Verteidiger zustehenden Verfahrensgebühr des konkreten Verfahrens. Es gibt daher weder einen einheitlichen Eurobetrag noch einen stets geltenden Wertgebührensatz. Zuerst sind Verfahrensart und das einschlägige Vergütungsmodell zu bestimmen. Wird das Einvernehmen nicht hergestellt, gilt die besondere Ermäßigung der Nr. 2201.
+
+§ 28 Absatz 1 EuRAG betrifft den dienstleistenden europäischen Rechtsanwalt in den bezeichneten gerichtlichen und behördlichen Verfahren, in denen der Mandant den Rechtsstreit nicht selbst führen oder sich nicht selbst verteidigen kann. Der Einvernehmensanwalt muss nach Absatz 2 dort zur Vertretung oder Verteidigung befugt sein und auf die Beachtung einer geordneten Rechtspflege hinwirken. Bloße berufliche Korrespondenz ohne diese Funktion genügt nicht. Nach Absatz 3 entsteht zwischen ihm und dem Mandanten ohne abweichende Bestimmung der Beteiligten gerade kein Vertragsverhältnis; der Gebührentatbestand allein beweist deshalb keine unmittelbare Zahlungspflicht des Mandanten.
+
+Beispiel: Eine europäische Rechtsanwältin beauftragt einen hierzu befugten inländischen Anwalt für ein Verfahren mit vorgeschriebenem Einvernehmen. Wird dieses hergestellt, richtet sich dessen Gebührenhöhe nach der einschlägigen Verfahrensgebühr. Die Rechnung muss den tatsächlichen Auftraggeber und eine etwa abweichende Vereinbarung über das Mandantenverhältnis unterscheiden. Für den Nachweis gegenüber Gericht oder Behörde ist daneben § 29 EuRAG zu beachten; eine allgemeine Kooperationszusage ersetzt den vorgeschriebenen Nachweis nicht.
 
 ### Nr. 2201 VV — Das Einvernehmen wird nicht hergestellt:
 
@@ -89,7 +111,13 @@ Die Herstellung des bezeichneten europarechtlichen Einvernehmens wird mit einer 
 > zustehenden
 > Verfahrensgebühr |
 
-Wird das Einvernehmen nicht hergestellt, tritt an die Stelle des vollen Anspruchs der Nr. 2200 die besondere reduzierte Gebühr. Der Tarif unterscheidet Wertgebühr und den Mindestbetrag einer einschlägigen Verfahrensgebühr. Scheitern bedeutet damit nicht notwendig Gebührenfreiheit, aber auch keine Vergütung in voller Höhe wie bei erreichtem Einvernehmen. Beispiel: Nach Prüfung der Unterlagen lehnt der beauftragte Anwalt die erforderliche Mitwirkung ab. Er muss den begrenzten Tätigkeitsumfang und das einschlägige Grundverfahren bestimmen. Eine spätere anderweitige Herstellung durch einen anderen Anwalt ändert nicht automatisch den eigenen, tatsächlich unerfüllten Auftrag in den vollen Tatbestand der Nr. 2200.
+Wird das Einvernehmen nach § 28 EuRAG nicht hergestellt, ermäßigt die Nummer die Geschäftsgebühr der Nr. 2200. Bei Wertgebühren gilt ein Rahmen von 0,1 bis 0,5; beim anderen Gebührenmodell ist der Mindestbetrag der einem Bevollmächtigten oder Verteidiger zustehenden Verfahrensgebühr maßgeblich. Diese Alternativen dürfen nicht addiert und ein Geldmindestbetrag darf nicht als Gebührensatz gelesen werden. Für die Bestimmung innerhalb des Satzrahmens sind die Umstände des § 14 Absatz 1 heranzuziehen.
+
+Der fehlende Herstellungserfolg führt damit nicht notwendig zur Gebührenfreiheit. Er erlaubt aber auch nicht die ungekürzte Vergleichsvergütung der Nr. 2200. Erforderlich bleiben ein einschlägiger Auftrag und eine darauf bezogene anwaltliche Tätigkeit; eine unverlangte allgemeine Anfrage macht noch keinen Vergütungsanspruch gegen den Mandanten. Die Frage, wer Vertragspartner ist, beurteilt sich insbesondere nach § 28 Absatz 3 EuRAG und einer etwaigen abweichenden Bestimmung.
+
+Beispiel: Nach beauftragter Durchsicht der Verfahrensunterlagen lehnt der vorgesehene Einvernehmensanwalt die Herstellung ab. Er muss Verfahren, Auftraggeber und tatsächlich geleistete Prüfung feststellen. Bei einem wertabhängigen Grundverfahren ist sodann ein Satz zwischen 0,1 und 0,5 zu bestimmen, nicht automatisch die volle Verfahrensgebühr anzusetzen. Stellt später ein anderer Anwalt das Einvernehmen her, macht dessen Erfolg den eigenen zuvor erfolglos gebliebenen Auftrag nicht nachträglich zum vollen Tatbestand.
+
+Prüfliste zur Einvernehmensherstellung: gesetzliches Erfordernis und Befugnis feststellen; Auftraggeber und etwaiges Mandantenverhältnis klären; Herstellungserfolg und Nachweis dokumentieren; Bezugstarif bestimmen; bei Ausbleiben des Einvernehmens die passende Alternative der Nr. 2201 verwenden.
 
 #### Abschnitt 3 Vertretung
 

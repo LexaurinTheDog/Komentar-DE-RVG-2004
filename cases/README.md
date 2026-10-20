@@ -20,3 +20,8 @@ Diese beiden Volltexte ergänzen die Prüfung von §§ 31–46. [Suchprotokoll](
 - [BVerfG, 22.7.2019 – 1 BvR 1955/17](bverfg-2019-1-bvr-1955-17.md): konkrete Zumutbarkeitsprüfung beim Zeugenbeistand, Darlegung der Belastung und offene weitere Härtefälle.
 
 Diese beiden Entscheidungen ergänzen die begrenzte Prüfung von §§ 47–62 und Anlage 1 ausschließlich bei § 51. Die damaligen Gebührenbeträge werden als historisch gekennzeichnet. [Suchprotokoll](../sources/review-p47-a1-2026-10-20/search-log.json), [Quellenprotokoll](../sources/review-p47-a1-2026-10-20/authority-requests.json) und [vollständiger Korpusvergleich](../sources/review-p47-a1-2026-10-20/case-source-comparison.json) sichern die selektive Recherche. Für die übrigen 19 zugewiesenen Einheiten wird keine weitere verifizierte Entscheidung behauptet.
+
+- [BSG, 17.12.2013 – B 11 AL 15/12 R](bsg-2013-b-11-al-15-12-r.md): qualifizierte erledigungsgerichtete Mitwirkung im isolierten Vorverfahren; damalige Betragsrahmen sind historisch.
+- [BGH, 14.12.2017 – IX ZR 243/16](bgh-2017-ix-zr-243-16.md): Vorprüfung im unbedingt erteilten Rechtsmittelauftrag; bedingte Auftragsgestaltung ausdrücklich offengelassen.
+
+Diese Volltexte ergänzen ausschließlich die begrenzte Prüfung von Anlage 2 und den zugewiesenen ersten VV-Einheiten bei Nrn. 1002, 1005 und 2100. [Suchprotokoll](../sources/review-a2-vv2201-2026-10-20/search-log.json), [amtliche Abrufe](../sources/review-a2-vv2201-2026-10-20/authority-requests.json) und [Korpusvergleich](../sources/review-a2-vv2201-2026-10-20/case-source-comparison.json) grenzen Herkunft und Verwendung ab. Für die anderen 17 Einheiten wird keine neue verifizierte Entscheidung behauptet.

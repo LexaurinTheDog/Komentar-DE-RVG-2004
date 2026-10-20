@@ -1,0 +1,95 @@
+---
+source: rechtsprechung-im-internet
+country: de
+document_type: decision
+court: BSG
+chamber: 11. Senat
+ecli: ECLI:DE:BSG:2013:171213UB11AL1512R0
+doknr: KSRE148681527
+case_number: B 11 AL 15/12 R
+date: '2013-12-17'
+decision_type: Urteil
+norms: § 63 Abs 1 S 1 SGB 10, § 63 Abs 2 SGB 10, § 2 Abs 2 S 1 RVG, § 3 RVG, Nr 1002
+  RVG-VV, Nr 1005 RVG-VV, Nr 2400 RVG-VV
+prior_instance: 'vorgehend SG Konstanz, 15. März 2011, Az: S 2 AL 722/08, Gerichtsbescheid
+
+
+  vorgehend Landessozialgericht Baden-Württemberg, 14. Juni 2012, Az: L 12 AL 1074/12,
+  Urteil'
+source_url: https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KSRE148681527
+download_url: https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KSRE148681527.zip
+chars: 12248
+license: amtliches Werk (§ 5 UrhG)
+retrieved_at: '2026-10-03T23:18:45Z'
+---
+
+# BSG B 11 AL 15/12 R (2013-12-17)
+
+- **Gericht:** BSG 11. Senat
+- **Datum:** 2013-12-17
+- **Aktenzeichen:** B 11 AL 15/12 R
+- **ECLI:** ECLI:DE:BSG:2013:171213UB11AL1512R0
+- **Dokumenttyp:** Urteil
+- **Normen:** § 63 Abs 1 S 1 SGB 10, § 63 Abs 2 SGB 10, § 2 Abs 2 S 1 RVG, § 3 RVG, Nr 1002 RVG-VV, Nr 1005 RVG-VV, Nr 2400 RVG-VV
+
+## Titelzeile
+
+Sozialrechtliches Verwaltungsverfahren - Erstattung von Kosten im Vorverfahren - Rechtsanwaltsvergütung - Entstehen der Erledigungsgebühr - Hinweis auf laufendes Strafverfahren und spätere Vorlage des Strafurteils - Geschäftsgebühr
+
+## Tenor
+
+Auf die Revision des Klägers wird das Urteil des Landessozialgerichts Baden-Württemberg vom 14.6.2012 geändert. Die Berufung der Beklagten gegen den Gerichtsbescheid des Sozialgerichts Konstanz vom 15.3.2011 wird mit der Maßgabe zurückgewiesen, dass die Beklagte dem Kläger nur weitere 285,60 Euro zu zahlen hat. Im Übrigen wird die Revision des Klägers zurückgewiesen.
+
+Die Beklagte hat dem Kläger 85 vom Hundert der Kosten des Rechtsstreits zu erstatten.
+
+## Tatbestand
+
+1 Streitig ist die Höhe der von der Beklagten dem Kläger zu erstattenden Aufwendungen für die Hinzuziehung eines Bevollmächtigten im Vorverfahren.
+
+2 Die Beklagte, die über das zuständige Hauptzollamt von Ermittlungen gegen den Kläger wegen des Verdachts auf Leistungsmissbrauch erfahren hatte, erließ dem Kläger gegenüber einen Bescheid vom 11.9.2006, mit dem sie unter Hinweis auf eine angeblich nicht angezeigte selbständige Tätigkeit die Entscheidung über die Bewilligung von Arbeitslosengeld (Alg) für die Zeit ab 2.7.2003 aufhob und Erstattung von Alg und von Beiträgen in der Gesamthöhe von 9132,32 Euro verlangte.
+
+3 Gegen diesen Bescheid erhob der Kläger durch seinen bevollmächtigten Rechtsanwalt Widerspruch. Nach Akteneinsicht teilte der Bevollmächtigte des Klägers der Beklagten mit, es sei unzutreffend, dass der Kläger im streitigen Zeitraum eine selbständige Tätigkeit ausgeübt habe; da die Entscheidung im Widerspruchsverfahren nicht unabhängig von dem noch laufenden Strafverfahren, in dem der Kläger durch einen anderen Rechtsanwalt vertreten werde, getroffen werden könne, werde angeregt, das Verfahren bis zum Ausgang des Strafverfahrens ruhend zu stellen. Die Beklagte ließ daraufhin das Widerspruchsverfahren ruhen. Nachdem der Bevollmächtigte der Beklagten im Oktober 2007 das vollständige Urteil des Amtsgerichts (AG) K. vorgelegt hatte, aus dem sich ergab, dass der Kläger freigesprochen worden war, nahm die Beklagte mit Abhilfebescheid vom 19.10.2007 den Bescheid vom 11.9.2006 zurück und erklärte sich bereit, die Kosten im notwendigen Umfang zu erstatten. Außerdem teilte die Beklagte dem Bevollmächtigten mit, es sei notwendig gewesen, dass er als Rechtsanwalt bevollmächtigt worden sei.
+
+4 Von den in Rechnung gestellten Rechtsanwaltsgebühren in Höhe von insgesamt 706,27 Euro, in denen auch eine Erledigungsgebühr von 280 Euro zuzüglich 19 % Umsatzsteuer, insgesamt 333,20 Euro, nach Nr 1002, 1005 des Vergütungsverzeichnisses (VV) zum Rechtsanwaltsvergütungsgesetz (RVG) enthalten war, erstattete die Beklagte lediglich einen Betrag in Höhe von 373,07 Euro (706,27 abzüglich 333,20 Euro). Der von der Beklagten anerkannte Betrag setzte sich zusammen aus der Geschäftsgebühr nach Nr 2400 VV in Höhe von 280 Euro, der Postpauschale von 20 Euro nach Nr 7002 VV, der Dokumentenpauschale von 13,50 Euro nach Nr 7000 VV und der Umsatzsteuer von 53,97 Euro nach Nr 7008 VV (Bescheid vom 30.11.2007). Der Widerspruch des Klägers, mit dem dieser die Erstattung weiterer 333,20 Euro begehrte, blieb erfolglos (Widerspruchsbescheid vom 12.12.2007).
+
+5 Das Sozialgericht (SG) hat die Beklagte unter Abänderung der ergangenen Bescheide verurteilt, an den Kläger weitere 333,20 Euro zu zahlen (Gerichtsbescheid vom 15.3.2011).
+
+6 Auf die Nichtzulassungsbeschwerde der Beklagten hat das Landessozialgericht (LSG) die Berufung gemäß § 144 Abs 2 Nr 1 Sozialgerichtsgesetz (SGG) zugelassen (Beschluss vom 9.3.2012). Es hat das Beschwerdeverfahren als Berufungsverfahren fortgesetzt.
+
+7 Mit Urteil vom 14.6.2012 hat das LSG den Gerichtsbescheid des SG aufgehoben und die Klage abgewiesen. In den Gründen des Urteils hat das LSG ua ausgeführt: Eine qualifizierte, die Erledigungsgebühr begründende Tätigkeit liege nach der Rechtsprechung des Bundessozialgerichts (BSG) zB vor, wenn der Rechtsanwalt zum Zwecke des Beweises entscheidungserheblicher Tatsachen unaufgefordert bisher noch nicht bekannte Beweismittel beibringe; vorliegend fehle es aber an entsprechenden besonderen Bemühungen. Durch die Anregung, das Widerspruchsverfahren ruhen zu lassen, habe der Bevollmächtigte keine zusätzlichen Bemühungen entfaltet; er habe vielmehr im Gegenteil die Voraussetzungen dafür geschaffen, dass er im Widerspruchsverfahren von allen weiteren zur Erfüllung des Auftrags erforderlichen Tätigkeiten habe absehen können. Der Kläger habe auch unter anderen Gesichtspunkten keinen Anspruch auf Erstattung weiterer Auslagen.
+
+8 Mit der vom LSG zugelassenen Revision verfolgt der Kläger sein Begehren weiter. Er trägt ua vor, der Bevollmächtigte habe das Ruhen des Widerspruchsverfahrens zur Vermeidung eines Gerichtsverfahrens vorgeschlagen; hierzu sei er nicht verpflichtet gewesen. Das Ruhen habe der Beklagten weitere Ermittlungen erspart.
+
+9 Der Kläger beantragt,
+
+das Urteil des LSG vom 14.6.2012 aufzuheben und die Berufung der Beklagten gegen den Gerichtsbescheid des SG vom 15.3.2011 zurückzuweisen.
+
+10 Die Beklagte beantragt,
+
+die Revision des Klägers zurückzuweisen.
+
+11 Sie hält das angefochtene Urteil des LSG für zutreffend.
+
+## Entscheidungsgründe
+
+12 Die Revision des Klägers ist teilweise begründet (§ 170 Abs 2 S 1 SGG). Der Kläger hat Anspruch auf Erstattung einer Erledigungsgebühr im geltend gemachten Umfang; Anspruch auf eine Geschäftsgebühr besteht allerdings nur in Höhe von 240 Euro. Dem Kläger stehen deshalb noch weitere 285,60 Euro zu; das angefochtene Urteil ist entsprechend zu ändern.
+
+13 1. Von Amts wegen zu beachtende Verfahrensfehler stehen einer Sachentscheidung nicht entgegen. Die Revision und die Berufung sind jeweils zugelassen, woran der Senat gebunden ist. Die genannten Rechtsmittel sind auch nicht nach § 144 Abs 4 SGG iVm § 165 S 1 SGG ausgeschlossen, weil in der Hauptsache über die Kosten eines isolierten Vorverfahrens gestritten wird (stRspr, ua BSGE 104, 30 = SozR 4-1935 § 14 Nr 2; Urteile des Senats vom 25.2.2010 - B 11 AL 24/08 R - BSGE 106, 21 = SozR 4-1300 § 63 Nr 12, und vom 5.5.2010 - B 11 AL 14/09 R - Juris). Der Kläger verfolgt sein Begehren zutreffend mit der kombinierten Anfechtungs- und Leistungsklage; der Erhebung einer Verpflichtungsklage auf Bestimmung der Notwendigkeit der Zuziehung eines Rechtsanwalts nach § 63 Abs 3 S 2 Sozialgesetzbuch Zehntes Buch (SGB X) bedarf es nicht, weil die Beklagte diese Notwendigkeit ausdrücklich anerkannt hat.
+
+14 2. Die Beklagte hat in den angefochtenen Bescheiden zu Unrecht die Erstattung einer Erledigungsgebühr nach Nr 1005 VV iVm Nr 1002 VV abgelehnt. Unter den Umständen des vorliegenden Falls, die den tatsächlichen Feststellungen des LSG zu entnehmen sind, hat der Kläger Anspruch auf Erstattung einer Erledigungsgebühr.
+
+15 a) Rechtsgrundlage für die geltend gemachte Erledigungsgebühr ist Nr 1005 VV iVm Nr 1002 VV (Anl 1 zum RVG). Danach erhält der Rechtsanwalt eine Gebühr für die Erledigung in sozialrechtlichen Angelegenheiten, in denen im gerichtlichen Verfahren Betragsrahmengebühren entstehen (§ 3 RVG); die Gebühr umfasst einen Rahmen von 40 bis 520 Euro. Die Gebühr entsteht, wenn sich eine Rechtssache ganz oder teilweise nach Aufhebung oder Änderung des mit einem Rechtsbehelf angefochtenen Verwaltungsakts durch die anwaltliche Mitwirkung erledigt (vgl Erläuterungen zu Nr 1002 VV).
+
+16 Nach der Rechtsprechung des BSG zu Nr 1005 bzw 1002 VV kann eine Gebühr für die Mitwirkung an der Erledigung eines isolierten Vorverfahrens nur beansprucht werden, wenn der Rechtsanwalt eine über die Einlegung und Begründung des Widerspruchs hinausgehende besondere Tätigkeit entfaltet hat (ua BSG SozR 4-1300 § 63 Nr 8 RdNr 20 ff; Urteile des Senats vom 21.3.2007 - B 11a AL 53/06 R - RdNr 16, und vom 5.5.2010 - B 11 AL 14/09 R, RdNr 22). Erforderlich ist eine qualifizierte erledigungsgerichtete Mitwirkung, die über das Maß hinausgeht, das schon durch den allgemeinen Gebührentatbestand für das anwaltliche Auftreten im Widerspruchsverfahren abgegolten wird (vgl BSG SozR 4-1300 § 63 Nr 8 RdNr 22). Eine solche qualifizierte, eine Erledigungsgebühr begründende Tätigkeit liegt beispielsweise vor, wenn der Rechtsanwalt zum Zwecke des Beweises entscheidungserheblicher Tatsachen unaufgefordert neue Beweismittel, etwa während des Vorverfahrens neu erstattete Befundberichte oder fachliche Stellungnahmen, beibringt (BSG SozR 4-1935 VV Nr 1002 Nr 1 RdNr 15; BSG Urteil vom 9.12.2010 - B 13 R 63/09 R, RdNr 28).
+
+17 b) Entgegen der Auffassung des LSG liegt unter den Umständen des vorliegenden Falles eine über die Einlegung und Begründung des Widerspruchs hinausgehende besondere Tätigkeit des Rechtsanwalts vor, die ursächlich für die (unstreitige) Erledigung des Vorverfahrens durch Abhilfebescheid gewesen ist. Denn der Bevollmächtigte des Klägers hat den Widerspruch nicht nur eingelegt und begründet, sondern darüber hinaus weitere Tätigkeiten entfaltet, die zur Erledigung beigetragen haben. Er hat zunächst von sich auf das laufende Strafverfahren verwiesen, was die Beklagte veranlasst hat, das Widerspruchsverfahren ruhen zu lassen. In der Folgezeit hat der Bevollmächtigte des Klägers die Beklagte über den Stand des Strafverfahrens informiert und er hat der Beklagten schließlich das vollständige Strafurteil mit Gründen vorgelegt, das die Beklagte im Wege des Urkundenbeweises verwertet und dem es entnommen hat, dass der angefochtene Bescheid nicht aufrechterhalten bleiben kann. Das Beibringen entscheidungserheblicher Informationen über den Ablauf des Strafverfahrens ist vergleichbar mit der Vorlage von Befundberichten oder fachlichen Stellungnahmen (vgl BSG Urteil vom 9.12.2010 - B 13 R 63/09 R, RdNr 28). Die Tätigkeit des Bevollmächtigten im Widerspruchsverfahren geht somit über das Maß hinaus, das schon durch den allgemeinen Gebührentatbestand für das anwaltliche Auftreten im Widerspruchsverfahren abgegolten ist.
+
+18 Die vorstehend beschriebene Bewertung der Tätigkeit des Bevollmächtigten des Klägers steht nicht im Widerspruch zum Urteil des Senats vom 5.5.2010 - B 11 AL 14/09 R -, in dem die Übersendung des Protokolls eines arbeitsgerichtlichen Vergleichs als nicht ausreichend angesehen worden ist. In dem der Entscheidung vom 5.5.2010 zugrunde liegenden Fall war der Bevollmächtigte selbst als Rechtsanwalt im arbeitsgerichtlichen Prozess tätig, weshalb der Senat angenommen hat, dass sich seine besonderen Bemühungen nicht auf das konkret zu beurteilende Widerspruchsverfahren bezogen und deshalb der Übersendung des Vergleichstextes im Widerspruchsverfahren nur untergeordnete Bedeutung zukam (vgl Urteil vom 5.5.2010 - B 11 AL 14/09 R - RdNr 23, 24). Im vorliegenden Fall war der Bevollmächtigte im Strafprozess nicht tätig, weshalb auch nicht die Rede davon sein kann, seine Bemühungen hätten sich auf ein anderes Verfahren als das Widerspruchsverfahren bezogen.
+
+19 c) Die Höhe der Erledigungsgebühr von 280 Euro ist nicht zu beanstanden. Sie entspricht der Mittelgebühr gemäß Nr 1005 VV (Rahmengebühr zwischen 40 und 520 Euro; zur Berechnung vgl BSGE 104, 30 = SozR 4-1935 § 14 Nr 2, RdNr 23).
+
+20 3. Der vom Kläger geltend gemachte Gesamtbetrag von 706,27 Euro, der sich aus der Geschäftsgebühr und der Erledigungsgebühr in Höhe von jeweils von 280 Euro, der Postpauschale, der Dokumentenpauschale sowie der Umsatzsteuer zusammensetzt, ist allerdings noch zu reduzieren, weil die Geschäftsgebühr gemäß Nr 2400 VV nur in Höhe von 240 Euro beansprucht werden kann. Die Überprüfung des Kostenbescheids der Beklagten beschränkt sich nicht nur auf die Höhe der Erledigungsgebühr (vgl BSG Urteil vom 9.12.2010 - B 13 R 63/09 R, RdNr 20 mwN).
+
+21 Voraussetzung für eine den Betrag von 240 Euro übersteigende Geschäftsgebühr ist nach ausdrücklicher Regelung in Nr 2400 VV, dass die Tätigkeit des Bevollmächtigten umfangreich oder schwierig war. Dies wird vom Kläger bzw seinem Bevollmächtigten selbst nicht geltend gemacht und ist auch nicht ersichtlich. Insgesamt sind somit im Widerspruchsverfahren Gebühren in Höhe von 658,67 Euro angefallen (240 + 280 + 20 + 13,50 + Mehrwertsteuer 105,17). Es besteht Anspruch auf weitere 285,60 Euro (658,67 abzüglich gezahlte 373,07 Euro).
+
+22 4. Die Kostenentscheidung beruht auf § 193 SGG.

@@ -1,0 +1,31 @@
+{
+  "decisive_date": "2026-10-19",
+  "verified_at": "2026-10-20T10:36:54.191942+00:00",
+  "official_stand": [
+    "Neugefasst durch Bek.v.15.3.2022 I610",
+    "zuletzt geändert durch Art14G8.12.2025 I Nr318"
+  ],
+  "rvg_xml_identical_to_authoring": true,
+  "xml_sha256": "be5571d1735031133f154071b08a77ccdb89f3e047330ed057a494dfd128f5d1",
+  "commencement_current": {
+    "source": "sources/review-a2-vv2201-2026-10-20/bgbl-318.pdf",
+    "read": "Article14 andArticle21(2)/(3)",
+    "effective": "Art14numbers1/3/4 since1.1.2026, number2 since1.7.2026"
+  },
+  "assigned_monetary_changes": {
+    "source": "sources/review-a2-vv2201-2026-10-20/bgbl-109.pdf",
+    "read": "Article11(2)numbers1/2, Article11(3) full table, Article13(3)",
+    "effective": "1June2025 for these changes",
+    "annex2_all42_pairs_compared": true
+  },
+  "external_law_scope": {
+    "eurag": "Current official XML§§28/29 singly present. Art3BGBl2024INr320 andArt13 read; latest amendment affects32/43, not28/29.",
+    "famfg": "Current XML§§156/269 singly present. Art4BGBl2026INr192 affects41a/46/113, effective1.10.2026. Art4BGBl2026INr198 affects other sections, not156/269; Art10 makes most future1.7.2027, Art4no8 since day after promulgation. Future amendments not concatenated into cited sections."
+  },
+  "historical_versions": "All92current RVG nodes classified: no duplicate operative labels, no unlabelled operative text; no separate Eingangsformel. Global official notes preserved. Intake and change map retained.",
+  "annexes": "Independent XML first-cell derivation231tariffs+32remarks in Anlage1; full536rows retained. Anlage2 full22rows/42value-fee pairs; no invented child IDs.",
+  "limitations": [
+    "Current official RVG, intake comparison, duplicate-node/operative-annex coverage and actual commencement checked; not a complete historical archive or guarantee against unincorporated legislation.",
+    "External EuRAG28/29 and FamFG156/269 checked only as cited cross-references; recent promulgations screened for their effect, not complete separate-law commentaries."
+  ]
+}

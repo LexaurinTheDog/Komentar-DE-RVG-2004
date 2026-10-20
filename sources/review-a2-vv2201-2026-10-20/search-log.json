@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-20",
+  "scope": "Selective issues in1002/1005 and2100; not exhaustive case-law coverage",
+  "steps": [
+    {
+      "method": "web search",
+      "queries": [
+        "site.bsg.bund.de Erledigungsgebühr1002 qualifizierte anwaltliche Tätigkeit2024",
+        "site.bundesgerichtshof.de \"2100\" \"Auftrag\"",
+        "\"BGH\" \"2100\" \"2017\" \"offen bleiben\""
+      ],
+      "result": "Official BGH discovery link and BSG docket identified via navigation hits. No third-party text used as authority or copied into commentary."
+    },
+    {
+      "method": "Local national manifest",
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/manifest.jsonl",
+      "queries": [
+        "B11AL15/12R",
+        "IXZR243/16",
+        "IXZR204/16"
+      ],
+      "result": "KSRE148681527 andKORE308052018 full texts read and officially re-fetched. KORE307512018 fetched after mistaken docket association, screened and rejected as unrelated Fernabsatz case; not cited."
+    },
+    {
+      "method": "Official BGH discovery PDF",
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017&Gericht=bgh&Seite=2&anz=3127&nr=80653&pos=68",
+      "result": "web tool403; direct urllib returned HTML rather than PDF. Rejected, not used as judgment evidence. Actual judgment obtained through official RII ZIP/XML."
+    },
+    {
+      "method": "Official case ZIP/XML",
+      "evidence": "authority-requests.json",
+      "decisions": [
+        "KSRE148681527",
+        "KORE308052018"
+      ],
+      "result": "Complete judicial text read, parties/appealed court separated from actual holdings; all nonempty paragraphs compared with national corpus."
+    }
+  ],
+  "coverage": [
+    {
+      "ids": [
+        "vv1002",
+        "vv1005"
+      ],
+      "decision": "KSRE148681527",
+      "limits": "Qualified activity and concrete causation only, former monetary framework not current."
+    },
+    {
+      "id": "vv2100",
+      "decision": "KORE308052018",
+      "limits": "Unconditional procedural mandate; conditional mandate issue expressly open; historical table not imported."
+    },
+    {
+      "ids": [
+        "a2",
+        "vb1",
+        "vv1000",
+        "vv1001",
+        "vv1003",
+        "vv1004",
+        "vv1006",
+        "vv1007",
+        "vv1008",
+        "vv1009",
+        "vv1010",
+        "vb2",
+        "vv2101",
+        "vv2102",
+        "vv2103",
+        "vv2200",
+        "vv2201"
+      ],
+      "decision": null,
+      "disposition": "Statute-based review, no new sufficiently relevant verified case asserted; no exhaustive negative search claimed."
+    }
+  ]
+}
