@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T12:12:17.472728+00:00",
+  "generated_at": "2026-10-20T12:12:32.075947+00:00",
   "files": [
     {
       "path": "sources/KORE307422020.md",
@@ -2193,8 +2193,8 @@
     },
     {
       "path": "sources/review-vv4126-vv4144-2026-10-20/version-evidence.json",
-      "bytes": 2557,
-      "sha256": "443c1ba8d04722d1fb1fdf571b88b300508c41a63d449d222d2c47e3d22cc6d7"
+      "bytes": 4156,
+      "sha256": "3b4713002848e73410adadce5c60828c932654011201c71bf30adf24d329dac7"
     },
     {
       "path": "sources/rvg-frontmatter.json",

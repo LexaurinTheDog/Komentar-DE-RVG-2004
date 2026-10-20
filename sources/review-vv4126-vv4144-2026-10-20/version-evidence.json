@@ -33,5 +33,51 @@
   "limitations": [
     "Current RVG consolidation and actual published commencement checked, not a complete historical or indirect-amendment archive.",
     "External provisions support only the expressly described tariff context; no comprehensive commentary or independent historical audit of those statutes."
-  ]
+  ],
+  "external_version_preflight": {
+    "records": "sources/review-vv4126-vv4144-2026-10-20/external-version-requests.json",
+    "stpo_stand": "Art. 2(7) G20.3.2026 I Nr95; textually documented Art15(16) G3.7.2026 I Nr199",
+    "stpo_actual_amendments_read": [
+      {
+        "act": "BGBl.2026 I Nr95",
+        "amending_provision": "Art2(7)",
+        "affected_sections": [
+          "100a",
+          "100b",
+          "100g",
+          "103",
+          "111",
+          "112a",
+          "443"
+        ],
+        "commencement": "Art4: day after promulgation on1April2026 =2April2026",
+        "assigned_context_affected": false
+      },
+      {
+        "act": "BGBl.2026 I Nr199",
+        "amending_provision": "Art15(16)",
+        "affected_sections": [
+          "492(3)sentence4"
+        ],
+        "commencement": "Art16(3):1January2027",
+        "selection": "Future-dated text not used. Section492 is outside every cross-reference discussed in this batch; operative quoted sections unchanged by this amendment."
+      }
+    ],
+    "strrehag_stand": "Art3 G25.2.2025 I Nr63",
+    "strrehag_actual_amendment_read": "Art3 read: does not amend §13. Art7(2) makes Art3 effective1July2025.",
+    "context_sections_actually_read": [
+      "StPO364b",
+      "StPO368",
+      "StPO369",
+      "StPO370",
+      "StPO371",
+      "StPO372",
+      "StPO403",
+      "StPO404",
+      "StPO411",
+      "StrRehaG13"
+    ],
+    "limitation": "Latest listed external amendments and commencement checked for these sections only; no exhaustive external historical archive.",
+    "unresolved_blockers": []
+  }
 }
