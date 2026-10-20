@@ -1,0 +1,284 @@
+{
+  "complete": true,
+  "task_kind": "bounded_independent_second_pass",
+  "decisive_date": "2026-10-19",
+  "reviewed_at": "2026-10-20T09:53:41.714132+00:00",
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p1",
+    "p2",
+    "p3",
+    "p3a",
+    "p4",
+    "p4a",
+    "p4b",
+    "p5",
+    "p6",
+    "p7",
+    "p8",
+    "p9",
+    "p10",
+    "p11",
+    "p12",
+    "p12a",
+    "p12b",
+    "p12c",
+    "p13",
+    "p14"
+  ],
+  "changed_ids": [
+    "p1",
+    "p3",
+    "p3a",
+    "p4a",
+    "p4b",
+    "p5",
+    "p7",
+    "p9",
+    "p10",
+    "p11",
+    "p12a",
+    "p12b",
+    "p13",
+    "p14"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "R01",
+      "units": [
+        "p1",
+        "p3"
+      ],
+      "type": "coverage_precision",
+      "finding": "Ausdrücklicher Syndikusausschluss und personelle/gerichtskostenrechtliche Unterscheidung waren unvollständig erläutert.",
+      "resolution": "Tätigkeitsbezug und genaue Zuordnung zu § 3 Absatz 1 Sätzen 1–3 ergänzt.",
+      "resolved": true
+    },
+    {
+      "id": "R02",
+      "units": [
+        "p3a"
+      ],
+      "type": "omitted_distinctions",
+      "finding": "§-34-Ausnahme, Herabsetzungsgrenze und Gutachtenausnahme blieben unvollständig; Rechtsprechungsnachweis war zu breit gruppiert.",
+      "resolution": "Ausnahme auf Sätze 1 und 2 begrenzt, Untergrenze und Gutachtenausnahme erklärt, präzise Randnummern nach Volltextlektüre ergänzt.",
+      "resolved": true
+    },
+    {
+      "id": "R03",
+      "units": [
+        "p4a",
+        "p4b"
+      ],
+      "type": "legal_consequence_precision",
+      "finding": "Misserfolgsvergütung und enumerative Begrenzungsfolge konnten zu allgemein verstanden werden.",
+      "resolution": "Gesetzliche Vergütung als Vergleichsmaßstab und abschließende §-4b-Verweisungen einschließlich nicht erfasster Pflichten ausdrücklich unterschieden.",
+      "resolved": true
+    },
+    {
+      "id": "R04",
+      "units": [
+        "p5"
+      ],
+      "type": "wrong_cross_reference_context",
+      "finding": "§ 7 wurde im Kontext mehrerer Anwälte gemeinsam mit § 6 genannt.",
+      "resolution": "Mehrere Anwälte (§ 6) und mehrere Auftraggeber (§ 7) ausdrücklich getrennt.",
+      "resolved": true
+    },
+    {
+      "id": "R05",
+      "units": [
+        "p7",
+        "p10"
+      ],
+      "type": "omitted_operational_detail",
+      "finding": "Dokumentenpauschalen-Sonderhaftung und Auslagenbezeichnung waren nicht hinreichend deutlich.",
+      "resolution": "Mehrmandantenunterrichtung und begrenzte Sammelabrechnung von Post-/Telekommunikationsentgelten erklärt.",
+      "resolved": true
+    },
+    {
+      "id": "R06",
+      "units": [
+        "p9"
+      ],
+      "type": "terminology",
+      "finding": "Vorschussbescheid bezeichnete die private Mandantenforderung unpassend.",
+      "resolution": "Privatrechtliche Forderung von Staatskassenanspruch und Beiordnungsgrenzen getrennt.",
+      "resolved": true
+    },
+    {
+      "id": "R07",
+      "units": [
+        "p11"
+      ],
+      "type": "incomplete_procedural_coverage",
+      "finding": "Anspruchsarten, Antragsteller, Kostenregeln, unmittelbare Klage und beizufügende Zustimmung waren zu knapp.",
+      "resolution": "Alle acht Absätze mit den wesentlichen Unterscheidungen erläutert.",
+      "resolved": true
+    },
+    {
+      "id": "R08",
+      "units": [
+        "p12a",
+        "p12b"
+      ],
+      "type": "incomplete_procedural_coverage",
+      "finding": "Aktuelle Bekanntgabefiktion, Form-/Gerichtsverweisung und elektronische Akte fehlten in der Erklärung.",
+      "resolution": "Vierter Posttag von Kenntnis der Verletzung getrennt, Gericht/Form sowie Akte/Dokument erläutert.",
+      "resolved": true
+    },
+    {
+      "id": "R09",
+      "units": [
+        "p13",
+        "p14"
+      ],
+      "type": "calculation_and_scope_precision",
+      "finding": "Kleininkassobasis und Stufenbeispiel waren knapp; Anrechnungsvoraussetzung und Haftungsrisiko bedurften genauerer Fassung.",
+      "resolution": "31,50-Euro-Basis, überprüfte Beispielrechnung und genaue Rahmengebührenunterscheidungen ergänzt.",
+      "resolved": true
+    }
+  ],
+  "unit_reviews": [
+    {
+      "id": "p1",
+      "result": "corrected",
+      "assessment": "Alle drei Absätze gelesen. Funktionsbezogenen Geltungsbereich und Rechtsbehelfsvorrang bestätigt; ausdrücklichen Syndikusausschluss und Gleichstellung anderer Kammermitglieder ergänzt. Das Insolvenzbeispiel enthält keinen automatischen RVG-Anspruch für Amtsarbeit."
+    },
+    {
+      "id": "p2",
+      "result": "retained_after_review",
+      "assessment": "Beide Absätze einschließlich Centregel gelesen. Gegenstandswert, VV-Tatbestand, Tabelle und Satz zutreffend getrennt; halber Cent wird aufgerundet. Kommentar unverändert beibehalten."
+    },
+    {
+      "id": "p3",
+      "result": "corrected",
+      "assessment": "Beide Absätze geprüft. Verhältnis von GKG-Anwendung, sonstigen Verfahren und Auftraggeberstatus genauer formuliert; zwingende Wertberechnung in den ausdrücklich genannten Sonderverfahren und entsprechende außergerichtliche Anwendung bestätigt. Keine eigene Kommentierung des gesamten § 183 SGG behauptet."
+    },
+    {
+      "id": "p3a",
+      "result": "corrected",
+      "assessment": "Alle vier Absätze und beide zitierten BGH-Volltexte gelesen. Bezeichnung, Absetzung mit Ausnahme der Auftragserteilung und fortgeltenden Erstattungshinweis bei § 34 ergänzt. Reichweite und Untergrenze der Herabsetzung, Kammergutachtenausnahme und Begrenzung der PKH-Nichtigkeit auf beigeordnete Tätigkeit präzisiert. Historische Nummerierungen anhand der Entscheidungen und aktuellen XML abgeglichen; Randnummernverweise genauer gefasst."
+    },
+    {
+      "id": "p4",
+      "result": "retained_after_review",
+      "assessment": "Beide Absätze gelesen. Außergerichtliche Unterschreitung, Angemessenheitsregel, Inkasso-/Beratungshilfeausnahmen und begrenzte gerichtliche Inkassoöffnung zutreffend erläutert. Kein allgemeiner Schluss auf freie gerichtliche Gebührenunterschreitung. Unverändert beibehalten."
+    },
+    {
+      "id": "p4a",
+      "result": "corrected",
+      "assessment": "Drei alternative Zulassungswege, Pfändungsschutz, Außerachtlassen staatlicher Hilfe und alle vier Inhaltsangaben geprüft. Zuschlagspflicht ausdrücklich auf Misserfolg unterhalb gesetzlicher Vergütung bezogen; sämtliche Kostenarten und Vergleichsangaben klargestellt. Beispiel enthält keine Behauptung einer automatisch zulässigen vollständigen Vereinbarung."
+    },
+    {
+      "id": "p4b",
+      "result": "corrected",
+      "assessment": "Gesamten Satz samt Bereicherungsvorbehalt geprüft. Genaue Verweisung auf § 3a Absatz 1 Sätze 1 und 2 und § 4a Absatz 1 sowie Absatz 3 Nummern 1 und 4 ergänzt. Nicht erfasste Pflichten von §-4b-Rechtsfolge getrennt. Anspruchsobergrenze nicht als pauschale Nichtigkeit oder Mindestanspruch ausgegeben."
+    },
+    {
+      "id": "p5",
+      "result": "corrected",
+      "assessment": "Vollständigen Vertreterkatalog geprüft. Abrechnung des vertretenen Anwalts schafft keinen Zusatzanspruch; irreführende gemeinsame Verweisung auf §§ 6 und 7 bei mehreren Anwälten korrigiert. § 6 betrifft mehrere Anwälte, § 7 mehrere Auftraggeber. Referendarbeispiel bleibt im gesetzlichen Vertretungsrahmen."
+    },
+    {
+      "id": "p6",
+      "result": "retained_after_review",
+      "assessment": "Gemeinschaftlichen Auftrag und volle Vergütung für jeweilige Tätigkeit geprüft. Vertragsparteien von interner Arbeitsteilung und Kostenerstattung abgegrenzt; Terminsvertretungsbeispiel stellt keinen pauschalen weiteren Vollvergütungsanspruch auf. Unverändert beibehalten."
+    },
+    {
+      "id": "p7",
+      "result": "corrected",
+      "assessment": "Beide Absätze und Nr. 1008 VV gelesen. Einmaligkeit und einzelne Außenhaftung bestätigt; zusätzliche Haftung für nur durch Mehrmandantenunterrichtung entstandene Dokumentenpauschale ausdrücklich erläutert. Gesamtkappung und Fortschreibung nach Zahlungen bleiben sichtbar."
+    },
+    {
+      "id": "p8",
+      "result": "retained_after_review",
+      "assessment": "Beide Absätze mit sämtlichen Fälligkeits- und Hemmungsendtatbeständen gelesen. Entstehung, Fälligkeit, Verjährung und Rechnung richtig getrennt. Dreimonatiges Ruhen bis Fälligkeit von weiteren drei Monaten bis Hemmungsende unterschieden; kein unbegrenzter Schutz durch bloße Anhängigkeit behauptet. Unverändert beibehalten."
+    },
+    {
+      "id": "p9",
+      "result": "corrected",
+      "assessment": "Angemessenheit und Prognose für entstandene/voraussichtliche Gebühren und Auslagen geprüft, mit § 47 intern abgeglichen. Unpassenden Ausdruck Vorschussbescheid durch privatrechtliche Forderung ersetzt und besondere Grenzen der Beiordnung vorbehalten. Beispiel behauptet kein vorzeitiges Entstehen der prognostizierten Terminsgebühr."
+    },
+    {
+      "id": "p10",
+      "result": "corrected",
+      "assessment": "Alle drei Absätze geprüft. Aktuelle Textform statt früherer Unterschrift bestätigt. Bezeichnung der Auslagen und eng begrenzte Zusammenfassung von Post-/Telekommunikationsentgelten ergänzt; Verjährung und nachträglicher Rechnungsanspruch richtig erläutert."
+    },
+    {
+      "id": "p11",
+      "result": "corrected",
+      "assessment": "Alle acht Absätze gelesen und §§ 12b, 33, 42 intern abgeglichen. Antragsberechtigte, Erstgericht, Anspruchsarten, Abgrenzung freien Mehrhonorars, Zustellungsauslagen und Kostenausschluss ergänzt. Wertstreit, außergebührenrechtliche Einwände, unmittelbare Klage, Form und Verjährungshemmung getrennt. Vorlage ausdrücklicher Zustimmung bei Rahmengebühren ergänzt; Schweigen bleibt unzureichend."
+    },
+    {
+      "id": "p12",
+      "result": "retained_after_review",
+      "assessment": "Beide Sätze gelesen und §§ 48, 49, 55 intern abgeglichen. Entsprechende Anwendung bei VKH und insolvenzrechtlicher Stundung sowie notwendige Bewilligung/Beiordnung richtig erläutert; Familiensachenbeispiel unverändert beibehalten. Keine eigenständige Auslegung der Insolvenzordnung hinzugefügt."
+    },
+    {
+      "id": "p12a",
+      "result": "corrected",
+      "assessment": "Alle sechs Absätze einschließlich Verweisung auf § 33 Absatz 7 Sätze 1 und 2 gelesen. Beschwer, Entscheidungsbezug, Vier-Tage-Fiktion, Kenntnisunterschied, zuständiges Gericht und Form ergänzt. Verwerfung, Zurückweisung, Fortführung und bloßer Kostenerstattungsausschluss genauer unterschieden. Keine Verlängerung der absoluten Jahresgrenze behauptet."
+    },
+    {
+      "id": "p12b",
+      "result": "corrected",
+      "assessment": "Beide Sätze gelesen. Elektronische Akte zusätzlich zum elektronischen Dokument erklärt; dynamisches Verweisungsprinzip und Beratungshilfe-FamFG-Zuordnung bestätigt. Keine ungeprüften Details zu technischen Übermittlungswegen hinzugefügt."
+    },
+    {
+      "id": "p12c",
+      "result": "retained_after_review",
+      "assessment": "Gesamte Belehrungspflicht mit Gericht, Sitz, Rechtsbehelf, Form und Frist geprüft; §§ 33 und 56 intern gelesen. Kommentar vermeidet zusätzlichen Rechtsbehelf oder unbegrenzte Anfechtbarkeit bei Belehrungsfehlern. Beispiel und Abschnittsprüfliste unverändert beibehalten."
+    },
+    {
+      "id": "p13",
+      "result": "corrected",
+      "assessment": "Alle drei Absätze einschließlich jeder Tabellenstufe und Anlage-2-Verweisung geprüft. Sonderbasis 31,50 Euro für unbestrittenes Kleininkasso ausdrücklich erläutert und vom endgültigen Rechnungsbetrag getrennt. Stufenbeispiel 2.000/2.001 Euro rechnerisch ausgeführt; §-60-Vorbehalt beibehalten."
+    },
+    {
+      "id": "p14",
+      "result": "corrected",
+      "assessment": "Alle drei Absätze geprüft. Besonderes fakultatives Haftungsrisiko und zwingende Berücksichtigung bei nicht wertabhängigen Rahmengebühren präzisiert. Absatz 2 auf tatsächlich angeordnete Rahmenanrechnung begrenzt; Gutachten auch bei § 495a ZPO erklärt und von § 3a getrennt. Sozialrechtsbeispiel konditional gefasst, keine eigenständige Anrechnung erfunden."
+    }
+  ],
+  "source_evidence": [
+    "sources/verification.json",
+    "sources/review-p1-p14-2026-10-20/requests.json",
+    "review-unit-evidence.json",
+    "preflight-result.json",
+    "preflight-coverage.json",
+    "annex-coverage.json"
+  ],
+  "case_law_checked": [
+    {
+      "docket": "IX ZR 140/19",
+      "date": "2020-02-13",
+      "full_text_read": true,
+      "supported_unit": "p3a",
+      "case_card": "cases/bgh-2020-ix-zr-140-19.md",
+      "source": "sources/review-p1-p14-2026-10-20/KORE307422020.xml"
+    },
+    {
+      "docket": "IX ZR 90/23",
+      "date": "2025-05-08",
+      "full_text_read": true,
+      "supported_unit": "p3a",
+      "case_card": "cases/bgh-2025-ix-zr-90-23.md",
+      "source": "sources/review-p1-p14-2026-10-20/KORE716052025.xml"
+    }
+  ],
+  "scope_integrity": {
+    "unassigned_commentary_units_preserved": 324,
+    "verified_against_base_commit": "1c35b69",
+    "whole_book_review_complete": false,
+    "external_lawyer_approval_claimed": false
+  },
+  "limitations": [
+    "Complete refers only to the exact 20 assigned units, not all 344 manuscript units.",
+    "Selective review of the two existing BGH authorities, not exhaustive new case-law research or a complete later-citation survey.",
+    "External procedural and professional statutes referenced by RVG were not independently reviewed in full; no additional unsupported detail introduced.",
+    "Current official consolidation, commencement and intake comparison checked; no exhaustive historical archive or guarantee against unincorporated legislation.",
+    "Technical equality, length and repetition checks do not certify legal quality."
+  ]
+}

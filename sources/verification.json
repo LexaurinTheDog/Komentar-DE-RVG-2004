@@ -175,6 +175,91 @@
       "local_path": "sources/preflight-2026-10-20-bgbl-318.pdf",
       "sha256": "89f50d3f611d6f05089d6d4827783cf1531cfd3c800cd808e86c763b9db28c41",
       "validated_format": "PDF magic; text and commencement separately inspected"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/rvg/",
+      "accessed_at": "2026-10-20T09:49:17.825242+00:00",
+      "purpose": "bounded independent substantive review p1–p14, 20 units",
+      "http_status": 200,
+      "final_url": "https://www.gesetze-im-internet.de/rvg/",
+      "content_type": "text/html",
+      "local_path": "sources/review-p1-p14-2026-10-20/index.html",
+      "sha256": "7e9f02d6a7dc1934d08e4463457f1c15649d20bfd365778bff502c55f2eb80dd",
+      "validated_format": "HTML document and RVG identifier where applicable"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/rvg/xml.zip",
+      "accessed_at": "2026-10-20T09:49:17.940165+00:00",
+      "purpose": "bounded independent substantive review p1–p14, 20 units",
+      "http_status": 200,
+      "final_url": "https://www.gesetze-im-internet.de/rvg/xml.zip",
+      "content_type": "application/zip",
+      "local_path": "sources/review-p1-p14-2026-10-20/rvg.zip",
+      "sha256": "51019d65e1d783759d31a3d67ff21ec35d922d309a82d575a08848c89de42dde",
+      "members": [
+        "BJNR078800004.xml"
+      ],
+      "validated_format": "ZIP and XML parsed; expected identifier verified",
+      "xml_path": "sources/review-p1-p14-2026-10-20/rvg.xml",
+      "xml_sha256": "be5571d1735031133f154071b08a77ccdb89f3e047330ed057a494dfd128f5d1",
+      "identical_to_manuscript_source": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "accessed_at": "2026-10-20T09:49:18.102605+00:00",
+      "purpose": "bounded independent substantive review p1–p14, 20 units",
+      "http_status": 200,
+      "final_url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "content_type": "text/html",
+      "local_path": "sources/review-p1-p14-2026-10-20/updates.html",
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+      "validated_format": "HTML document and RVG identifier where applicable"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2025/318/regelungstext.pdf?__blob=publicationFile&v=2",
+      "accessed_at": "2026-10-20T09:49:18.237978+00:00",
+      "purpose": "bounded independent substantive review p1–p14, 20 units",
+      "http_status": 200,
+      "final_url": "https://www.recht.bund.de/bgbl/1/2025/318/regelungstext.pdf?__blob=publicationFile&v=2",
+      "content_type": "application/pdf",
+      "local_path": "sources/review-p1-p14-2026-10-20/bgbl-318.pdf",
+      "sha256": "89f50d3f611d6f05089d6d4827783cf1531cfd3c800cd808e86c763b9db28c41",
+      "validated_format": "PDF magic, byte-identical to commencement text previously extracted and read",
+      "identical_to_manuscript_source": true
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE307422020.zip",
+      "accessed_at": "2026-10-20T09:49:18.507417+00:00",
+      "purpose": "bounded independent substantive review p1–p14, 20 units",
+      "http_status": 200,
+      "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE307422020.zip",
+      "content_type": "application/zip",
+      "local_path": "sources/review-p1-p14-2026-10-20/KORE307422020.zip",
+      "sha256": "2c211c4a251bd31d1b95cb7fc85ad37290048c11507a6649df80006094a1cfec",
+      "members": [
+        "jb-KORE307422020.xml"
+      ],
+      "validated_format": "ZIP and XML parsed; expected identifier verified",
+      "xml_path": "sources/review-p1-p14-2026-10-20/KORE307422020.xml",
+      "xml_sha256": "f6f41a3b3840f632e79cbec5979bc4bca9b81c52e89ff0b8f2107e69d9b77460",
+      "identical_to_manuscript_source": true
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE716052025.zip",
+      "accessed_at": "2026-10-20T09:49:18.784077+00:00",
+      "purpose": "bounded independent substantive review p1–p14, 20 units",
+      "http_status": 200,
+      "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE716052025.zip",
+      "content_type": "application/zip",
+      "local_path": "sources/review-p1-p14-2026-10-20/KORE716052025.zip",
+      "sha256": "0144477674dffdb2f2b7f9fe0fc981b503b828fdc4879435d25b75f357b45621",
+      "members": [
+        "jb-KORE716052025.xml"
+      ],
+      "validated_format": "ZIP and XML parsed; expected identifier verified",
+      "xml_path": "sources/review-p1-p14-2026-10-20/KORE716052025.xml",
+      "xml_sha256": "32e45760bf275a90dd9a80d388c58f86628fa1b8a5223bd1d5e675441a5620ca",
+      "identical_to_manuscript_source": true
     }
   ],
   "version_evidence": {
@@ -209,6 +294,15 @@
       "sha256": "32e45760bf275a90dd9a80d388c58f86628fa1b8a5223bd1d5e675441a5620ca",
       "format": "XML parsed successfully",
       "expected_identifier": "KORE716052025"
+    },
+    {
+      "path": "sources/review-p1-p14-2026-10-20/firecrawl-index.md",
+      "sha256": "78388062554927d700efd728cdef4c8810114b85c31b531a40e397a284c3bebc",
+      "format": "Firecrawl Markdown index extraction; not a statutory canonical text",
+      "source_url": "https://www.gesetze-im-internet.de/rvg/",
+      "scrape_id": "01a158b7-2313-7618-9dc0-faf6798330ed",
+      "accessed_at": "2026-10-20T09:49:18+00:00",
+      "http_evidence": "Direct official index HTTP snapshot recorded separately in requests; Firecrawl scrape ID is not an HTTP status."
     }
   ],
   "format_rejection_note": "Early discovery attempts without complete timing were retained as diagnostics; repeat attempts below capture full responses. Only successful format-validated official ZIP/XML and promulgation PDF are authoritative evidence for this manuscript.",
@@ -218,5 +312,11 @@
     "version_evidence": "sources/preflight-version-evidence.json",
     "decisive_date": "2026-10-19",
     "authoring_date_preserved": true
+  },
+  "bounded_review_recheck": {
+    "date": "2026-10-20",
+    "decisive_date": "2026-10-19",
+    "records": "sources/review-p1-p14-2026-10-20/requests.json",
+    "version_basis": "Existing promulgated Article 14 and commencement Article 21 re-read; current RVG XML compared byte for byte. Date of retrieval is not proof of commencement."
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T09:46:50.419678+00:00",
+  "generated_at": "2026-10-20T09:55:04.919343+00:00",
   "files": [
     {
       "path": "sources/KORE307422020.md",
@@ -142,6 +142,61 @@
       "sha256": "9448f8a1159c9b14e3e1b9d8eab1a6ddf88d26e1f888a34cef430c756e4e6e1e"
     },
     {
+      "path": "sources/review-p1-p14-2026-10-20/KORE307422020.xml",
+      "bytes": 63945,
+      "sha256": "f6f41a3b3840f632e79cbec5979bc4bca9b81c52e89ff0b8f2107e69d9b77460"
+    },
+    {
+      "path": "sources/review-p1-p14-2026-10-20/KORE307422020.zip",
+      "bytes": 16208,
+      "sha256": "2c211c4a251bd31d1b95cb7fc85ad37290048c11507a6649df80006094a1cfec"
+    },
+    {
+      "path": "sources/review-p1-p14-2026-10-20/KORE716052025.xml",
+      "bytes": 61687,
+      "sha256": "32e45760bf275a90dd9a80d388c58f86628fa1b8a5223bd1d5e675441a5620ca"
+    },
+    {
+      "path": "sources/review-p1-p14-2026-10-20/KORE716052025.zip",
+      "bytes": 15165,
+      "sha256": "0144477674dffdb2f2b7f9fe0fc981b503b828fdc4879435d25b75f357b45621"
+    },
+    {
+      "path": "sources/review-p1-p14-2026-10-20/bgbl-318.pdf",
+      "bytes": 363624,
+      "sha256": "89f50d3f611d6f05089d6d4827783cf1531cfd3c800cd808e86c763b9db28c41"
+    },
+    {
+      "path": "sources/review-p1-p14-2026-10-20/firecrawl-index.md",
+      "bytes": 13914,
+      "sha256": "78388062554927d700efd728cdef4c8810114b85c31b531a40e397a284c3bebc"
+    },
+    {
+      "path": "sources/review-p1-p14-2026-10-20/index.html",
+      "bytes": 21362,
+      "sha256": "7e9f02d6a7dc1934d08e4463457f1c15649d20bfd365778bff502c55f2eb80dd"
+    },
+    {
+      "path": "sources/review-p1-p14-2026-10-20/requests.json",
+      "bytes": 4358,
+      "sha256": "1d835bf0fd23ede738937d4b87581598d1d2e30963cf17204e1fb9f0ac8e057e"
+    },
+    {
+      "path": "sources/review-p1-p14-2026-10-20/rvg.xml",
+      "bytes": 330910,
+      "sha256": "be5571d1735031133f154071b08a77ccdb89f3e047330ed057a494dfd128f5d1"
+    },
+    {
+      "path": "sources/review-p1-p14-2026-10-20/rvg.zip",
+      "bytes": 55552,
+      "sha256": "51019d65e1d783759d31a3d67ff21ec35d922d309a82d575a08848c89de42dde"
+    },
+    {
+      "path": "sources/review-p1-p14-2026-10-20/updates.html",
+      "bytes": 75210,
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596"
+    },
+    {
       "path": "sources/rvg-frontmatter.json",
       "bytes": 1182,
       "sha256": "00571bf2cbb76c8079a48d7bbbad45c592f2ef1bc980cae7f782292cee8fea8e"
@@ -168,13 +223,13 @@
     },
     {
       "path": "sources/search-log.json",
-      "bytes": 2124,
-      "sha256": "c76fc14c11606e46737f88cacf62062b632a82675a069f641ade34b7932afb2b"
+      "bytes": 2824,
+      "sha256": "2d6595f8c025b8d8d65725c428055052936a72a2c638145ba1704a7f8565cdfb"
     },
     {
       "path": "sources/verification.json",
-      "bytes": 10663,
-      "sha256": "69230462f47dc80ed866698a066850741562fb3dd5497be088b8806eff7cc24e"
+      "bytes": 16091,
+      "sha256": "ae4a9f5227e121558fd5baa7c946520fa5737a95a02c74f7cd87f25ecd5ed450"
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
   "commentary_units": 344,
   "statutory_units": 344,
-  "commentary_chars": 275039,
-  "mean_comment_chars": 799,
+  "commentary_chars": 281786,
+  "mean_comment_chars": 819,
   "minimum_comment_chars": 401,
   "missing_comments": [],
   "identical_sentences_over_90_characters": [],
   "identical_paragraphs_over_150_characters": [],
-  "local_links_checked": 74,
+  "local_links_checked": 89,
   "broken_local_links": [],
   "external_urls": [
     "http://www.justiz.de/onlinedienste/bundesundlandesrecht/index.php",

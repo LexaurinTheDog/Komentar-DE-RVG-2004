@@ -61,5 +61,15 @@
       "cases": [],
       "use": "Statutory explanation; no individually verified additional case is asserted. Technical and repealed units do not receive invented authorities. No per-unit comprehensive search claimed."
     }
-  ]
+  ],
+  "bounded_review_2026_10_20": {
+    "scope": "20 assigned units; verification of existing selective § 3a citations, no claim of new exhaustive discovery",
+    "methods": [
+      "Fresh official RII ZIP/XML for both cases; identifiers and byte equality checked",
+      "Full text read: tenors, facts, both lower-court accounts and all reasons; court holdings separated from submissions",
+      "Historical § 3a/§ 4 numbering mapped to current RVG XML; corresponding case cards retained"
+    ],
+    "additional_case_law": "No additional decision is asserted for the other 19 assigned units; no exhaustive individual search performed.",
+    "evidence": "review-p1-p14-2026-10-20/requests.json"
+  }
 }
