@@ -510,6 +510,13 @@
       "Three selectively chosen officialfulltexts read; no exhaustiveperunit orlatercase census. February2024AGrejection wasoverturned inMay2024, andis retainedonlyasproceduralhistory.",
       "2011BVerfG reasoning used onlyfor work/fee distinctionand§51context; supersededhistoricalamounts not adopted. No verifiedcurrenttimecase selected, currenttimeexceptions explainedfromstatute.",
       "Current consolidation, actualpublishedcommencement andintakechange-map checked; no fullhistorical orindirectamendmentarchive audit. ExternalGVG/StrRehaGlabels usedasprinted inRVG, not independentcommentaries onthoseacts."
-    ]
+    ],
+    "validation": {
+      "strict_ok": true,
+      "verbatim_ratio": 1.0,
+      "validated_at": "2026-10-20T11:59:07.807780+00:00",
+      "reviewed_commentary_units": 20,
+      "whole_book_review_complete": false
+    }
   }
 }
