@@ -1,0 +1,89 @@
+---
+source: rechtsprechung-im-internet
+country: de
+document_type: decision
+court: BGH
+chamber: 9. Zivilsenat
+ecli: null
+doknr: KORE301222011
+case_number: IX ZR 153/10
+date: '2011-04-14'
+decision_type: Urteil
+norms: Nr 4141 Abs 1 Nr 1 RVG-VV, § 153a StPO
+prior_instance: 'vorgehend LG Berlin, 27. Juli 2010, Az: 7 S 48/09, Urteil
+
+
+  vorgehend AG Tempelhof-Kreuzberg, 1. Oktober 2009, Az: 18 C 80/09'
+source_url: https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE301222011
+download_url: https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE301222011.zip
+chars: 8298
+license: amtliches Werk (§ 5 UrhG)
+retrieved_at: '2026-10-03T14:25:38Z'
+---
+
+# BGH IX ZR 153/10 (2011-04-14)
+
+- **Gericht:** BGH 9. Zivilsenat
+- **Datum:** 2011-04-14
+- **Aktenzeichen:** IX ZR 153/10
+- **ECLI:** —
+- **Dokumenttyp:** Urteil
+- **Normen:** Nr 4141 Abs 1 Nr 1 RVG-VV, § 153a StPO
+
+## Titelzeile
+
+Verteidigergebühr: Anfall einer zusätzlichen Gebühr bei vorläufiger Einstellung des Verfahrens in der Hauptverhandlung
+
+## Leitsatz
+
+Die Zusatzgebühr nach Nr. 4141 Abs. 1 Nr. 1 RVG-VV fällt nicht an, wenn ein Strafverfahren in der Hauptverhandlung nach § 153a StPO vorläufig eingestellt wird und nach Erbringung der Auflage die endgültige Einstellung erfolgt .
+
+## Tenor
+
+Die Revision gegen das Urteil der Zivilkammer 7 des Landgerichts Berlin vom 27. Juli 2010 wird auf Kosten des Klägers zurückgewiesen.
+
+Von Rechts wegen
+
+## Tatbestand
+
+1 Der Kläger beauftragte eine Rechtsanwältin, ihn in einem wegen einer Verkehrsstraftat gegen ihn geführten Strafverfahren zu vertreten. Im Hauptverhandlungstermin stellte das Gericht das Strafverfahren gemäß § 153a StPO unter der Auflage, 1.200 € an eine gemeinnützige Einrichtung zu zahlen, vorläufig ein. Nach vollständiger Zahlung des Geldbetrages wurde das Verfahren endgültig eingestellt.
+
+2 Gegenüber dem beklagten Rechtsschutzversicherer des Klägers rechnete die Rechtsanwältin neben der Terminsgebühr auch eine zusätzliche Gebühr für die Erledigung des Verfahrens ohne Hauptverhandlung ab. Die Beklagte vertrat die Ansicht, diese Gebühr sei nicht angefallen.
+
+3 Im vorliegenden Rechtsstreit verlangt der Kläger Freistellung von der Zusatzgebühr nebst Umsatzsteuer (insgesamt 186,60 €). Das Amtsgericht hat der Klage stattgegeben; das Landgericht hat sie abgewiesen. Mit seiner vom Berufungsgericht zugelassenen Revision will der Kläger die Wiederherstellung des Urteils des Amtsgerichts erreichen.
+
+## Entscheidungsgründe
+
+4 Die Revision des Klägers hat keinen Erfolg.
+
+I.
+
+5 Das Berufungsgericht hat ausgeführt, der Kläger habe keinen Anspruch auf Freistellung von der nach Nr. 4141 Abs. 1 Nr. 1 VV RVG angesetzten Gebühr, weil diese nicht angefallen sei. Eine zusätzliche Gebühr aufgrund der vorgenannten Bestimmung könne nicht entstehen, wenn eine Hauptverhandlung durchgeführt worden sei. Bereits der Wortlaut der angeführten Vergütungsregelung lege diese Auslegung nahe, weil die Einleitung zum Gebührentatbestand davon spreche, dass durch die anwaltliche Mitwirkung die Hauptverhandlung entbehrlich werde. Auch aus dem Sinn und dem Zweck der Vorschrift folge dieses Ergebnis. Intensive und zeitaufwändige Tätigkeiten des Strafverteidigers, die zu einer Vermeidung der Hauptverhandlung und damit beim Verteidiger zum Verlust der Terminsgebühr führten, sollten gebührenrechtlich honoriert werden. Ziel der Regelung sei damit eine Verringerung der Arbeitsbelastung der Gerichte. Sei bereits eine Hauptverhandlung durchgeführt worden, könne dieses Ziel nicht mehr erreicht werden.
+
+II.
+
+6 Diese Ausführungen halten rechtlicher Prüfung im Ergebnis stand. Das Berufungsgericht ist mit Recht davon ausgegangen, dass die vom Kläger geltend gemachte zusätzliche Gebühr nach Nr. 4141 Abs. 1 Nr. 1 VV RVG nicht angefallen ist.
+
+7 1. Die Gebühr nach Nr. 4141 Abs. 1 Nr. 1 des Vergütungsverzeichnisses zu § 2 Abs. 2 Satz 1 RVG (fortan: VV RVG), die allgemein als Befriedungsgebühr bezeichnet wird (Hartung in Hartung/Schons/Enders, RVG, Nr. 4141 Rn. 1; Burhoff, RVG Straf- und Bußgeldsachen, 2. Aufl., 4141 VV RVG Rn. 1), entsteht, wenn "das Verfahren nicht nur vorläufig eingestellt wird" (Abs. 1 Nr. 1 der Erläuterungen). Der angeführten Norm hat der Gesetzgeber folgenden Eingangsatz im Gebührentatbestand vorangestellt: "Durch die anwaltliche Mitwirkung wird die Hauptverhandlung entbehrlich."
+
+8 a) Wie der Begriff "die Hauptverhandlung" im hier vorliegenden Fall der endgültigen Einstellung eines Verfahrens nach § 153a StPO zu verstehen ist, ob die Gebühr also auch dann verdient ist, wenn das Strafverfahren im Rahmen einer Hauptverhandlung vorläufig eingestellt wird und die endgültige Einstellung nach vollständiger Erfüllung der Auflagen geschieht, ist im Gesetz nicht näher geregelt.
+
+9 b) In der instanzgerichtlichen Rechtsprechung und der Literatur werden hierzu drei unterschiedliche Auffassungen vertreten.
+
+10 aa) Die Befriedungsgebühr falle stets an, weil der im Termin zur Hauptverhandlung beschlossenen vorläufigen Einstellung eine neue Hauptverhandlung nachfolgen müsste, wenn der Angeklagte die Auflage nicht vollständig erfülle. Diese neue Hauptverhandlung werde durch die endgültige Einstellung vermieden (Hansens, zfs 2010, 288).
+
+11 bb) Die Befriedungsgebühr falle niemals an, weil eine Hauptverhandlung, in die schon eingetreten sei, nicht mehr - wie es Nr. 4141 VV RVG voraussetze - entbehrlich gemacht werden könne (LG Detmold, AGS 2009, 588, 589 [zu RVG VV Nr. 5115]; AG München, JurBüro 2011, 26; Hartmann, Kostengesetze 41. Aufl., 4141 VV RVG Rn. 3).
+
+12 cc) Die dritte Ansicht differenziert danach, ob eine unterbrochene Hauptverhandlung vorliegt oder nach Aussetzung eine neue Hauptverhandlung anzuberaumen ist. Bestünde eine einheitliche Hauptverhandlung, deren weiterer Fortgang durch eine Einstellung abgekürzt werde, genüge dies nicht, um die Befriedungsgebühr entstehen zu lassen. Anders liege es nur, wenn die Einstellung nach Aussetzung der Hauptverhandlung erfolge, weil hier die neue Hauptverhandlung entbehrlich werde (OLG Köln, AGS 2006, 339, 340; OLG Bamberg, AGS 2007, 138, 139; OLG Hamm, AGS 2008, 228; Burhoff in Gerold/Schmidt/Burhoff, RVG, 19. Aufl., VV 4141 Rn. 21; Burhoff, RVG Straf- und Bußgeldsachen, aaO Rn. 21; Hartung in Hartung/Schons/Enders, aaO Rn. 16 ff; Uher in Bischof u.a., RVG, 3. Aufl., VV 4141 Rn. 115a; Schneider in AnwKommRVG, 5. Aufl., VV 4141 Rn. 44 ff).
+
+13 2. Die zuletzt genannte Auffassung ist zutreffend.
+
+14 a) Die jetzt geltende Regelung der Nr. 4141 VV RVG hat den Grundgedanken des § 84 Abs. 2 BRAGO übernommen, nämlich intensive und zeitaufwändige Tätigkeiten des Verteidigers, die zu einer Vermeidung der Hauptverhandlung und damit beim Verteidiger zum Verlust der Hauptverhandlungsgebühr führten, gebührenrechtlich zu honorieren (BT-Drucks. 15/1971, S. 227; BGH, Urteil vom 5. November 2009 - IX ZR 237/08, NJW 2010, 1209 Rn. 10). Die Befriedungsgebühr der Nr. 4141 VV RVG soll den Anreiz, Verfahren ohne Hauptverhandlung zu erledigen, erhöhen, und somit zu weniger Hauptverhandlungen führen (BT-Drucks. 15/1971, S. 227 f). Ziel der Regelung ist damit eine Verringerung der Arbeitsbelastung der Gerichte. Dieses Ziel soll durch eine adäquate Vergütung des Verteidigers bereits im Vorfeld der Hauptverhandlung erreicht werden (BGH, Urteil vom 5. November 2009 - IX ZR 237/08, aaO).
+
+15 b) Dieser Normzweck spricht entscheidend dafür, dass eine Einstellung, die innerhalb der Hauptverhandlung erfolgt, eine Befriedungsgebühr nicht mehr auszulösen vermag. Dabei ist es gleichgültig, ob die Einstellung am ersten Tag der Hauptverhandlung oder an einem späteren Terminstag geschieht, insbesondere, ob hierdurch Fortsetzungstermine vermieden werden. Im Hinblick auf den Grundsatz der Einheitlichkeit der Hauptverhandlung kann die Frage der Entbehrlichkeit der Hauptverhandlung nur einheitlich beantwortet werden. Wird dagegen eine anberaumte Hauptverhandlung durch Aussetzung des Verfahrens nicht zu Ende geführt, kann wegen einer später in Betracht kommenden neuen Hauptverhandlung der Normzweck der Nr. 4141 Abs. 1 Nr. 1 VV RVG wiederum zur Entfaltung gelangen (vgl. OLG Bamberg, AGS 2007, 138, 139). Wird unter diesen Umständen eine neue Hauptverhandlung entbehrlich, weil das Verfahren unter Mitwirkung des Rechtsanwalts nicht nur vorläufig eingestellt wird, so entsteht die Gebühr der Nr. 4141 Abs. 1 Nr. 1 VV RVG (Hartung in Hartung/Schons/Enders, aaO Rn. 18).
+
+16 c) Dass im Falle der Nichterfüllung der Auflage eine neue Hauptverhandlung anberaumt werden müsste, die durch die endgültige Einstellung vermieden werde, ist kein Gesichtspunkt, der das Entstehen der Gebühr der Nr. 4141 Abs. 1 Nr. 1 VV RVG zu begründen vermag. Hierbei handelt es sich um eine reine spekulative Erwägung. Kommt der Angeklagte den ihm erteilten Auflagen vollständig nach, so entsteht das zuvor bedingte Verfahrenshindernis (§ 153a Abs. 2 in Verbindung mit Abs. 1 Satz 3 StPO) endgültig ganz von selbst; dem endgültigen Einstellungsbeschluss kommt nur eine deklaratorische Bedeutung zu (KK-Schoreit, StPO, 6. Aufl., § 153a Rn. 41, 43; Meyer-Goßner, StPO, 53. Aufl., § 153a Rn. 52, 53). Die endgültige Einstellung ist zwingend, sie hängt ausschließlich von dem Leistungswillen und der Leistungsfähigkeit des Angeklagten ab.
+
+Kayser Gehrlein Fischer
+
+Grupp Möhring

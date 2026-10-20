@@ -378,6 +378,96 @@
         "vv4125"
       ],
       "limitations": "Selective official andnationalcorpus research; no exhaustiveperunit negativecasefindings orsubsequent-case census. Current time rules explained fromstatute, not importedfromhistoricalpausecases."
+    },
+    {
+      "date": "2026-10-20",
+      "scope": [
+        "vv4126",
+        "vv4127",
+        "vv4128",
+        "vv4129",
+        "vv4130",
+        "vv4131",
+        "vv4132",
+        "vv4133",
+        "vv4134",
+        "vv4135",
+        "vb4.1.4",
+        "vv4136",
+        "vv4137",
+        "vv4138",
+        "vv4139",
+        "vv4140",
+        "vv4141",
+        "vv4142",
+        "vv4143",
+        "vv4144"
+      ],
+      "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii",
+      "local_search": {
+        "pattern": "4141|4142|4143|4144|4136|4137|4138|4139",
+        "evidence": "local-case-hits.txt",
+        "file_hits": 100,
+        "limitation": "Broad numerical search contains irrelevant docket/document-number matches, XML/MD duplicates and manifest. Hit count is not count of relevant decisions.",
+        "selection": "Manifest docket lookup plus actual full texts selected four relevant BGH decisions."
+      },
+      "web_queries": [
+        "site.bundesgerichtshof.de 4141 Revision Hauptverhandlung",
+        "site.bundesgerichtshof.de 4142 Beratung Einziehung",
+        "site.bundesgerichtshof.de 4143 Adhäsionsverfahren Pflichtverteidiger",
+        "site.rechtsprechung-im-internet.de 4143 2025",
+        "site.rechtsprechung-im-internet.de 3 StR 625/17",
+        "site.bundesgerichtshof.de 5 StR 524/25"
+      ],
+      "firecrawl": {
+        "evidence": "firecrawl-search.json",
+        "query": "site.rechtsprechung-im-internet.de \"4141\" \"Revision\"",
+        "result": "Discovery results only; no secondary commentary used as authority."
+      },
+      "full_texts_read": [
+        "KORE301222011",
+        "KORE310182011",
+        "KORE618082019",
+        "KORE703612026"
+      ],
+      "supported_units": {
+        "KORE301222011": [
+          "vv4141"
+        ],
+        "KORE310182011": [
+          "vv4141 by expressly identified inference from parallel 5115 case"
+        ],
+        "KORE618082019": [
+          "vv4142"
+        ],
+        "KORE703612026": [
+          "vv4143",
+          "vv4144"
+        ]
+      },
+      "no_additional_verified_case_selected": [
+        "vv4126",
+        "vv4127",
+        "vv4128",
+        "vv4129",
+        "vv4130",
+        "vv4131",
+        "vv4132",
+        "vv4133",
+        "vv4134",
+        "vv4135",
+        "vb4.1.4",
+        "vv4136",
+        "vv4137",
+        "vv4138",
+        "vv4139",
+        "vv4140"
+      ],
+      "findings": [
+        "Search snippet dating 5 StR 524/25 to 26 January rejected in favour of actual official 28 January 2026 full text.",
+        "Official 2018 Einziehung decision metadata has inconsistent 2017 ECLI; retained and disclosed, cited by actual decision date and docket."
+      ],
+      "limitations": "Selective database and national corpus research; no exhaustive per-unit negative findings or later-case census. Time rules explained from current statute, not historical pause case law."
     }
   ]
 }

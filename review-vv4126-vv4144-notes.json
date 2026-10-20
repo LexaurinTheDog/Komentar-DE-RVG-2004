@@ -1,0 +1,227 @@
+{
+  "reviewed_at": "2026-10-20T12:09:05.873823+00:00",
+  "reviewed_ids": [
+    "vv4126",
+    "vv4127",
+    "vv4128",
+    "vv4129",
+    "vv4130",
+    "vv4131",
+    "vv4132",
+    "vv4133",
+    "vv4134",
+    "vv4135",
+    "vb4.1.4",
+    "vv4136",
+    "vv4137",
+    "vv4138",
+    "vv4139",
+    "vv4140",
+    "vv4141",
+    "vv4142",
+    "vv4143",
+    "vv4144"
+  ],
+  "findings": [
+    {
+      "id": "vv4126",
+      "finding": "Rahmen 96–671 Euro und 307 Euro Bestelltenbetrag ergänzt. Tageseinheit, Fortsetzung, Rehabilitierungsbeschwerde nach § 13 StrRehaG und vollständige Ausfallvoraussetzungen unterschieden. Beispiel 2 × 307 = 614 Euro; Auslagen und Steuer getrennt.",
+      "disposition": "corrected after full source and cross-reference reading",
+      "source_location": {
+        "table_index": 4,
+        "row_index": 48,
+        "first_cell": "4126"
+      }
+    },
+    {
+      "id": "vv4127",
+      "finding": "Gesamthafttarif 96–839 Euro / 374 Euro erklärt; keine Addition zur Grundposition. Tagesstatus vom früheren Haftstatus und Verfahrenszuschlag unterschieden; Wahlbemessung nach § 14 und gesonderte Zeitstufen.",
+      "disposition": "corrected after full source and cross-reference reading",
+      "source_location": {
+        "table_index": 4,
+        "row_index": 50,
+        "first_cell": "4127"
+      }
+    },
+    {
+      "id": "vv4128",
+      "finding": "154 Euro nur für Bestellte oder Beigeordnete bei >5 bis 8 Stunden. Alle Ausnahmen der Vorbemerkung 4.1 Absatz 3 erklärt. 9–16 Uhr minus konkret angeordnete Stunde = 6 Stunden; 307 + 154 = 461 Euro. Keine Tagesaggregation.",
+      "disposition": "corrected after full source and cross-reference reading",
+      "source_location": {
+        "table_index": 4,
+        "row_index": 51,
+        "first_cell": "4128"
+      }
+    },
+    {
+      "id": "vv4129",
+      "finding": "307 Euro bei >8 Stunden, alternativ zu 4128. Konkret angeordnete Einzelpause und unbestimmtes Warten unterschieden, keine Stundenaufrundung. 10 minus 1 = 9 Stunden, Hafttag 374 + 307 = 681 Euro.",
+      "disposition": "corrected after full source and cross-reference reading",
+      "source_location": {
+        "table_index": 4,
+        "row_index": 52,
+        "first_cell": "4129"
+      }
+    },
+    {
+      "id": "vv4130",
+      "finding": "Rahmen 144–1.331 Euro / 590 Euro, Tätigkeitsbeginn und schriftliche Bearbeitung erläutert. § 19 Absatz 1 Satz 2 Nummer 10 für bisherige/neue Verteidiger, §§ 17/14, isolierte Erfolgsaussicht und Einzelrevisionsauftrag, Grundgebühreneinmaligkeit geprüft.",
+      "disposition": "corrected after full source and cross-reference reading",
+      "source_location": {
+        "table_index": 4,
+        "row_index": 54,
+        "first_cell": "4130"
+      }
+    },
+    {
+      "id": "vv4131",
+      "finding": "Rahmen 144–1.664 Euro / 723 Euro als ersetzende Haftposition erklärt. Tatsächlicher Freiheitsstatus und Auftrag nötig, keine Besprechungsgebührenserie, keine Langdauergebühr für schriftliche Vorbereitung.",
+      "disposition": "corrected after full source and cross-reference reading",
+      "source_location": {
+        "table_index": 4,
+        "row_index": 55,
+        "first_cell": "4131"
+      }
+    },
+    {
+      "id": "vv4132",
+      "finding": "Rahmen 144–671 Euro / 326 Euro und Tagesprinzip konkretisiert. Schriftlicher Beschluss genügt nicht; vollständige Ausfallregel als Ausnahme zur tatsächlichen Verhandlung berücksichtigt. Eigener Beispielsfall ohne Zeitstufe.",
+      "disposition": "corrected after full source and cross-reference reading",
+      "source_location": {
+        "table_index": 4,
+        "row_index": 56,
+        "first_cell": "4132"
+      }
+    },
+    {
+      "id": "vv4133",
+      "finding": "Rahmen 144–839 Euro / 393 Euro. Angeklagtenabwesenheit und Haftstatus getrennt; Verfahrens- und Tageszuschlag sowie alternative Grund-/Hafttagespositionen auseinandergehalten.",
+      "disposition": "corrected after full source and cross-reference reading",
+      "source_location": {
+        "table_index": 4,
+        "row_index": 57,
+        "first_cell": "4133"
+      }
+    },
+    {
+      "id": "vv4134",
+      "finding": "163 Euro für >5 bis einschließlich 8 Stunden, nur Bestellte/Beigeordnete. Sämtliche gesetzlichen Zeitbereinigungen und keine Addition kurzer Pausen zur Einzelstunde. 10–18.30 Uhr minus 1 Stunde = 7,5 Stunden, 326 + 163 = 489 Euro.",
+      "disposition": "corrected after full source and cross-reference reading",
+      "source_location": {
+        "table_index": 4,
+        "row_index": 58,
+        "first_cell": "4134"
+      }
+    },
+    {
+      "id": "vv4135",
+      "finding": "326 Euro oberhalb 8 Stunden, keine Kumulation mit 4134 oder Stundenvervielfachung. 10,25 minus 1,25 = 9 Stunden; 326 + 326 = 652 Euro. Praktische Prüfliste am Ende des Rechtsmittelabschnitts ergänzt.",
+      "disposition": "corrected after full source and cross-reference reading",
+      "source_location": {
+        "table_index": 4,
+        "row_index": 59,
+        "first_cell": "4135"
+      }
+    },
+    {
+      "id": "vb4.1.4",
+      "finding": "Grundgebührensperre auch für neu beauftragte Wiederaufnahmeverteidiger erklärt. § 17 Nummer 13 trennt später wiederaufgenommenes Verfahren, ohne dort eine neue Grundgebühr pauschal zu versprechen. Geschäfts-/Verfahrens-/Tagesphasen abgegrenzt.",
+      "disposition": "corrected after full source and cross-reference reading",
+      "source_location": {
+        "table_index": 4,
+        "row_index": 61,
+        "first_cell": "Vorbemerkung 4.1.4: Eine Grundgebühr entsteht nicht."
+      }
+    },
+    {
+      "id": "vv4136",
+      "finding": "Vorbereitende Tätigkeit und ausdrücklicher Anfall beim Abraten von Antragstellung vollständig erfasst. Erstinstanzliche Bezugsgebühr statt Streitwert; besondere Staatskassenbedingungen des § 45 Absatz 4 mit aktuell gelesenem § 364b StPO unterschieden.",
+      "disposition": "corrected after full source and cross-reference reading",
+      "source_location": {
+        "table_index": 4,
+        "row_index": 62,
+        "first_cell": "4136"
+      }
+    },
+    {
+      "id": "vv4137",
+      "finding": "Zulässigkeitsphase anhand § 368 StPO konkretisiert und von inhaltlicher Beweisprüfung getrennt. Kein Erfolgserfordernis, keine Gebühr je Schriftsatz. Frühere missverständliche Beschränkung der Erstattung von Vorarbeit durch Hinweis auf § 48 Absatz 6 korrigiert.",
+      "disposition": "corrected after full source and cross-reference reading",
+      "source_location": {
+        "table_index": 4,
+        "row_index": 64,
+        "first_cell": "4137"
+      }
+    },
+    {
+      "id": "vv4138",
+      "finding": "Weitere Wiederaufnahmephase §§ 369/370 StPO, Beweiserhebung, Erklärung und gerichtliche Entscheidung konkret erklärt. Keine Verwechslung mit einem weiteren Zulässigkeitsschriftsatz oder späterem wiederaufgenommenem Erkenntnisverfahren.",
+      "disposition": "corrected after full source and cross-reference reading",
+      "source_location": {
+        "table_index": 4,
+        "row_index": 65,
+        "first_cell": "4138"
+      }
+    },
+    {
+      "id": "vv4139",
+      "finding": "Besonderer Beschwerdetatbestand § 372 StPO als Ausnahme zu § 19 Absatz 1 Satz 2 Nummer 10a erklärt. Staatsanwaltschaftlicher Anfechtungsausschluss erwähnt, ohne aus dem Tarif zusätzliche Rechtsmittelrechte abzuleiten; Bezugsgebühr und Bestellungsumfang.",
+      "disposition": "corrected after full source and cross-reference reading",
+      "source_location": {
+        "table_index": 4,
+        "row_index": 66,
+        "first_cell": "4139"
+      }
+    },
+    {
+      "id": "vv4140",
+      "finding": "Tagesgebühr nach erstinstanzlichem Bezugstarif, gerichtliche Beweisaufnahme nach § 369 StPO und Vorbemerkung 4 Absatz 3 erläutert. Wiederaufgenommenes Verfahren getrennt; praktische Wiederaufnahmeprüfliste ergänzt.",
+      "disposition": "corrected after full source and cross-reference reading",
+      "source_location": {
+        "table_index": 4,
+        "row_index": 67,
+        "first_cell": "4140"
+      }
+    },
+    {
+      "id": "vv4141",
+      "finding": "Alle vier Erledigungsalternativen und Privatklägerregel berücksichtigt; § 411 Absatz 1 Satz 3 StPO inhaltlich geprüft. Strenge frühere Förderungs-/Kausalitätsformulierung differenziert durch BGH IX ZR 123/10 als ausdrücklich gekennzeichneten Parallelfall zu 5115. BGH IX ZR 153/10: Unterbrechung versus Aussetzung, keine Zusatzgebühr nur durch spätere Auflagenerfüllung. Zweiwochenschranke, Rahmenmitte, kein 1008/Haftzuschlag und Ausschluss 4147 erklärt.",
+      "disposition": "corrected after full source and cross-reference reading",
+      "source_location": {
+        "table_index": 4,
+        "row_index": 69,
+        "first_cell": "4141"
+      }
+    },
+    {
+      "id": "vv4142",
+      "finding": "1,0-Wertgebühr und Maßnahmenkatalog, Wertuntergrenze <30 Euro, §§ 13/49/33 und eigene Instanzeinheit erläutert. Bisher zu enger Hinweis auf konkrete Maßnahmenverteidigung korrigiert: BGH 3 StR 625/17 Rn. 4–5 erfasst auch die unbeschränkte allgemeine Sachrüge und bestimmt Wert nach angegriffenem Einziehungsinteresse. Widersprüchlicher amtlicher ECLI in Karte offengelegt, nicht als Datum übernommen.",
+      "disposition": "corrected after full source and cross-reference reading",
+      "source_location": {
+        "table_index": 4,
+        "row_index": 72,
+        "first_cell": "4142"
+      }
+    },
+    {
+      "id": "vv4143",
+      "finding": "2,0-Wertgebühr für Geltendmachung und Abwehr, erstmalige Anspruchsbehandlung in Berufung, Anspruchsidentität und Drittelanrechnung auf Zivilverfahrensgebühr erläutert. Keine unbelegte Beschränkung der Anrechnung auf spätere Prozesse. BGH 28.1.2026 5 StR 524/25 zur Bestellungsreichweite eingefügt, ausdrücklich als Zustellungsfall und Aufgabe eigener alter Rechtsprechung begrenzt.",
+      "disposition": "corrected after full source and cross-reference reading",
+      "source_location": {
+        "table_index": 4,
+        "row_index": 74,
+        "first_cell": "4143"
+      }
+    },
+    {
+      "id": "vv4144",
+      "finding": "2,5-Wertgebühr für tatsächlich betroffenen Rechtsmittelanspruch, Anfechtungsumfang und erstmalige Geltendmachung nach 4143 Absatz 1 getrennt. Kein Terminerfordernis oder Automatismus bei bloßer Strafanfechtung. Aktueller BGH 5 StR 524/25 im alleinigen Adhäsionsrevisionsfall und Grenzen für Gebührenfestsetzung erläutert.",
+      "disposition": "corrected after full source and cross-reference reading",
+      "source_location": {
+        "table_index": 4,
+        "row_index": 76,
+        "first_cell": "4144"
+      }
+    }
+  ]
+}

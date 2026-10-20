@@ -1,0 +1,34 @@
+[
+  {
+    "doknr": "KORE301222011",
+    "judicial_paragraphs": 23,
+    "all_judicial_paragraphs_present_in_local_corpus": true,
+    "missing": [],
+    "official_xml_sha256": "66971e32f9e5b1e555fa8951de12550434e113db30e60e3e6c92633dd0272f92",
+    "local_intake_sha256": "6a5cbfa2155f90d9b61544c1f6054aa1bfb96360100ff5bb4a89b8126a48c777"
+  },
+  {
+    "doknr": "KORE310182011",
+    "judicial_paragraphs": 20,
+    "all_judicial_paragraphs_present_in_local_corpus": true,
+    "missing": [],
+    "official_xml_sha256": "e6ae9c23d9ab0d4d329a18c03a1d2129469d36a73b5108d61fcaa0ed997cf87e",
+    "local_intake_sha256": "efc0177d050783923e4af112d03633a4c20e7656e38e135bed15da5be89ca568"
+  },
+  {
+    "doknr": "KORE618082019",
+    "judicial_paragraphs": 12,
+    "all_judicial_paragraphs_present_in_local_corpus": true,
+    "missing": [],
+    "official_xml_sha256": "4ec9512a3299b807ceebbf44bf2bcd0607959922daa7773aec70be37942c3d7c",
+    "local_intake_sha256": "f84eb1ce3ea21824bbd047da6cbc98ece4d3c7b5cff9c24f13cea49fbb4b7f26"
+  },
+  {
+    "doknr": "KORE703612026",
+    "judicial_paragraphs": 11,
+    "all_judicial_paragraphs_present_in_local_corpus": true,
+    "missing": [],
+    "official_xml_sha256": "5da8d6ae6863c94d91376c845c212aa7caacda56a7cd46cf55ba9409eeaf8412",
+    "local_intake_sha256": "c4b7e669e27632c168e7e2c105741630ccecc697febc5d20ada5982d1b9f92a9"
+  }
+]

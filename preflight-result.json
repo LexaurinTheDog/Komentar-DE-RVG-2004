@@ -518,5 +518,56 @@
       "reviewed_commentary_units": 20,
       "whole_book_review_complete": false
     }
+  },
+  "bounded_review_vv4126_vv4144_recheck": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/rvg/",
+    "verified_at": "2026-10-20T12:09:05.873823+00:00",
+    "reviewed_ids": [
+      "vv4126",
+      "vv4127",
+      "vv4128",
+      "vv4129",
+      "vv4130",
+      "vv4131",
+      "vv4132",
+      "vv4133",
+      "vv4134",
+      "vv4135",
+      "vb4.1.4",
+      "vv4136",
+      "vv4137",
+      "vv4138",
+      "vv4139",
+      "vv4140",
+      "vv4141",
+      "vv4142",
+      "vv4143",
+      "vv4144"
+    ],
+    "version_evidence": "sources/review-vv4126-vv4144-2026-10-20/version-evidence.json",
+    "http_evidence": "sources/review-vv4126-vv4144-2026-10-20/requests.json",
+    "current_xml_byte_identical": true,
+    "historical_versions_checked": {
+      "operative_duplicates": [],
+      "selection": "One current consolidation, 79 single paragraph nodes and two single annex nodes. Historical quotations and transition references within current provisions are retained as content, not appended as old versions."
+    },
+    "eingangsformel": "No separate Eingangsformel or Präambel and no unlabelled operative Content in this official XML. Global enactment/commencement footnote preserved in sources/rvg-frontmatter.json and canonical.md.",
+    "annexes_checked": "Independent first-cell XML enumeration repeated before comparing parsed IDs. Anlage 1: 231 tariffs +32 remarks, all536rows retained. Anlage2: all22rows retained, no invented child IDs.",
+    "coverage": {
+      "expected": 344,
+      "parsed": 344,
+      "missing": [],
+      "duplicates": [],
+      "ok": true
+    },
+    "unresolved_blockers": [],
+    "limitations": [
+      "Four selectively chosen official judicial full texts read and compared against local national corpus; no exhaustive later-case or per-unit case-law research.",
+      "IX ZR 123/10 directly concerns 5115; use for 4141 is a clearly identified systematic inference. Older 2011/2018 reasoning is used within current corresponding subject matter, not for old fee amounts or superseded composition rules.",
+      "5 StR 524/25 concerns service and scope of appointment, not a fee assessment; current fee conditions remain separate. The 2018 official ECLI has a disclosed metadata inconsistency, so actual date and docket are used for citation.",
+      "Current consolidation, actual published commencement and intake/change map checked; no complete historical archive or exhaustive indirect-amendment audit. External StPO/StrRehaG current text was read for limited context only."
+    ]
   }
 }

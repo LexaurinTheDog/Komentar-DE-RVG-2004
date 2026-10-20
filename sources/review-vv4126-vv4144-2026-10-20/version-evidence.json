@@ -1,0 +1,37 @@
+{
+  "decisive_date": "2026-10-19",
+  "verified_at": "2026-10-20T12:09:05.873823+00:00",
+  "official_url": "https://www.gesetze-im-internet.de/rvg/",
+  "official_stand": [
+    "Neugefasst durch Bek. v. 15.3.2022 I 610;",
+    "zuletzt geändert durch Art. 14 G v. 8.12.2025 I Nr. 318"
+  ],
+  "xml_sha256": "be5571d1735031133f154071b08a77ccdb89f3e047330ed057a494dfd128f5d1",
+  "rvg_xml_identical_to_authoring": true,
+  "commencement": {
+    "path": "sources/review-vv4126-vv4144-2026-10-20/bgbl-318.pdf",
+    "read": "Actual Article 14 and Article 21(2)/(3) read in preserved authenticated text; fresh PDF byte-identical.",
+    "effective": "Article 14 numbers 1/3/4 since 2026-01-01; number 2 since 2026-07-01. No change to assigned tariffs."
+  },
+  "assigned_change": {
+    "path": "sources/review-vv3103-vv3212-2026-10-20/bgbl-109.pdf",
+    "text_path": "sources/review-vv3103-vv3212-2026-10-20/bgbl-109.txt",
+    "sha256": "1ff13f868178c6ca85497562b13de3e37a591793b5fe9f820432210ca17fc36d",
+    "read": "Article 11(2) numbers 62–71 read: current assigned money amounts for 4126–4135. Article 13(3): effective 2025-06-01. Existing authenticated snapshot re-read, not claimed as a fresh fetch."
+  },
+  "historical_versions_checked": "All92current XML nodes classified again; no duplicate operative labels or unlabelled operative Content. No separate Eingangsformel; official global notes preserved. Intake and change-map retained; no normative change. Not a complete historical archive.",
+  "annexes_checked": "Anlage1:231tariffs and32operative remarks independently derived from first XML cells before reading parsed IDs; all536rows retained in full parent. Anlage2:all22rows preserved, no invented child identifiers.",
+  "updates": {
+    "path": "sources/review-vv4126-vv4144-2026-10-20/updates.html",
+    "identical_to_prior_snapshot": true,
+    "limitation": "Update titles do not prove absence of all indirect amendments."
+  },
+  "external_cross_references": {
+    "records": "sources/review-vv4126-vv4144-2026-10-20/crossref-requests.json",
+    "read": "Current official StPO §§ 364b, 368–372, 411 and StrRehaG § 13 actually read; supports limited procedural context, not a full independent commentary of those statutes."
+  },
+  "limitations": [
+    "Current RVG consolidation and actual published commencement checked, not a complete historical or indirect-amendment archive.",
+    "External provisions support only the expressly described tariff context; no comprehensive commentary or independent historical audit of those statutes."
+  ]
+}

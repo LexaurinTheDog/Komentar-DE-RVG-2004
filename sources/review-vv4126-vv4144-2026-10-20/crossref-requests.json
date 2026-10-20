@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/stpo/xml.zip",
+    "accessed_at": "2026-10-20T12:01:47.860748+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "local_path": "sources/review-vv4126-vv4144-2026-10-20/stpo.zip",
+    "sha256": "fb59fced4b71b550a0320054e2e4f51cbf6db67df9adab7e6d3eb5f138dd0dd9",
+    "xml_path": "sources/review-vv4126-vv4144-2026-10-20/stpo.xml",
+    "xml_sha256": "dc2a551f062dbb6afb69d16a337f78656d1cadb5cd20c0dd4cc89396711f7838",
+    "validated_format": "ZIP and XML parsed, official abbreviation checked",
+    "scope": [
+      "§ 364b",
+      "§ 368",
+      "§ 369",
+      "§ 370",
+      "§ 371",
+      "§ 372",
+      "§ 411"
+    ],
+    "limitation": "Current official cross-reference context only; no separate historical archive or full commentary of the external code"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/strrehag/xml.zip",
+    "accessed_at": "2026-10-20T12:01:48.733149+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "local_path": "sources/review-vv4126-vv4144-2026-10-20/strrehag.zip",
+    "sha256": "33043b189cb4ac28ffe7b8f59f153ed357f77d09934fab7f9d2591933ac92cb6",
+    "xml_path": "sources/review-vv4126-vv4144-2026-10-20/strrehag.xml",
+    "xml_sha256": "da61185c4edd849e6a93e70f09f5e3406b510d17ab322759ae2f5efa99dd003e",
+    "validated_format": "ZIP and XML parsed, official abbreviation checked",
+    "scope": [
+      "§ 13"
+    ],
+    "limitation": "Current official cross-reference context only; no separate historical archive or full commentary of the external code"
+  }
+]
