@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/seerverto_1986/__17.html",
+    "accessed_at": "2026-10-20T11:18:56.833415+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "local_path": "sources/review-vv3318-vv3336-2026-10-20/sverto-17.html",
+    "sha256": "d6d91f1d5208e0aacd07fa6f6ce14b5481179488f6ce100b27083912795ac8be",
+    "validated_format": "HTML parsed, text extracted, expected statutory context read"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/seerverto_1986/__8.html",
+    "accessed_at": "2026-10-20T11:18:56.958004+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "local_path": "sources/review-vv3318-vv3336-2026-10-20/sverto-8.html",
+    "sha256": "5e34ec0d1bde3088d50e8fdb32af729e9119716f6b5f00cc7b06cef6e719c77f",
+    "validated_format": "HTML parsed, text extracted, expected statutory context read"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/seerverto_1986/__41.html",
+    "accessed_at": "2026-10-20T11:18:57.059088+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "local_path": "sources/review-vv3318-vv3336-2026-10-20/sverto-41.html",
+    "sha256": "b4ed5178fb373d913507401632498c9df3d1a0197648689fac943249af61fe84",
+    "validated_format": "HTML parsed, text extracted, expected statutory context read"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KARE600068051.zip",
+    "accessed_at": "2026-10-20T11:18:27.848023+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "local_path": "sources/review-vv3318-vv3336-2026-10-20/KARE600068051.zip",
+    "sha256": "3b9884adb431ba0ba82b97acfb39b993c98cf9f3d52c29f9137378ec60b086f8",
+    "validated_format": "ZIP, single expected decision XML, XML parsed",
+    "xml_path": "sources/review-vv3318-vv3336-2026-10-20/KARE600068051.xml",
+    "xml_sha256": "15c52debc58f7ca1611a4e767d900e63f003468e74fbd26def09d21b455d5c6e",
+    "court": "BAG",
+    "date": "20240418",
+    "docket": "4 AZB 22/23",
+    "ecli": "ECLI:DE:BAG:2024:180424.B.4AZB22.23.0",
+    "local_intake_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kare600068051.md",
+    "local_intake_sha256": "55562bd48f75807e5b17150ca86759ff7bbc28b049d9684b51c14f33b52c1e09"
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE628042023.zip",
+    "accessed_at": "2026-10-20T11:18:27.967749+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "local_path": "sources/review-vv3318-vv3336-2026-10-20/KORE628042023.zip",
+    "sha256": "3da709d33cb189d16825b78b3b5025b53f0c3cf426de1a484ce52d3d3b028665",
+    "validated_format": "ZIP, single expected decision XML, XML parsed",
+    "xml_path": "sources/review-vv3318-vv3336-2026-10-20/KORE628042023.xml",
+    "xml_sha256": "16c56b587e35499ed319f1c2029063d4d22ee905fa5d2c896847ac5411e8e916",
+    "court": "BGH",
+    "date": "20230720",
+    "docket": "V ZA 3/23",
+    "ecli": "ECLI:DE:BGH:2023:200723BVZA3.23.0",
+    "local_intake_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore628042023.md",
+    "local_intake_sha256": "d7233b9812f7793af05788c193173aaa270f2e476badb85b2dd15ed9d30bed99"
+  }
+]

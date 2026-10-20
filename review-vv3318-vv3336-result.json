@@ -1,0 +1,197 @@
+{
+  "complete": false,
+  "task_kind": "bounded_independent_second_pass",
+  "decisive_date": "2026-10-19",
+  "reviewed_at": "2026-10-20T11:26:23.094015+00:00",
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "vv3318",
+    "vv3319",
+    "vv3320",
+    "vv3321",
+    "vv3322",
+    "vv3323",
+    "vb3.3.6",
+    "vv3324",
+    "vv3325",
+    "vv3326",
+    "vv3327",
+    "vv3328",
+    "vv3329",
+    "vv3330",
+    "vv3331",
+    "vv3332",
+    "vv3333",
+    "vv3334",
+    "vv3335",
+    "vv3336"
+  ],
+  "changed_ids": [
+    "vv3318",
+    "vv3319",
+    "vv3320",
+    "vv3321",
+    "vv3322",
+    "vv3323",
+    "vb3.3.6",
+    "vv3324",
+    "vv3325",
+    "vv3326",
+    "vv3327",
+    "vv3328",
+    "vv3329",
+    "vv3330",
+    "vv3331",
+    "vv3332",
+    "vv3333",
+    "vv3334",
+    "vv3335",
+    "vv3336"
+  ],
+  "unchanged_assigned_ids": [],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "vv3318",
+      "disposition": "corrected_or_expanded",
+      "assessment": "Tarif 1,0 vollständig gelesen. Konkrete Planvertretung, fehlende Erfolgsbedingung und Abgrenzung zu Nr. 3317 erklärt. Wertgrundlage aus § 28 Absatz 3 statt ungeprüfter Massewertregel; keine Übernahme des nur bei Nr. 3313 geltenden Mindestwerts."
+    },
+    {
+      "id": "vv3319",
+      "disposition": "corrected_or_expanded",
+      "assessment": "Beide Merkmale der 3,0-Ersetzung geprüft: Schuldnervertretung und Planvorlage durch den Schuldner. Eigene anwaltliche Texturheberschaft und Erfolg nicht als zusätzliche Merkmale erfunden; kein 1,0+3,0-Zuschlag. Wertfrage getrennt."
+    },
+    {
+      "id": "vv3320",
+      "disposition": "corrected_or_expanded",
+      "assessment": "0,5 und vollständige SVertO-Anmerkung geprüft. Bisherige ausschließliche Fixierung auf Auftragsbegrenzung berichtigt: Gesetz stellt auf Beschränkung der Tätigkeit ab. Vorbereitung, spätere Erweiterung, Gebühreneinheit und Gläubiger-Nennwert einschließlich Nebenforderungen erläutert. Bereits vorhandenen BGH IX ZB 62/13 vollständig erneut gelesen; Forderungsprüfung eines Sonderverwalters ist keine Anmeldung."
+    },
+    {
+      "id": "vv3321",
+      "disposition": "corrected_or_expanded",
+      "assessment": "0,5 und beide Anmerkungsabsätze vollständig gelesen. Gleichzeitige Anträge und mehrere Begründungen unterschieden, gesonderte Entstehung auch vor Insolvenzaufhebung ausdrücklich gemacht. § 28 Absatz 3 und wirtschaftliches Interesse statt automatischer Forderungs-/Massewert; spätere Verfahren und Mehrmandanten nicht pauschal zusammengefasst."
+    },
+    {
+      "id": "vv3322",
+      "disposition": "corrected_or_expanded",
+      "assessment": "0,5, § 18 Absatz 1 Nummer 19 und tatsächlichen § 17 Absatz 4 SVertO gegengelesen. Sicherung vor Einstellung wegen drohender Nichtaufstockung des Fonds erklärt, nicht irrtümlich allgemeine Vollstreckung wegen eines Verteilungsausfalls. Arrestumfang und Ende der Vollstreckbarkeit nach Nachzahlung/Sicherheit berücksichtigt."
+    },
+    {
+      "id": "vv3323",
+      "disposition": "corrected_or_expanded",
+      "assessment": "0,5 und beide Spezialverweise geprüft. § 8 Absatz 5: Aufhebung gegen Sicherheit, Zuständigkeit bei anhängiger Klage; § 41: binnenschifffahrtsrechtliche Übertragung. Besondere Angelegenheit nach § 18 Absatz 1 Nummer 20, keine Verwechslung mit Nr. 3322. Thematische Prüfliste ergänzt."
+    },
+    {
+      "id": "vb3.3.6",
+      "disposition": "corrected_or_expanded",
+      "assessment": "Beide Sätze vollständig gelesen. Allgemeiner Terminsverweis, Sondervorrang Nrn. 3331/3332, Ausschluss Nr. 3333 und besonderes PKH-Modell unterschieden. Nr. 3334 nicht in den 0,5-Sondertarif einbezogen; Entstehung und Gebührensatz getrennt."
+    },
+    {
+      "id": "vv3324",
+      "disposition": "corrected_or_expanded",
+      "assessment": "1,0 und Aufgebotsgegenstand geprüft. Gerichtlicher Verfahrensauftrag statt privater Aufforderung, frühes Ende nach Nr. 3337, Terminsatz Nr. 3332 und nachfolgender Rechtsstreit getrennt erläutert."
+    },
+    {
+      "id": "vv3325",
+      "disposition": "corrected_or_expanded",
+      "assessment": "Gesamte Aufzählung einschließlich § 148 Absätze 1/2, § 246a/SchVG, § 319 Absatz 6/§ 327e Absatz 2 AktG und § 16 Absatz 3 UmwG gegengelesen. Klagezulassung und Freigabe voneinander sowie von Hauptsacheklagen abgegrenzt; frühes Ende und Terminsatz geprüft."
+    },
+    {
+      "id": "vv3326",
+      "disposition": "corrected_or_expanded",
+      "assessment": "Alle drei gerichtlichen Hilfsarten und tatsächliche ArbGG-Verweise gelesen. Beschränkte Tätigkeit, § 16 Nummer 9, § 15 Absatz 6, schriftliche/mündliche Ablehnungsanhörung und Terminsatz konkretisiert; keine Zusatzgebühr allein wegen neuen Aktenzeichens."
+    },
+    {
+      "id": "vv3327",
+      "disposition": "corrected_or_expanded",
+      "assessment": "Sämtliche Bestellungs-, Ablehnungs-, Amtsbeendigungs- und Hilfstätigkeiten gelesen. Keine pauschale Einbeziehung der Schiedsspruchvollstreckbarerklärung; § 36, § 16 Nummer 8, Teilauftrag und Gebühreneinheit erklärt. Nrn. 3337 und 3332 zutreffend zugeordnet."
+    },
+    {
+      "id": "vv3328",
+      "disposition": "corrected_or_expanded",
+      "assessment": "Gesamter Tarif und beide Anmerkungssätze gelesen. Ausdrücklicher Verweis auf § 19 Absatz 1 Satz 2 Nummer 12 und ergänzende Nummer 11 getrennt erläutert. Doppelantrag nur einmal; Schuldnerwert § 25 Absatz 2. Vollständigen BGH V ZA 3/23 gelesen: Entstehung in Rn. 3 offengelassen, Erstattungsmöglichkeit in Rn. 4 nur unter besonderen Umständen."
+    },
+    {
+      "id": "vv3329",
+      "disposition": "corrected_or_expanded",
+      "assessment": "0,5 sowie §§ 537/558 ZPO vollständig gegengelesen. Berufungs-/Revisionslage und Ablauf der Begründungsfrist konkretisiert. Nicht angefochtener Urteilsteil, Klauselerteilung, Wertumfang und gesonderte Terminsentstehung getrennt."
+    },
+    {
+      "id": "vv3330",
+      "disposition": "corrected_or_expanded",
+      "assessment": "Gesamte gestufte Gebührenspalte gelesen: Ausgangsverfahrensgebühr, höchstens 0,5 oder bei Betragsrahmen höchstens 280 Euro. § 14, § 19 Absatz 1 Satz 2 Nummer 5b und § 15 Absätze 2/6 erklärt. Aktueller Betrag gegen Art. 11 Absatz 2 Nummer 24 und Art. 13 Absatz 3 BGBl.2025 I Nr.109 verifiziert."
+    },
+    {
+      "id": "vv3331",
+      "disposition": "corrected_or_expanded",
+      "assessment": "Vollständige Terminsgebührenspalte geprüft. 0,5-/280-Euro-Grenze, Rahmenbemessung und tatsächlicher Entstehungstatbestand erklärt; keine automatische Terminsgebühr durch schriftliche Rügezurückweisung. Gebühreneinheit sowie getrennte Verfahrens-/Terminsgrenzen; Art. 11 Absatz 2 Nummer 25 und Art. 13 Absatz 3 BGBl.2025 I Nr.109 gelesen."
+    },
+    {
+      "id": "vv3332",
+      "disposition": "corrected_or_expanded",
+      "assessment": "Abgeschlossene Verweisung auf Nrn. 3324–3329 und Satz 0,5 gelesen. Sondervorrang, Entstehung, Besprechungsvoraussetzungen und Abgrenzung zu Gehörsrüge, PKH und Räumungsfrist konkretisiert."
+    },
+    {
+      "id": "vv3333",
+      "disposition": "corrected_or_expanded",
+      "assessment": "0,4 und beide Anmerkungssätze vollständig gelesen. Wertübernahme § 26 Nummern 1/2 mit Erlösbegrenzung/Anteilen erklärt, § 18 Absatz 1 Nummer 10 zugeordnet. Ausdrücklicher Terminsgebührenausschluss trotz tatsächlich möglicher Termine; Rechenbeispiel 20.000-Euro-Recht/12.000-Euro-Erlös geprüft."
+    },
+    {
+      "id": "vv3334",
+      "disposition": "corrected_or_expanded",
+      "assessment": "Alle Antragsrichtungen, beide Gerichte, §§ 721/794a ZPO und Nichtverbindung mit Hauptsache gelesen. Eigenständigkeit statt bloß getrennter Schriftsatz; Nr. 3337 und allgemeiner Terminsverweis statt Nr. 3332 erläutert."
+    },
+    {
+      "id": "vv3335",
+      "disposition": "corrected_or_expanded",
+      "assessment": "Vollständige Gebührenspalte geprüft: höchstens 1,0 beziehungsweise 550 Euro. § 16 Nummern 2/3, § 15 Absatz 2, § 23a und Vorbemerkung 3.3.6 getrennt erklärt. Vollständigen BAG 4 AZB 22/23 gelesen, Rn. 12–14 zur Gebühreneinheit selektiv verwendet. 550 Euro gegen Art. 11 Absatz 2 Nummer 26 und Art. 13 Absatz 3 BGBl.2025 I Nr.109 geprüft."
+    },
+    {
+      "id": "vv3336",
+      "disposition": "corrected_or_expanded",
+      "assessment": "Expliziten Wegfallslot am amtlichen XML geprüft und erhalten. Keine aktuelle Gebühr oder erfundene historische Betragsangabe; § 60 und Erfordernis einer gesicherten historischen Fassung erläutert."
+    }
+  ],
+  "limitations": [
+    "Complete applies only to the exact20assigned units; whole-book substantive review remains open.",
+    "Two newly fetched full decisions selectively support3328/3335; previously secured IX ZB62/13 fully reread for3320. No exhaustive case-law or subsequent-case survey; absence of a citation is not a finding that no relevant decision exists.",
+    "Current RVG/source commencement and exact extraction checked; not a complete archive of all historical versions or guarantee against unincorporated legislation.",
+    "Technical equality, coverage and repetition checks do not establish independent professional approval. No external lawyer approval, publication or push."
+  ],
+  "source_preflight": {
+    "complete": true,
+    "evidence": "preflight-result.json",
+    "fresh_sources": "sources/review-vv3318-vv3336-2026-10-20/requests.json",
+    "version_evidence": "sources/review-vv3318-vv3336-2026-10-20/version-evidence.json",
+    "assigned_wording_evidence": "review-vv3318-vv3336-unit-evidence.json",
+    "annex_evidence": "annex-coverage.json"
+  },
+  "case_law_sources": [
+    {
+      "id": "4 AZB 22/23",
+      "source": "sources/review-vv3318-vv3336-2026-10-20/KARE600068051.xml",
+      "ecli": "ECLI:DE:BAG:2024:180424.B.4AZB22.23.0"
+    },
+    {
+      "id": "V ZA 3/23",
+      "source": "sources/review-vv3318-vv3336-2026-10-20/KORE628042023.xml",
+      "ecli": "ECLI:DE:BGH:2023:200723BVZA3.23.0"
+    }
+  ],
+  "reused_case_law_sources": [
+    {
+      "docket": "IX ZB62/13",
+      "official_xml": "../review-vv3213-vv3317-2026-10-20/KORE300632015.xml",
+      "full_text_reread": true,
+      "supported_units": [
+        "vv3320"
+      ],
+      "context": "Only distinction between registration for creditor and official special-administrator examination; historical amounts not adopted."
+    }
+  ],
+  "validation": {
+    "status": "Substantive reading of all20units completed; rebuild and strict technical validation pending."
+  },
+  "whole_book_review_complete": false,
+  "external_professional_approval": false
+}

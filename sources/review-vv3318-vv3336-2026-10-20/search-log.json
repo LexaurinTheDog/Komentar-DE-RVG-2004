@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-20",
+  "scope": [
+    "vv3318",
+    "vv3319",
+    "vv3320",
+    "vv3321",
+    "vv3322",
+    "vv3323",
+    "vb3.3.6",
+    "vv3324",
+    "vv3325",
+    "vv3326",
+    "vv3327",
+    "vv3328",
+    "vv3329",
+    "vv3330",
+    "vv3331",
+    "vv3332",
+    "vv3333",
+    "vv3334",
+    "vv3335",
+    "vv3336"
+  ],
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii",
+  "local_search": {
+    "pattern": "(?:Nr\\.?|Nummer|Nrn\\.)\\s*(?:3318|3319|3320|3321|3328|3330|3331|3335)\\b",
+    "matched_markdown_files": 9,
+    "result": "Selective candidates included irrelevant EU-regulation number matches, older value cases, BAG4AZB22/23 and BGHVZA3/23. Chosen two decisions read in full, re-fetched and every judicial paragraph compared with national intake."
+  },
+  "web_searches": [
+    {
+      "query": "site.rechtsprechung-im-internet.de \"3320\" RVG",
+      "evidence": "search-3320.json",
+      "result": "Returned official RVG and unrelated/commercial results, no new authoritative decision selected."
+    }
+  ],
+  "authoritative_fetches": "authority-requests.json",
+  "comparison": "case-source-comparison.json",
+  "reused_decision": {
+    "docket": "IX ZB62/13",
+    "official_xml": "../review-vv3213-vv3317-2026-10-20/KORE300632015.xml",
+    "full_text_reread": true,
+    "supported_units": [
+      "vv3320"
+    ],
+    "context": "Only distinction between registration for creditor and official special-administrator examination; historical amounts not adopted."
+  },
+  "new_case_units": [
+    "vv3328",
+    "vv3335"
+  ],
+  "no_additional_case_selected": [
+    "vv3318",
+    "vv3319",
+    "vv3321",
+    "vv3322",
+    "vv3323",
+    "vb3.3.6",
+    "vv3324",
+    "vv3325",
+    "vv3326",
+    "vv3327",
+    "vv3329",
+    "vv3330",
+    "vv3331",
+    "vv3332",
+    "vv3333",
+    "vv3334",
+    "vv3336"
+  ],
+  "limitations": "Selective discovery and verified full-text reading, no exhaustive per-unit negative search."
+}

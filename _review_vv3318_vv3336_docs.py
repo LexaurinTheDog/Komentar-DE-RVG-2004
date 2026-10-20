@@ -1,0 +1,69 @@
+"""Supporting cards and review narrative for this bounded checkpoint only."""
+from pathlib import Path
+import json
+W=Path(__file__).resolve().parent;D='sources/review-vv3318-vv3336-2026-10-20'
+cards={
+'bag-2024-4-azb-22-23.md':'''# BAG, Beschluss vom 18. April 2024 – 4 AZB 22/23
+
+Bundesarbeitsgericht, 4. Senat. ECLI:DE:BAG:2024:180424.B.4AZB22.23.0. Tenor und sämtliche Gründe Rn. 1–21 vollständig gelesen am 20. Oktober 2026. [Amtlicher Zugang](https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KARE600068051), [amtliches ZIP](../sources/review-vv3318-vv3336-2026-10-20/KARE600068051.zip), [XML](../sources/review-vv3318-vv3336-2026-10-20/KARE600068051.xml), [Lesetext](../sources/review-vv3318-vv3336-2026-10-20/KARE600068051-official.txt), [nationaler Korpus](../sources/review-vv3318-vv3336-2026-10-20/KARE600068051-intake.md).
+
+Ein bereits im arbeitsgerichtlichen Hauptsacheverfahren tätiger Anwalt wollte seine Vertretungsbereitschaft bei beantragter Beiordnung auf den Hilfebewilligungsantrag beschränken und das spätere Überprüfungsverfahren ausnehmen. Die Vorinstanzen versagten die Beiordnung. Das BAG wies die Rechtsbeschwerde zurück: Die erforderliche Vertretungsbereitschaft umfasst auch das Überprüfungsverfahren, Rn. 9–12, 16–20.
+
+Für **vv3335** sind Rn. 12–14 tragend im Begründungszusammenhang: Hilfeverfahren und Hauptsache sind dieselbe Angelegenheit; ein bereits als Prozessbevollmächtigter beauftragter und tätiger Anwalt erhält für das Hilfeverfahren keine zusätzliche Verfahrensgebühr. Rn. 14 grenzt das isolierte Hilfemandat ab. Der Einwand des Beschwerdeführers, Nr. 3335 ermögliche eine zusätzliche 1,0-Gebühr, ist seine verworfene Argumentation und keine Aussage des Gerichts.
+
+Grenzen: Die Hauptfrage betrifft die Reichweite der Vertretungsbereitschaft für eine Beiordnung. Das BAG bewilligt keine allgemeine eigenständige Prozesskostenhilfe für das Hilfebewilligungsverfahren. Die Entscheidung ist auch kein Nachweis für den später auf 550 Euro erhöhten Betragsrahmendeckel. Dieser wurde separat am geltenden RVG und Artikel 11 Absatz 2 Nummer 26 mit Artikel 13 Absatz 3 BGBl. 2025 I Nr. 109 geprüft. Die allgemeinen Gebühreneinheitsnormen §§ 15 Absatz 2, 16 Nummer 2 wurden am aktuellen RVG gegengelesen. Selektive Verwendung ohne vollständige Folgejudikaturrecherche.
+''',
+'bgh-2023-v-za-3-23.md':'''# BGH, Beschluss vom 20. Juli 2023 – V ZA 3/23
+
+Bundesgerichtshof, V. Zivilsenat. ECLI:DE:BGH:2023:200723BVZA3.23.0. Tenor und sämtliche Gründe Rn. 1–4 vollständig gelesen am 20. Oktober 2026. [Amtlicher Zugang](https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE628042023), [amtliches ZIP](../sources/review-vv3318-vv3336-2026-10-20/KORE628042023.zip), [XML](../sources/review-vv3318-vv3336-2026-10-20/KORE628042023.xml), [Lesetext](../sources/review-vv3318-vv3336-2026-10-20/KORE628042023-official.txt), [nationaler Korpus](../sources/review-vv3318-vv3336-2026-10-20/KORE628042023-intake.md).
+
+Nach Zurückweisung eines Antrags auf einstweilige Einstellung der Räumungsvollstreckung beantragten die Kläger eine Kostenentscheidung. Ihre zweitinstanzlichen Bevollmächtigten beriefen sich auf ein isoliertes Mandat nach Nr. 3328. Eine Nichtzulassungsbeschwerde war nicht eingelegt worden. Der BGH wies den Kostenantrag zurück; es fehlte damit an einem Rechtsmittel, an dessen Erfolglosigkeit eine Kostenentscheidung nach § 97 Absatz 1 ZPO anknüpfen konnte, Rn. 1–3.
+
+Für **vv3328** ist die begrenzte Aussage entscheidend: Ob im konkreten Fall überhaupt eine isolierte Gebühr entstanden war, lässt der BGH in Rn. 3 ausdrücklich offen. Rn. 4 sieht unter den besonderen Umständen und unter den Voraussetzungen der Nr. 3328 die Möglichkeit, die Gebühren als notwendige Vollstreckungskosten nach § 788 ZPO geltend zu machen. Die Gebührenbehauptung der Kläger in Rn. 1 ist keine positive gerichtliche Feststellung ihrer Entstehung.
+
+Grenzen: keine automatische Zusatzgebühr neben laufender Prozessvertretung und keine allgemeine Kostengrundentscheidung für jedes Einstellungsverfahren. Die aktuelle Nr. 3328 einschließlich ihrer Anmerkung und § 19 wurden erneut am amtlichen RVG geprüft. Die Erklärung des damaligen Erstattungswegs ist keine umfassende heutige Kommentierung von § 788 ZPO. Keine Übernahme historischer Beträge; keine erschöpfende Folgejudikaturprüfung.
+'''
+}
+for name,s in cards.items():(W/'cases'/name).write_text(s)
+p=W/'cases/README.md';p.write_text(p.read_text()+'''
+
+Begrenzte Prüfrunde Nrn. 3318–3336 VV vom 20. Oktober 2026: [BAG 4 AZB 22/23](bag-2024-4-azb-22-23.md) erläutert bei Nr. 3335 die Gebühreneinheit mit dem bearbeiteten Hauptsachemandat. [BGH V ZA 3/23](bgh-2023-v-za-3-23.md) unterscheidet bei Nr. 3328 offene Gebührenentstehung und möglichen Erstattungsweg. Beide Entscheidungen wurden vollständig gelesen, frisch amtlich gesichert und absatzweise mit dem nationalen Korpus verglichen. [BGH IX ZB 62/13](bgh-2015-ix-zb-62-13.md) wurde für die Abgrenzung der Nr. 3320 vollständig erneut gelesen. Diese drei Verwendungen bilden keine vollständige Rechtsprechungsabdeckung der 20 Einheiten.
+''')
+notes=json.loads((W/'review-vv3318-vv3336-notes.json').read_text())
+p=W/'REVIEW.md';s=p.read_text()+'''
+
+## Begrenzte zweite Inhaltsprüfung: Nrn. 3318 bis 3336 VV, 20. Oktober 2026
+
+Diese Runde umfasst genau **20 zugewiesene Einheiten**: vv3318, vv3319, vv3320, vv3321, vv3322, vv3323, vb3.3.6, vv3324, vv3325, vv3326, vv3327, vv3328, vv3329, vv3330, vv3331, vv3332, vv3333, vv3334, vv3335 und vv3336. Alle Tarifzeilen, Anmerkungen und die vollständige Vorbemerkung wurden gegen das amtliche XML gelesen. Alle 20 Kommentare wurden individuell korrigiert oder vertieft; bei Nr. 3336 wurde der ausdrückliche Wegfall beibehalten. Der [Wortlaut- und Erhaltungsnachweis](review-vv3318-vv3336-unit-evidence.json) bestätigt für die 324 anderen Kommentarblöcke unveränderten Inhalt gegenüber Arbeitscommit `7ce6f48`. Die Gesamtprüfung bleibt offen; diese zweite Inhaltsprüfung ist keine externe anwaltliche Freigabe.
+
+Maßgeblicher Rechtsstand bleibt der Bearbeitungsbeginn **19. Oktober 2026**, erneut geprüft am 20. Oktober 2026. [Frische amtliche Abrufe](sources/review-vv3318-vv3336-2026-10-20/requests.json) sichern Index, tatsächliches RVG-ZIP/XML, Aktualitätendienst und BGBl. 2025 I Nr. 318 einschließlich HTTP-Ergebnis, Zeitstempel und SHA-256. Das neue XML und das Verkündungs-PDF sind bytegleich zu den gesicherten Bearbeitungsquellen. Artikel 14 und Artikel 21 wurden tatsächlich nachgelesen: Die dortigen Änderungen gelten seit 1. Januar beziehungsweise 1. Juli 2026. Die aktuellen Höchstbeträge 280 Euro in Nrn. 3330/3331 und 550 Euro in Nr. 3335 wurden zusätzlich anhand der bereits authentisch gesicherten Verkündung BGBl. 2025 I Nr. 109, Artikel 11 Absatz 2 Nummern 24–26 und Artikel 13 Absatz 3, als seit 1. Juni 2025 geltend verifiziert. Diese vorhandene Verkündung wurde erneut gelesen; ein neuer Abruf davon wird nicht behauptet. [Versionsnachweis](sources/review-vv3318-vv3336-2026-10-20/version-evidence.json).
+
+Die wiederholte [XML-Strukturprüfung](preflight-coverage.json) klassifiziert alle 92 Normknoten. Keine historischen operativen Doppelversionen, keine unbenannten operativen Inhalte und keine fehlende gesonderte Eingangsformel wurden gefunden. Die globalen amtlichen Hinweise sind erhalten. [Annexkennungen](annex-coverage.json) werden unabhängig vom Parserbestand aus amtlichen ersten Tabellenzellen abgeleitet: 231 Tarifnummern und 32 Vorbemerkungen, mit sämtlichen 536 Zeilen zusätzlich im vollständigen Anlage-1-Text. Anlage 2 ist mit allen 22 Zeilen erhalten und hat keine erfundenen Kindkennungen. Das ist eine Quellenvollständigkeitsprüfung und kein inhaltlicher Abschluss unzugewiesener Einheiten. Eine komplette historische Versionssammlung oder ein lückenloser Ausschluss noch nicht konsolidierter Änderungen wird nicht behauptet.
+
+Die ausdrücklich genannten AktG-, SchVG-, UmwG-, ArbGG-, ZPO- und SVertO-Verweise wurden zur Tarifabgrenzung an den amtlichen Einzeltexten gelesen. Drei zunächst versuchte SVertO-Pfade ergaben 404 und wurden verworfen; der tatsächliche amtliche Pfad wurde aus dem schreibgeschützt gelesenen Intake ermittelt und erfolgreich abgerufen. [Abrufprotokoll](sources/review-vv3318-vv3336-2026-10-20/cross-reference-requests.json), [richtige SVertO-Nachweise](sources/review-vv3318-vv3336-2026-10-20/sverto-corrected-requests.json), [zusätzliche Firecrawl-Indexextraktion](sources/review-vv3318-vv3336-2026-10-20/firecrawl-index.md). Die Prüfung dieser fremden Verfahrensnormen ist auf die erklärten Verweise begrenzt und kein vollständiger historischer Inkrafttretensaudit dieser Gesetze.
+
+Zwei neue Entscheidungen wurden mit Tenor und allen Gründen gelesen, amtlich als ZIP/XML abgerufen und in jedem nichtleeren gerichtlichen Absatz mit dem nationalen Korpus verglichen: BAG vom 18. April 2024 – 4 AZB 22/23 und BGH vom 20. Juli 2023 – V ZA 3/23. Der bereits gesicherte BGH-Beschluss IX ZB 62/13 wurde für Nr. 3320 vollständig erneut gelesen. [Amtliche Abrufe](sources/review-vv3318-vv3336-2026-10-20/authority-requests.json), [Absatzvergleich](sources/review-vv3318-vv3336-2026-10-20/case-source-comparison.json), [Suchprotokoll](sources/review-vv3318-vv3336-2026-10-20/search-log.json), [Fallkarten](cases/README.md). Besonders wurde vermieden, aus der im BGH-Fall offengelassenen Entstehungsfrage eine positive Gebührenzusage zu machen. Die BAG-Entscheidung wird für die Gebühreneinheit verwendet, nicht als Nachweis einer allgemeinen Staatskassenvergütung für ein isoliertes Hilfemandat. Für die übrigen 17 Einheiten wird keine zusätzliche hinreichend einschlägige Entscheidung behauptet; eine erschöpfende negative Recherche hat nicht stattgefunden.
+
+Einzelbefunde dieser Runde:
+
+'''
+for i,t in notes.items():s+=f'- **{i}**: {t}\n'
+s+='\n[Ergebnis mit exakten Kennungen](review-vv3318-vv3336-result.json) und [vollständiger Wortlautvergleich](review-vv3318-vv3336-unit-evidence.json). Der Alias [review-result.json](review-result.json) bezeichnet diese jüngste Runde. Kein Gesamtabschluss, keine Veröffentlichung und kein Push.\n';p.write_text(s)
+p=W/'README.md';s=p.read_text()
+start=s.index('Die Rechtsprechungsauswahl umfasst zwölf');end=s.index('\n\nOriginalkommentar',start)
+s=s[:start]+'''Die Rechtsprechungsauswahl ist in [Fallkarten](cases/README.md) mit amtlichen Volltexten, Randnummern, Kontext und Grenzen dokumentiert. Nach dieser Prüfrunde sind 20 Entscheidungen gesichert: 14 des BGH, drei des BVerfG, zwei des BSG und eine des BAG. Die Auswahl ist selektiv; für die übrigen Einheiten wird keine vollständige oder einzelfallbezogen abgeschlossene Rechtsprechungsrecherche behauptet. Steuer-, Berufs- und Prozessrecht außerhalb der abgedruckten RVG-Verweisungen wird nicht als vollständiger selbständiger Kommentar dieser Fremdgesetze behandelt.'''+s[end:]
+s+='''
+
+**Begrenzte Inhaltsprüfung Nrn. 3318–3336 VV am 20. Oktober 2026:** Genau die 20 zugewiesenen Einheiten einschließlich Vorbemerkung 3.3.6 und des Wegfallslots Nr. 3336 wurden am vollständigen amtlichen Wortlaut geprüft. Die Kommentare präzisieren insbesondere Planwert und Schuldnerrolle, tatsächliche Beschränkung auf die Anmeldung, gleichzeitige Restschuldbefreiungsanträge, die konkreten SVertO-Verfahren sowie Gehörsrüge- und Prozesskostenhilfegrenzen. Zwei vollständig gelesene und amtlich neu gesicherte Entscheidungen ergänzen selektiv Nrn. 3328/3335; der vorhandene Sonderinsolvenzverwalterfall wurde für Nr. 3320 erneut gelesen. Alle 324 anderen Kommentarblöcke bleiben unverändert. [Exakte Kennungen und Befunde](review-vv3318-vv3336-result.json), [Wortlaut und Erhaltung](review-vv3318-vv3336-unit-evidence.json), [Prüfbericht](REVIEW.md). Rechtsstand weiterhin 19. Oktober 2026, amtliche Quellen erneut geprüft am 20. Oktober 2026. Der Gesamtband bleibt im Entwurfs- und Prüfstadium; seine gesamte Inhaltsprüfung ist nicht abgeschlossen.
+''';p.write_text(s)
+p=W/'SOURCES.md';p.write_text(p.read_text()+'''
+
+## Quellen zur begrenzten Prüfung Nrn. 3318–3336 VV
+
+[Frische amtliche Antworten](sources/review-vv3318-vv3336-2026-10-20/requests.json), [RVG-XML](sources/review-vv3318-vv3336-2026-10-20/rvg.xml), [Versions- und Inkrafttretensnachweis](sources/review-vv3318-vv3336-2026-10-20/version-evidence.json), [ergänzende Firecrawl-Indexextraktion](sources/review-vv3318-vv3336-2026-10-20/firecrawl-index.md). Rechtsstand 19. Oktober 2026, geprüft am 20. Oktober 2026. Die neuen 280-/550-Euro-Grenzen wurden anhand der gesicherten authentischen Verkündung BGBl. 2025 I Nr. 109 erneut gelesen; das aktuelle RVG-ZIP und die letzte Änderung BGBl. 2025 I Nr. 318 wurden frisch abgerufen. [Unabhängige Annexableitung](annex-coverage.json) und [20 vollständige Wortlautvergleiche](review-vv3318-vv3336-unit-evidence.json).
+
+[Verfahrensrechtliche Einzelverweise](sources/review-vv3318-vv3336-2026-10-20/cross-reference-requests.json) und [korrigierte amtliche SVertO-Pfade](sources/review-vv3318-vv3336-2026-10-20/sverto-corrected-requests.json) dokumentieren die gelesenen Hilfsquellen einschließlich verworfener 404-Pfade. Die Prüfung dieser Fremdgesetze beschränkt sich auf den erläuterten Tarifkontext.
+
+[Neue amtliche Entscheidungen](sources/review-vv3318-vv3336-2026-10-20/authority-requests.json), [Volltextabsatzvergleich mit dem nationalen Korpus](sources/review-vv3318-vv3336-2026-10-20/case-source-comparison.json), [Suchprotokoll](sources/review-vv3318-vv3336-2026-10-20/search-log.json) und Fallkarten [BAG 4 AZB 22/23](cases/bag-2024-4-azb-22-23.md), [BGH V ZA 3/23](cases/bgh-2023-v-za-3-23.md). [BGH IX ZB 62/13](cases/bgh-2015-ix-zb-62-13.md) wurde erneut vollständig gelesen und nur zur Abgrenzung der Nr. 3320 verwendet. Die Auswahl bleibt selektiv; keine vollständige Rechtsprechungsabdeckung der 20 Einheiten wird behauptet.
+''')
+print('Review narrative and two new case cards written.')

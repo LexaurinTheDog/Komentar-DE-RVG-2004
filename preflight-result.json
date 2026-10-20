@@ -324,5 +324,22 @@
       "reviewed_commentary_units": 20,
       "whole_book_review_complete": false
     }
+  },
+  "bounded_review_vv3318_vv3336_recheck": {
+    "complete": true,
+    "verified_at": "2026-10-20T11:26:23.094015+00:00",
+    "official_url": "https://www.gesetze-im-internet.de/rvg/",
+    "decisive_date": "2026-10-19",
+    "fresh_evidence": "sources/review-vv3318-vv3336-2026-10-20/requests.json",
+    "version_evidence": "sources/review-vv3318-vv3336-2026-10-20/version-evidence.json",
+    "current_rvg_xml_identical": true,
+    "commencement_pdf_identical": true,
+    "historical_versions_checked": "All92current XML nodes classified again; no duplicate operative labels or unlabelled operative Content. No separate Eingangsformel; official global notes preserved. Intake and change-map retained; no normative change. Not a complete historical archive.",
+    "annexes_checked": "Anlage1:231tariffs and32operative remarks independently derived from first XML cells before reading parsed IDs; all536rows retained in full parent. Anlage2:all22rows preserved, no invented child identifiers.",
+    "annex_evidence": "annex-coverage.json",
+    "missing_ids": [],
+    "duplicate_ids": [],
+    "all_assigned_texts_match_official_xml": true,
+    "unresolved_blockers": []
   }
 }

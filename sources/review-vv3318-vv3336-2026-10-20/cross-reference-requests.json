@@ -1,0 +1,137 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/sverto/__17.html",
+    "accessed_at": "2026-10-20T11:18:28.204079+00:00",
+    "error": "HTTP Error 404: Not Found",
+    "rejected_as_statutory_text": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/sverto/__8.html",
+    "accessed_at": "2026-10-20T11:18:28.314848+00:00",
+    "error": "HTTP Error 404: Not Found",
+    "rejected_as_statutory_text": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/sverto/__41.html",
+    "accessed_at": "2026-10-20T11:18:28.417186+00:00",
+    "error": "HTTP Error 404: Not Found",
+    "rejected_as_statutory_text": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/aktg/__148.html",
+    "accessed_at": "2026-10-20T11:18:28.513283+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "local_path": "sources/review-vv3318-vv3336-2026-10-20/aktg-148.html",
+    "sha256": "70b5ffae6630673cfe11937fa77bd1ba6ab3810c7f7deaba9882cad4e2106035",
+    "validated_format": "HTML parsed, text extracted, expected statutory context read"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/aktg/__246a.html",
+    "accessed_at": "2026-10-20T11:18:28.621624+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "local_path": "sources/review-vv3318-vv3336-2026-10-20/aktg-246a.html",
+    "sha256": "4084cb776504dcda7240d0dfcfb9727e653a71aee405bb530f2ac4e1834440c5",
+    "validated_format": "HTML parsed, text extracted, expected statutory context read"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/aktg/__319.html",
+    "accessed_at": "2026-10-20T11:18:28.726769+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "local_path": "sources/review-vv3318-vv3336-2026-10-20/aktg-319.html",
+    "sha256": "b9ab3bb3a45a786e9d4359a263d95e7897e82cec623967c24379c51e6ba34b69",
+    "validated_format": "HTML parsed, text extracted, expected statutory context read"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/aktg/__327e.html",
+    "accessed_at": "2026-10-20T11:18:28.831497+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "local_path": "sources/review-vv3318-vv3336-2026-10-20/aktg-327e.html",
+    "sha256": "4dc7142457c9e45b5592df66cd03811737af78a5224f4a1dad0cc4df9743393a",
+    "validated_format": "HTML parsed, text extracted, expected statutory context read"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/schvg/__20.html",
+    "accessed_at": "2026-10-20T11:18:28.937805+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "local_path": "sources/review-vv3318-vv3336-2026-10-20/schvg-20.html",
+    "sha256": "352239475feacfddfb2ab0aba35cde4908e54678181e710227f0f12165420d90",
+    "validated_format": "HTML parsed, text extracted, expected statutory context read"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/umwg_1995/__16.html",
+    "accessed_at": "2026-10-20T11:18:29.050476+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "local_path": "sources/review-vv3318-vv3336-2026-10-20/umwg_1995-16.html",
+    "sha256": "eac2473d958aba91698ac9c1a537e979b2196bcae12feac9fe28c9d1d6c25f92",
+    "validated_format": "HTML parsed, text extracted, expected statutory context read"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/arbgg/__102.html",
+    "accessed_at": "2026-10-20T11:18:29.176755+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "local_path": "sources/review-vv3318-vv3336-2026-10-20/arbgg-102.html",
+    "sha256": "516adbccec28d6cb68dbf4fa90aa17dfa159674776172cdbd58be9ec7b4abbbe",
+    "validated_format": "HTML parsed, text extracted, expected statutory context read"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/arbgg/__103.html",
+    "accessed_at": "2026-10-20T11:18:29.285733+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "local_path": "sources/review-vv3318-vv3336-2026-10-20/arbgg-103.html",
+    "sha256": "295cb8d32d9a5309f62cd5e1e8c827e667fc3fd37b48bb5323073667be118b18",
+    "validated_format": "HTML parsed, text extracted, expected statutory context read"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/arbgg/__106.html",
+    "accessed_at": "2026-10-20T11:18:29.385104+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "local_path": "sources/review-vv3318-vv3336-2026-10-20/arbgg-106.html",
+    "sha256": "838daa0f190f6f8c059b3677f59bb00b891c99d1f6b96071b66160afff99cea1",
+    "validated_format": "HTML parsed, text extracted, expected statutory context read"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/zpo/__537.html",
+    "accessed_at": "2026-10-20T11:18:29.482402+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "local_path": "sources/review-vv3318-vv3336-2026-10-20/zpo-537.html",
+    "sha256": "b2adce5313fb2819dac0c1aa7d20f533e9228a275eda465a9cbae1dae9ed07bd",
+    "validated_format": "HTML parsed, text extracted, expected statutory context read"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/zpo/__558.html",
+    "accessed_at": "2026-10-20T11:18:29.577963+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "local_path": "sources/review-vv3318-vv3336-2026-10-20/zpo-558.html",
+    "sha256": "e77aa7b12a3f2ef79b2918867d0569c304b1951e5c339970ad7f0e0e66b12c1b",
+    "validated_format": "HTML parsed, text extracted, expected statutory context read"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/zpo/__721.html",
+    "accessed_at": "2026-10-20T11:18:29.681368+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "local_path": "sources/review-vv3318-vv3336-2026-10-20/zpo-721.html",
+    "sha256": "5a5d1b071b9962eefb1bb8dfdb9009658d24cf1f9ef47ee5822a08ff3a08d3fa",
+    "validated_format": "HTML parsed, text extracted, expected statutory context read"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/zpo/__794a.html",
+    "accessed_at": "2026-10-20T11:18:29.782115+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "local_path": "sources/review-vv3318-vv3336-2026-10-20/zpo-794a.html",
+    "sha256": "ff2e2b86af0e85265a440527200870e709f5b18b167867b6179b84c25e64b033",
+    "validated_format": "HTML parsed, text extracted, expected statutory context read"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "decisive_date": "2026-10-19",
+  "verified_at": "2026-10-20T11:26:23.094015+00:00",
+  "official_url": "https://www.gesetze-im-internet.de/rvg/",
+  "official_stand": [
+    "Neugefasst durch Bek. v. 15.3.2022 I 610;",
+    "zuletzt geändert durch Art. 14 G v. 8.12.2025 I Nr. 318"
+  ],
+  "xml_sha256": "be5571d1735031133f154071b08a77ccdb89f3e047330ed057a494dfd128f5d1",
+  "rvg_xml_identical_to_authoring": true,
+  "commencement": {
+    "path": "sources/review-vv3318-vv3336-2026-10-20/bgbl-318.pdf",
+    "read": "Actual Article14 and Article21(2)/(3) in sources/bgbl-2025-318.txt reread; fresh PDF byte-identical.",
+    "effective": "Article14 numbers1/3/4 since2026-01-01; number2 since2026-07-01. No change to assigned tariff rows."
+  },
+  "assigned_change": {
+    "path": "sources/review-vv3103-vv3212-2026-10-20/bgbl-109.pdf",
+    "text_path": "sources/review-vv3103-vv3212-2026-10-20/bgbl-109.txt",
+    "read": "Article11(2) numbers24/25 replace260 by280Euro in3330/3331; number26 replaces500 by550Euro in3335. Article13(3): effective2025-06-01. Actual previously authenticated PDF/text reread, not a newly claimed HTTP fetch.",
+    "sha256": "1ff13f868178c6ca85497562b13de3e37a591793b5fe9f820432210ca17fc36d"
+  },
+  "historical_versions_checked": "All92current XML nodes classified again; no duplicate operative labels or unlabelled operative Content. No separate Eingangsformel; official global notes preserved. Intake and change-map retained; no normative change. Not a complete historical archive.",
+  "annexes_checked": "Anlage1:231tariffs and32operative remarks independently derived from first XML cells before reading parsed IDs; all536rows retained in full parent. Anlage2:all22rows preserved, no invented child identifiers.",
+  "updates": "Fresh official update-service body byte-identical to preceding snapshot; title scan alone cannot exclude indirect or unincorporated amendments.",
+  "external_cross_references": "Current official single-provision HTML for expressly cited SVertO, AktG, SchVG, UmwG, ArbGG and ZPO provisions read for tariff context. Three wrong SVertO URL guesses returned404 and were rejected; correct official path discovered from read-only local intake, fetched and read. Not a complete version/commencement audit of these separate statutes.",
+  "limitations": [
+    "Current RVG consolidation and actual published commencement checked, not a complete historical or indirect-amendment archive.",
+    "External provisions support only the expressly described tariff context; no comprehensive commentary or independent historical audit of those statutes."
+  ]
+}
