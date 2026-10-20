@@ -568,6 +568,13 @@
       "IX ZR 123/10 directly concerns 5115; use for 4141 is a clearly identified systematic inference. Older 2011/2018 reasoning is used within current corresponding subject matter, not for old fee amounts or superseded composition rules.",
       "5 StR 524/25 concerns service and scope of appointment, not a fee assessment; current fee conditions remain separate. The 2018 official ECLI has a disclosed metadata inconsistency, so actual date and docket are used for citation.",
       "Current consolidation, actual published commencement and intake/change map checked; no complete historical archive or exhaustive indirect-amendment audit. External StPO/StrRehaG current text was read for limited context only."
-    ]
+    ],
+    "validation": {
+      "strict_ok": true,
+      "verbatim_ratio": 1.0,
+      "validated_at": "2026-10-20T12:12:43.618145+00:00",
+      "reviewed_commentary_units": 20,
+      "whole_book_review_complete": false
+    }
   }
 }
