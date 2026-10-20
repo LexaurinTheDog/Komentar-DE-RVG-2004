@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:59:50.384803+00:00",
+  "generated_at": "2026-10-20T09:46:50.419678+00:00",
   "files": [
     {
       "path": "sources/KORE307422020.md",
@@ -48,8 +48,8 @@
     },
     {
       "path": "sources/canonical.md",
-      "bytes": 197571,
-      "sha256": "2e72d40669cae70b287e28c9690fcc1f439a7ce197bc1888106bb96f059367eb"
+      "bytes": 198098,
+      "sha256": "fac368e07bb0413ec5bbb27ff1c2612a8bf7b7ebd346412b6afc8d1d3470e9c6"
     },
     {
       "path": "sources/case-source-comparison.json",
@@ -77,6 +77,56 @@
       "sha256": "ab0a3dff2cef5997573234da63b086e6e4ed11c5c9e43b89cf9647898fda5d19"
     },
     {
+      "path": "sources/preflight-2026-10-20/rvg.xml",
+      "bytes": 330910,
+      "sha256": "be5571d1735031133f154071b08a77ccdb89f3e047330ed057a494dfd128f5d1"
+    },
+    {
+      "path": "sources/preflight-2026-10-20-bgbl-318.pdf",
+      "bytes": 363624,
+      "sha256": "89f50d3f611d6f05089d6d4827783cf1531cfd3c800cd808e86c763b9db28c41"
+    },
+    {
+      "path": "sources/preflight-2026-10-20-firecrawl-index.md",
+      "bytes": 13914,
+      "sha256": "78388062554927d700efd728cdef4c8810114b85c31b531a40e397a284c3bebc"
+    },
+    {
+      "path": "sources/preflight-2026-10-20-full.html",
+      "bytes": 439849,
+      "sha256": "f458ee8f7e744b89eaec3e11a79a7ddd888f7ea607925fe0571dbd17f813d6c4"
+    },
+    {
+      "path": "sources/preflight-2026-10-20-index.html",
+      "bytes": 21362,
+      "sha256": "7e9f02d6a7dc1934d08e4463457f1c15649d20bfd365778bff502c55f2eb80dd"
+    },
+    {
+      "path": "sources/preflight-2026-10-20-rvg.zip",
+      "bytes": 55552,
+      "sha256": "51019d65e1d783759d31a3d67ff21ec35d922d309a82d575a08848c89de42dde"
+    },
+    {
+      "path": "sources/preflight-2026-10-20-updates.html",
+      "bytes": 75210,
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596"
+    },
+    {
+      "path": "sources/preflight-change-map.json",
+      "bytes": 904,
+      "sha256": "cbab234a00b0e611cf3628ff8daf679aeaa76cdcc776e7ed5adc8471b163a63f"
+    },
+    {
+      "path": "sources/preflight-update-diff.txt",
+      "bytes": 5298,
+      "sha256": "1e952d62b33349153927e0c00baf5323b8318ae9f46898a80f3709df07e66d94"
+    },
+    {
+      "path": "sources/preflight-version-evidence.json",
+      "bytes": 2281,
+      "sha256": "162401822a1def1fbe59d3f2014482bba2dc8ea4dc0e90a6a49fc71595c5634e"
+    },
+    {
       "path": "sources/rejected-bgh-104814.html",
       "bytes": 52257,
       "sha256": "22e9f28c3b7b54964ebbc9e04248fc0f7a25975899b95210a46397f3bd75d839"
@@ -90,6 +140,11 @@
       "path": "sources/rejected-rvg-xml-path.html",
       "bytes": 236,
       "sha256": "9448f8a1159c9b14e3e1b9d8eab1a6ddf88d26e1f888a34cef430c756e4e6e1e"
+    },
+    {
+      "path": "sources/rvg-frontmatter.json",
+      "bytes": 1182,
+      "sha256": "00571bf2cbb76c8079a48d7bbbad45c592f2ef1bc980cae7f782292cee8fea8e"
     },
     {
       "path": "sources/rvg-index.html",
@@ -118,8 +173,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 7137,
-      "sha256": "5050b28a953b6d610220f6f58c9ae983b29a80a43a53321a177be902927302d5"
+      "bytes": 10663,
+      "sha256": "69230462f47dc80ed866698a066850741562fb3dd5497be088b8806eff7cc24e"
     }
   ]
 }

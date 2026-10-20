@@ -1,0 +1,15 @@
+{
+  "source": "sources/rvg.xml",
+  "xml_sha256": "be5571d1735031133f154071b08a77ccdb89f3e047330ed057a494dfd128f5d1",
+  "doknr": "BJNR078800004",
+  "official_title": "Gesetz über die Vergütung der Rechtsanwältinnen und Rechtsanwälte",
+  "version_notes": [
+    "Neugefasst durch Bek. v. 15.3.2022 I 610;",
+    "zuletzt geändert durch Art. 14 G v. 8.12.2025 I Nr. 318"
+  ],
+  "official_global_notes": [
+    "(+++ Textnachweis ab: 1.7.2004 +++)\n(+++ Amtlicher Hinweis des Normgebers auf EG-Recht:\nUmsetzung der\nEURL 2020/1828 (CELEX Nr: 32020L1828) vgl.\nBek. v. 1.11.2023 I Nr. 296 +++)\n\nDas G wurde als Art. 3 des G v. 5.5.2004 I 718 (KostRMoG) vom Bundestag mit Zustimmung des Bundesrates beschlossen. Es tritt gem. Art. 8 Satz 1 dieses G am 1.7.2004 in Kraft."
+  ],
+  "eingangsformel_disposition": "No separate Eingangsformel/Präambel norm or operative unlabelled Content in the official RVG XML. The introductory enactment/commencement notice is a global official footnote, preserved here.",
+  "contents_disposition": "Inhaltsübersicht retained in raw XML as an editorial navigation unit; all its provision references are checked separately against operative norms."
+}

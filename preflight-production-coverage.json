@@ -1,0 +1,496 @@
+{
+  "ok": true,
+  "official_xml": "/Volumes/LaCie/open-commentary/_work/de/Komentar-DE-RVG-2004/sources/rvg.xml",
+  "expected_units": 81,
+  "parsed_units": 344,
+  "missing": [],
+  "extra": [],
+  "label_mapping": [
+    {
+      "official": "§ 1",
+      "parsed": [
+        "p1"
+      ]
+    },
+    {
+      "official": "§ 2",
+      "parsed": [
+        "p2"
+      ]
+    },
+    {
+      "official": "§ 3",
+      "parsed": [
+        "p3"
+      ]
+    },
+    {
+      "official": "§ 3a",
+      "parsed": [
+        "p3a"
+      ]
+    },
+    {
+      "official": "§ 4",
+      "parsed": [
+        "p4"
+      ]
+    },
+    {
+      "official": "§ 4a",
+      "parsed": [
+        "p4a"
+      ]
+    },
+    {
+      "official": "§ 4b",
+      "parsed": [
+        "p4b"
+      ]
+    },
+    {
+      "official": "§ 5",
+      "parsed": [
+        "p5"
+      ]
+    },
+    {
+      "official": "§ 6",
+      "parsed": [
+        "p6"
+      ]
+    },
+    {
+      "official": "§ 7",
+      "parsed": [
+        "p7"
+      ]
+    },
+    {
+      "official": "§ 8",
+      "parsed": [
+        "p8"
+      ]
+    },
+    {
+      "official": "§ 9",
+      "parsed": [
+        "p9"
+      ]
+    },
+    {
+      "official": "§ 10",
+      "parsed": [
+        "p10"
+      ]
+    },
+    {
+      "official": "§ 11",
+      "parsed": [
+        "p11"
+      ]
+    },
+    {
+      "official": "§ 12",
+      "parsed": [
+        "p12"
+      ]
+    },
+    {
+      "official": "§ 12a",
+      "parsed": [
+        "p12a"
+      ]
+    },
+    {
+      "official": "§ 12b",
+      "parsed": [
+        "p12b"
+      ]
+    },
+    {
+      "official": "§ 12c",
+      "parsed": [
+        "p12c"
+      ]
+    },
+    {
+      "official": "§ 13",
+      "parsed": [
+        "p13"
+      ]
+    },
+    {
+      "official": "§ 14",
+      "parsed": [
+        "p14"
+      ]
+    },
+    {
+      "official": "§ 15",
+      "parsed": [
+        "p15"
+      ]
+    },
+    {
+      "official": "§ 15a",
+      "parsed": [
+        "p15a"
+      ]
+    },
+    {
+      "official": "§ 16",
+      "parsed": [
+        "p16"
+      ]
+    },
+    {
+      "official": "§ 17",
+      "parsed": [
+        "p17"
+      ]
+    },
+    {
+      "official": "§ 18",
+      "parsed": [
+        "p18"
+      ]
+    },
+    {
+      "official": "§ 19",
+      "parsed": [
+        "p19"
+      ]
+    },
+    {
+      "official": "§ 20",
+      "parsed": [
+        "p20"
+      ]
+    },
+    {
+      "official": "§ 21",
+      "parsed": [
+        "p21"
+      ]
+    },
+    {
+      "official": "§ 22",
+      "parsed": [
+        "p22"
+      ]
+    },
+    {
+      "official": "§ 23",
+      "parsed": [
+        "p23"
+      ]
+    },
+    {
+      "official": "§ 23a",
+      "parsed": [
+        "p23a"
+      ]
+    },
+    {
+      "official": "§ 23b",
+      "parsed": [
+        "p23b"
+      ]
+    },
+    {
+      "official": "§ 24",
+      "parsed": [
+        "p24"
+      ]
+    },
+    {
+      "official": "§ 25",
+      "parsed": [
+        "p25"
+      ]
+    },
+    {
+      "official": "§ 26",
+      "parsed": [
+        "p26"
+      ]
+    },
+    {
+      "official": "§ 27",
+      "parsed": [
+        "p27"
+      ]
+    },
+    {
+      "official": "§ 28",
+      "parsed": [
+        "p28"
+      ]
+    },
+    {
+      "official": "§ 29",
+      "parsed": [
+        "p29"
+      ]
+    },
+    {
+      "official": "§ 29a",
+      "parsed": [
+        "p29a"
+      ]
+    },
+    {
+      "official": "§ 30",
+      "parsed": [
+        "p30"
+      ]
+    },
+    {
+      "official": "§ 31",
+      "parsed": [
+        "p31"
+      ]
+    },
+    {
+      "official": "§ 31a",
+      "parsed": [
+        "p31a"
+      ]
+    },
+    {
+      "official": "§ 31b",
+      "parsed": [
+        "p31b"
+      ]
+    },
+    {
+      "official": "§ 32",
+      "parsed": [
+        "p32"
+      ]
+    },
+    {
+      "official": "§ 33",
+      "parsed": [
+        "p33"
+      ]
+    },
+    {
+      "official": "§ 34",
+      "parsed": [
+        "p34"
+      ]
+    },
+    {
+      "official": "§ 35",
+      "parsed": [
+        "p35"
+      ]
+    },
+    {
+      "official": "§ 36",
+      "parsed": [
+        "p36"
+      ]
+    },
+    {
+      "official": "§ 37",
+      "parsed": [
+        "p37"
+      ]
+    },
+    {
+      "official": "§ 38",
+      "parsed": [
+        "p38"
+      ]
+    },
+    {
+      "official": "§ 38a",
+      "parsed": [
+        "p38a"
+      ]
+    },
+    {
+      "official": "§ 39",
+      "parsed": [
+        "p39"
+      ]
+    },
+    {
+      "official": "§ 40",
+      "parsed": [
+        "p40"
+      ]
+    },
+    {
+      "official": "§ 41",
+      "parsed": [
+        "p41"
+      ]
+    },
+    {
+      "official": "§ 41a",
+      "parsed": [
+        "p41a"
+      ]
+    },
+    {
+      "official": "§ 42",
+      "parsed": [
+        "p42"
+      ]
+    },
+    {
+      "official": "§ 43",
+      "parsed": [
+        "p43"
+      ]
+    },
+    {
+      "official": "§ 44",
+      "parsed": [
+        "p44"
+      ]
+    },
+    {
+      "official": "§ 45",
+      "parsed": [
+        "p45"
+      ]
+    },
+    {
+      "official": "§ 46",
+      "parsed": [
+        "p46"
+      ]
+    },
+    {
+      "official": "§ 47",
+      "parsed": [
+        "p47"
+      ]
+    },
+    {
+      "official": "§ 48",
+      "parsed": [
+        "p48"
+      ]
+    },
+    {
+      "official": "§ 49",
+      "parsed": [
+        "p49"
+      ]
+    },
+    {
+      "official": "§ 50",
+      "parsed": [
+        "p50"
+      ]
+    },
+    {
+      "official": "§ 51",
+      "parsed": [
+        "p51"
+      ]
+    },
+    {
+      "official": "§ 52",
+      "parsed": [
+        "p52"
+      ]
+    },
+    {
+      "official": "§ 53",
+      "parsed": [
+        "p53"
+      ]
+    },
+    {
+      "official": "§ 53a",
+      "parsed": [
+        "p53a"
+      ]
+    },
+    {
+      "official": "§ 54",
+      "parsed": [
+        "p54"
+      ]
+    },
+    {
+      "official": "§ 55",
+      "parsed": [
+        "p55"
+      ]
+    },
+    {
+      "official": "§ 56",
+      "parsed": [
+        "p56"
+      ]
+    },
+    {
+      "official": "§ 57",
+      "parsed": [
+        "p57"
+      ]
+    },
+    {
+      "official": "§ 58",
+      "parsed": [
+        "p58"
+      ]
+    },
+    {
+      "official": "§ 59",
+      "parsed": [
+        "p59"
+      ]
+    },
+    {
+      "official": "§ 59a",
+      "parsed": [
+        "p59a"
+      ]
+    },
+    {
+      "official": "§ 59b",
+      "parsed": [
+        "p59b"
+      ]
+    },
+    {
+      "official": "§ 60",
+      "parsed": [
+        "p60"
+      ]
+    },
+    {
+      "official": "§ 61",
+      "parsed": [
+        "p61"
+      ]
+    },
+    {
+      "official": "§ 62",
+      "parsed": [
+        "p62"
+      ]
+    },
+    {
+      "official": "Anlage 1",
+      "parsed": [
+        "a1"
+      ]
+    },
+    {
+      "official": "Anlage 2",
+      "parsed": [
+        "a2"
+      ]
+    }
+  ]
+}

@@ -1,5 +1,19 @@
 # RVG – mechanische Lesefassung aus sources/rvg.xml
 
+Gesetz über die Vergütung der Rechtsanwältinnen und Rechtsanwälte
+
+Neugefasst durch Bek. v. 15.3.2022 I 610;
+
+zuletzt geändert durch Art. 14 G v. 8.12.2025 I Nr. 318
+
+(+++ Textnachweis ab: 1.7.2004 +++)
+(+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
+Umsetzung der
+EURL 2020/1828 (CELEX Nr: 32020L1828) vgl.
+Bek. v. 1.11.2023 I Nr. 296 +++)
+
+Das G wurde als Art. 3 des G v. 5.5.2004 I 718 (KostRMoG) vom Bundestag mit Zustimmung des Bundesrates beschlossen. Es tritt gem. Art. 8 Satz 1 dieses G am 1.7.2004 in Kraft.
+
 § 1 Geltungsbereich
 
 (1) Die Vergütung (Gebühren und Auslagen) für anwaltliche Tätigkeiten der Rechtsanwältinnen und Rechtsanwälte bemisst sich nach diesem Gesetz. Dies gilt auch für eine Tätigkeit als besonderer Vertreter nach den §§ 57 und 58 der Zivilprozessordnung, nach § 118e der Bundesrechtsanwaltsordnung, nach § 103b der Patentanwaltsordnung oder nach § 111c des Steuerberatungsgesetzes. Andere Mitglieder einer Rechtsanwaltskammer, Partnerschaftsgesellschaften und sonstige Gesellschaften stehen einem Rechtsanwalt im Sinne dieses Gesetzes gleich.

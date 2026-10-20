@@ -1,0 +1,97 @@
+{
+  "complete": true,
+  "task": "source_preflight_only",
+  "decisive_date": "2026-10-19",
+  "authoring_started_date": "2026-10-19",
+  "official_url": "https://www.gesetze-im-internet.de/rvg/",
+  "verified_at": "2026-10-20T09:46:50.419678+00:00",
+  "version_evidence": {
+    "authoring_started_date": "2026-10-19",
+    "decisive_date": "2026-10-19",
+    "recheck_date": "2026-10-20",
+    "official_stand": [
+      "Neugefasst durch Bek. v. 15.3.2022 I 610;",
+      "zuletzt geändert durch Art. 14 G v. 8.12.2025 I Nr. 318"
+    ],
+    "last_amending_act": "Art. 14 G v. 8.12.2025, BGBl. 2025 I Nr. 318",
+    "commencement_evidence": {
+      "path": "sources/bgbl-2025-318.pdf",
+      "rechecked_path": "sources/preflight-2026-10-20-bgbl-318.pdf",
+      "sha256": "89f50d3f611d6f05089d6d4827783cf1531cfd3c800cd808e86c763b9db28c41",
+      "text_path": "sources/bgbl-2025-318.txt",
+      "provisions": "Artikel 14 und Artikel 21 Absätze 2 und 3",
+      "effective_dates": {
+        "2026-01-01": "Article 14 numbers 1, 3 and 4: contents, § 33, § 61",
+        "2026-07-01": "Article 14 number 2: § 19(1) sentence 2 number 6"
+      },
+      "method": "Actual promulgation text read; current XML § 19, § 33(3) (300 Euro) and § 61 checked against the amendment. PDF re-fetch identical by SHA-256."
+    },
+    "current_source_xml": {
+      "path": "sources/rvg.xml",
+      "sha256": "be5571d1735031133f154071b08a77ccdb89f3e047330ed057a494dfd128f5d1",
+      "builddate": "20260630215537"
+    },
+    "recheck_xml": {
+      "path": "sources/preflight-2026-10-20/rvg.xml",
+      "sha256": "be5571d1735031133f154071b08a77ccdb89f3e047330ed057a494dfd128f5d1",
+      "identical_to_authoring_source": true
+    },
+    "intake_version": "Original intake 2026-10-02 preserved; sources/change-map.json retains the per-unit comparison. No normative content change detected there; current re-fetch is byte-identical to authoring XML.",
+    "current_update_service": "sources/preflight-2026-10-20-updates.html; checked against 19 October snapshot; newly listed issues 301–304 do not identify RVG. An update-service title scan alone is not proof of absence of indirect amendments.",
+    "basis": "Current official index, full HTML and actual parsed RVG ZIP/XML; stand metadata plus promulgated commencement, not fetch/build timestamps alone.",
+    "limitations": [
+      "Current official consolidation checked, not a complete historical-version archive or an exhaustive search of every amending act.",
+      "No guarantee against not-yet-incorporated legislation; decisive manuscript date remains authoring start 19 October 2026."
+    ]
+  },
+  "historical_versions_checked": {
+    "source": "sources/rvg.xml",
+    "duplicate_official_labels": [],
+    "disposition": {
+      "operative_duplicates": [],
+      "selection": "One current consolidation, 79 single paragraph nodes and two single annex nodes. Historical quotations and transition references within current provisions are retained as content, not appended as old versions."
+    },
+    "all_92_xml_nodes_accounted_for": true,
+    "eingangsformel": "No separate Eingangsformel or Präambel and no unlabelled operative Content in this official XML. Global enactment/commencement footnote preserved in sources/rvg-frontmatter.json and canonical.md.",
+    "scope": "Current-version and duplicate-node check, original-intake comparison, and § 61 transition versus commencement; no exhaustive historical archive research."
+  },
+  "annexes_checked": [
+    {
+      "parent_label": "Anlage 1",
+      "tables": 8,
+      "rows": 536,
+      "independently_derived_child_count": 263,
+      "disposition": "All tariff numbers and operative Vorbemerkungen individually indexed; all table headers, contents, structure and continuation rows additionally preserved in the complete a1 text."
+    },
+    {
+      "parent_label": "Anlage 2",
+      "tables": 1,
+      "rows": 22,
+      "independently_derived_child_count": 0,
+      "disposition": "Complete value/fee table preserved as a2. Value rows have no statutory provision identifiers; no invented child IDs."
+    }
+  ],
+  "total_parsed_units": 344,
+  "statutory_main_units": 81,
+  "annex_tariffs": 231,
+  "annex_preliminary_remarks": 32,
+  "coverage_evidence": [
+    "annex-coverage.json",
+    "preflight-coverage.json",
+    "preflight-production-coverage.json",
+    "completeness.json",
+    "audit-result.json"
+  ],
+  "all_main_statutory_character_streams_equal": true,
+  "all_annex_child_texts_found_in_official_annex": true,
+  "missing_ids": [],
+  "duplicate_ids": [],
+  "unresolved_blockers": [],
+  "manuscript_prose_changed": false,
+  "whole_book_completion_claimed": false,
+  "independent_second_pass_performed": false,
+  "limitations": [
+    "Preflight verifies sources and extraction; it does not review the 344 commentary units substantively.",
+    "Existing selective case research is preserved and was not expanded in this bounded task."
+  ]
+}

@@ -25,6 +25,16 @@ def clean(s):
  return re.sub(r'\n{3,}','\n\n',s).strip()
 def txt(e):return clean(render(e))
 def dump(p,v):p.write_text(json.dumps(v,ensure_ascii=False,indent=2)+'\n')
+# Preserve the unnumbered statutory header and global official notes as evidence.
+# RVG has no separate Eingangsformel in this consolidation; do not invent a unit.
+header=R.find('norm')
+frontmatter={'source':'sources/rvg.xml','xml_sha256':hashlib.sha256((W/'sources/rvg.xml').read_bytes()).hexdigest(),
+ 'doknr':header.get('doknr'),'official_title':header.findtext('metadaten/langue'),
+ 'version_notes':[txt(x) for x in header.findall('metadaten/standangabe/standkommentar')],
+ 'official_global_notes':[txt(x) for x in header.findall('textdaten/fussnoten/Content')],
+ 'eingangsformel_disposition':'No separate Eingangsformel/Präambel norm or operative unlabelled Content in the official RVG XML. The introductory enactment/commencement notice is a global official footnote, preserved here.',
+ 'contents_disposition':'Inhaltsübersicht retained in raw XML as an editorial navigation unit; all its provision references are checked separately against operative norms.'}
+dump(W/'sources/rvg-frontmatter.json',frontmatter)
 units=[];struct=[];chap=0;chapters=[];expected=[];ann=None
 for n in R.findall('norm'):
  m=n.find('metadaten');label=m.findtext('enbez') or '';g=m.find('gliederungseinheit')
@@ -74,7 +84,7 @@ units+=extra
 for part in range(1,8):chapters.append({'n':10+part,'slug':'vv-teil-'+str(part),'title':'Vergütungsverzeichnis, Teil '+str(part)+' – Einzelkommentierung'})
 ids=[u['id'] for u in units];assert len(ids)==len(set(ids)),ids
 (W/'units.jsonl').write_text(''.join(json.dumps(u,ensure_ascii=False)+'\n' for u in units))
-canonical='# RVG – mechanische Lesefassung aus sources/rvg.xml\n\n'+'\n\n'.join(u['label']+' '+u['title']+'\n\n'+u['text'] for u in units if not u.get('parent'))+'\n'
+canonical='# RVG – mechanische Lesefassung aus sources/rvg.xml\n\n'+frontmatter['official_title']+'\n\n'+'\n\n'.join(frontmatter['version_notes']+frontmatter['official_global_notes'])+'\n\n'+'\n\n'.join(u['label']+' '+u['title']+'\n\n'+u['text'] for u in units if not u.get('parent'))+'\n'
 # Extra indexed row strings are also present in the full annex; canonical retains exact extraction.
 (W/'sources/canonical.md').write_text(canonical)
 meta={'cc':'de','lang':'de','repo':'Komentar-DE-RVG-2004','repo_dir':'/Volumes/LaCie/open-commentary/de/Komentar-DE-RVG-2004','title':'Kommentar zum Rechtsanwaltsvergütungsgesetz (RVG)','source_path':str(W/'sources/canonical.md'),'intro_file':'00-einleitung.md','intro_desc':'Systematik, Methode und Quellenstand','labels':{'text':'Wortlaut der Vorschrift','chapter':'Kommentarkapitel','notes':'Amtlicher Quellenhinweis'},'chapters':chapters,'legal_text_date':'2026-10-19','raw_xml_path':str(W/'sources/rvg.xml')}

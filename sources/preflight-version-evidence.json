@@ -1,0 +1,39 @@
+{
+  "authoring_started_date": "2026-10-19",
+  "decisive_date": "2026-10-19",
+  "recheck_date": "2026-10-20",
+  "official_stand": [
+    "Neugefasst durch Bek. v. 15.3.2022 I 610;",
+    "zuletzt geändert durch Art. 14 G v. 8.12.2025 I Nr. 318"
+  ],
+  "last_amending_act": "Art. 14 G v. 8.12.2025, BGBl. 2025 I Nr. 318",
+  "commencement_evidence": {
+    "path": "sources/bgbl-2025-318.pdf",
+    "rechecked_path": "sources/preflight-2026-10-20-bgbl-318.pdf",
+    "sha256": "89f50d3f611d6f05089d6d4827783cf1531cfd3c800cd808e86c763b9db28c41",
+    "text_path": "sources/bgbl-2025-318.txt",
+    "provisions": "Artikel 14 und Artikel 21 Absätze 2 und 3",
+    "effective_dates": {
+      "2026-01-01": "Article 14 numbers 1, 3 and 4: contents, § 33, § 61",
+      "2026-07-01": "Article 14 number 2: § 19(1) sentence 2 number 6"
+    },
+    "method": "Actual promulgation text read; current XML § 19, § 33(3) (300 Euro) and § 61 checked against the amendment. PDF re-fetch identical by SHA-256."
+  },
+  "current_source_xml": {
+    "path": "sources/rvg.xml",
+    "sha256": "be5571d1735031133f154071b08a77ccdb89f3e047330ed057a494dfd128f5d1",
+    "builddate": "20260630215537"
+  },
+  "recheck_xml": {
+    "path": "sources/preflight-2026-10-20/rvg.xml",
+    "sha256": "be5571d1735031133f154071b08a77ccdb89f3e047330ed057a494dfd128f5d1",
+    "identical_to_authoring_source": true
+  },
+  "intake_version": "Original intake 2026-10-02 preserved; sources/change-map.json retains the per-unit comparison. No normative content change detected there; current re-fetch is byte-identical to authoring XML.",
+  "current_update_service": "sources/preflight-2026-10-20-updates.html; checked against 19 October snapshot; newly listed issues 301–304 do not identify RVG. An update-service title scan alone is not proof of absence of indirect amendments.",
+  "basis": "Current official index, full HTML and actual parsed RVG ZIP/XML; stand metadata plus promulgated commencement, not fetch/build timestamps alone.",
+  "limitations": [
+    "Current official consolidation checked, not a complete historical-version archive or an exhaustive search of every amending act.",
+    "No guarantee against not-yet-incorporated legislation; decisive manuscript date remains authoring start 19 October 2026."
+  ]
+}

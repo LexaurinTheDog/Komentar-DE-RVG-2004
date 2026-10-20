@@ -17,3 +17,5 @@ Originalkommentar © 2026 Vojtěch Říha. Der Originalkommentar steht unter [Ap
 **Entwurf mit technischer Validierung.** Eine unabhängige zweite inhaltliche Prüfung steht noch aus. Es wird keine externe anwaltliche Freigabe behauptet. Das Werk wird ohne Gewähr bereitgestellt und ersetzt keine Beratung im konkreten Mandat; insbesondere müssen Auftrag, Übergangsrecht, Beiordnung und Gebührenentstehung im Einzelfall geprüft werden.
 
 Gesetze im Internet ist eine amtlich bereitgestellte, nicht selbst verkündete Konsolidierung. Bei einem Widerspruch ist das im Bundesgesetzblatt verkündete Recht maßgeblich.
+
+**Quellen-Preflight vom 20. Oktober 2026:** Der Rechtsstand zum Bearbeitungsbeginn am 19. Oktober bleibt unverändert. Erneuter offizieller XML-/HTML-Abruf und Abgleich mit der Verkündung bestätigt; 81 Hauptnormen und 263 zusätzlich erschlossene Anlagenteile ohne Kennungslücken. Siehe [Preflight](preflight-result.json) und [unabhängig aus XML abgeleitete Anlagenkennungen](annex-coverage.json). Dies ist keine zweite inhaltliche Prüfung des Kommentars.

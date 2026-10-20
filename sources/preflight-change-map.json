@@ -1,0 +1,17 @@
+{
+  "original_intake_path": "sources/intake-2026-10-02.md",
+  "original_intake_sha256": "ab0a3dff2cef5997573234da63b086e6e4ed11c5c9e43b89cf9647898fda5d19",
+  "original_intake_unchanged": true,
+  "existing_intake_to_canonical_change_map": "sources/change-map.json",
+  "authoring_xml_sha256": "be5571d1735031133f154071b08a77ccdb89f3e047330ed057a494dfd128f5d1",
+  "recheck_xml_sha256": "be5571d1735031133f154071b08a77ccdb89f3e047330ed057a494dfd128f5d1",
+  "xml_bytes_equal": true,
+  "html_bytes_equal": true,
+  "index_bytes_equal": true,
+  "statutory_unit_changes": [],
+  "parser_repairs": [
+    "Preserved unnumbered global official notes and version metadata in rvg-frontmatter.json and canonical.md.",
+    "Independently derived annex child IDs and source-bound annex-coverage.json; no existing commentary or statutory units replaced."
+  ],
+  "current_update_diff": "sources/preflight-update-diff.txt"
+}
