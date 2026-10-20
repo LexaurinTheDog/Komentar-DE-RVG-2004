@@ -800,6 +800,13 @@
       "Aktuelle amtlicheRVG-Konsolidierung,Intake/Änderungskarte,Verkündung,Inkrafttreten,beideAnlagen geprüft;keine vollständige historischeArchiv- oder mittelbareÄnderungssuche. FamFG nur in dokumentiertem Kontext; neueste dokumentarischeBearbeitungsnotiz und tatsächlicheInkrafttretensregel dokumentiert.",
       "Firecrawl ohneCredits; tatsächliche direkteamtlicheAbrufe erfolgreich. KeinewesentlicheQuellenlücke.",
       "Wortlaut,Erfassung,Links und Wiederholungen technisch geprüft; dieseChecks undMindestlängen beweisen keinejuristischeQualität."
-    ]
+    ],
+    "validation": {
+      "strict_ok": true,
+      "verbatim_ratio": 1.0,
+      "validated_at": "2026-10-20T13:03:06.029425+00:00",
+      "reviewed_commentary_units": 20,
+      "whole_book_review_complete": false
+    }
   }
 }

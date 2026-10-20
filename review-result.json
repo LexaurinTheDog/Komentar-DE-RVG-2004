@@ -1,5 +1,5 @@
 {
-  "complete": false,
+  "complete": true,
   "task": "bounded_independent_second_pass",
   "title": "RVG",
   "decisive_date": "2026-10-19",
@@ -322,6 +322,33 @@
   "whole_book_review_complete": false,
   "external_professional_approval": false,
   "validation": {
-    "build": "technical check in progress"
-  }
+    "strict": {
+      "repo": "Komentar-DE-RVG-2004",
+      "units": 344,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 618557,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "validated_at": "2026-10-20T13:03:06.029425+00:00",
+    "validated_work_commit": "bb976befdfc9dea219e7a40003e63ad67c750047",
+    "validated_output_commit": "0f11a20643e0b3f9361f3c39d7f1d54f9c7293df",
+    "build": "success",
+    "independent_xml_coverage": {
+      "expected": 344,
+      "parsed": 344,
+      "missing": [],
+      "duplicates": [],
+      "ok": true
+    },
+    "assigned_complete_wording_matches": 20,
+    "unassigned_commentary_blocks_preserved": 324,
+    "local_links_checked": 742,
+    "broken_local_links": [],
+    "exact_repeated_long_sentences": 0,
+    "exact_repeated_long_paragraphs": 0,
+    "meaning": "Technical evidence supplements the actual individually read exact20unit review; no whole-book completion or external professional approval."
+  },
+  "validated_at": "2026-10-20T13:03:06.029425+00:00"
 }
