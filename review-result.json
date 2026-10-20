@@ -1,6 +1,6 @@
 {
   "kind": "bounded_independent_second_pass",
-  "complete": false,
+  "complete": true,
   "units_reviewed": 4,
   "reviewed_ids": [
     "vv7005",
@@ -114,5 +114,35 @@
   "all_assigned_official_wording_equal": true,
   "all_unassigned_commentary_preserved": true,
   "whole_book_review_complete": false,
-  "external_professional_approval": false
+  "external_professional_approval": false,
+  "validated_at": "2026-10-20T13:11:53.019611+00:00",
+  "validation": {
+    "strict": {
+      "repo": "Komentar-DE-RVG-2004",
+      "units": 344,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 626549,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "validated_at": "2026-10-20T13:11:53.019611+00:00",
+    "validated_work_commit": "faee7b07ce489cd1b607f059b051f532c9762936",
+    "validated_output_commit": "5cafbee1d8c6382a7a085bf867f80160bcbde7fd",
+    "build": "success",
+    "independent_xml_coverage": {
+      "expected": 344,
+      "parsed": 344,
+      "missing": [],
+      "duplicates": [],
+      "ok": true
+    },
+    "assigned_complete_wording_matches": 4,
+    "unassigned_commentary_blocks_preserved": 340,
+    "local_links_checked": 776,
+    "broken_local_links": [],
+    "exact_repeated_long_sentences": 0,
+    "exact_repeated_long_paragraphs": 0,
+    "meaning": "Technical results supplement the actual exact four-unit substantive review. No whole-book completion or external professional approval."
+  }
 }

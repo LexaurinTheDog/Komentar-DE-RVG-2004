@@ -842,6 +842,13 @@
       "Vier ausgewählte amtliche Volltexte vollständig gelesen und mit dem nationalen Korpus abgeglichen; selektive Recherche, keine vollständige spätere Rechtsprechungs- oder Detailfragenabdeckung.",
       "RVG-Stand, Intakevergleich, Anlagen und tatsächliche Inkrafttretensbelege geprüft. Fremdsteuerrecht nur im dokumentierten Kontext; kein vollständiges historisches Archiv oder umfassender UStG-Kommentar.",
       "Firecrawl ohne Credits; direkte amtliche Abrufe sämtlicher benötigter Primärbelege erfolgreich. Technische Länge/Hashgleichheit ersetzt keine juristische Qualitätsprüfung."
-    ]
+    ],
+    "validation": {
+      "strict_ok": true,
+      "verbatim_ratio": 1.0,
+      "validated_at": "2026-10-20T13:11:53.019611+00:00",
+      "reviewed_commentary_units": 4,
+      "whole_book_review_complete": false
+    }
   }
 }
