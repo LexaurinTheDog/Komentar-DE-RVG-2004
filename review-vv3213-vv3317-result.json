@@ -1,5 +1,5 @@
 {
-  "complete": false,
+  "complete": true,
   "task_kind": "bounded_independent_second_pass",
   "decisive_date": "2026-10-19",
   "reviewed_at": "2026-10-20T11:13:20.667542+00:00",
@@ -186,8 +186,35 @@
     }
   ],
   "validation": {
-    "status": "All20units substantively read; awaiting rebuild and strict validation"
+    "strict": {
+      "repo": "Komentar-DE-RVG-2004",
+      "units": 344,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 397046,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "validated_at": "2026-10-20T11:16:14.079038+00:00",
+    "validated_work_commit": "ce463131cde3e8fbaa675eb1f06d1e035ca066f4",
+    "validated_output_commit": "e71bbebe3873698d32ed99b7150035460415bfec",
+    "build": "success",
+    "independent_xml_coverage": {
+      "expected": 344,
+      "parsed": 344,
+      "missing": [],
+      "duplicates": [],
+      "ok": true
+    },
+    "assigned_complete_wording_matches": 20,
+    "unassigned_commentary_blocks_preserved": 324,
+    "local_links_checked": 375,
+    "broken_local_links": [],
+    "exact_repeated_long_sentences": 0,
+    "exact_repeated_long_paragraphs": 0,
+    "meaning": "Technical checks support the separately read exact 20-unit review. They do not establish substantive review of unassigned units or external professional approval."
   },
   "whole_book_review_complete": false,
-  "external_professional_approval": false
+  "external_professional_approval": false,
+  "validated_at": "2026-10-20T11:16:14.079038+00:00"
 }
