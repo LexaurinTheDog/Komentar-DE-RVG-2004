@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-20",
+  "scope": [
+    "vv3337",
+    "vv3338",
+    "vv3339",
+    "vb3.4",
+    "vv3400",
+    "vv3401",
+    "vv3402",
+    "vv3403",
+    "vv3404",
+    "vv3405",
+    "vv3406",
+    "vb3.5",
+    "vv3500",
+    "vv3501",
+    "vv3502",
+    "vv3503",
+    "vv3504",
+    "vv3505",
+    "vv3506",
+    "vv3507"
+  ],
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii",
+  "local_search": {
+    "pattern": "(?:Nr\\.?|Nummer|Nrn\\.)\\s*(?:3337|3338|3339|340[0-6]|350[0-7])\\b",
+    "matched_markdown_files": 36,
+    "evidence": "local-corpus-search.txt",
+    "method": "Selective candidate discovery; dates and subject matter screened, not all returned cases read."
+  },
+  "official_full_texts_read": [
+    "KORE310662024",
+    "KARE600038784",
+    "KORE316562013"
+  ],
+  "authoritative_fetches": "authority-requests.json",
+  "comparison": "case-source-comparison.json",
+  "supported_units": {
+    "KORE310662024": [
+      "vv3401",
+      "vv3402"
+    ],
+    "KORE316562013": [
+      "vv3403",
+      "vv3405"
+    ],
+    "KARE600038784": [
+      "vv3506",
+      "vv3507"
+    ]
+  },
+  "no_additional_case_selected": [
+    "vv3337",
+    "vv3338",
+    "vv3339",
+    "vb3.4",
+    "vv3400",
+    "vv3404",
+    "vv3406",
+    "vb3.5",
+    "vv3500",
+    "vv3501",
+    "vv3502",
+    "vv3503",
+    "vv3504",
+    "vv3505"
+  ],
+  "limitations": "Selective national-corpus research and fresh full official database downloads; no exhaustive case-law search or per-unit negative search claimed. No separate web-search-engine query was performed in this round."
+}

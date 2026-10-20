@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/kapmug_2024/__13.html",
+    "accessed_at": "2026-10-20T11:29:16.481313+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "local_path": "sources/review-vv3337-vv3507-2026-10-20/kapmug-13.html",
+    "sha256": "1ccb38e13d80161f71f813c5649b305ec35b83bfe5fffbabe2b09c6298d02fc0",
+    "validated_format": "HTML parsed, text extracted, expected statutory context read"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/kapmug_2024/__31.html",
+    "accessed_at": "2026-10-20T11:29:16.598685+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "local_path": "sources/review-vv3337-vv3507-2026-10-20/kapmug-31.html",
+    "sha256": "6bd0bc87bd5418675c826f7d80112b9435baa1785c756b4aa00b633381ac1e5d",
+    "validated_format": "HTML parsed, text extracted, expected statutory context read"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/vdug/__28.html",
+    "accessed_at": "2026-10-20T11:29:16.701319+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "local_path": "sources/review-vv3337-vv3507-2026-10-20/vdug-28.html",
+    "sha256": "5f23e2d424825dd135d34c4a2275e43911d507a855a96f5c9681265c18152bca",
+    "validated_format": "HTML parsed, text extracted, expected statutory context read"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/zpo/__91.html",
+    "accessed_at": "2026-10-20T11:29:16.811578+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "local_path": "sources/review-vv3337-vv3507-2026-10-20/zpo-91.html",
+    "sha256": "4ccb3aff920df5199c9617a4c799163d26a9c5fae60bf2db74c07db27e9eaaa2",
+    "validated_format": "HTML parsed, text extracted, expected statutory context read"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/zpo/__278.html",
+    "accessed_at": "2026-10-20T11:29:17.014810+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "local_path": "sources/review-vv3337-vv3507-2026-10-20/zpo-278.html",
+    "sha256": "97d8a6a5042c8f32322d8c4d4494a54dc662713e781048b46669a88e2bd31bc4",
+    "validated_format": "HTML parsed, text extracted, expected statutory context read"
+  }
+]

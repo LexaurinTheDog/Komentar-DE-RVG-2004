@@ -1,0 +1,30 @@
+{
+  "decisive_date": "2026-10-19",
+  "verified_at": "2026-10-20T11:34:48.214007+00:00",
+  "official_url": "https://www.gesetze-im-internet.de/rvg/",
+  "official_stand": [
+    "Neugefasst durch Bek. v. 15.3.2022 I 610;",
+    "zuletzt geändert durch Art. 14 G v. 8.12.2025 I Nr. 318"
+  ],
+  "xml_sha256": "be5571d1735031133f154071b08a77ccdb89f3e047330ed057a494dfd128f5d1",
+  "rvg_xml_identical_to_authoring": true,
+  "commencement": {
+    "path": "sources/review-vv3337-vv3507-2026-10-20/bgbl-318.pdf",
+    "read": "Actual Article14 and Article21(2)/(3) in sources/bgbl-2025-318.txt reread; fresh PDF byte-identical.",
+    "effective": "Article14 numbers1/3/4 since2026-01-01; number2 since2026-07-01. No direct change to assigned tariff rows."
+  },
+  "assigned_change": {
+    "path": "sources/review-vv3103-vv3212-2026-10-20/bgbl-109.pdf",
+    "text_path": "sources/review-vv3103-vv3212-2026-10-20/bgbl-109.txt",
+    "sha256": "1ff13f868178c6ca85497562b13de3e37a591793b5fe9f820432210ca17fc36d",
+    "read": "Actual Article11(2)numbers27–30 replaces amounts in3400/3405/3406/3501; Article13(3)effective2025-06-01. Existing authenticated promulgation PDF/text read, not claimed as a new HTTP fetch."
+  },
+  "historical_versions_checked": "All92current XML nodes classified again; no duplicate operative labels or unlabelled operative Content. No separate Eingangsformel; official global notes preserved. Intake and change-map retained; no normative change. Not a complete historical archive.",
+  "annexes_checked": "Anlage1:231tariffs and32operative remarks independently derived from first XML cells before reading parsed IDs; all536rows retained in full parent. Anlage2:all22rows preserved, no invented child identifiers.",
+  "updates": "Fresh official update-service body byte-identical to preceding snapshot; title scan alone cannot exclude indirect or unincorporated amendments.",
+  "external_cross_references": "Actual current official §13KapMuG and §28VDuG read for stated tariff context; current ZPO91/278 corroborate already quoted tariff/case context. An additional §31KapMuG fetch concerns evaluation and is not relied on for any transition rule. No comprehensive commencement audit of those separate statutes.",
+  "limitations": [
+    "Current RVG consolidation and actual published commencement checked, not a complete historical or indirect-amendment archive.",
+    "External provisions support only the expressly described tariff context; no comprehensive commentary or independent historical audit of those statutes."
+  ]
+}

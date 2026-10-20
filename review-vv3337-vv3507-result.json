@@ -1,0 +1,276 @@
+{
+  "complete": false,
+  "task": "bounded_independent_second_pass",
+  "title": "RVG",
+  "decisive_date": "2026-10-19",
+  "verified_at": "2026-10-20T11:34:48.214007+00:00",
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "vv3337",
+    "vv3338",
+    "vv3339",
+    "vb3.4",
+    "vv3400",
+    "vv3401",
+    "vv3402",
+    "vv3403",
+    "vv3404",
+    "vv3405",
+    "vv3406",
+    "vb3.5",
+    "vv3500",
+    "vv3501",
+    "vv3502",
+    "vv3503",
+    "vv3504",
+    "vv3505",
+    "vv3506",
+    "vv3507"
+  ],
+  "changed_ids": [
+    "vv3337",
+    "vv3338",
+    "vv3339",
+    "vb3.4",
+    "vv3400",
+    "vv3401",
+    "vv3402",
+    "vv3403",
+    "vv3404",
+    "vv3405",
+    "vv3406",
+    "vb3.5",
+    "vv3500",
+    "vv3501",
+    "vv3502",
+    "vv3503",
+    "vv3504",
+    "vv3505",
+    "vv3506",
+    "vv3507"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "vv3337",
+      "finding": "Abschließenden Grundnummernkatalog, qualifizierte Außenhandlungen einschließlich Rücknahme und eigenständige Einigungsalternative erläutert; keine Übertragung auf3338/3339 und keine Erhöhung niedrigerer Gebühren.",
+      "disposition": "corrected and substantively checked against official wording",
+      "source_location": {
+        "table_index": 3,
+        "row_index": 112,
+        "first_cell": "3337"
+      }
+    },
+    {
+      "id": "vv3338",
+      "finding": "Anspruchsanmelderrolle von Musterkläger und Registeranmeldung getrennt. Amtlichen §13KapMuG mit Anwaltserfordernis und Ausschluss bereits eingeklagter Ansprüche gelesen. Unpräzisen pauschalen §19-Hinweis ersetzt; Altfallprüfung ausdrücklich vorbehalten.",
+      "disposition": "corrected and substantively checked against official wording",
+      "source_location": {
+        "table_index": 3,
+        "row_index": 114,
+        "first_cell": "3338"
+      }
+    },
+    {
+      "id": "vv3339",
+      "finding": "Eigene Angelegenheit nach§17Nr5a, wirtschaftliches Interesse nach§24 und gesonderte Gebühr bei verschiedenen Verbraucheransprüchen erklärt. Widerspruchsverfahren aus amtlichem§28VDuG als konkreten Kontext ergänzt; keine Vervielfachung pro Schreiben.",
+      "disposition": "corrected and substantively checked against official wording",
+      "source_location": {
+        "table_index": 3,
+        "row_index": 115,
+        "first_cell": "3339"
+      }
+    },
+    {
+      "id": "vb3.4",
+      "finding": "Vorrang der ausdrücklichen Terminsanordnung vor dem allgemeinen Terminsbegriff und Reichweite des Auftrags dargestellt. Beispiel trennt Stellungnahme von echter Terminsvertretung.",
+      "disposition": "corrected and substantively checked against official wording",
+      "source_location": {
+        "table_index": 3,
+        "row_index": 117,
+        "first_cell": "Vorbemerkung 3.4: Für in diesem Abschnitt genannte Tätigkeiten entsteht eine Terminsgebühr nur, wenn dies ausdrücklich bestimmt ist."
+      }
+    },
+    {
+      "id": "vv3400",
+      "finding": "Konkrete Bezugsgebühr und Höchstgrenzen1,0/550Euro, Zustimmung zur gutachtlich ergänzten Aktenübersendung und Abgrenzung zur nach§19abgegoltenen Übersendung erläutert.",
+      "disposition": "corrected and substantively checked against official wording",
+      "source_location": {
+        "table_index": 3,
+        "row_index": 118,
+        "first_cell": "3400"
+      }
+    },
+    {
+      "id": "vv3401",
+      "finding": "Halbierung anhand tatsächlicher Bezugsgebühr mit0,65/0,8Beispielen erklärt. Partei- und Eigenbeauftragung nach vollständig gelesenem BGHVIZB58/22 getrennt; keine automatische Erstattung und keine zweite Gebühr pro Vorbereitungsschritt.",
+      "disposition": "corrected and substantively checked against official wording",
+      "source_location": {
+        "table_index": 3,
+        "row_index": 120,
+        "first_cell": "3401"
+      }
+    },
+    {
+      "id": "vv3402",
+      "finding": "Ungekürzte Terminsbezugsgebühr, Säumnisermäßigung, Verkündungsausnahme und Tatsachennachweis präzisiert. BGHVIZB58/22 nur zur Vertrags- und Erstattungsabgrenzung verwendet.",
+      "disposition": "corrected and substantively checked against official wording",
+      "source_location": {
+        "table_index": 3,
+        "row_index": 121,
+        "first_cell": "3402"
+      }
+    },
+    {
+      "id": "vv3403",
+      "finding": "Echten Einzelauftrag von nur geringer Tätigkeit unter Vollmandat und nach§19abgegoltenen Nebenarbeiten getrennt. BGHXIZB2/13 differenziert Entstehung und verweigerte Erstattung verfrühter Prüfung.",
+      "disposition": "corrected and substantively checked against official wording",
+      "source_location": {
+        "table_index": 3,
+        "row_index": 122,
+        "first_cell": "3403"
+      }
+    },
+    {
+      "id": "vv3404",
+      "finding": "Auftrags- und Inhaltsbegrenzung kumulativ, keine Seitenzahlregel; gerichtlicher Verfahrensbezug, Nebenarbeitsabgrenzung und Ersatz der0,8Gebühr erläutert. Keine Umrechnung in erfundene Sozialgeldpauschale.",
+      "disposition": "corrected and substantively checked against official wording",
+      "source_location": {
+        "table_index": 3,
+        "row_index": 124,
+        "first_cell": "3404"
+      }
+    },
+    {
+      "id": "vv3405",
+      "finding": "Höchstgrenzen0,5/275Euro konkretisiert; Auftragsende statt bloßer Terminverlegung, Verkehrsmandatsschwellen und entsprechende Anwendung auf3403 getrennt. BGHXIZB2/13 nicht als Entscheidung aller zeitlichen Grenzfälle ausgegeben.",
+      "disposition": "corrected and substantively checked against official wording",
+      "source_location": {
+        "table_index": 3,
+        "row_index": 126,
+        "first_cell": "3405"
+      }
+    },
+    {
+      "id": "vv3406",
+      "finding": "Aktuellen Rahmen39–445Euro, §3-Auswahl und vollständige Bemessungskriterien nach§14 ergänzt. Vorrang besonderer Einzelaufträge, Ausschluss freier Zusatztermingebühr und§15Abs5/6beschrieben.",
+      "disposition": "corrected and substantively checked against official wording",
+      "source_location": {
+        "table_index": 3,
+        "row_index": 130,
+        "first_cell": "3406"
+      }
+    },
+    {
+      "id": "vb3.5",
+      "finding": "Konkrete Ausschlüsse der beiden Rechtsmittelkataloge, Eigenständigkeit der Nichtzulassungsbeschwerde und getrennte Angelegenheitsprüfung erläutert.",
+      "disposition": "corrected and substantively checked against official wording",
+      "source_location": {
+        "table_index": 3,
+        "row_index": 133,
+        "first_cell": "Vorbemerkung 3.5: Die Gebühren nach diesem Abschnitt entstehen nicht in den in den Vorbemerkungen 3.2.1 und 3.2.2 genannten Beschwerdeverfahren."
+      }
+    },
+    {
+      "id": "vv3500",
+      "finding": "Auffangfunktion anhand spezieller Rechtsmittel, sozialrechtlicher Variante und§18Abs1Nr3/§16Nr10präzisiert. §19-Nebenarbeiten, Beschwerdeinteresse und fehlende allgemeine Frühbeendigungshalbierung ergänzt.",
+      "disposition": "corrected and substantively checked against official wording",
+      "source_location": {
+        "table_index": 3,
+        "row_index": 134,
+        "first_cell": "3500"
+      }
+    },
+    {
+      "id": "vv3501",
+      "finding": "Aktuellen Rahmen26–275Euro, Vorrang3511/3512, verfahrensbezogene§14-Kriterien und Altmandatsregel erklärt; Hauptsachegebühr ist kein proportionaler Maßstab.",
+      "disposition": "corrected and substantively checked against official wording",
+      "source_location": {
+        "table_index": 3,
+        "row_index": 135,
+        "first_cell": "3501"
+      }
+    },
+    {
+      "id": "vv3502",
+      "finding": "Allgemeinen Rechtsbeschwerdetarif von Katalogfällen und Nichtzulassung getrennt; Informationsphase,1,0Grundgebühr,3503Ermäßigung und3516Terminsgebühr konkret zugeordnet.",
+      "disposition": "corrected and substantively checked against official wording",
+      "source_location": {
+        "table_index": 3,
+        "row_index": 136,
+        "first_cell": "3502"
+      }
+    },
+    {
+      "id": "vv3503",
+      "finding": "Sämtliche verwiesenen Regelungskomplexe der3201-Anmerkung, eigene Gegnersachhandlung und begrenzte Übertragbarkeit erklärt; schnelle schriftliche Erledigung nicht gleich Ermäßigung.",
+      "disposition": "corrected and substantively checked against official wording",
+      "source_location": {
+        "table_index": 3,
+        "row_index": 137,
+        "first_cell": "3503"
+      }
+    },
+    {
+      "id": "vv3504",
+      "finding": "Nichtzulassungsbeschwerde von bloßem Zulassungsverfahren und3511Betragsrahmen getrennt. Anrechnung bei aufeinanderfolgenden Mandaten unter Beachtung von Gegenstandsidentität und Wechselrisiko erklärt.",
+      "disposition": "corrected and substantively checked against official wording",
+      "source_location": {
+        "table_index": 3,
+        "row_index": 139,
+        "first_cell": "3504"
+      }
+    },
+    {
+      "id": "vv3505",
+      "finding": "Satz1,0, bereits maßgebliche Einlegung, weitere übertragbare3201-Alternativen und fortbestehende Anrechnung erläutert. Keine Kumulation mit1,6und keine Ermäßigung allein wegen unterbliebener Begründung.",
+      "disposition": "corrected and substantively checked against official wording",
+      "source_location": {
+        "table_index": 3,
+        "row_index": 141,
+        "first_cell": "3505"
+      }
+    },
+    {
+      "id": "vv3506",
+      "finding": "Genauen Nichtzulassungskatalog und Ausnahmen3512/3508 erklärt. Vollständig gelesenen BAG3AZB22/11 zur Gegnertätigkeit, Prozessvollmacht/Angelegenheit und getrennter Erstattung aufgenommen; Anrechnung erhalten.",
+      "disposition": "corrected and substantively checked against official wording",
+      "source_location": {
+        "table_index": 3,
+        "row_index": 143,
+        "first_cell": "3506"
+      }
+    },
+    {
+      "id": "vv3507",
+      "finding": "Satz1,1, Gegnersachantrag, entsprechende Einigungs-/Tätigkeitsalternativen und BGH-Sondertarif präzisiert. BAG3AZB22/11 mit wirklichem Ablauf vor Zustellung dargestellt, nicht als universelle Regel über interne Entscheidungsdaten.",
+      "disposition": "corrected and substantively checked against official wording",
+      "source_location": {
+        "table_index": 3,
+        "row_index": 145,
+        "first_cell": "3507"
+      }
+    }
+  ],
+  "limitations": [
+    "This completed substantive review is restricted to the exact twenty assigned identifiers; the other324commentary units were preserved, not reviewed in this round.",
+    "No whole-book completion or external professional approval is claimed.",
+    "Three selectively chosen official decisions were read in full and checked against the national corpus; no exhaustive case-law coverage or subsequent-case search.",
+    "Current RVG consolidation, authenticated commencement provisions and intake comparison checked; no complete historical or indirect-amendment archive audit.",
+    "External KapMuG/VDuG/ZPO sources are used for stated tariff context only; no independent complete commentary or historical commencement audit of those statutes.",
+    "Technical agreement, link checks and repetition detection do not certify legal quality."
+  ],
+  "official_source": "sources/review-vv3337-vv3507-2026-10-20/rvg.xml",
+  "source_verification": "sources/review-vv3337-vv3507-2026-10-20/requests.json",
+  "version_evidence": "sources/review-vv3337-vv3507-2026-10-20/version-evidence.json",
+  "unit_evidence": "review-vv3337-vv3507-unit-evidence.json",
+  "case_sources": "sources/review-vv3337-vv3507-2026-10-20/authority-requests.json",
+  "all_assigned_official_wording_equal": true,
+  "all_unassigned_commentary_preserved": true,
+  "whole_book_review_complete": false,
+  "external_professional_approval": false,
+  "validation": {
+    "build": "pending",
+    "strict": "pending"
+  }
+}

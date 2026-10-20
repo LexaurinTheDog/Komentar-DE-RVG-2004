@@ -1,0 +1,74 @@
+---
+source: rechtsprechung-im-internet
+country: de
+document_type: decision
+court: BAG
+chamber: 3. Senat
+ecli: null
+doknr: KARE600038784
+case_number: 3 AZB 22/11
+date: '2012-04-18'
+decision_type: Beschluss
+norms: Nr 3506 RVG-VV
+prior_instance: 'vorgehend ArbG Kaiserslautern, 16. Dezember 2010, Az: 8 Ca 782/09
+  KL, Beschluss
+
+
+  vorgehend Landesarbeitsgericht Rheinland-Pfalz, 24. März 2011, Az: 3 Ta 37/11, Beschluss'
+source_url: https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KARE600038784
+download_url: https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KARE600038784.zip
+chars: 9602
+license: amtliches Werk (§ 5 UrhG)
+retrieved_at: '2026-10-03T12:18:45Z'
+---
+
+# BAG 3 AZB 22/11 (2012-04-18)
+
+- **Gericht:** BAG 3. Senat
+- **Datum:** 2012-04-18
+- **Aktenzeichen:** 3 AZB 22/11
+- **ECLI:** —
+- **Dokumenttyp:** Beschluss
+- **Normen:** Nr 3506 RVG-VV
+
+## Titelzeile
+
+Anfall und Erstattungsfähigkeit der Verfahrensgebühr im Nichtzulassungsbeschwerdeverfahren vor dem BAG
+
+## Tenor
+
+Die Rechtsbeschwerde des Klägers gegen den Beschluss des Landesarbeitsgerichts Rheinland-Pfalz vom 24. März 2011 - 3 Ta 37/11 - wird zurückgewiesen.
+
+Der Kläger hat die Kosten des Rechtsbeschwerdeverfahrens zu tragen.
+
+## Gründe
+
+1 I. Der Kläger wendet sich gegen einen Kostenfestsetzungsbeschluss, wonach er der Beklagten wegen eines von ihm eingeleiteten Nichtzulassungsbeschwerdeverfahrens eine Verfahrensgebühr nach Nr. 3506 VV-RVG zu erstatten hat.
+
+2 Die Parteien hatten ursprünglich darüber gestritten, ob der Kläger ab dem 1. Oktober 2006 eine Vergütung nach der tariflichen Gehaltsgruppe C 8 beanspruchen kann. Das Arbeitsgericht hatte die Klage abgewiesen; das Landesarbeitsgericht hatte die Berufung des Klägers zurückgewiesen und die Revision gegen seine Entscheidung nicht zugelassen. Vor dem Landesarbeitsgericht war die Beklagte durch Rechtsanwälte R vertreten worden. Gegen das Urteil des Landesarbeitsgerichts legte der Kläger Nichtzulassungsbeschwerde ein und begründete diese mit Schriftsatz vom 17. August 2010. Abschriften der Nichtzulassungsbeschwerdeschrift wurden den Rechtsanwälten R am 27. Juli 2010, Abschriften der Beschwerdebegründungsschrift wurden ihnen am 27. August 2010 zugestellt. Mit Beschluss vom 25. August 2010 wies das Bundesarbeitsgericht die Beschwerde des Klägers gegen die Nichtzulassung der Revision kostenpflichtig zurück. Abschriften dieses Beschlusses gingen den Rechtsanwälten R am 9. September 2010 zu. Bereits zuvor, nämlich am 6. September 2010, war beim Bundesarbeitsgericht der Schriftsatz der Rechtsanwälte R vom 3. September 2010 eingegangen, in welchem sich diese für die Beklagte gemeldet und beantragt hatten, die Nichtzulassungsbeschwerde des Klägers zurückzuweisen.
+
+3 Auf Antrag der Beklagten und nach Anhörung des Klägers hat das Arbeitsgericht mit Beschluss vom 16. Dezember 2010 die vom Kläger an die Beklagte zu erstattenden Kosten auf 989,60 Euro (nebst Zinsen) festgesetzt. Dieser Betrag beinhaltet eine Verfahrensgebühr gem. Nr. 3506 VV-RVG sowie die Pauschale für Post und Telekommunikation nach Nr. 7002 VV-RVG in Höhe von 20,00 Euro. Gegen diesen Beschluss hat der Kläger Erinnerung eingelegt. Das Arbeitsgericht hat die Erinnerung als sofortige Beschwerde ausgelegt, ihr nicht abgeholfen und sie dem Landesarbeitsgericht zur Entscheidung vorgelegt. Das Landesarbeitsgericht hat die sofortige Beschwerde des Klägers zurückgewiesen und die Rechtsbeschwerde zum Bundesarbeitsgericht zugelassen. Mit der Rechtsbeschwerde macht der Kläger weiterhin geltend, zur Erstattung der Verfahrensgebühr nicht verpflichtet zu sein.
+
+4 II. Die statthafte (§ 574 Abs. 1 Satz 1 Nr. 2 ZPO) und auch im Übrigen zulässige (§ 575 ZPO) Rechtsbeschwerde hat in der Sache keinen Erfolg. Das Landesarbeitsgericht hat die sofortige Beschwerde des Klägers gegen den Kostenfestsetzungsbeschluss des Arbeitsgerichts zu Recht zurückgewiesen. Das Arbeitsgericht hat die nach dem Beschluss des Bundesarbeitsgerichts vom 25. August 2010 vom Kläger an die Beklagte zu erstattenden Kosten nach § 104 ZPO zu Recht auf insgesamt 989,60 Euro festgesetzt. Neben der Pauschale für Post und Telekommunikation nach Nr. 7002 VV-RVG in Höhe von 20,00 Euro, über deren Berechtigung und Erstattungsfähigkeit die Parteien nicht streiten, war bei der Kostenfestsetzung die Verfahrensgebühr nach Nr. 3506 VV-RVG in unstreitiger Höhe von 969,60 Euro zu berücksichtigen. Die Rechtsanwälte R können für ihr Tätigwerden im Nichtzulassungsbeschwerdeverfahren eine Verfahrensgebühr nach Nr. 3506 VV-RVG beanspruchen. Die Verfahrensgebühr ist auch erstattungsfähig iSd. § 91 ZPO.
+
+5 1. Die Verfahrensgebühr nach Nr. 3506 VV-RVG ist in voller Höhe entstanden. Der Gebührenanspruch der Rechtsanwälte R im Nichtzulassungsbeschwerdeverfahren bestimmt sich nach Nr. 3506 VV-RVG. Danach beläuft sich die Verfahrensgebühr auf das 1,6-fache der Gebühr nach § 13 RVG. Bei einem Gegenstandswert von 17.408,52 Euro sind dies 969,60 Euro.
+
+6 a) Entgegen der Rechtsauffassung des Klägers scheitert die Entstehung der Gebühr nicht an einer fehlenden Prozessvollmacht der Rechtsanwälte R für das Nichtzulassungsbeschwerdeverfahren. Die Prozessvollmacht, die die Beklagte ihren Prozessbevollmächtigten für das Berufungsverfahren erteilt hatte, ermächtigte diese zur Führung „des ganzen Prozesses“ in allen Instanzen, mithin auch im Nichtzulassungsbeschwerdeverfahren.
+
+7 Dem steht nicht entgegen, dass gem. § 16 Nr. 11, § 17 Nr. 9 RVG das Verfahren über ein Rechtsmittel und das Verfahren über die Beschwerde gegen die Nichtzulassung des Rechtsmittels verschiedene Angelegenheiten sind. Diese Bestimmungen des RVG haben nur Bedeutung für die Frage, ob im Beschwerdeverfahren über die Nichtzulassung des Rechtsmittels gesonderte Gebühren entstehen. Sie regeln nicht den Umfang der Prozessvollmacht. Dieser bestimmt sich ausschließlich nach §§ 81, 82 ZPO. Nach § 81 ZPO ermächtigt die Prozessvollmacht zu allen den „Rechtsstreit“ betreffenden Prozesshandlungen, einschließlich derjenigen, die durch eine Widerklage, eine Wiederaufnahme des Verfahrens, eine Rüge nach § 321a und die Zwangsvollstreckung veranlasst werden, zur Bestellung eines Vertreters sowie eines Bevollmächtigten für die höheren Instanzen, zur Beseitigung des Rechtsstreits durch Vergleich, Verzichtsleistung auf den Streitgegenstand oder Anerkennung des von dem Gegner geltend gemachten Anspruchs sowie zur Empfangnahme der vom Gegner oder aus der Staatskasse zu erstattenden Kosten. Nach dieser Bestimmung ermächtigt die Prozessvollmacht demnach zur Führung des ganzen Prozesses („Rechtsstreit“) in allen Instanzen (vgl. BAG 26. Mai 2009 - 1 ABR 12/08 - Rn. 10, AP BetrVG 1972 § 112 Nr. 203 = EzA BetrVG 2001 § 112 Nr. 32).
+
+8 Der Antrag der Prozessbevollmächtigten der Beklagten auf Zurückweisung der Nichtzulassungsbeschwerde des Klägers ist auch eine Prozesshandlung iSd. § 81 ZPO. Der Begriff der Prozesshandlung iSd. § 81 ZPO ist weit zu verstehen. Hierzu gehören alle Handlungen, die nach ihrer Zweckbestimmung den Rechtsstreit betreiben, fördern oder beendigen oder der Durchsetzung einer ergangenen Entscheidung dienen sollen. Dazu gehören auch Anträge oder Erklärungen in Schriftsätzen (vgl. BAG 10. August 1977 - 5 AZR 394/76 - zu I 1 a aa der Gründe, AP ZPO § 81 Nr. 2 = EzA ZPO § 81 Nr. 1; MünchKommZPO/v. Mettenheim 3. Aufl. § 81 Rn. 3).
+
+9 b) Die Gebühr ist entgegen der Rechtsauffassung des Klägers nicht nach Nr. 3507 VV-RVG iVm. Nr. 3201 VV-RVG auf den 1,1-fachen Gebührensatz zu ermäßigen. Der Auftrag wurde nicht vorzeitig beendet. Zwar haben die Prozessbevollmächtigten der Beklagten den Schriftsatz vom 3. September 2010 erst zu einem Zeitpunkt gefertigt und beim Bundesarbeitsgericht eingereicht, als das Bundesarbeitsgericht bereits den Beschluss vom 25. August 2010, mit dem die Beschwerde des Klägers gegen die Nichtzulassung der Revision zurückgewiesen wurde, gefasst hatte; nach außen wirksam wurde der Beschluss des Bundesarbeitsgerichts vom 25. August 2010 jedoch erst mit seiner Zustellung. Abschriften des Beschlusses des Bundesarbeitsgerichts sind den Rechtsanwälten R erst am 9. September 2010 zugegangen, also zu einem Zeitpunkt, als ihr Schriftsatz bereits beim Bundesarbeitsgericht eingegangen war.
+
+10 2. Die Kosten der Tätigkeit der Prozessbevollmächtigten der Beklagten sind auch erstattungsfähig. Zwar hat die unterliegende Partei die dem Gegner erwachsenen Kosten - nur - insoweit zu erstatten, als sie zur zweckentsprechenden Rechtsverfolgung oder Rechtsverteidigung objektiv notwendig waren, § 91 Abs. 1 Satz 1 ZPO. Maßstab dafür ist, ob eine verständige und wirtschaftlich vernünftige Partei die kostenauslösende Maßnahme im damaligen Zeitpunkt als sachdienlich ansehen durfte (BGH 26. Januar 2006 - III ZB 63/05 - Rn. 20, BGHZ 166, 117). Allerdings gelten gem. § 91 Abs. 2 Satz 1 ZPO die gesetzlichen Gebühren und Auslagen des Rechtsanwalts der obsiegenden Partei als zweckentsprechende Kosten der Rechtsverteidigung („sind in allen Prozessen zu erstatten“). Aus dieser Bestimmung folgt, dass eine Partei im Prozess einen Rechtsanwalt zu Hilfe nehmen darf und die dadurch entstandenen Kosten auch erstattungsfähig sind (BGH 17. Dezember 2002 - X ZB 9/02 - zu II 3 c der Gründe, NJW 2003, 756). Eine Ausnahme von der Erstattungsfähigkeit für die gesetzlichen Rechtsanwaltsgebühren kommt nur mit Blick auf das allgemeine Gebot sparsamer Prozessführung in Betracht. Danach trifft die Partei aufgrund des Prozessrechtsverhältnisses die Verpflichtung, die Kosten möglichst gering zu halten (vgl. BGH 3. Juni 2003 - VIII ZB 19/03 - zu II 2 der Gründe, NJW 2003, 2992). Demzufolge kann eine Erstattung der Anwaltsgebühren dann nicht verlangt werden, wenn für die Tätigkeit des Anwalts ausnahmsweise kein Anlass bestand (BGH 26. Januar 2006 - III ZB 63/05 - Rn. 20, aaO). Da der Kläger die Nichtzulassungsbeschwerde nicht lediglich zur Fristwahrung eingelegt, sondern sie bereits begründet hatte und die Prozessbevollmächtigten der Beklagten erst am 9. September 2010 Kenntnis vom Beschluss des Bundesarbeitsgerichts über die Zurückweisung der Nichtzulassungsbeschwerde erlangt haben, durften sie die Fertigung des Schriftsatzes vom 3. September 2010 zur zweckentsprechenden Rechtsverteidigung der Beklagten für erforderlich halten.
+
+11 3. Auf die vom Kläger aufgeworfene Frage, ob § 544 Abs. 3 ZPO auch im Verfahren der Nichtzulassungsbeschwerde vor dem Bundesarbeitsgericht Anwendung findet, kam es vorliegend nicht an.
+
+12 III. Die Kostenentscheidung folgt aus § 97 Abs. 1 ZPO.
+
+Gräfl
+
+Schlewing
+
+Spinner
