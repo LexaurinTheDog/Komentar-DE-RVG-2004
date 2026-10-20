@@ -183,6 +183,31 @@
     "missing_ids": [],
     "duplicate_ids": [],
     "all_assigned_texts_match_official_xml": true,
-    "unresolved_blockers": []
+    "unresolved_blockers": [],
+    "validation": {
+      "status": "passed",
+      "validated_at": "2026-10-20T10:27:45.816902+00:00",
+      "strict": {
+        "repo": "Komentar-DE-RVG-2004",
+        "units": 344,
+        "verbatim_ratio": 1.0,
+        "commentary_chars": 313879,
+        "errors": [],
+        "warnings": [],
+        "ok": true
+      },
+      "validated_manuscript_output_commit": "50d0bef",
+      "independent_coverage_ok": true,
+      "expected_units": 344,
+      "parsed_units": 344,
+      "all_assigned_official_texts_equal": true,
+      "all_other_324_commentaries_unchanged": true,
+      "local_links_checked": 188,
+      "broken_local_links": [],
+      "identical_long_sentences": 0,
+      "identical_long_paragraphs": 0,
+      "quality_report": "quality-report.json",
+      "limitations": "Technical whole-band validation does not establish substantive review of unassigned units."
+    }
   }
 }

@@ -3,7 +3,7 @@
   "title": "Gesetz über die Vergütung der Rechtsanwältinnen und Rechtsanwälte",
   "country": "de",
   "decisive_date": "2026-10-19",
-  "updated_at": "2026-10-20T10:26:37.927976+00:00",
+  "updated_at": "2026-10-20T10:27:45.816902+00:00",
   "stage": "bounded_review_checkpoint",
   "official_norm_units": 81,
   "numbered_paragraphs": 79,
@@ -93,7 +93,7 @@
     "repo": "Komentar-DE-RVG-2004",
     "units": 344,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 301068,
+    "commentary_chars": 313879,
     "errors": [],
     "warnings": [],
     "ok": true
@@ -117,12 +117,11 @@
   "publication_or_push_performed": false,
   "authoring_started_date": "2026-10-19",
   "quality": {
-    "report": "quality-report.json",
     "ok": true,
-    "broken_local_links": 0,
+    "local_links_checked": 188,
+    "broken_local_links": [],
     "identical_long_sentences": 0,
-    "identical_long_paragraphs": 0,
-    "local_links_checked": 150
+    "identical_long_paragraphs": 0
   },
   "previous_authoring_stage": "drafted_technical_validation",
   "preflight": {
@@ -137,7 +136,7 @@
     "independent_coverage_ok": true
   },
   "bounded_review": {
-    "complete": false,
+    "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
       "p47",
@@ -181,7 +180,9 @@
     "result": "review-result.json",
     "unassigned_units_preserved": 324,
     "whole_book_review_complete": false,
-    "validation": "pending"
+    "validation": "passed",
+    "strict_validation_ok": true,
+    "validated_output_commit": "50d0bef"
   },
   "previous_bounded_review": {
     "result": "review-p1-p14-result.json",
