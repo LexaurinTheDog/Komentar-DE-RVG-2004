@@ -157,6 +157,15 @@
     "missing_ids": [],
     "duplicate_ids": [],
     "all_assigned_texts_match_official_xml": true,
-    "unresolved_blockers": []
+    "unresolved_blockers": [],
+    "validation": {
+      "strict_ok": true,
+      "verbatim_ratio": 1.0,
+      "independent_xml_coverage_ok": true,
+      "expected_units": 344,
+      "parsed_units": 344,
+      "review_scope": 20,
+      "whole_book_review_complete": false
+    }
   }
 }

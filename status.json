@@ -3,7 +3,7 @@
   "title": "Gesetz über die Vergütung der Rechtsanwältinnen und Rechtsanwälte",
   "country": "de",
   "decisive_date": "2026-10-19",
-  "updated_at": "2026-10-20T10:15:12.902842+00:00",
+  "updated_at": "2026-10-20T10:15:45.318666+00:00",
   "stage": "bounded_review_checkpoint",
   "official_norm_units": 81,
   "numbered_paragraphs": 79,
@@ -79,7 +79,7 @@
     "repo": "Komentar-DE-RVG-2004",
     "units": 344,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 291994,
+    "commentary_chars": 301068,
     "errors": [],
     "warnings": [],
     "ok": true
@@ -164,7 +164,8 @@
     "result": "review-result.json",
     "unassigned_units_preserved": 324,
     "whole_book_review_complete": false,
-    "strict_validation_ok": false
+    "strict_validation_ok": true,
+    "validated_output_commit": "a72b224"
   },
   "previous_bounded_review": {
     "result": "review-p1-p14-result.json",

@@ -162,6 +162,24 @@
     "cases/bverfg-2021-1-bvr-533-20.md"
   ],
   "validation": {
-    "status": "pending rebuild and strict validation"
+    "status": "passed",
+    "validated_at": "2026-10-20T10:15:45.318666+00:00",
+    "strict": {
+      "repo": "Komentar-DE-RVG-2004",
+      "units": 344,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 301068,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "validated_manuscript_output_commit": "a72b224",
+    "independent_coverage_ok": true,
+    "exact_scope_evidence": "review-p31-p46-unit-evidence.json",
+    "all_other_324_commentaries_unchanged": true,
+    "local_links_checked": 150,
+    "broken_local_links": [],
+    "identical_long_sentences": 0,
+    "identical_long_paragraphs": 0
   }
 }
