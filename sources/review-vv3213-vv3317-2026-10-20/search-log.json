@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-20T11:13:20.667542+00:00",
+  "scope": [
+    "vv3213",
+    "vb3.3.1",
+    "vv3300",
+    "vv3301",
+    "vb3.3.2",
+    "vv3305",
+    "vv3306",
+    "vv3307",
+    "vv3308",
+    "vb3.3.3",
+    "vv3309",
+    "vv3310",
+    "vv3311",
+    "vv3312",
+    "vb3.3.5",
+    "vv3313",
+    "vv3314",
+    "vv3315",
+    "vv3316",
+    "vv3317"
+  ],
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii",
+  "local_search": {
+    "pattern": "(?:Nr\\.?|Nummer|Nrn\\.)\\s*(?:3308|3311|3317|3310|3305|3307)\\b",
+    "matched_files": 14,
+    "additional_pattern": "(?:Nr\\.?|Nummer|Nrn\\.)\\s*3309\\b",
+    "result": "Three chosen full decisions read and independently re-fetched as official ZIP/XML; every nonempty judicial paragraph compared to intake."
+  },
+  "web_searches": [
+    {
+      "query": "site.rechtsprechung-im-internet.de \"3309\" \"I ZB 104/18\"",
+      "evidence": "search-3309.json",
+      "result": "No primary result; commercial-lawyer index discovery not used as authority."
+    },
+    {
+      "query": "site.rechtsprechung-im-internet.de \"3317\" \"IX ZB 62/13\"",
+      "evidence": "search-3317.json",
+      "result": "Only commercial register results; not read or used as authority."
+    }
+  ],
+  "authoritative_fetches": "authority-requests.json",
+  "comparison": "case-source-comparison.json",
+  "no_new_case_units": [
+    "vv3213",
+    "vb3.3.1",
+    "vv3300",
+    "vv3301",
+    "vb3.3.2",
+    "vv3306",
+    "vv3307",
+    "vv3308",
+    "vb3.3.3",
+    "vv3310",
+    "vv3311",
+    "vv3312",
+    "vb3.3.5",
+    "vv3313",
+    "vv3314",
+    "vv3315",
+    "vv3316"
+  ],
+  "limitations": "Selective local-corpus discovery plus live official full-text verification; no exhaustive per-unit case survey."
+}

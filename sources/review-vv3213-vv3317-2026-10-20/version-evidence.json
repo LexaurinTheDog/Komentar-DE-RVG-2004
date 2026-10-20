@@ -1,0 +1,43 @@
+{
+  "decisive_date": "2026-10-19",
+  "verified_at": "2026-10-20T11:13:20.667542+00:00",
+  "official_url": "https://www.gesetze-im-internet.de/rvg/",
+  "official_stand": [
+    "Neugefasst durch Bek. v. 15.3.2022 I 610;",
+    "zuletzt geändert durch Art. 14 G v. 8.12.2025 I Nr. 318"
+  ],
+  "xml_sha256": "be5571d1735031133f154071b08a77ccdb89f3e047330ed057a494dfd128f5d1",
+  "rvg_xml_identical_to_authoring": true,
+  "commencement": {
+    "path": "sources/review-vv3213-vv3317-2026-10-20/bgbl-318.pdf",
+    "read": "Actual Article 14 and Article 21(2)/(3), text preserved in sources/bgbl-2025-318.txt",
+    "effective": "Article14 nos1/3/4 since2026-01-01; no2 since2026-07-01. This last amending act does not amend these tariff rows."
+  },
+  "assigned_change": {
+    "path": "sources/review-vv3103-vv3212-2026-10-20/bgbl-109.pdf",
+    "text_path": "sources/review-vv3103-vv3212-2026-10-20/bgbl-109.txt",
+    "read": "Article11(2) no23 changes Nr3213 to105–1079 Euro; Article13(3) effective2025-06-01. Existing authentic body reread rather than duplicate fetch."
+  },
+  "historical_versions_checked": "All92current XML nodes reclassified; no duplicate operative labels or unlabelled operative Content. No separate Eingangsformel; global footnotes preserved. Original intake/change-map preserved; no normative difference. Not a complete historical archive.",
+  "annexes_checked": "Anlage1:231tariffs and32remarks independently derived from official XML first cells;536complete rows retained in parent. Anlage2:22complete rows, no invented children.",
+  "updates": "Fresh official update-service snapshot unchanged by SHA256 from preceding preflight; title scan alone does not exclude indirect amendment.",
+  "external_cross_references": "ZPO703a, VGG129, AgrarOLkG32 and InsO305–307 read at official single-provision pages only for express RVG references; no comprehensive audit of those statutes.",
+  "eu_sources": [
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02014R0655-20250501",
+      "current_version_listed_in": "eu-655-firecrawl.md lines222–242",
+      "provisions_read": "Article5 and Article54",
+      "application": "2017-01-18 for Article5; current Article5 checked against original text"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02015R0848-20251106",
+      "current_version_listed_in": "eu-848-firecrawl.md lines222–246",
+      "provisions_read": "Article36(1)–(11) and Article92",
+      "application": "2017-06-26 for Article36; current Article36(9) checked against original text"
+    }
+  ],
+  "limitations": [
+    "Current official consolidation and published commencement checked, not a complete amending-act/historical archive or guarantee against unincorporated legislation.",
+    "External German provisions read to explain express tariff referrals only. EUR-Lex direct HTTP202/anti-bot responses rejected; successful Firecrawl HTML/text with service HTTP metadata used instead."
+  ]
+}

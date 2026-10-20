@@ -1,0 +1,24 @@
+[
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02014R0655-20250501",
+    "accessed_at": "2026-10-20T11:13:20.667542+00:00",
+    "http_status": 200,
+    "http_status_origin": "Firecrawl response metadata, not direct urllib status",
+    "scrape_id": "01a15901-89b8-70ca-a783-f8590f01c6b7",
+    "local_path": "sources/review-vv3213-vv3317-2026-10-20/eu-655-current-response.json",
+    "sha256": "e064a9c754c8e0dc8925a1d9ec843b16a1c6da4aa1ec4754cb69fc129d2ac73f",
+    "validated_format": "JSON with extracted HTML and full German legal text; expected CELEX and provisions verified",
+    "body_html_sha256": "a24b286886609f21e8c128d808c91e2fb727d49c8fb2bcc49f6b4e6474f7987d"
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02015R0848-20251106",
+    "accessed_at": "2026-10-20T11:13:20.667542+00:00",
+    "http_status": 200,
+    "http_status_origin": "Firecrawl response metadata, not direct urllib status",
+    "scrape_id": "01a15901-8f63-709d-99b2-a2f1e73e0935",
+    "local_path": "sources/review-vv3213-vv3317-2026-10-20/eu-848-current-response.json",
+    "sha256": "7b3cd525b38d73ead42daf6da66a3308ed3e0b380427c624909c6b293f642185",
+    "validated_format": "JSON with extracted HTML and full German legal text; expected CELEX and provisions verified",
+    "body_html_sha256": "f1a0f6dae15afb5613588da43aa8388a83716a7d0afad5124e78d62c49f0b320"
+  }
+]

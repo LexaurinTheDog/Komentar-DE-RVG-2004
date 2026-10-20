@@ -1,0 +1,76 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/zpo/__703a.html",
+    "accessed_at": "2026-10-20T11:14:59.233179+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "local_path": "sources/review-vv3213-vv3317-2026-10-20/zpo-703a.html",
+    "sha256": "369be7271306c2a02c9f7b0ca28a69b47525f3dc9e8ce7897632fd989f92fe00",
+    "validated_format": "HTML parsed, text extracted, expected statutory context read"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/inso/__305.html",
+    "accessed_at": "2026-10-20T11:14:59.382666+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "local_path": "sources/review-vv3213-vv3317-2026-10-20/inso-305.html",
+    "sha256": "5b28e80d7d8ae42fb9c4ab18a4183aaf6f2d4c7069ffa1e300d6193d3de854d9",
+    "validated_format": "HTML parsed, text extracted, expected statutory context read"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/inso/__306.html",
+    "accessed_at": "2026-10-20T11:14:59.505138+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "local_path": "sources/review-vv3213-vv3317-2026-10-20/inso-306.html",
+    "sha256": "75ac1805c8c189957e72d8371921341026d2e87b541ceba6c8445628127c18b3",
+    "validated_format": "HTML parsed, text extracted, expected statutory context read"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/inso/__307.html",
+    "accessed_at": "2026-10-20T11:14:59.614933+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "local_path": "sources/review-vv3213-vv3317-2026-10-20/inso-307.html",
+    "sha256": "40f48377d909d17a51c994cbc2cb151a70c3cc6debc52e6f81a10691fbcd5136",
+    "validated_format": "HTML parsed, text extracted, expected statutory context read"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/vgg/__129.html",
+    "accessed_at": "2026-10-20T11:14:59.739914+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "local_path": "sources/review-vv3213-vv3317-2026-10-20/vgg-129.html",
+    "sha256": "0e42cd8762cbda9eb6f4579c7523430fe5277c2f8d9de24831f03a43eb87592b",
+    "validated_format": "HTML parsed, text extracted, expected statutory context read"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/agrarmsg/__32.html",
+    "accessed_at": "2026-10-20T11:14:59.983541+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "local_path": "sources/review-vv3213-vv3317-2026-10-20/agrar-32.html",
+    "sha256": "5eeec875c0c3f07195df3a5aa2e3704aa16fd0173fd9f9725913ad4d93eb6072",
+    "validated_format": "HTML parsed, text extracted, expected statutory context read"
+  },
+  {
+    "url": "https://eur-lex.europa.eu/eli/reg/2014/655/oj/deu",
+    "accessed_at": "2026-10-20T11:15:00.100107+00:00",
+    "http_status": 202,
+    "content_type": "text/html; charset=UTF-8",
+    "local_path": "sources/review-vv3213-vv3317-2026-10-20/eu-655.html",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "error": "Response lacks expected HTML; not accepted as statutory text",
+    "rejected_as_statutory_text": true
+  },
+  {
+    "url": "https://eur-lex.europa.eu/eli/reg/2015/848/oj/deu",
+    "accessed_at": "2026-10-20T11:15:00.173692+00:00",
+    "http_status": 202,
+    "content_type": "text/html; charset=UTF-8",
+    "local_path": "sources/review-vv3213-vv3317-2026-10-20/eu-848.html",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "error": "Response lacks expected HTML; not accepted as statutory text",
+    "rejected_as_statutory_text": true
+  }
+]

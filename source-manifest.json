@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T11:03:28.905568+00:00",
+  "generated_at": "2026-10-20T11:15:52.611727+00:00",
   "files": [
     {
       "path": "sources/KORE307422020.md",
@@ -1072,6 +1072,266 @@
       "sha256": "cfce682a8178b3c0b8959069085f8e5d33f1ebd1356bbcd9c336c6c3550e138e"
     },
     {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/32014R0655.response",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/32015R0848.response",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/KORE300632015-intake.md",
+      "bytes": 9663,
+      "sha256": "96c4613eb009909777c1d4f0396dd3228e5f53142ad3fbf71380453d4c0ef1ad"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/KORE300632015-official.txt",
+      "bytes": 11600,
+      "sha256": "588c5bde406288305b7a6f91d66c53d074da0530d33e7f10afd699b2f8b34781"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/KORE300632015.xml",
+      "bytes": 14527,
+      "sha256": "95ab99af227b465d91d0dc22b27f33eb3d624fae0fffde438547a9e20d8d2571"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/KORE300632015.zip",
+      "bytes": 3998,
+      "sha256": "cdc1da7f175e4cd55333eaa116174c57b74ef8384be1eab651929c31d6e709d1"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/KORE313152019-intake.md",
+      "bytes": 16632,
+      "sha256": "60edd33ced42e8e30832957bb4a835f62ad133c438cc385db0e32597390af81c"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/KORE313152019-official.txt",
+      "bytes": 20772,
+      "sha256": "d9f250e1f2d306f519bd773a21acd05bbb7b3aab0b90f7825cbe2a6337121cc1"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/KORE313152019.xml",
+      "bytes": 25684,
+      "sha256": "ddb1ed99988e3dc56f1a832129e011418d0bb77258b8f6c2e607fac3de46f2d1"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/KORE313152019.zip",
+      "bytes": 5985,
+      "sha256": "2c59dfe68623095c720d489c2023054a9909096d7bdfbe70a5fa606c5a1d5792"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/KORE314422010-intake.md",
+      "bytes": 8969,
+      "sha256": "00450f1bf00167f3a4b4a9331ff7b6d2b48d55a7fde16a9512119c058c1fa39d"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/KORE314422010-official.txt",
+      "bytes": 11231,
+      "sha256": "1f753904316cd45f35a6960eec3c3c259b73ab4bbd3adaf85bcf305de28d88de"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/KORE314422010.xml",
+      "bytes": 14608,
+      "sha256": "e41803124cd3964de3cd22e0ae3322f03416fc44a5996a3bccacb44aa6777b0f"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/KORE314422010.zip",
+      "bytes": 3893,
+      "sha256": "94731cc300058f21710fbf1064a7cabd45b12be5dd7ddbf79e89e3c8283be59f"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/agrar-32.html",
+      "bytes": 3806,
+      "sha256": "5eeec875c0c3f07195df3a5aa2e3704aa16fd0173fd9f9725913ad4d93eb6072"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/agrar-32.txt",
+      "bytes": 1002,
+      "sha256": "66d04e812567f95948376f1adb91b38f665cb23a3273da2f8432a0e92700ae93"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/authority-requests.json",
+      "bytes": 2704,
+      "sha256": "871061c32c63c4c65c30f8a8239d7ddb6a3687c1d2ae45944e8dd27888d6d7d3"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/bgbl-318.pdf",
+      "bytes": 363624,
+      "sha256": "89f50d3f611d6f05089d6d4827783cf1531cfd3c800cd808e86c763b9db28c41"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/case-source-comparison.json",
+      "bytes": 1547,
+      "sha256": "be5eb0bb457f671b94b4d79c294d7c2afd8c499d02deb1d766797f378c656e90"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/cross-reference-requests.json",
+      "bytes": 3526,
+      "sha256": "957782d8746bdaa4411065fbcb983e184ac835d62d66a332ff3b2b4aef367266"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/eu-655-current-article.txt",
+      "bytes": 660,
+      "sha256": "82a68970b582d0c41ea607260a847167983d31fc25feee84c23f1e892923befa"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/eu-655-current-response.json",
+      "bytes": 462076,
+      "sha256": "e064a9c754c8e0dc8925a1d9ec843b16a1c6da4aa1ec4754cb69fc129d2ac73f"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/eu-655-current.md",
+      "bytes": 122129,
+      "sha256": "d3db3a494d4759f20763510c436e835cebbc5d65fb75adddc81a9075e7a04507"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/eu-655-firecrawl.md",
+      "bytes": 171726,
+      "sha256": "b3dc60fc33a0b9bf39844b9fdaeadbdd40275790f476bb35bde67ad3c22af1cf"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/eu-655.html",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/eu-848-current-article.txt",
+      "bytes": 5285,
+      "sha256": "0d15adee11a5a2da5268ba5fc887a8a0dd6cbd78be77ecd8454e2c08e3a1a5c9"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/eu-848-current-response.json",
+      "bytes": 713948,
+      "sha256": "7b3cd525b38d73ead42daf6da66a3308ed3e0b380427c624909c6b293f642185"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/eu-848-current.md",
+      "bytes": 164064,
+      "sha256": "c99c08fe742f123ff76da2c0e90bb866825ddcf66066e8132c94cf84d58d5b80"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/eu-848-firecrawl.md",
+      "bytes": 239797,
+      "sha256": "2209830dc5e92999f72ba9f7bcb06ab34235d483cce50d0961ac64df1975698b"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/eu-848.html",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/eu-firecrawl-requests.json",
+      "bytes": 1407,
+      "sha256": "fefc4e644aa7ac21260039793b6b62e699b48531b370012a4b518bc8d07869fc"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/eu-pdf-requests.json",
+      "bytes": 889,
+      "sha256": "dffafb65c0c4b00a2efc76048c20fc5ad121dd302b0c726e66deca6da36e0680"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/firecrawl-index.md",
+      "bytes": 13914,
+      "sha256": "78388062554927d700efd728cdef4c8810114b85c31b531a40e397a284c3bebc"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/index.html",
+      "bytes": 21362,
+      "sha256": "7e9f02d6a7dc1934d08e4463457f1c15649d20bfd365778bff502c55f2eb80dd"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/inso-305.html",
+      "bytes": 7928,
+      "sha256": "5b28e80d7d8ae42fb9c4ab18a4183aaf6f2d4c7069ffa1e300d6193d3de854d9"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/inso-305.txt",
+      "bytes": 4352,
+      "sha256": "e13c81da53136e7171116673ca18623b902884dc0ca5a4ed4c5b8e889005e49d"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/inso-306.html",
+      "bytes": 4662,
+      "sha256": "75ac1805c8c189957e72d8371921341026d2e87b541ceba6c8445628127c18b3"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/inso-306.txt",
+      "bytes": 1778,
+      "sha256": "a7616e0e748123459740d5585a94119f27115fb4176f9604509ed0a724e464c0"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/inso-307.html",
+      "bytes": 5087,
+      "sha256": "40f48377d909d17a51c994cbc2cb151a70c3cc6debc52e6f81a10691fbcd5136"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/inso-307.txt",
+      "bytes": 2192,
+      "sha256": "67e83bee3985ff3cd655d017d2d509d5acedc213aa758b268e7f3e5829c6f79a"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/requests.json",
+      "bytes": 2679,
+      "sha256": "b0c2c20eb18b144ecc09bf1bb17775a41bf5867b7be078ed86fa14fd0bd9b490"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/rvg.xml",
+      "bytes": 330910,
+      "sha256": "be5571d1735031133f154071b08a77ccdb89f3e047330ed057a494dfd128f5d1"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/rvg.zip",
+      "bytes": 55552,
+      "sha256": "51019d65e1d783759d31a3d67ff21ec35d922d309a82d575a08848c89de42dde"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/search-3309.json",
+      "bytes": 329,
+      "sha256": "0a5df85064c32fc51fbb8ecc6b88088d03bddcf832f04f1202d38b5969bcef5e"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/search-3317.json",
+      "bytes": 733,
+      "sha256": "b192158e9fd2db9d3c6057c8ab7550026df2a66d4514d0cacecec841160585d2"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/search-log.json",
+      "bytes": 1721,
+      "sha256": "39605fa02192df588fb1527b8a6a34fe960f1c412174c0fa6d0177d402cb154f"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/updates.html",
+      "bytes": 75210,
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/version-evidence.json",
+      "bytes": 2991,
+      "sha256": "3eec64a9ad9752592c9e1efc692c8e04f9f6df71cf6eee2cb6b358714891673f"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/vgg-129.html",
+      "bytes": 4757,
+      "sha256": "0e42cd8762cbda9eb6f4579c7523430fe5277c2f8d9de24831f03a43eb87592b"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/vgg-129.txt",
+      "bytes": 1693,
+      "sha256": "b4995bfb158a153cbb7c072f9829d00131275ea994e8ec6f04de62474022f8ba"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/zpo-703a.html",
+      "bytes": 5000,
+      "sha256": "369be7271306c2a02c9f7b0ca28a69b47525f3dc9e8ce7897632fd989f92fe00"
+    },
+    {
+      "path": "sources/review-vv3213-vv3317-2026-10-20/zpo-703a.txt",
+      "bytes": 1740,
+      "sha256": "9a3b1347283e6e7e4d5667042ab56a5287351ea974851f031065be8b755743dc"
+    },
+    {
       "path": "sources/rvg-frontmatter.json",
       "bytes": 1182,
       "sha256": "00571bf2cbb76c8079a48d7bbbad45c592f2ef1bc980cae7f782292cee8fea8e"
@@ -1098,13 +1358,13 @@
     },
     {
       "path": "sources/search-log.json",
-      "bytes": 4067,
-      "sha256": "1ec9e56adfaf821bb17f0989a5c3dd5f975c95bce531228f0684c857a848c23a"
+      "bytes": 4538,
+      "sha256": "372c361dd4c44b26a2413ef88c07e2c76820bdcce32ec8325fd4814fab8b5443"
     },
     {
       "path": "sources/verification.json",
-      "bytes": 77067,
-      "sha256": "4750352ebffab20cebe2df634c6f754452b07e91ac7fd0bc81bbe1f5f3ea8357"
+      "bytes": 98097,
+      "sha256": "ba5425e083c7c2a9bf3da1a955f976e0d05710044b11ae735479fe538d61d7c0"
     }
   ]
 }

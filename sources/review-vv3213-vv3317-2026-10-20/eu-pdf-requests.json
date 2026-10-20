@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32014R0655",
+    "accessed_at": "2026-10-20T11:06:01.978644+00:00",
+    "http_status": 202,
+    "content_type": "text/html; charset=UTF-8",
+    "path": "sources/review-vv3213-vv3317-2026-10-20/32014R0655.response",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "rejected": "Expected PDF missing; not used as legal text"
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015R0848",
+    "accessed_at": "2026-10-20T11:06:02.107491+00:00",
+    "http_status": 202,
+    "content_type": "text/html; charset=UTF-8",
+    "path": "sources/review-vv3213-vv3317-2026-10-20/32015R0848.response",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "rejected": "Expected PDF missing; not used as legal text"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE314422010.zip",
+    "accessed_at": "2026-10-20T11:05:12.835358+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "local_path": "sources/review-vv3213-vv3317-2026-10-20/KORE314422010.zip",
+    "sha256": "94731cc300058f21710fbf1064a7cabd45b12be5dd7ddbf79e89e3c8283be59f",
+    "validated_format": "ZIP, single expected decision XML, XML parsed",
+    "xml_path": "sources/review-vv3213-vv3317-2026-10-20/KORE314422010.xml",
+    "xml_sha256": "e41803124cd3964de3cd22e0ae3322f03416fc44a5996a3bccacb44aa6777b0f",
+    "court": "BGH",
+    "date": "20101028",
+    "docket": "VII ZB 116/09",
+    "ecli": "",
+    "local_intake_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore314422010.md",
+    "local_intake_sha256": "00450f1bf00167f3a4b4a9331ff7b6d2b48d55a7fde16a9512119c058c1fa39d"
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE313152019.zip",
+    "accessed_at": "2026-10-20T11:05:13.093897+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "local_path": "sources/review-vv3213-vv3317-2026-10-20/KORE313152019.zip",
+    "sha256": "2c59dfe68623095c720d489c2023054a9909096d7bdfbe70a5fa606c5a1d5792",
+    "validated_format": "ZIP, single expected decision XML, XML parsed",
+    "xml_path": "sources/review-vv3213-vv3317-2026-10-20/KORE313152019.xml",
+    "xml_sha256": "ddb1ed99988e3dc56f1a832129e011418d0bb77258b8f6c2e607fac3de46f2d1",
+    "court": "BGH",
+    "date": "20190718",
+    "docket": "I ZB 104/18",
+    "ecli": "ECLI:DE:BGH:2019:180719BIZB104.18.0",
+    "local_intake_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore313152019.md",
+    "local_intake_sha256": "60edd33ced42e8e30832957bb4a835f62ad133c438cc385db0e32597390af81c"
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE300632015.zip",
+    "accessed_at": "2026-10-20T11:05:13.207926+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "local_path": "sources/review-vv3213-vv3317-2026-10-20/KORE300632015.zip",
+    "sha256": "cdc1da7f175e4cd55333eaa116174c57b74ef8384be1eab651929c31d6e709d1",
+    "validated_format": "ZIP, single expected decision XML, XML parsed",
+    "xml_path": "sources/review-vv3213-vv3317-2026-10-20/KORE300632015.xml",
+    "xml_sha256": "95ab99af227b465d91d0dc22b27f33eb3d624fae0fffde438547a9e20d8d2571",
+    "court": "BGH",
+    "date": "20150326",
+    "docket": "IX ZB 62/13",
+    "ecli": "",
+    "local_intake_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore300632015.md",
+    "local_intake_sha256": "96c4613eb009909777c1d4f0396dd3228e5f53142ad3fbf71380453d4c0ef1ad"
+  }
+]

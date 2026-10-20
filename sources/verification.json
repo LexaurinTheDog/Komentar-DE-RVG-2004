@@ -1144,6 +1144,336 @@
       "sha256": "1ff13f868178c6ca85497562b13de3e37a591793b5fe9f820432210ca17fc36d",
       "validated_format": "PDF magic; pdftotext succeeded; Articles 11(2) nos.17–23 and 13(3) actually read",
       "identical_to_prior_snapshot": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/rvg/",
+      "accessed_at": "2026-10-20T11:04:22.750802+00:00",
+      "purpose": "bounded independent substantive review vv3213–vv3317, 20 exact units",
+      "http_status": 200,
+      "final_url": "https://www.gesetze-im-internet.de/rvg/",
+      "content_type": "text/html",
+      "local_path": "sources/review-vv3213-vv3317-2026-10-20/index.html",
+      "sha256": "7e9f02d6a7dc1934d08e4463457f1c15649d20bfd365778bff502c55f2eb80dd",
+      "validated_format": "HTML document and RVG identifier where applicable"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/rvg/xml.zip",
+      "accessed_at": "2026-10-20T11:04:22.893695+00:00",
+      "purpose": "bounded independent substantive review vv3213–vv3317, 20 exact units",
+      "http_status": 200,
+      "final_url": "https://www.gesetze-im-internet.de/rvg/xml.zip",
+      "content_type": "application/zip",
+      "local_path": "sources/review-vv3213-vv3317-2026-10-20/rvg.zip",
+      "sha256": "51019d65e1d783759d31a3d67ff21ec35d922d309a82d575a08848c89de42dde",
+      "members": [
+        "BJNR078800004.xml"
+      ],
+      "validated_format": "ZIP and XML parsed; expected identifier verified",
+      "xml_path": "sources/review-vv3213-vv3317-2026-10-20/rvg.xml",
+      "xml_sha256": "be5571d1735031133f154071b08a77ccdb89f3e047330ed057a494dfd128f5d1",
+      "identical_to_manuscript_source": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "accessed_at": "2026-10-20T11:04:23.042433+00:00",
+      "purpose": "bounded independent substantive review vv3213–vv3317, 20 exact units",
+      "http_status": 200,
+      "final_url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "content_type": "text/html",
+      "local_path": "sources/review-vv3213-vv3317-2026-10-20/updates.html",
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+      "validated_format": "HTML document and RVG identifier where applicable"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2025/318/regelungstext.pdf?__blob=publicationFile&v=2",
+      "accessed_at": "2026-10-20T11:04:23.177698+00:00",
+      "purpose": "bounded independent substantive review vv3213–vv3317, 20 exact units",
+      "http_status": 200,
+      "final_url": "https://www.recht.bund.de/bgbl/1/2025/318/regelungstext.pdf?__blob=publicationFile&v=2",
+      "content_type": "application/pdf",
+      "local_path": "sources/review-vv3213-vv3317-2026-10-20/bgbl-318.pdf",
+      "sha256": "89f50d3f611d6f05089d6d4827783cf1531cfd3c800cd808e86c763b9db28c41",
+      "validated_format": "PDF magic, byte-identical to commencement text previously extracted and read",
+      "identical_to_manuscript_source": true
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE314422010.zip",
+      "accessed_at": "2026-10-20T11:05:12.835358+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "local_path": "sources/review-vv3213-vv3317-2026-10-20/KORE314422010.zip",
+      "sha256": "94731cc300058f21710fbf1064a7cabd45b12be5dd7ddbf79e89e3c8283be59f",
+      "validated_format": "ZIP, single expected decision XML, XML parsed",
+      "xml_path": "sources/review-vv3213-vv3317-2026-10-20/KORE314422010.xml",
+      "xml_sha256": "e41803124cd3964de3cd22e0ae3322f03416fc44a5996a3bccacb44aa6777b0f",
+      "court": "BGH",
+      "date": "20101028",
+      "docket": "VII ZB 116/09",
+      "ecli": "",
+      "local_intake_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore314422010.md",
+      "local_intake_sha256": "00450f1bf00167f3a4b4a9331ff7b6d2b48d55a7fde16a9512119c058c1fa39d"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE313152019.zip",
+      "accessed_at": "2026-10-20T11:05:13.093897+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "local_path": "sources/review-vv3213-vv3317-2026-10-20/KORE313152019.zip",
+      "sha256": "2c59dfe68623095c720d489c2023054a9909096d7bdfbe70a5fa606c5a1d5792",
+      "validated_format": "ZIP, single expected decision XML, XML parsed",
+      "xml_path": "sources/review-vv3213-vv3317-2026-10-20/KORE313152019.xml",
+      "xml_sha256": "ddb1ed99988e3dc56f1a832129e011418d0bb77258b8f6c2e607fac3de46f2d1",
+      "court": "BGH",
+      "date": "20190718",
+      "docket": "I ZB 104/18",
+      "ecli": "ECLI:DE:BGH:2019:180719BIZB104.18.0",
+      "local_intake_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore313152019.md",
+      "local_intake_sha256": "60edd33ced42e8e30832957bb4a835f62ad133c438cc385db0e32597390af81c"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE300632015.zip",
+      "accessed_at": "2026-10-20T11:05:13.207926+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "local_path": "sources/review-vv3213-vv3317-2026-10-20/KORE300632015.zip",
+      "sha256": "cdc1da7f175e4cd55333eaa116174c57b74ef8384be1eab651929c31d6e709d1",
+      "validated_format": "ZIP, single expected decision XML, XML parsed",
+      "xml_path": "sources/review-vv3213-vv3317-2026-10-20/KORE300632015.xml",
+      "xml_sha256": "95ab99af227b465d91d0dc22b27f33eb3d624fae0fffde438547a9e20d8d2571",
+      "court": "BGH",
+      "date": "20150326",
+      "docket": "IX ZB 62/13",
+      "ecli": "",
+      "local_intake_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore300632015.md",
+      "local_intake_sha256": "96c4613eb009909777c1d4f0396dd3228e5f53142ad3fbf71380453d4c0ef1ad"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__703a.html",
+      "accessed_at": "2026-10-20T11:05:24.697514+00:00",
+      "error": "'utf-8' codec can't decode byte 0xfc in position 954: invalid start byte",
+      "failure_disposition": "Preliminary format/decoding validation failure, not used as normative content. The first helper did not retain the HTTP status on error; no status is inferred retrospectively. German pages successfully retried; EU pages successfully extracted through Firecrawl with saved HTML and service HTTP metadata."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__305.html",
+      "accessed_at": "2026-10-20T11:05:24.815400+00:00",
+      "error": "'utf-8' codec can't decode byte 0xfc in position 954: invalid start byte",
+      "failure_disposition": "Preliminary format/decoding validation failure, not used as normative content. The first helper did not retain the HTTP status on error; no status is inferred retrospectively. German pages successfully retried; EU pages successfully extracted through Firecrawl with saved HTML and service HTTP metadata."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__306.html",
+      "accessed_at": "2026-10-20T11:05:24.914281+00:00",
+      "error": "'utf-8' codec can't decode byte 0xfc in position 954: invalid start byte",
+      "failure_disposition": "Preliminary format/decoding validation failure, not used as normative content. The first helper did not retain the HTTP status on error; no status is inferred retrospectively. German pages successfully retried; EU pages successfully extracted through Firecrawl with saved HTML and service HTTP metadata."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__307.html",
+      "accessed_at": "2026-10-20T11:05:25.024476+00:00",
+      "error": "'utf-8' codec can't decode byte 0xfc in position 954: invalid start byte",
+      "failure_disposition": "Preliminary format/decoding validation failure, not used as normative content. The first helper did not retain the HTTP status on error; no status is inferred retrospectively. German pages successfully retried; EU pages successfully extracted through Firecrawl with saved HTML and service HTTP metadata."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vgg/__129.html",
+      "accessed_at": "2026-10-20T11:05:25.125554+00:00",
+      "error": "'utf-8' codec can't decode byte 0xfc in position 953: invalid start byte",
+      "failure_disposition": "Preliminary format/decoding validation failure, not used as normative content. The first helper did not retain the HTTP status on error; no status is inferred retrospectively. German pages successfully retried; EU pages successfully extracted through Firecrawl with saved HTML and service HTTP metadata."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/agrarmsg/__32.html",
+      "accessed_at": "2026-10-20T11:05:25.228889+00:00",
+      "error": "'utf-8' codec can't decode byte 0xfc in position 958: invalid start byte",
+      "failure_disposition": "Preliminary format/decoding validation failure, not used as normative content. The first helper did not retain the HTTP status on error; no status is inferred retrospectively. German pages successfully retried; EU pages successfully extracted through Firecrawl with saved HTML and service HTTP metadata."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32014R0655",
+      "accessed_at": "2026-10-20T11:05:25.352333+00:00",
+      "error": "Expected HTML assertion failed; empty HTTP202 bodies are documented by separate saved direct responses.",
+      "failure_disposition": "Preliminary format/decoding validation failure, not used as normative content. The first helper did not retain the HTTP status on error; no status is inferred retrospectively. German pages successfully retried; EU pages successfully extracted through Firecrawl with saved HTML and service HTTP metadata."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32015R0848",
+      "accessed_at": "2026-10-20T11:05:25.453512+00:00",
+      "error": "Expected HTML assertion failed; empty HTTP202 bodies are documented by separate saved direct responses.",
+      "failure_disposition": "Preliminary format/decoding validation failure, not used as normative content. The first helper did not retain the HTTP status on error; no status is inferred retrospectively. German pages successfully retried; EU pages successfully extracted through Firecrawl with saved HTML and service HTTP metadata."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__703a.html",
+      "accessed_at": "2026-10-20T11:05:35.728354+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "local_path": "sources/review-vv3213-vv3317-2026-10-20/zpo-703a.html",
+      "sha256": "369be7271306c2a02c9f7b0ca28a69b47525f3dc9e8ce7897632fd989f92fe00",
+      "validated_format": "HTML parsed, text extracted, expected statutory context read"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__305.html",
+      "accessed_at": "2026-10-20T11:05:35.840114+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "local_path": "sources/review-vv3213-vv3317-2026-10-20/inso-305.html",
+      "sha256": "5b28e80d7d8ae42fb9c4ab18a4183aaf6f2d4c7069ffa1e300d6193d3de854d9",
+      "validated_format": "HTML parsed, text extracted, expected statutory context read"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__306.html",
+      "accessed_at": "2026-10-20T11:05:35.955801+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "local_path": "sources/review-vv3213-vv3317-2026-10-20/inso-306.html",
+      "sha256": "75ac1805c8c189957e72d8371921341026d2e87b541ceba6c8445628127c18b3",
+      "validated_format": "HTML parsed, text extracted, expected statutory context read"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__307.html",
+      "accessed_at": "2026-10-20T11:05:36.061367+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "local_path": "sources/review-vv3213-vv3317-2026-10-20/inso-307.html",
+      "sha256": "40f48377d909d17a51c994cbc2cb151a70c3cc6debc52e6f81a10691fbcd5136",
+      "validated_format": "HTML parsed, text extracted, expected statutory context read"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vgg/__129.html",
+      "accessed_at": "2026-10-20T11:05:36.184468+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "local_path": "sources/review-vv3213-vv3317-2026-10-20/vgg-129.html",
+      "sha256": "0e42cd8762cbda9eb6f4579c7523430fe5277c2f8d9de24831f03a43eb87592b",
+      "validated_format": "HTML parsed, text extracted, expected statutory context read"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/agrarmsg/__32.html",
+      "accessed_at": "2026-10-20T11:05:36.305527+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "local_path": "sources/review-vv3213-vv3317-2026-10-20/agrar-32.html",
+      "sha256": "5eeec875c0c3f07195df3a5aa2e3704aa16fd0173fd9f9725913ad4d93eb6072",
+      "validated_format": "HTML parsed, text extracted, expected statutory context read"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2014/655/oj/deu",
+      "accessed_at": "2026-10-20T11:05:36.410133+00:00",
+      "error": "Expected HTML assertion failed; empty HTTP202 bodies are documented by separate saved direct responses.",
+      "failure_disposition": "Preliminary format/decoding validation failure, not used as normative content. The first helper did not retain the HTTP status on error; no status is inferred retrospectively. German pages successfully retried; EU pages successfully extracted through Firecrawl with saved HTML and service HTTP metadata."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2015/848/oj/deu",
+      "accessed_at": "2026-10-20T11:05:36.458173+00:00",
+      "error": "Expected HTML assertion failed; empty HTTP202 bodies are documented by separate saved direct responses.",
+      "failure_disposition": "Preliminary format/decoding validation failure, not used as normative content. The first helper did not retain the HTTP status on error; no status is inferred retrospectively. German pages successfully retried; EU pages successfully extracted through Firecrawl with saved HTML and service HTTP metadata."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32014R0655",
+      "accessed_at": "2026-10-20T11:06:01.978644+00:00",
+      "http_status": 202,
+      "content_type": "text/html; charset=UTF-8",
+      "path": "sources/review-vv3213-vv3317-2026-10-20/32014R0655.response",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "rejected": "Expected PDF missing; not used as legal text"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015R0848",
+      "accessed_at": "2026-10-20T11:06:02.107491+00:00",
+      "http_status": 202,
+      "content_type": "text/html; charset=UTF-8",
+      "path": "sources/review-vv3213-vv3317-2026-10-20/32015R0848.response",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "rejected": "Expected PDF missing; not used as legal text"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02014R0655-20250501",
+      "accessed_at": "2026-10-20T11:13:20.667542+00:00",
+      "http_status": 200,
+      "http_status_origin": "Firecrawl response metadata, not direct urllib status",
+      "scrape_id": "01a15901-89b8-70ca-a783-f8590f01c6b7",
+      "local_path": "sources/review-vv3213-vv3317-2026-10-20/eu-655-current-response.json",
+      "sha256": "e064a9c754c8e0dc8925a1d9ec843b16a1c6da4aa1ec4754cb69fc129d2ac73f",
+      "validated_format": "JSON with extracted HTML and full German legal text; expected CELEX and provisions verified",
+      "body_html_sha256": "a24b286886609f21e8c128d808c91e2fb727d49c8fb2bcc49f6b4e6474f7987d"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02015R0848-20251106",
+      "accessed_at": "2026-10-20T11:13:20.667542+00:00",
+      "http_status": 200,
+      "http_status_origin": "Firecrawl response metadata, not direct urllib status",
+      "scrape_id": "01a15901-8f63-709d-99b2-a2f1e73e0935",
+      "local_path": "sources/review-vv3213-vv3317-2026-10-20/eu-848-current-response.json",
+      "sha256": "7b3cd525b38d73ead42daf6da66a3308ed3e0b380427c624909c6b293f642185",
+      "validated_format": "JSON with extracted HTML and full German legal text; expected CELEX and provisions verified",
+      "body_html_sha256": "f1a0f6dae15afb5613588da43aa8388a83716a7d0afad5124e78d62c49f0b320"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__703a.html",
+      "accessed_at": "2026-10-20T11:14:59.233179+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "local_path": "sources/review-vv3213-vv3317-2026-10-20/zpo-703a.html",
+      "sha256": "369be7271306c2a02c9f7b0ca28a69b47525f3dc9e8ce7897632fd989f92fe00",
+      "validated_format": "HTML parsed, text extracted, expected statutory context read"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__305.html",
+      "accessed_at": "2026-10-20T11:14:59.382666+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "local_path": "sources/review-vv3213-vv3317-2026-10-20/inso-305.html",
+      "sha256": "5b28e80d7d8ae42fb9c4ab18a4183aaf6f2d4c7069ffa1e300d6193d3de854d9",
+      "validated_format": "HTML parsed, text extracted, expected statutory context read"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__306.html",
+      "accessed_at": "2026-10-20T11:14:59.505138+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "local_path": "sources/review-vv3213-vv3317-2026-10-20/inso-306.html",
+      "sha256": "75ac1805c8c189957e72d8371921341026d2e87b541ceba6c8445628127c18b3",
+      "validated_format": "HTML parsed, text extracted, expected statutory context read"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__307.html",
+      "accessed_at": "2026-10-20T11:14:59.614933+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "local_path": "sources/review-vv3213-vv3317-2026-10-20/inso-307.html",
+      "sha256": "40f48377d909d17a51c994cbc2cb151a70c3cc6debc52e6f81a10691fbcd5136",
+      "validated_format": "HTML parsed, text extracted, expected statutory context read"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vgg/__129.html",
+      "accessed_at": "2026-10-20T11:14:59.739914+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "local_path": "sources/review-vv3213-vv3317-2026-10-20/vgg-129.html",
+      "sha256": "0e42cd8762cbda9eb6f4579c7523430fe5277c2f8d9de24831f03a43eb87592b",
+      "validated_format": "HTML parsed, text extracted, expected statutory context read"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/agrarmsg/__32.html",
+      "accessed_at": "2026-10-20T11:14:59.983541+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "local_path": "sources/review-vv3213-vv3317-2026-10-20/agrar-32.html",
+      "sha256": "5eeec875c0c3f07195df3a5aa2e3704aa16fd0173fd9f9725913ad4d93eb6072",
+      "validated_format": "HTML parsed, text extracted, expected statutory context read"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2014/655/oj/deu",
+      "accessed_at": "2026-10-20T11:15:00.100107+00:00",
+      "http_status": 202,
+      "content_type": "text/html; charset=UTF-8",
+      "local_path": "sources/review-vv3213-vv3317-2026-10-20/eu-655.html",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "Response lacks expected HTML; not accepted as statutory text",
+      "rejected_as_statutory_text": true
+    },
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2015/848/oj/deu",
+      "accessed_at": "2026-10-20T11:15:00.173692+00:00",
+      "http_status": 202,
+      "content_type": "text/html; charset=UTF-8",
+      "local_path": "sources/review-vv3213-vv3317-2026-10-20/eu-848.html",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "Response lacks expected HTML; not accepted as statutory text",
+      "rejected_as_statutory_text": true
     }
   ],
   "version_evidence": {
@@ -1424,5 +1754,20 @@
       "sha256": "78388062554927d700efd728cdef4c8810114b85c31b531a40e397a284c3bebc",
       "http_result": "Direct HTTP 200 separately captured; the scrape ID is not an HTTP status."
     }
+  },
+  "bounded_review_vv3213_vv3317_recheck": {
+    "date": "2026-10-20",
+    "decisive_date": "2026-10-19",
+    "records": "sources/review-vv3213-vv3317-2026-10-20/requests.json",
+    "version_basis": "Existing promulgated Article 14 and commencement Article 21 re-read; current RVG XML compared byte for byte. Date of retrieval is not proof of commencement."
+  },
+  "bounded_review_vv3213_vv3317": {
+    "verified_at": "2026-10-20T11:13:20.667542+00:00",
+    "decisive_date": "2026-10-19",
+    "requests": "sources/review-vv3213-vv3317-2026-10-20/requests.json",
+    "authorities": "sources/review-vv3213-vv3317-2026-10-20/authority-requests.json",
+    "cross_references": "sources/review-vv3213-vv3317-2026-10-20/cross-reference-requests.json",
+    "eu_responses": "sources/review-vv3213-vv3317-2026-10-20/eu-firecrawl-requests.json",
+    "versions": "sources/review-vv3213-vv3317-2026-10-20/version-evidence.json"
   }
 }

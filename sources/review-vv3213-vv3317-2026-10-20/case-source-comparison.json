@@ -1,0 +1,32 @@
+[
+  {
+    "id": "KORE314422010",
+    "ecli": "",
+    "nonempty_judicial_paragraphs": 20,
+    "missing_exact_paragraphs": [],
+    "all_paragraphs_present": true,
+    "official_xml_sha256": "e41803124cd3964de3cd22e0ae3322f03416fc44a5996a3bccacb44aa6777b0f",
+    "intake_sha256": "00450f1bf00167f3a4b4a9331ff7b6d2b48d55a7fde16a9512119c058c1fa39d",
+    "method": "Every nonempty official p in all judicial sections matched to local corpus with whitespace removed; complete decisions were actually read."
+  },
+  {
+    "id": "KORE313152019",
+    "ecli": "ECLI:DE:BGH:2019:180719BIZB104.18.0",
+    "nonempty_judicial_paragraphs": 31,
+    "missing_exact_paragraphs": [],
+    "all_paragraphs_present": true,
+    "official_xml_sha256": "ddb1ed99988e3dc56f1a832129e011418d0bb77258b8f6c2e607fac3de46f2d1",
+    "intake_sha256": "60edd33ced42e8e30832957bb4a835f62ad133c438cc385db0e32597390af81c",
+    "method": "Every nonempty official p in all judicial sections matched to local corpus with whitespace removed; complete decisions were actually read."
+  },
+  {
+    "id": "KORE300632015",
+    "ecli": "",
+    "nonempty_judicial_paragraphs": 18,
+    "missing_exact_paragraphs": [],
+    "all_paragraphs_present": true,
+    "official_xml_sha256": "95ab99af227b465d91d0dc22b27f33eb3d624fae0fffde438547a9e20d8d2571",
+    "intake_sha256": "96c4613eb009909777c1d4f0396dd3228e5f53142ad3fbf71380453d4c0ef1ad",
+    "method": "Every nonempty official p in all judicial sections matched to local corpus with whitespace removed; complete decisions were actually read."
+  }
+]
