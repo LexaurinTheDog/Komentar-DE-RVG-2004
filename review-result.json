@@ -280,5 +280,25 @@
     "External procedural and professional statutes referenced by RVG were not independently reviewed in full; no additional unsupported detail introduced.",
     "Current official consolidation, commencement and intake comparison checked; no exhaustive historical archive or guarantee against unincorporated legislation.",
     "Technical equality, length and repetition checks do not certify legal quality."
-  ]
+  ],
+  "validation": {
+    "strict": {
+      "repo": "Komentar-DE-RVG-2004",
+      "units": 344,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 281786,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "validated_output_commit": "b3996ae",
+    "validated_at": "2026-10-20T09:56:11.295614+00:00",
+    "independent_xml_completeness_ok": true,
+    "annex_coverage": "annex-coverage.json",
+    "quality_report": "quality-report.json",
+    "local_links_broken": 0,
+    "all_344_units_have_commentary": true,
+    "statutory_agreement": 1.0,
+    "legal_review_scope_units": 20
+  }
 }
