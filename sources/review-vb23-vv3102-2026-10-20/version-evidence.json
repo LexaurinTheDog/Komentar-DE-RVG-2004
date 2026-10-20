@@ -1,0 +1,34 @@
+{
+  "decisive_date": "2026-10-19",
+  "verified_at": "2026-10-20T10:49:15.538890+00:00",
+  "official_url": "https://www.gesetze-im-internet.de/rvg/",
+  "official_stand": [
+    "Neugefasst durch Bek.v.15.3.2022 I610",
+    "zuletzt geändert durch Art14G8.12.2025 I Nr318"
+  ],
+  "rvg_xml_identical_to_authoring": true,
+  "xml_sha256": "be5571d1735031133f154071b08a77ccdb89f3e047330ed057a494dfd128f5d1",
+  "commencement_current": {
+    "source": "sources/review-vb23-vv3102-2026-10-20/bgbl-318.pdf",
+    "read": "Article 14 and Article 21(2)/(3)",
+    "effective": "Article 14 nos. 1/3/4 since 1 January 2026; no. 2 since 1 July 2026."
+  },
+  "assigned_changes": {
+    "source": "sources/review-vb23-vv3102-2026-10-20/bgbl-109.pdf",
+    "read": "Article 11(2) nos. 3–16 and Article 13(3)",
+    "effective": "1 June 2025",
+    "scope": "225 Euro credit cap; 2300 two-week presumption; 2302 threshold and frame; 2303 three current groups; 2501–2508 amounts; 3102 frame. 2500 remains 15 Euro."
+  },
+  "external_law_scope": {
+    "berhg": "Current official XML §§ 1, 2 and 8 read. Article 2 BGBl. 2024 I Nr. 237 changes § 4 only. Article 19 makes it effective on the day after promulgation (18 July 2024), hence 19 July 2024. No duplicate operative versions of the cited nodes.",
+    "inso": "Current official XML § 305 read. Article 6 BGBl. 2024 I Nr. 236 changes § 8 only, effective 1 January 2025 under Article 43(2). Article 33 BGBl. 2025 I Nr. 319 postpones Stiftungsregister provisions to 2028, not § 305; Article 40 read.",
+    "famfg": "Current XML §§ 165 and 255 read; XML byte-identical to preceding batch. Article 4 BGBl. 2026 I Nr. 192 changes §§ 41a, 46 and 113, effective 1 October 2026. Article 4 BGBl. 2026 I Nr. 198 does not change §§ 165/255; most provisions effective 1 July 2027, Article 4 no. 8 since 10 July 2026. Actual amendment text and commencement reread. No historical or future versions concatenated.",
+    "zpo": "Fresh official HTML § 278(6) read to explain the express RVG 3101 cross-reference. No separate full-ZPO review claimed."
+  },
+  "historical_versions": "All 92 current RVG XML nodes classified. No duplicate operative labels or unlabelled operative Content. No separate Eingangsformel; global official notes preserved. Intake and change map retained; no complete historical archive.",
+  "annexes": "Independent first-cell XML derivation: 231 tariffs and 32 remarks in Anlage 1; all 536 rows retained. Anlage 2: all 22 rows retained, no invented child IDs.",
+  "limitations": [
+    "Current consolidation, intake change map, all currentXML nodes and annexes checked; no complete historical archive or guarantee against legislation not yet incorporated by the official service.",
+    "External laws checked only in the cited scope. Commencement/amendment checks of the latest relevant acts are not a complete historical commentary on those laws."
+  ]
+}

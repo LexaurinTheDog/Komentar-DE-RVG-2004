@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2025/109/regelungstext.pdf?__blob=publicationFile&v=2",
+    "accessed_at": "2026-10-20T10:42:17.532990+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "local_path": "sources/review-vb23-vv3102-2026-10-20/bgbl-109.pdf",
+    "sha256": "1ff13f868178c6ca85497562b13de3e37a591793b5fe9f820432210ca17fc36d",
+    "validated_format": "PDF magic"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/inso/xml.zip",
+    "accessed_at": "2026-10-20T10:42:17.925717+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "local_path": "sources/review-vb23-vv3102-2026-10-20/inso.zip",
+    "sha256": "a571214fd5a95139cf671989cdf5e657d7b946c25d56e942ee9956b94c5976d8",
+    "validated_format": "ZIP/XML parsed, expected jurabk",
+    "xml_path": "sources/review-vb23-vv3102-2026-10-20/inso.xml",
+    "xml_sha256": "a520088e54cfae9fce20d949f835f4b85142698d4b035cb95da0799369637b9a",
+    "official_stand": [
+      "StandZuletzt geändert durch Art. 6 G v. 15.7.2024 I Nr. 236",
+      "SonstMittelbare Änderung durch Art. 33 G v. 8.12.2025 I Nr. 319 ist berücksichtigt"
+    ]
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/berathig/xml.zip",
+    "accessed_at": "2026-10-20T10:42:18.232087+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "local_path": "sources/review-vb23-vv3102-2026-10-20/berhg.zip",
+    "sha256": "f35342529f31a0bf15389c580f3b554bf01a58cfe06a67c0bae576d8c2d273df",
+    "validated_format": "ZIP/XML parsed, expected jurabk",
+    "xml_path": "sources/review-vb23-vv3102-2026-10-20/berhg.xml",
+    "xml_sha256": "fa23deb745174f59e4545ca65c2cfb8421142581d19cb3a95aa6d2e0b36ef813",
+    "official_stand": [
+      "StandZuletzt geändert durch Art. 2 G v. 15.7.2024 I Nr. 237"
+    ]
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+    "accessed_at": "2026-10-20T10:42:18.344368+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "local_path": "sources/review-vb23-vv3102-2026-10-20/famfg.zip",
+    "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+    "validated_format": "ZIP/XML parsed, expected jurabk",
+    "xml_path": "sources/review-vb23-vv3102-2026-10-20/famfg.xml",
+    "xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+    "official_stand": [
+      "StandZuletzt geändert durch Art. 4 G v. 22.6.2026 I Nr. 192",
+      "HinweisÄnderung durch Art. 4 G v. 2.7.2026 I Nr. 198 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "SonstMittelbare Änderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war"
+    ]
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/zpo/__278.html",
+    "accessed_at": "2026-10-20T10:42:18.672267+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "local_path": "sources/review-vb23-vv3102-2026-10-20/zpo-p278.html",
+    "sha256": "97d8a6a5042c8f32322d8c4d4494a54dc662713e781048b46669a88e2bd31bc4",
+    "validated_format": "HTML and expected provision"
+  }
+]

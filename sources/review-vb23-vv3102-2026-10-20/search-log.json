@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-20",
+  "scope": "Selective discovery for2300,3101and2508; not exhaustive",
+  "steps": [
+    {
+      "method": "Web search",
+      "queries": [
+        "site.rechtsprechung-im-internet.de \"2300\" \"1,3\" \"VIII ZR\"",
+        "site.rechtsprechung-im-internet.de \"3101\" \"Auftrag\" \"Bundesgerichtshof\"",
+        "site.rechtsprechung-im-internet.de \"2508\" \"Einigung\""
+      ],
+      "result": "OfficialBGH discovery PDFs identified for2012/2018. Third-party discovery hits not used as authority. No sufficiently relevant primary full text selected for2508."
+    },
+    {
+      "method": "OfficialBGH PDF open",
+      "urls": [
+        "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2012-7-11&Gericht=bgh&Sort=1&anz=20&nr=61190&pos=15",
+        "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2018-2-7&Gericht=bgh&anz=24&nr=81330&pos=21"
+      ],
+      "result": "Both returned403in web tool. No PDF asserted from these responses; officialRII XML subsequently obtained."
+    },
+    {
+      "method": "Local national corpus",
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/manifest.jsonl",
+      "queries": [
+        "VIII ZR323/11",
+        "BGH2018-02-07plus3101infulltext"
+      ],
+      "result": "KORE314062012 andKORE300332018 found and read in full. Official ZIP/XML re-fetch confirmed docket/date. Other search filenames not used as authority."
+    },
+    {
+      "method": "OfficialRII ZIP/XML",
+      "evidence": "authority-requests.json",
+      "result": "Both full decisions actually read, all nonempty judicial paragraphs compared with local corpus; no missing paragraphs."
+    }
+  ],
+  "coverage": [
+    {
+      "id": "vv2300",
+      "decision": "KORE314062012",
+      "limits": "General1.3threshold only; not laterInkasso rules."
+    },
+    {
+      "id": "vv3101",
+      "decision": "KORE300332018",
+      "limits": "Directholding3201, postaltransmission. Comparisonidentifiedascommentary inference."
+    },
+    {
+      "ids": [
+        "vb2.3",
+        "vv2301",
+        "vv2302",
+        "vv2303",
+        "vb2.5",
+        "vv2500",
+        "vv2501",
+        "vv2502",
+        "vv2503",
+        "vv2504",
+        "vv2505",
+        "vv2506",
+        "vv2507",
+        "vv2508",
+        "vb3",
+        "vb3.1",
+        "vv3100",
+        "vv3102"
+      ],
+      "decision": null,
+      "disposition": "Statute-based review; no new case authority asserted, no exhaustive negative survey."
+    }
+  ]
+}

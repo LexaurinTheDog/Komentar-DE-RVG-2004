@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2024/236/regelungstext.pdf?__blob=publicationFile&v=2",
+    "accessed_at": "2026-10-20T10:42:52.300006+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "local_path": "sources/review-vb23-vv3102-2026-10-20/bgbl-2024-236.pdf",
+    "sha256": "a2ebad78f3257000727a0a6ec81064675ab11d93cc0b5910b0d17adb67b21ddd",
+    "validated_format": "PDF magic and pdftotext extraction",
+    "text_path": "sources/review-vb23-vv3102-2026-10-20/bgbl-2024-236.txt"
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2024/237/regelungstext.pdf?__blob=publicationFile&v=2",
+    "accessed_at": "2026-10-20T10:42:53.372756+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "local_path": "sources/review-vb23-vv3102-2026-10-20/bgbl-2024-237.pdf",
+    "sha256": "c381a2914412b3edc95bf87d629b716751e126905e37d78c289521e54f96a83d",
+    "validated_format": "PDF magic and pdftotext extraction",
+    "text_path": "sources/review-vb23-vv3102-2026-10-20/bgbl-2024-237.txt"
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2025/319/regelungstext.pdf?__blob=publicationFile&v=2",
+    "accessed_at": "2026-10-20T10:42:53.715484+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "local_path": "sources/review-vb23-vv3102-2026-10-20/bgbl-2025-319.pdf",
+    "sha256": "a8f16ba660bc1a3d3f2c1509dc7be430495dc11849e34f1d44585cc3f1476fef",
+    "validated_format": "PDF magic and pdftotext extraction",
+    "text_path": "sources/review-vb23-vv3102-2026-10-20/bgbl-2025-319.txt"
+  }
+]

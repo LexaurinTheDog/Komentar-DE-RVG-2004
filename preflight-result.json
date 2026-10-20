@@ -252,5 +252,22 @@
       "quality_report": "quality-report.json",
       "limitations": "Technical whole-band validation does not establish substantive review of unassigned units; legal review remains exactly20units."
     }
+  },
+  "bounded_review_vb23_vv3102_recheck": {
+    "complete": true,
+    "verified_at": "2026-10-20T10:49:15.538890+00:00",
+    "official_url": "https://www.gesetze-im-internet.de/rvg/",
+    "decisive_date": "2026-10-19",
+    "fresh_evidence": "sources/review-vb23-vv3102-2026-10-20/requests.json",
+    "version_evidence": "sources/review-vb23-vv3102-2026-10-20/version-evidence.json",
+    "current_rvg_xml_identical": true,
+    "commencement_pdf_identical": true,
+    "historical_versions_checked": "All 92 current RVG XML nodes classified. No duplicate operative labels or unlabelled operative Content. No separate Eingangsformel; global official notes preserved. Intake and change map retained; no complete historical archive.",
+    "annexes_checked": "Independent first-cell XML derivation: 231 tariffs and 32 remarks in Anlage 1; all 536 rows retained. Anlage 2: all 22 rows retained, no invented child IDs.",
+    "annex_evidence": "annex-coverage.json",
+    "missing_ids": [],
+    "duplicate_ids": [],
+    "all_assigned_texts_match_official_xml": true,
+    "unresolved_blockers": []
   }
 }

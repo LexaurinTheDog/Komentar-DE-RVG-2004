@@ -25,3 +25,8 @@ Diese beiden Entscheidungen ergänzen die begrenzte Prüfung von §§ 47–62 un
 - [BGH, 14.12.2017 – IX ZR 243/16](bgh-2017-ix-zr-243-16.md): Vorprüfung im unbedingt erteilten Rechtsmittelauftrag; bedingte Auftragsgestaltung ausdrücklich offengelassen.
 
 Diese Volltexte ergänzen ausschließlich die begrenzte Prüfung von Anlage 2 und den zugewiesenen ersten VV-Einheiten bei Nrn. 1002, 1005 und 2100. [Suchprotokoll](../sources/review-a2-vv2201-2026-10-20/search-log.json), [amtliche Abrufe](../sources/review-a2-vv2201-2026-10-20/authority-requests.json) und [Korpusvergleich](../sources/review-a2-vv2201-2026-10-20/case-source-comparison.json) grenzen Herkunft und Verwendung ab. Für die anderen 17 Einheiten wird keine neue verifizierte Entscheidung behauptet.
+
+- [BGH, 11.7.2012 – VIII ZR 323/11](bgh-2012-viii-zr-323-11.md): allgemeine 1,3-Schwelle, keine Umgehung durch eine Bemessungstoleranz; nicht die späteren Inkassoschwellen.
+- [BGH, 7.2.2018 – XII ZB 112/17](bgh-2018-xii-zb-112-17.md): früher Auftragsschluss und postalische Schriftsatzübermittlung unmittelbar bei Nr. 3201; bei Nr. 3101 nur begrenzte vergleichende Auslegung.
+
+Diese Entscheidungen ergänzen die aktuelle 20-Einheiten-Prüfung ausschließlich bei Nrn. 2300 und 3101. [Suchprotokoll](../sources/review-vb23-vv3102-2026-10-20/search-log.json), [amtliche Abrufe](../sources/review-vb23-vv3102-2026-10-20/authority-requests.json) und [Korpusvergleich](../sources/review-vb23-vv3102-2026-10-20/case-source-comparison.json) sichern Herkunft und Begrenzung. Für die anderen 18 Einheiten wird keine neue verifizierte Entscheidung behauptet.

@@ -800,6 +800,184 @@
       "sha256": "ad8c6731721b453341f22f0927dd197ddbe408a61ee0cf8b3474bbf91892b10f",
       "validated_format": "PDF signature, text extracted separately",
       "purpose": "Limited commencement and amendment check for cited FamFG/EuRAG cross-references"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/rvg/",
+      "accessed_at": "2026-10-20T10:41:26.978691+00:00",
+      "purpose": "bounded independent substantive review vb2.3–vv3102, 20 exact units",
+      "http_status": 200,
+      "final_url": "https://www.gesetze-im-internet.de/rvg/",
+      "content_type": "text/html",
+      "local_path": "sources/review-vb23-vv3102-2026-10-20/index.html",
+      "sha256": "7e9f02d6a7dc1934d08e4463457f1c15649d20bfd365778bff502c55f2eb80dd",
+      "validated_format": "HTML document and RVG identifier where applicable"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/rvg/xml.zip",
+      "accessed_at": "2026-10-20T10:41:27.213950+00:00",
+      "purpose": "bounded independent substantive review vb2.3–vv3102, 20 exact units",
+      "http_status": 200,
+      "final_url": "https://www.gesetze-im-internet.de/rvg/xml.zip",
+      "content_type": "application/zip",
+      "local_path": "sources/review-vb23-vv3102-2026-10-20/rvg.zip",
+      "sha256": "51019d65e1d783759d31a3d67ff21ec35d922d309a82d575a08848c89de42dde",
+      "members": [
+        "BJNR078800004.xml"
+      ],
+      "validated_format": "ZIP and XML parsed; expected identifier verified",
+      "xml_path": "sources/review-vb23-vv3102-2026-10-20/rvg.xml",
+      "xml_sha256": "be5571d1735031133f154071b08a77ccdb89f3e047330ed057a494dfd128f5d1",
+      "identical_to_manuscript_source": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "accessed_at": "2026-10-20T10:41:27.388251+00:00",
+      "purpose": "bounded independent substantive review vb2.3–vv3102, 20 exact units",
+      "http_status": 200,
+      "final_url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "content_type": "text/html",
+      "local_path": "sources/review-vb23-vv3102-2026-10-20/updates.html",
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+      "validated_format": "HTML document and RVG identifier where applicable"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2025/318/regelungstext.pdf?__blob=publicationFile&v=2",
+      "accessed_at": "2026-10-20T10:41:27.550331+00:00",
+      "purpose": "bounded independent substantive review vb2.3–vv3102, 20 exact units",
+      "http_status": 200,
+      "final_url": "https://www.recht.bund.de/bgbl/1/2025/318/regelungstext.pdf?__blob=publicationFile&v=2",
+      "content_type": "application/pdf;charset=UTF-8",
+      "local_path": "sources/review-vb23-vv3102-2026-10-20/bgbl-318.pdf",
+      "sha256": "89f50d3f611d6f05089d6d4827783cf1531cfd3c800cd808e86c763b9db28c41",
+      "validated_format": "PDF magic, byte-identical to commencement text previously extracted and read",
+      "identical_to_manuscript_source": true
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE314062012.zip",
+      "accessed_at": "2026-10-20T10:41:52.990041+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "local_path": "sources/review-vb23-vv3102-2026-10-20/KORE314062012.zip",
+      "sha256": "5af94cbbeac628df95e6b547b949cc99a7c3d4b18e6c107541c1dae956a7c174",
+      "validated_format": "ZIP, single expected decision XML, XML parsed",
+      "xml_path": "sources/review-vb23-vv3102-2026-10-20/KORE314062012.xml",
+      "xml_sha256": "e3b8ad7d2dd43a64d9cfff96c4ed678490dbda8f73676befd83b59b771feaafe",
+      "court": "BGH",
+      "date": "20120711",
+      "docket": "VIII ZR 323/11",
+      "ecli": "",
+      "local_intake_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore314062012.md",
+      "local_intake_sha256": "053ebb28a370446201d3ae63716123b51a124b3ed42e01619253c15f2c2d7cba"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE300332018.zip",
+      "accessed_at": "2026-10-20T10:41:53.275355+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "local_path": "sources/review-vb23-vv3102-2026-10-20/KORE300332018.zip",
+      "sha256": "c79e034efef7b6494b20fc8eea5659e4cb2dd27951274cd43a94eef58a2ccbe5",
+      "validated_format": "ZIP, single expected decision XML, XML parsed",
+      "xml_path": "sources/review-vb23-vv3102-2026-10-20/KORE300332018.xml",
+      "xml_sha256": "c00c43faaeb065c566ef77bc7f22713f45e2d0a342cf9bed4d4f35e81d48c3c7",
+      "court": "BGH",
+      "date": "20180207",
+      "docket": "XII ZB 112/17",
+      "ecli": "ECLI:DE:BGH:2018:070218BXIIZB112.17.0",
+      "local_intake_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore300332018.md",
+      "local_intake_sha256": "2ee3ad14c05c15230e8a19bb305abd61fa60882ddcb8d61b4c24b81cf850b303"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2025/109/regelungstext.pdf?__blob=publicationFile&v=2",
+      "accessed_at": "2026-10-20T10:42:17.532990+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "local_path": "sources/review-vb23-vv3102-2026-10-20/bgbl-109.pdf",
+      "sha256": "1ff13f868178c6ca85497562b13de3e37a591793b5fe9f820432210ca17fc36d",
+      "validated_format": "PDF magic"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/xml.zip",
+      "accessed_at": "2026-10-20T10:42:17.925717+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "local_path": "sources/review-vb23-vv3102-2026-10-20/inso.zip",
+      "sha256": "a571214fd5a95139cf671989cdf5e657d7b946c25d56e942ee9956b94c5976d8",
+      "validated_format": "ZIP/XML parsed, expected jurabk",
+      "xml_path": "sources/review-vb23-vv3102-2026-10-20/inso.xml",
+      "xml_sha256": "a520088e54cfae9fce20d949f835f4b85142698d4b035cb95da0799369637b9a",
+      "official_stand": [
+        "StandZuletzt geändert durch Art. 6 G v. 15.7.2024 I Nr. 236",
+        "SonstMittelbare Änderung durch Art. 33 G v. 8.12.2025 I Nr. 319 ist berücksichtigt"
+      ]
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/berathig/xml.zip",
+      "accessed_at": "2026-10-20T10:42:18.232087+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "local_path": "sources/review-vb23-vv3102-2026-10-20/berhg.zip",
+      "sha256": "f35342529f31a0bf15389c580f3b554bf01a58cfe06a67c0bae576d8c2d273df",
+      "validated_format": "ZIP/XML parsed, expected jurabk",
+      "xml_path": "sources/review-vb23-vv3102-2026-10-20/berhg.xml",
+      "xml_sha256": "fa23deb745174f59e4545ca65c2cfb8421142581d19cb3a95aa6d2e0b36ef813",
+      "official_stand": [
+        "StandZuletzt geändert durch Art. 2 G v. 15.7.2024 I Nr. 237"
+      ]
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+      "accessed_at": "2026-10-20T10:42:18.344368+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "local_path": "sources/review-vb23-vv3102-2026-10-20/famfg.zip",
+      "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+      "validated_format": "ZIP/XML parsed, expected jurabk",
+      "xml_path": "sources/review-vb23-vv3102-2026-10-20/famfg.xml",
+      "xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "official_stand": [
+        "StandZuletzt geändert durch Art. 4 G v. 22.6.2026 I Nr. 192",
+        "HinweisÄnderung durch Art. 4 G v. 2.7.2026 I Nr. 198 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+        "SonstMittelbare Änderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war"
+      ]
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__278.html",
+      "accessed_at": "2026-10-20T10:42:18.672267+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "local_path": "sources/review-vb23-vv3102-2026-10-20/zpo-p278.html",
+      "sha256": "97d8a6a5042c8f32322d8c4d4494a54dc662713e781048b46669a88e2bd31bc4",
+      "validated_format": "HTML and expected provision"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2024/236/regelungstext.pdf?__blob=publicationFile&v=2",
+      "accessed_at": "2026-10-20T10:42:52.300006+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "local_path": "sources/review-vb23-vv3102-2026-10-20/bgbl-2024-236.pdf",
+      "sha256": "a2ebad78f3257000727a0a6ec81064675ab11d93cc0b5910b0d17adb67b21ddd",
+      "validated_format": "PDF magic and pdftotext extraction",
+      "text_path": "sources/review-vb23-vv3102-2026-10-20/bgbl-2024-236.txt"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2024/237/regelungstext.pdf?__blob=publicationFile&v=2",
+      "accessed_at": "2026-10-20T10:42:53.372756+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "local_path": "sources/review-vb23-vv3102-2026-10-20/bgbl-2024-237.pdf",
+      "sha256": "c381a2914412b3edc95bf87d629b716751e126905e37d78c289521e54f96a83d",
+      "validated_format": "PDF magic and pdftotext extraction",
+      "text_path": "sources/review-vb23-vv3102-2026-10-20/bgbl-2024-237.txt"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2025/319/regelungstext.pdf?__blob=publicationFile&v=2",
+      "accessed_at": "2026-10-20T10:42:53.715484+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "local_path": "sources/review-vb23-vv3102-2026-10-20/bgbl-2025-319.pdf",
+      "sha256": "a8f16ba660bc1a3d3f2c1509dc7be430495dc11849e34f1d44585cc3f1476fef",
+      "validated_format": "PDF magic and pdftotext extraction",
+      "text_path": "sources/review-vb23-vv3102-2026-10-20/bgbl-2025-319.txt"
     }
   ],
   "version_evidence": {
@@ -1038,6 +1216,27 @@
       "scrape_id": "01a158db-49a7-7288-9572-f334bb43a2a5",
       "sha256": "78388062554927d700efd728cdef4c8810114b85c31b531a40e397a284c3bebc",
       "http_result": "Direct HTTP200 recorded separately; scrape id is not HTTP status."
+    }
+  },
+  "bounded_review_vb23_vv3102_recheck": {
+    "date": "2026-10-20",
+    "decisive_date": "2026-10-19",
+    "records": "sources/review-vb23-vv3102-2026-10-20/requests.json",
+    "version_basis": "Existing promulgated Article 14 and commencement Article 21 re-read; current RVG XML compared byte for byte. Date of retrieval is not proof of commencement."
+  },
+  "bounded_review_vb23_vv3102": {
+    "verified_at": "2026-10-20T10:49:15.538890+00:00",
+    "decisive_date": "2026-10-19",
+    "requests": "sources/review-vb23-vv3102-2026-10-20/requests.json",
+    "authorities": "sources/review-vb23-vv3102-2026-10-20/authority-requests.json",
+    "cross_references": "sources/review-vb23-vv3102-2026-10-20/cross-reference-requests.json",
+    "version_evidence": "sources/review-vb23-vv3102-2026-10-20/version-evidence.json",
+    "firecrawl": {
+      "url": "https://www.gesetze-im-internet.de/rvg/",
+      "path": "sources/review-vb23-vv3102-2026-10-20/firecrawl-index.md",
+      "scrape_id": "01a158e6-e17a-7694-b8c9-9ce7a3b02e6e",
+      "sha256": "78388062554927d700efd728cdef4c8810114b85c31b531a40e397a284c3bebc",
+      "http_result": "DirectHTTP200recordedseparately;scrapeidentifierisnotHTTPstatus."
     }
   }
 }

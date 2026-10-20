@@ -1,197 +1,179 @@
 {
-  "complete": true,
+  "complete": false,
   "task_kind": "bounded_independent_second_pass",
   "decisive_date": "2026-10-19",
-  "reviewed_at": "2026-10-20T10:36:54.191942+00:00",
+  "reviewed_at": "2026-10-20T10:49:15.538890+00:00",
   "units_reviewed": 20,
   "reviewed_ids": [
-    "a2",
-    "vb1",
-    "vv1000",
-    "vv1001",
-    "vv1002",
-    "vv1003",
-    "vv1004",
-    "vv1005",
-    "vv1006",
-    "vv1007",
-    "vv1008",
-    "vv1009",
-    "vv1010",
-    "vb2",
-    "vv2100",
-    "vv2101",
-    "vv2102",
-    "vv2103",
-    "vv2200",
-    "vv2201"
+    "vb2.3",
+    "vv2300",
+    "vv2301",
+    "vv2302",
+    "vv2303",
+    "vb2.5",
+    "vv2500",
+    "vv2501",
+    "vv2502",
+    "vv2503",
+    "vv2504",
+    "vv2505",
+    "vv2506",
+    "vv2507",
+    "vv2508",
+    "vb3",
+    "vb3.1",
+    "vv3100",
+    "vv3101",
+    "vv3102"
   ],
   "changed_ids": [
-    "a2",
-    "vv1000",
-    "vv1002",
-    "vv1003",
-    "vv1004",
-    "vv1005",
-    "vv1006",
-    "vv1008",
-    "vv1009",
-    "vv1010",
-    "vv2100",
-    "vv2101",
-    "vv2102",
-    "vv2103",
-    "vv2200",
-    "vv2201"
+    "vb2.3",
+    "vv2300",
+    "vv2301",
+    "vv2302",
+    "vv2303",
+    "vb2.5",
+    "vv2500",
+    "vv2501",
+    "vv2502",
+    "vv2503",
+    "vv2504",
+    "vv2505",
+    "vv2506",
+    "vv2507",
+    "vv2508",
+    "vb3",
+    "vb3.1",
+    "vv3100",
+    "vv3101",
+    "vv3102"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "a2",
-      "status": "corrected",
-      "assessment": "Vollständige Anlage2 mit42Wert-/Gebührenpaaren in beiden Spalten gelesen; alle aus§13 mechanisch nachgerechnet. Keine fehlende Zeile. Genaue5.000/5.001-Euro-Rechnung, Fortsetzung über500.000, Kleinstinkasso-Vorbehalt und besondere§49-Tabelle ergänzt. Art11(3)/13(3)BGBl2025INr109 tatsächlich gelesen: seit1.6.2025;§60 bleibt vorgeschaltet."
+      "id": "vb2.3",
+      "status": "corrected_or_expanded",
+      "assessment": "Alle sechs Absätze geprüft. Verwaltungszwang, Spezialteile, Vertragsmitwirkung, Verwaltungsnachprüfung und Wehrbeschwerdeübergänge erklärt. Grenzen von 0,75 und 225 Euro sowie gemeinsamer Gegenstandswert ergänzt. Die Beispiele mit 0,65, 0,75 und 225 Euro sind nachgerechnet; §§ 14 Absatz 2 und 17 Nummer 1a passen."
     },
     {
-      "id": "vb1",
-      "status": "checked_no_change",
-      "assessment": "Ganzen Wortlaut gelesen. Vorbemerkung als Konkurrenzregel ohne eigenen Gebührentatbestand richtig. Nebeneinander mit anderen Teilen/§34 wird nicht als voraussetzungslose Zusatzgebühr verstanden; qualifizierte Einigung im Beispiel gesondert geprüft. Kein Änderungsbedarf."
+      "id": "vv2300",
+      "status": "corrected_or_expanded",
+      "assessment": "Tarif und beide Anmerkungsabsätze geprüft. Allgemeine 1,3-Schwelle von § 14 getrennt. Beim Inkasso sind 0,5, 0,9, höchstens 1,3 und besondere Schwierigkeit beziehungsweise besonderer Umfang richtig zugeordnet. Zweiwochen-Regelfall und Inkrafttreten sind verkündet belegt. BGH 2012 vollständig gelesen und auf die allgemeine Schwelle begrenzt."
     },
     {
-      "id": "vv1000",
-      "status": "corrected",
-      "assessment": "Alle fünf Anmerkungsabsätze und beide Tarifnummern gelesen. Sätze1,5/0,7, Stillhaltebedingung und50%-Wert nach§31b präzisiert. Nrn1003/1004 ändern nur Nummer1. Anerkennung/Verzicht nach aktuellem Wortlaut, Ursächlichkeit, Bedingung/Widerruf, öffentlich-rechtliche Disponibilität, Privatklage-Sondertatbestand und Familien-/Kindschaftsausnahmen einzeln geprüft. Keine pauschale Gebührenfreiheit der Unterhaltsfolgesache."
+      "id": "vv2301",
+      "status": "corrected_or_expanded",
+      "assessment": "Tarif und Anmerkung vollständig geprüft. Beschränkter Auftrag und einfache Ausführung müssen zusammen vorliegen. Ein kurzer Erstbrief im umfassenden Mandat genügt nicht. Der feste Satz 0,3 wird bei Erweiterung nicht als zweite Geschäftsgebühr addiert. Einfaches Schreiben und einfacher Inkassofall sind unterschieden."
     },
     {
-      "id": "vv1001",
-      "status": "checked_no_change",
-      "assessment": "Ganzen Tatbestand samt Satz1,5 gelesen. Ernstlich hervorgetretener Scheidungs-/Aufhebungswille und Fortsetzung/Wiederaufnahme der Lebensgemeinschaft, anwaltliche Mitwirkung und Lebenspartnerschaftsübernahme zutreffend. Bloße Entscheidungsvertagung im Beispiel genügt nicht. Unverändert."
+      "id": "vv2302",
+      "status": "corrected_or_expanded",
+      "assessment": "Beide Tatbestandsgruppen, Rahmen 65–837 Euro und Schwelle 391 Euro geprüft. Sozialrecht nach § 3 und genau bezeichnete Wehrbeschwerde werden unterschieden. Rahmenmitte 451 Euro ersetzt nicht die Schwelle. Anrechnung, § 14 Absatz 2, Nr. 1005 und Inkrafttreten wurden gegengelesen."
     },
     {
-      "id": "vv1002",
-      "status": "corrected",
-      "assessment": "Beide Sätze und Satz1,5 geprüft. Entstehung nach Rechtsbehelfsänderung oder bisher abgelehntem Verwaltungsakt von bloßer Erfolgsmeldung getrennt. Qualifizierte erledigungsgerichtete Mitwirkung im isolierten Sozialvorverfahren anhand tatsächlichen BSG-Volltexts präzisiert; gegenteilige Vorinstanz und historischer Gebührenrahmen ausdrücklich abgegrenzt."
+      "id": "vv2303",
+      "status": "corrected_or_expanded",
+      "assessment": "Alle drei aktuellen Fallgruppen und Satz 1,5 geprüft. Fester Satz bedeutet keinen festen Eurobetrag. Gütestelle, Ausschuss und gesetzlich eingerichtete sonstige Stelle sind auseinandergehalten. Eine alte vierte Gruppe wurde nicht fortgeführt. Vorbemerkung 2.3 Absatz 6 und § 17 Nummer 7 passen zum Beispiel."
     },
     {
-      "id": "vv1003",
-      "status": "corrected",
-      "assessment": "Tarif und beide Absätze vollständig geprüft. Klarstellung nur Nr1000Nummer1, selbständiges Beweisverfahren, sämtliche PKH-Ausnahmen einschließlich§48-Erstreckung, KapMuG-Anmeldung und Gerichtsvollziehergleichstellung ergänzt. In Kindschaftssachen gerichtliche Billigung/nicht disponible Vereinbarung samt Entscheidungsvoraussetzung erklärt. Unterschiedliche Wertteile und§15(3) geprüft."
+      "id": "vb2.5",
+      "status": "corrected_or_expanded",
+      "assessment": "Exklusivitätssatz vollständig geprüft. Die Vorbemerkung erzeugt keine eigene Gebühr. BerHG §§ 1, 2 und 8 wurden am aktuellen XML gelesen; Umfang, erforderliche Vertretung und Vergütungssperre werden nicht mit der Tarifzuordnung verwechselt. § 44 und die Trennung von Gebühren und Auslagen sind erläutert."
     },
     {
-      "id": "vv1004",
-      "status": "corrected",
-      "assessment": "Ganzer Tarif und beide Absätze gelesen. Berufung/Revision, Nichtzulassung und Zulassung mit1,3 richtig. Bezug nur1000Nummer1 hervorgehoben. Verweis auf tatsächliche Beschwerde-/Rechtsbeschwerdekataloge3.2.1/3.2.2 geprüft; keine Einbeziehung erstinstanzlicher FG-Tätigkeit allein wegen Sammelverweises. Kindschaftsübernahme und Mehrgegenstandsbeispiel korrekt."
+      "id": "vv2500",
+      "status": "corrected_or_expanded",
+      "assessment": "15-Euro-Tarif und beide Anmerkungssätze geprüft. Ausschließlicher Schuldner ist der Rechtsuchende. Auslagenverbot, Erlass und Staatskassenvergütung werden getrennt; die kleine Eigenleistung ist nicht die gesamte Vergütung. Gegnerzahlungen nach § 58 Absatz 1 werden nicht zur Eigengebühr umgedeutet."
     },
     {
-      "id": "vv1005",
-      "status": "corrected",
-      "assessment": "Ganzer Tatbestand und beide Absätze gelesen. Entstehung von Bezugsbetrag getrennt; höchster Geschäftsgebührenbetrag statt Addition, ohne1008, gerichtliche Anhängigkeit führt1006. Ausschließliche§34-Beratung: halber Anmerkungsbetrag2302=195,50 aus391, nicht halber Höchstrahmen. Teilschätzung nach§14(1) geprüft. Historisches BSG-Entstehungsurteil nur begrenzt verwendet."
+      "id": "vv2501",
+      "status": "corrected_or_expanded",
+      "assessment": "42-Euro-Tarif und beide Absätze gelesen. Anfänglicher Zusammenhang schließt Entstehung aus; späterer Zusammenhang führt zur vollständigen Anrechnung. Das Beispiel mit 42 Euro auf 102 Euro stimmt. § 34 und der besondere Planberatungstarif sind abgegrenzt; bloße Unterlagenannahme ist noch keine Beratung."
     },
     {
-      "id": "vv1006",
-      "status": "corrected",
-      "assessment": "Gesamten Tarif samt zwei Absätzen gelesen. Konkrete Verfahrensgebühr der Einigungsangelegenheit als Bezugsgröße, ohne1008, Einheit auch bei nicht rechtshängigen Ansprüchen und Schätzung bei Teilerledigung richtig. Fiktive400-Euro-Basis ist ausdrücklich kein verbindlicher Rahmensatz. Präzisiert."
+      "id": "vv2502",
+      "status": "corrected_or_expanded",
+      "assessment": "Erhöhung auf 84 Euro und Bezug auf § 305 Absatz 1 Nummer 1 InsO geprüft. Planberatung, allgemeine Schuldenauskunft und Vertretung sind getrennt. Kein Vertragserfolg ist nötig. Die Beratung wird im Beispiel vollständig auf 486 Euro angerechnet; eine Gläubigerstaffel gibt es für diese Beratungsgebühr nicht."
     },
     {
-      "id": "vv1007",
-      "status": "checked_no_change",
-      "assessment": "Amtlichen weggefallenen Slot geprüft. Keine aktuelle Gebührenwirkung, historische Anwendung nur bei gesichertem Alttext und§60. Erhaltung der Nummernfolge und Beispiel korrekt. Unverändert."
+      "id": "vv2503",
+      "status": "corrected_or_expanded",
+      "assessment": "102-Euro-Tarif und beide Absätze geprüft. Geschäftstätigkeit und Vertragsmitwirkung sind von Beratung getrennt. Hälfte 51 Euro und Viertel 25,50 Euro wurden nachgerechnet. Die besondere Vollstreckbarerklärung wird nicht auf jede Vollstreckung übertragen. Die Bezugsregeln für Planstufen und Beratung bleiben erhalten."
     },
     {
-      "id": "vv1008",
-      "status": "corrected",
-      "assessment": "Tarif sowie alle vier Absätze gelesen. Zuschlagsgrenze2,0 von Gesamtgebühr unterschieden, Fest-/Betragsrahmenmodelle mit30% und Kappung erklärt. Wertgegenstandsidentität, gemeinschaftlicher Betrag und besondere Schwellenanpassung nachAbsatz4 geprüft. Rechnung1,3+3×0,3=2,2 und ausdrücklicher§31(2)-Ausschluss korrekt."
+      "id": "vv2504",
+      "status": "corrected_or_expanded",
+      "assessment": "Planbezug, Grenze bis fünf Gläubiger und 324 Euro geprüft. Ersetzung statt Zuschlag; tatsächliche Geschäftstätigkeit statt bloßer Auftragserteilung oder Beratung. Mehrere Rechnungen desselben Inhabers ergeben keine mehreren Gläubiger. Einigungserfolg, Beratungsvoranrechnung und Anschlussanrechnung sind gesondert behandelt."
     },
     {
-      "id": "vv1009",
-      "status": "corrected",
-      "assessment": "Alle drei Staffelzeilen und fünf Absätze gelesen. Auszahlung statt bloßem Eingang, unbare Gleichstellung, Entnahme, gesonderte Auszahlung, Wertpapiere/Kostbarkeiten, alle drei Ausnahmen und Mindestbetrag1Euro erklärt. Fiktive12.000-Euro-Auszahlung mit25+37,50+5=67,50Euro nachgerechnet. Keine Höchstsatzanwendung auf Gesamtbetrag."
+      "id": "vv2505",
+      "status": "corrected_or_expanded",
+      "assessment": "Sechs bis zehn Gläubiger und 486 Euro vollständig geprüft. Qualifiziertes Planmandat bleibt Voraussetzung; keine Addition der Stufen. Ein Inkassobevollmächtigter ist nicht automatisch weiterer Gläubiger. Vollständige Anrechnung der 84-Euro-Beratung und gesonderter Erfolgstatbestand sind richtig erläutert."
     },
     {
-      "id": "vv1010",
-      "status": "corrected",
-      "assessment": "Gesamte Tarifzeile und Folgesatz gelesen. Drei gerichtliche Vernehmungstermine und besonderer Umfang als kumulative Voraussetzungen erklärt. Satz0,3 versus30%-Erweiterung beider Terminsgebührenrahmengrenzen präzisiert. Reiner Vergleichstermin erfüllt Mindestzahl nicht. Prüfliste beibehalten und ergänzt."
+      "id": "vv2506",
+      "status": "corrected_or_expanded",
+      "assessment": "Elf bis fünfzehn Gläubiger und 647 Euro geprüft. Keine Pauschale für bloße Mehrgläubigerberatung und kein freier Zuschlag nach § 14. Das Beispiel zählt Inhaber statt Forderungen. Misserfolg, Beratung, Einigung und anschließendes Verfahren sind als verschiedene Gebührenfragen erläutert."
     },
     {
-      "id": "vb2",
-      "status": "checked_no_change",
-      "assessment": "Beide Absätze am vollständigen amtlichen Text geprüft. Vorrang§§34–36, gleiche Bevollmächtigtengebühren für Beistand im erfassten Verwaltungsverfahren und besonderer OLG-Erstinstanz-Strafmaßstab für parlamentarischen Ausschuss richtig. Beispiel behauptet keinen automatischen allgemeinen Geschäftstarif. Unverändert."
+      "id": "vv2507",
+      "status": "corrected_or_expanded",
+      "assessment": "Offene Stufe oberhalb fünfzehn Gläubigern und 810 Euro gelesen. Genau fünfzehn bleibt in Nr. 2506, ab sechzehn gilt Nr. 2507. Keine weitere Staffel oder Multiplikation. Gläubigeridentität wird trotz gemeinsamer Kontaktstelle geprüft; Beratungshilfe eröffnet keinen Wechsel auf Nr. 2300."
     },
     {
-      "id": "vv2100",
-      "status": "corrected",
-      "assessment": "Tarif0,5–1,0 und Anrechnung gelesen. Eigenständigen Prüfauftrag,§14-Bemessung, Ergebnisunabhängigkeit und§34-Vorbehalt konkretisiert. Tatsächlicher BGH-VolltextIXZR243/16 stützt Einordnung des unbedingt erteilten Auftrags; ausdrücklich offengelassene bedingte Gestaltung nicht als abschließend entschieden dargestellt. Spätere Anrechnung statt freier Doppelvergütung."
+      "id": "vv2508",
+      "status": "corrected_or_expanded",
+      "assessment": "180-Euro-Tarif und beide Absätze geprüft. Übernommen werden die Anmerkungen zu Nrn. 1000 und 1002, nicht die normalen Sätze. Anerkennung, Verzicht, Bedingung und Widerruf werden mitgelesen. Planvertrag und bloßer Versand sind getrennt. Kein Mehrfachansatz je Gläubiger; praktische Prüfliste erweitert."
     },
     {
-      "id": "vv2101",
-      "status": "corrected",
-      "assessment": "Vollständigen Änderungs-/Bezugstarif gelesen. Fest1,3 ersetzt0,5–1,0, kein additiver Zuschlag. Schriftliche Ausarbeitung von bloßer Ergebnismitteilung und Gerichtsvorprüfung getrennt. Anmerkung der Bezugsnummer bleibt für Folgeauftrag bestehen;§34-Verbrauchergrenzen nicht pauschal auf Tarif übertragen. Gutachtenbeispiel geprüft."
+      "id": "vb3",
+      "status": "corrected_or_expanded",
+      "assessment": "Alle acht Absätze gelesen. Unbedingter Auftrag, Beistand, Verfahrens- und Terminsgebühr einzeln erklärt. Absatz 4 enthält Hälfte, höchstens 0,75 beziehungsweise 225 Euro, letzte Geschäftsgebühr und gemeinsamen Wert. Absätze 5–7 werden nicht pauschal halbiert. § 14 Absatz 2, § 15a und Teil-6-Vorrang sind geprüft."
     },
     {
-      "id": "vv2102",
-      "status": "corrected",
-      "assessment": "Vollständigen Tatbestand, Rahmen39–419Euro und Anrechnungsanmerkung gelesen. Sozialrechtliche§3-Fälle und BetragsrahmenangelegenheitenTeile4–6 exakt abgegrenzt. Konkrete§14-Bemessung statt Höchstpreis. Schriftgutachtenverweis2103, Auftrag und Folgeanrechnung geprüft. Änderung und1.6.2025-Wirksamkeit am tatsächlichenBGBl109 nachgelesen."
+      "id": "vb3.1",
+      "status": "corrected_or_expanded",
+      "assessment": "Ganzer Auffangsatz geprüft. Spezialverfahren und Teil 6 gehen vor; innerhalb des Abschnitts kann Nr. 3102 gelten. Das Mahnverfahren fällt trotz zeitlich erster Bearbeitung unter die besonderen Gebühren. Vorbemerkung und konkreter Gebührentatbestand werden getrennt."
     },
     {
-      "id": "vv2103",
-      "status": "corrected",
-      "assessment": "Ganzer Tarif geprüft. Rahmen65–719Euro statt festen Satzes, keine Kumulation mit2102,§14 und weitergeltende Anrechnung der Bezugsgebühr erklärt. Schriftgutachten von kurzer Ergebnismitteilung unterschieden. Sozialbeispiel begrenzt auf§3-Fall. Praktische Abschnittsprüfliste ergänzt."
+      "id": "vv3100",
+      "status": "corrected_or_expanded",
+      "assessment": "1,3-Tarif und beide Anmerkungen vollständig gelesen. Entstehung und endgültiger Satz nach Nr. 3101 sind getrennt; Nr. 3102 bleibt eigener Geldrahmentarif. FamFG §§ 165 und 255 wurden im aktuellen XML gelesen. § 17 Nummern 3 und 8 beseitigen die Anrechnung nicht; bloßer zeitlicher Anschluss genügt nicht."
     },
     {
-      "id": "vv2200",
-      "status": "corrected",
-      "assessment": "Ganzer Tarif mit§28EuRAG gelesen. Konkrete Verfahrensgebühr als Vergleichsbasis, Vertretungsbefugnis und funktionelles Einvernehmen präzisiert. Fehlendes gesetzliches Vertragsverhältnis zum Mandanten nach§28(3) und abweichende Bestimmung erläutert. Schriftlicher Nachweis§29 gesondert geprüft. Keine Annahme automatischer Mandantenhaftung."
+      "id": "vv3101",
+      "status": "corrected_or_expanded",
+      "assessment": "Alle drei Fallgruppen und beide Anmerkungsabsätze geprüft. Qualifizierte Schriftsätze einschließlich Rücknahme, Auftragsende und Gerichtstermin sind erfasst. Mehrvergleich einschließlich gesetzlicher Gleichstellungen, Teilwerte, § 15 Absatz 3 und Überschussanrechnung erklärt. Streitige freiwillige Verfahren bleiben ausgenommen. BGH 2018 nur als Vergleich zum unmittelbaren Nr.-3201-Fall verwendet."
     },
     {
-      "id": "vv2201",
-      "status": "corrected",
-      "assessment": "Ganzer Ermäßigungstarif gelesen. Wertgebühr0,1–0,5 von Mindestbetrag einer einschlägigen Verfahrensgebühr unterschieden. Auftrag/Tätigkeit und Vertragspartei bleiben erforderlich. Fiktive Ablehnung nach Prüfung erfüllt keinen vollen Herstellungstatbestand; fremder späterer Erfolg ändert dies nicht automatisch. Abschnittsprüfliste ergänzt."
+      "id": "vv3102",
+      "status": "corrected_or_expanded",
+      "assessment": "Rahmen 65–719 Euro und §-3-Zuordnung gelesen. Mitte 392 Euro ist kein Pflichtbetrag. § 14 Absatz 2 bestimmt zunächst die Gebühr, dann folgt die Anrechnung bis 225 Euro. Nr. 3101 ändert nur Nr. 3100; kein Faktor 0,8 für diesen Rahmen. Nrn. 1006 und 3106 bleiben gesondert zu prüfen; Inkrafttreten und § 60 sind belegt."
     }
   ],
   "limitations": [
-    "Exactly20 assigned commentary units reviewed; all324 other blocks unchanged against32f768589f443acd40e96421c866edf4016f8862. No whole-book review or completion claim.",
-    "Selective case research for1002/1005 and2100 only; no new sufficiently relevant verified authority asserted for other17units and no exhaustive negative case survey.",
-    "BSG2013 concerns2006/2007 and the former independent1005 framework; current amount mechanics derive from current statute, not that judgment. BGH2017 leaves conditional-process/preliminary-review issue open.",
-    "Current official RVG, intake comparison, duplicate-node/operative-annex coverage and actual commencement checked; not a complete historical archive or guarantee against unincorporated legislation.",
-    "External EuRAG28/29 and FamFG156/269 checked only as cited cross-references; recent promulgations screened for their effect, not complete separate-law commentaries.",
-    "No external professional approval or publication; source/length checks do not certify legal quality."
+    "Exactly20 assigned units reviewed; all324 unassigned commentary blocks preserved against e271eaa. No whole-book review or completion claim.",
+    "Selective new case research only for2300 and3101; no new sufficiently relevant verified case asserted for the other18units. No exhaustive negative case survey.",
+    "BGH2012 addresses the general1.3threshold, not later special uncontroverted-collection rules. BGH2018 directly concerns3201/postal transmission, used only as a limited interpretive comparison for3101.",
+    "Current consolidation, intake change map, all currentXML nodes and annexes checked; no complete historical archive or guarantee against legislation not yet incorporated by the official service.",
+    "External laws checked only in the cited scope. Commencement/amendment checks of the latest relevant acts are not a complete historical commentary on those laws.",
+    "Technical text/length/repetition checks do not certify substantive legal quality. No external professional approval, publication, push or external submission."
   ],
   "whole_book_complete": false,
-  "evidence": "review-a2-vv2201-unit-evidence.json",
+  "evidence": "review-vb23-vv3102-unit-evidence.json",
   "preflight": "preflight-result.json",
   "case_cards": [
-    "cases/bsg-2013-b-11-al-15-12-r.md",
-    "cases/bgh-2017-ix-zr-243-16.md"
+    "cases/bgh-2012-viii-zr-323-11.md",
+    "cases/bgh-2018-xii-zb-112-17.md"
   ],
   "previous_bounded_results": [
     "review-p1-p14-result.json",
     "review-p15-p30-result.json",
     "review-p31-p46-result.json",
-    "review-p47-a1-result.json"
+    "review-p47-a1-result.json",
+    "review-a2-vv2201-result.json"
   ],
   "validation": {
-    "status": "passed",
-    "validated_at": "2026-10-20T10:39:54.444371+00:00",
-    "strict": {
-      "repo": "Komentar-DE-RVG-2004",
-      "units": 344,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 328611,
-      "errors": [],
-      "warnings": [],
-      "ok": true
-    },
-    "validated_manuscript_output_commit": "e6305c4894edc63b871580bcbe3a40e695cf6fe0",
-    "independent_coverage_ok": true,
-    "expected_units": 344,
-    "parsed_units": 344,
-    "all_assigned_official_texts_equal": true,
-    "all_other_324_commentaries_unchanged": true,
-    "annex2_value_fee_pairs_checked": 42,
-    "local_links_checked": 231,
-    "broken_local_links": [],
-    "identical_long_sentences": 0,
-    "identical_long_paragraphs": 0,
-    "quality_report": "quality-report.json",
-    "limitations": "Technical whole-band validation does not establish substantive review of unassigned units; legal review remains exactly20units."
+    "status": "awaiting build and strict validation"
   }
 }
