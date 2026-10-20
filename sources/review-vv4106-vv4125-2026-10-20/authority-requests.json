@@ -1,0 +1,45 @@
+[
+  {
+    "url": "https://www.gesetze-bayern.de/Content/Document/Y-300-Z-BECKRS-B-2024-N-3269",
+    "accessed_at": "2026-10-20T11:51:12.694743+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "local_path": "sources/review-vv4106-vv4125-2026-10-20/ag-nuernberg-3269.html",
+    "sha256": "4c757b2ef2e3677f1df9acc1464b228114a88bbd116f48602ac8a6830e9870df",
+    "validated_format": "HTML parsed, expected case docket present; editorial headnotes distinguished from tenor and reasons",
+    "court": "AG Nürnberg",
+    "date": "2024-02-14",
+    "docket": "401 Ds 207 Js 8267/22",
+    "ecli": null
+  },
+  {
+    "url": "https://www.gesetze-bayern.de/Content/Document/Y-300-Z-BECKRS-B-2024-N-48031",
+    "accessed_at": "2026-10-20T11:51:13.193455+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "local_path": "sources/review-vv4106-vv4125-2026-10-20/ag-nuernberg-48031.html",
+    "sha256": "0ecb13a851ce33c2bbc398471562a0445690f51084743f8d2b0178bc9091869a",
+    "validated_format": "HTML parsed, expected case docket present; editorial headnotes distinguished from tenor and reasons",
+    "court": "AG Nürnberg",
+    "date": "2024-05-02",
+    "docket": "401 Ds 207 Js 8267/22",
+    "ecli": null
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KVRE395261101.zip",
+    "accessed_at": "2026-10-20T11:51:30.321020+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "local_path": "sources/review-vv4106-vv4125-2026-10-20/KVRE395261101.zip",
+    "sha256": "911035c193fb8526e5fc326dcc33c9003c63a792bdbe4d1218cabcd5f1212c7d",
+    "validated_format": "ZIP, single expected decision XML, XML parsed",
+    "xml_path": "sources/review-vv4106-vv4125-2026-10-20/KVRE395261101.xml",
+    "xml_sha256": "30b45c37ac3b94a668ace84be963f844447a099e5631526bb6e21f43b32ea611",
+    "court": "BVerfG",
+    "date": "20110601",
+    "docket": "1 BvR 3171/10",
+    "ecli": "ECLI:DE:BVerfG:2011:rk20110601.1bvr317110",
+    "local_intake_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kvre395261101.md",
+    "local_intake_sha256": "155bfc2624bff64538390248a231c83dba01958c4d722eb1025e43a33f21c0a0"
+  }
+]

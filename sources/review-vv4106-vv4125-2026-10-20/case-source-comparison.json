@@ -1,0 +1,12 @@
+[
+  {
+    "id": "KVRE395261101",
+    "ecli": "ECLI:DE:BVerfG:2011:rk20110601.1bvr317110",
+    "nonempty_judicial_paragraphs": 46,
+    "missing_exact_paragraphs": [],
+    "all_paragraphs_present": true,
+    "official_xml_sha256": "30b45c37ac3b94a668ace84be963f844447a099e5631526bb6e21f43b32ea611",
+    "intake_sha256": "155bfc2624bff64538390248a231c83dba01958c4d722eb1025e43a33f21c0a0",
+    "method": "Every nonempty official p in all judicial sections matched to local corpus with whitespace removed; complete decisions were actually read."
+  }
+]

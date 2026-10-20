@@ -172,7 +172,11 @@ Prüfliste für das vorbereitende Strafmandat: Umfang von Auftrag und Bestellung
 > 48,00 bis 348,00 € |
 > 158,00 € |
 
-Die erstinstanzliche Verfahrensgebühr vor dem Amtsgericht vergütet die gerichtliche Bearbeitung außerhalb der gesonderten Tagestermine. Beispiel: Nach Eingang der Anklage prüft die Kanzlei den Eröffnungsbeschluss, stellt Anträge und bereitet die Verhandlung vor. Diese Handlungen fallen in die eine gerichtliche Verfahrensgebühr. Jeder neue Schriftsatz schafft keinen neuen Anspruch. Für den Wahlverteidiger wird der Rahmen nach § 14 bestimmt; bei Bestellung ist die entsprechende Festvergütung maßgeblich. Hauptverhandlungstage werden zusätzlich nach Nrn. 4108 ff. geprüft.
+Nr. 4106 vergütet das Betreiben des erstinstanzlichen gerichtlichen Geschäfts vor dem Amtsgericht einschließlich der Information. Der Wahlrahmen beträgt 48 bis 348 Euro, der Festbetrag für gerichtlich bestellte oder beigeordnete Vertretung 158 Euro. Weder ein Eröffnungsbeschluss noch eine tatsächlich durchgeführte Hauptverhandlung ist allgemeine Entstehungsvoraussetzung. Die Grenze zum vorbereitenden Verfahren ergibt sich aus Nr. 4104: insbesondere Eingang von Anklageschrift oder Strafbefehlsantrag bei Gericht. Die anschließende gerichtliche Tätigkeit ist deshalb auch im Strafbefehlsverfahren richtig zuzuordnen.
+
+Anträge, Aktenauswertung und Vorbereitung innerhalb derselben Angelegenheit lösen keine Verfahrensgebühr je Arbeitsschritt aus (§ 15). Die erstmalige Einarbeitung wird nach Nr. 4100, die Hauptverhandlungsteilnahme nach Nr. 4108 gesondert geprüft. Die Festvergütung wird bei großem Aufwand nicht durch eine freie Rahmenbemessung nach § 14 erhöht. [BVerfG, Beschluss vom 1. Juni 2011 – 1 BvR 3171/10, Rn. 24–28](cases/bverfg-2011-1-bvr-3171-10.md), trennt außergewöhnliche Vorleistungen von künftigen Terminsgebühren und verweist im dortigen existenzgefährdenden Pflichtmandat auf den Vorschuss zur Pauschgebühr nach § 51. Die damaligen Eurobeträge sind überholt; der Fall bestimmt keine allgemeine Stundenvergütung.
+
+Beispiel: Nach Eingang des Strafbefehlsantrags berät die Verteidigerin über die gerichtliche Verteidigung und arbeitet einen Einspruch aus. Die passende gerichtliche Verfahrensgebühr setzt kein vorheriges Hauptverhandeln voraus. Bei Freiheitsentziehung ist statt dieser Grundposition Nr. 4107 zu prüfen; für alte Aufträge bleibt § 60 maßgeblich.
 
 ### Nr. 4107 VV — Gebühr 4106 mit Zuschlag ..........
 
@@ -180,7 +184,11 @@ Die erstinstanzliche Verfahrensgebühr vor dem Amtsgericht vergütet die gericht
 
 > 4107 | Gebühr 4106 mit Zuschlag .......... | 48,00 bis 435,00 € | 193,00 € |
 
-Die Zuschlagsnummer gehört zur amtsgerichtlichen erstinstanzlichen Verfahrensgebühr, wenn der Beschuldigte nicht auf freiem Fuß ist. Beispiel: Nach Anklageeingang wird das Mandat unter fortdauernder Untersuchungshaft bearbeitet. Die erhöhte Nummer ist von der zuvor entstandenen Ermittlungsgebühr und ihrer Zuschlagsvariante getrennt zuzuordnen. Sie ist keine zusätzliche Grundgebühr und auch keine Gebühr je Haftbesuch.
+Nr. 4107 ist die gesamte Zuschlagsvariante der amtsgerichtlichen Verfahrensgebühr: 48 bis 435 Euro im Wahlmandat, 193 Euro für gerichtlich bestellte oder beigeordnete Vertretung. Die Beträge werden nicht zu denen der Nr. 4106 addiert. Der Zuschlag knüpft nach Vorbemerkung 4 Absatz 4 an den nicht auf freiem Fuß befindlichen Beschuldigten an; eine Bestellung allein und die bloße Schwere des Vorwurfs erfüllen dieses Merkmal nicht. Die Auftragsart und die Zugehörigkeit der Arbeit zum gerichtlichen ersten Rechtszug bleiben zusätzlich zu prüfen.
+
+Die Verfahrensgebühr erfasst die gerichtliche Bearbeitung insgesamt, nicht jeden Haftbesuch einzeln. Mehrere Besuche können den Umfang im Sinne des § 14 beeinflussen, ohne entsprechend viele Verfahrensgebühren zu schaffen. Die frühere vorbereitende Gebühr 4105 und die gerichtliche 4107 sind nach ihren jeweiligen Tätigkeitsbereichen zu unterscheiden. Haft in einer abgeschlossenen Ermittlungsphase beweist für sich noch keine Freiheitsentziehung während der später vergüteten Gerichtstätigkeit; bei einem Statuswechsel sind die maßgeblichen Daten festzuhalten.
+
+Beispiel: Der Verteidiger bearbeitet nach Anklageeingang die Sache eines weiterhin in Untersuchungshaft befindlichen Mandanten. Er prüft 4107 als gerichtliche Verfahrensposition. Die Teilnahme an einem Hauptverhandlungstag wird daneben nach 4109 beurteilt; ein gesonderter Katalogtermin außerhalb der Hauptverhandlung gehört dagegen zur Prüfung der Nrn. 4102/4103. Diese verschiedenen Leistungsarten dürfen nicht durch eine pauschale Hafttagabrechnung ersetzt werden.
 
 ### Nr. 4108 VV — Terminsgebühr je Hauptverhandlungstag in den in Nummer 4106 genannten Verfahren ..........
 
@@ -190,7 +198,11 @@ Die Zuschlagsnummer gehört zur amtsgerichtlichen erstinstanzlichen Verfahrensge
 > 84,00 bis 576,00 € |
 > 264,00 € |
 
-Die Terminsgebühr entsteht je Hauptverhandlungstag vor dem Amtsgericht. Mehrere Verhandlungstage werden daher anders behandelt als mehrere Schriftsätze innerhalb derselben Verfahrensgebühr. Beispiel: Die Beweisaufnahme wird an einem weiteren Kalendertag fortgesetzt. Für die Teilnahme an jedem Tag ist der Tatbestand zu prüfen. Innerhalb eines Tages führen bloße Unterbrechungen nicht zu mehreren Tagesgebühren. Bei Wahlverteidigung wird der Rahmen anhand der tatsächlichen Tagestätigkeit bemessen; bestellte Anwälte können unter den besonderen Zeitvoraussetzungen zusätzliche Langdauergebühren erhalten.
+Die Gebühr entsteht je Hauptverhandlungstag im erstinstanzlichen amtsgerichtlichen Verfahren. Der Wahlrahmen beträgt 84 bis 576 Euro, die Festvergütung 264 Euro. Die Tagesbezogenheit erlaubt für tatsächlich wahrgenommene Fortsetzungstage jeweils eine eigene Terminsposition; mehrere Verhandlungsabschnitte desselben Tages werden nicht durch bloße Pausen zu mehreren Tagesgebühren. Die Teilnahme ist von der außerhalb der Sitzung geleisteten Verfahrensarbeit nach Nr. 4106 abzugrenzen.
+
+Beim Wahlverteidiger richtet sich die Höhe nach den Umständen der jeweiligen Tagestätigkeit und § 14. Ein kurzer und ein besonders umfangreicher Beweisaufnahmetag müssen deshalb nicht gleich bewertet werden. Für bestellte oder beigeordnete Anwälte sind die Zeitstufen 4110/4111 gesondert geregelt. [BVerfG, 1. Juni 2011 – 1 BvR 3171/10, Rn. 25–28](cases/bverfg-2011-1-bvr-3171-10.md), verbietet in seiner Vorschusskonstellation, außergewöhnliche bereits geleistete Aktenarbeit mit noch ungewissen künftigen Tagesgebühren aufzurechnen. Daraus folgt keine zusätzliche Terminsgebühr für die Vorbereitung selbst.
+
+Beispiel: Am ersten Tag werden Zeugen gehört, am nächsten Tag wird die Beweisaufnahme fortgesetzt. Beide wahrgenommenen Hauptverhandlungstage werden getrennt erfasst. Fällt ein anberaumter Tag aus, sind die besonderen Voraussetzungen der Vorbemerkung 4 Absatz 3 zu prüfen: Erscheinen, nicht zu vertretender Ausfall und fehlende rechtzeitige Unterrichtung. Eine Absage erzeugt also nicht ohne Weiteres einen vergüteten Verhandlungstag. Bei einschlägiger Freiheitsentziehung tritt Nr. 4109 an die Stelle der Grundnummer.
 
 ### Nr. 4109 VV — Gebühr 4108 mit Zuschlag ..........
 
@@ -198,7 +210,11 @@ Die Terminsgebühr entsteht je Hauptverhandlungstag vor dem Amtsgericht. Mehrere
 
 > 4109 | Gebühr 4108 mit Zuschlag .......... | 84,00 bis 719,00 € | 321,00 € |
 
-Die amtsgerichtliche Tagesgebühr erhält bei fehlendem freien Fuß den besonderen Zuschlagsrahmen beziehungsweise Festbetrag. Beispiel: Der Angeklagte wird zum Verhandlungstag aus der Haft vorgeführt. Für diesen Tag ist die Zuschlagsnummer zu prüfen, nicht die Grundnummer zusätzlich nochmals anzusetzen. Die Teilnahmezeit bleibt für mögliche bestelltenbezogene Langdauergebühren gesondert zu erfassen. Haftzuschlag und Langdauerzuschlag beruhen auf verschiedenen Voraussetzungen.
+Der Hafttarif für die Hauptverhandlungstage der Nr. 4108 beträgt 84 bis 719 Euro im Wahlrahmen und 321 Euro als Bestellten- oder Beigeordnetenbetrag. Vorbemerkung 4 Absatz 4 und der Tagesgebührentatbestand müssen zusammen vorliegen. Nr. 4109 enthält den vollständigen erhöhten Tagesbetrag; 264 Euro aus Nr. 4108 werden nicht zusätzlich angesetzt. Auch im Wahlmandat ist die obere Rahmenzahl kein automatisch geschuldeter Preis.
+
+Die Tagesgebühr ist vom Haftstatus während einer anderen Verfahrensphase zu unterscheiden. Bei wechselnder Freiheitslage muss die Zuordnung der konkreten Terminstätigkeit nachvollziehbar bleiben. Ein Gespräch in der Haftanstalt ist noch kein Hauptverhandlungstag. Die Abrechnung getrennt geregelter Vernehmungs- oder Haftverhandlungstermine außerhalb der Hauptverhandlung folgt den Nrn. 4102/4103, nicht diesem Tagestarif.
+
+Beispiel: Der Angeklagte wird aus fortdauernder Untersuchungshaft zum amtsgerichtlichen Hauptverhandlungstag gebracht, an dem seine bestellte Verteidigerin teilnimmt. Sie prüft 321 Euro nach Nr. 4109. Ergibt die gesonderte Zeitrechnung sechs anrechenbare Stunden, kann Nr. 4110 mit 132 Euro hinzutreten. Die Summe dieser beiden Gebühren beträgt dann 453 Euro vor Auslagen und Umsatzsteuer. Die Terminsgebühr mit Haftzuschlag und die zusätzliche Zeitgebühr sind verschiedene Positionen; beide Zeitstufen 4110 und 4111 zugleich entstehen für diesen Tag nicht.
 
 ### Nr. 4110 VV — Der gerichtlich bestellte oder beigeordnete Rechtsanwalt nimmt mehr als 5 und bis 8 Stunden an der Hauptverhandlung teil:
 
@@ -209,7 +225,11 @@ Die amtsgerichtliche Tagesgebühr erhält bei fehlendem freien Fuß den besonder
 >
 > 132,00 € |
 
-Nur gerichtlich bestellte oder beigeordnete Anwälte erhalten diese zusätzliche Gebühr bei mehr als fünf und höchstens acht Stunden maßgeblicher Hauptverhandlungsteilnahme. Genau fünf Stunden genügen nicht. Beispiel: Der Verteidiger erreicht nach Bereinigung der nach Vorbemerkung 4.1 ausgeschlossenen Zeiten fünfeinhalb Stunden. Der Zuschlag tritt neben Nr. 4108 oder 4109; ein Wahlverteidiger kann ihn nicht allein wegen gleicher Sitzungsdauer als eigenen Festzuschlag verlangen.
+Nr. 4110 gewährt ausschließlich gerichtlich bestellten oder beigeordneten Anwälten 132 Euro zusätzlich zur amtsgerichtlichen Terminsgebühr 4108 oder 4109. Die anrechenbare Hauptverhandlungsteilnahme muss mehr als fünf und höchstens acht Stunden betragen. Genau fünf Stunden reichen nicht; genau acht Stunden gehören noch zu dieser Stufe. Die leere Wahlanwaltsspalte darf weder mit null Euro als allgemeinem Gebührenrahmen noch mit einem Anspruch auf denselben Festzuschlag verwechselt werden. Im Wahlmandat ist die Dauer innerhalb der Rahmenbemessung zu würdigen.
+
+Vorbemerkung 4.1 Absatz 3 bezieht Wartezeiten und Unterbrechungen desselben Hauptverhandlungstags grundsätzlich ein. Ausgenommen sind vom Anwalt zu vertretende Zeiten sowie Unterbrechungen von jeweils mindestens einer Stunde, soweit sie unter Angabe konkreter Dauer oder eines Fortsetzungszeitpunkts angeordnet wurden. Nicht jede längere tatsächliche Verzögerung ist daher ohne weitere Prüfung abzuziehen. Anreise, Vorbereitung im Büro und die Dauer eines anderen Sitzungstags werden nicht zur Tagesteilnahme addiert.
+
+Beispiel: Der Zeitraum der maßgeblichen Teilnahme beträgt sechs Stunden und zwanzig Minuten. Eine darin enthaltene, konkret von 12.00 bis 13.00 Uhr angeordnete Unterbrechung ist auszunehmen. Es bleiben fünf Stunden und zwanzig Minuten; Nr. 4110 ist eröffnet. Bei nur fünf Stunden verbliebe die Tagesgebühr ohne diesen Zusatz. Die Dokumentation muss deshalb Beginn, Ende, Anordnungen und selbst zu vertretende Verzögerungen unterscheiden. Bei mehr als acht Stunden gilt stattdessen Nr. 4111.
 
 ### Nr. 4111 VV — Der gerichtlich bestellte oder beigeordnete Rechtsanwalt nimmt mehr als 8 Stunden an der Hauptverhandlung teil:
 
@@ -220,7 +240,11 @@ Nur gerichtlich bestellte oder beigeordnete Anwälte erhalten diese zusätzliche
 >
 > 264,00 € |
 
-Bei mehr als acht Stunden maßgeblicher Teilnahme greift die höhere amtsgerichtliche Langdauerstufe. Genau acht Stunden gehören noch zur niedrigeren Gruppe. Beispiel: Nach Abzug einer gesetzlich auszunehmenden Unterbrechung bleiben acht Stunden und zehn Minuten. Dann ist die höhere Zusatzgebühr zu prüfen. Die beiden Zeitstufen werden nicht für denselben Tag kumuliert; sonst würde derselbe Langdaueraufwand doppelt erfasst.
+Die höhere amtsgerichtliche Langdauerstufe beträgt 264 Euro. Sie setzt für den gerichtlich bestellten oder beigeordneten Anwalt mehr als acht anrechenbare Stunden an einem Hauptverhandlungstag voraus und tritt neben Nr. 4108 oder 4109. Sie wird nicht zugleich mit Nr. 4110 abgerechnet: Die Intervalle „bis acht“ und „mehr als acht“ schließen sich aus. Auch ist der Betrag kein Stundensatz, der für jede weitere Stunde erneut anfiele.
+
+Die Zeitrechnung richtet sich nach Vorbemerkung 4.1 Absatz 3 und nicht allein nach der Zeitspanne zwischen Betreten und Verlassen des Gerichts. Von dem Anwalt zu vertretende Zeiten und die dort qualifizierten mindestens einstündigen angeordneten Unterbrechungen bleiben außer Ansatz; die grundsätzlich einbezogenen Wartezeiten sind dagegen nicht pauschal zu streichen. Vorbereitung am Vorabend verlängert die Teilnahme an diesem Hauptverhandlungstag nicht.
+
+Beispiel: Zwischen maßgeblichem Beginn und Ende liegen neun Stunden und zehn Minuten. Eine konkret angeordnete 70-Minuten-Unterbrechung muss abgezogen werden. Die verbleibenden acht Stunden tragen nur Nr. 4110. Bei einer solchen Ausgangsspanne von neun Stunden und zwanzig Minuten bleiben dagegen acht Stunden und zehn Minuten und damit Nr. 4111. Für einen Tag nach Nr. 4109 ergeben 321 Euro Tagesgebühr und 264 Euro Zusatz 585 Euro, vor den gesonderten Auslagen- und Steuerpositionen. Die Minute an der Grenze ändert die Tarifstufe, nicht den gesetzlichen Bestelltenstatus.
 
 ### Nr. 4112 VV — Verfahrensgebühr für den ersten Rechtszug vor der Strafkammer ..........
 
@@ -242,7 +266,11 @@ Bei mehr als acht Stunden maßgeblicher Teilnahme greift die höhere amtsgericht
 >
 > | | |
 
-Die Verfahrensgebühr der Strafkammer gilt ausdrücklich auch für die genannten Jugendkammer- und Rehabilitierungsverfahren. Zunächst ist die Spruchkörperzuständigkeit abzugrenzen, weil Nr. 4118 besondere Kammerkonstellationen höher einordnet. Beispiel: Ein Verfahren wird vor einer gewöhnlichen Jugendkammer geführt. Der Jugendbezug allein entscheidet noch nicht zwischen beiden Nummern; maßgeblich ist die im Tarif beschriebene Zuständigkeit. Vorbereitungs- und gerichtliche Phase bleiben getrennt, die Grundgebühr bleibt grundsätzlich einmalig. Die konkrete Wahlgebühr wird nach § 14 bemessen.
+Der Wahlrahmen der erstinstanzlichen Verfahrensgebühr vor der Strafkammer beträgt 60 bis 384 Euro; die Festvergütung liegt bei 178 Euro. Die Anmerkung erweitert den Tatbestand ausdrücklich auf Verfahren vor der Jugendkammer, soweit nicht Nr. 4118 gilt, sowie auf Rehabilitierungsverfahren nach Abschnitt 2 StrRehaG. Der Rehabilitierungstatbestand darf nicht auf gewöhnliche Strafverfolgung verkürzt werden. Umgekehrt macht die organisatorische Ansiedlung bei einem Landgericht nicht jede Tätigkeit zu einer erstinstanzlichen Strafkammersache dieses Tarifs.
+
+Vorrangig ist Nr. 4118 abzugrenzen: Dort werden Oberlandesgericht, Schwurgericht und die Strafkammern nach §§ 74a und 74c GVG sowie bestimmte Jugendkammersachen besonders erfasst. Ein landgerichtliches Berufungsverfahren folgt Nr. 4124, nicht allein wegen der Bezeichnung Strafkammer Nr. 4112. Innerhalb der zutreffenden Angelegenheit gilt das Betreiben einschließlich Information; nicht jede Eingabe verdient eine weitere Verfahrensgebühr. Grundgebühr und Hauptverhandlungstage haben eigene Tatbestände.
+
+Beispiel: Die Jugendkammer behandelt im ersten Rechtszug eine Sache, die nach allgemeinen Vorschriften nicht zur Schwurgerichtszuständigkeit gehört. Die ausdrücklich subsidiäre Jugendkammeranmerkung führt zu Nr. 4112. Liegen dagegen die Voraussetzungen der Jugendkammererweiterung bei Nr. 4118 vor, verdrängt diese Zuordnung den gewöhnlichen Rahmen. Die Schwierigkeit wird erst nach dieser Tarifwahl nach § 14 gewürdigt; sie erlaubt keinen freien Wechsel zur höheren Gerichtsgruppe.
 
 ### Nr. 4113 VV — Gebühr 4112 mit Zuschlag ..........
 
@@ -250,7 +278,11 @@ Die Verfahrensgebühr der Strafkammer gilt ausdrücklich auch für die genannten
 
 > 4113 | Gebühr 4112 mit Zuschlag .......... | 60,00 bis 480,00 € | 216,00 € |
 
-Die Zuschlagsvariante betrifft die Verfahrensgebühr der nach Nr. 4112 erfassten gerichtlichen Bearbeitung. Beispiel: Eine Strafkammersache wird nach Anklageeingang für einen inhaftierten Beschuldigten geführt. Die erhöhte Nummer ist im passenden Abschnitt anzusetzen; die vorherige Haft im Ermittlungsverfahren macht nicht sämtliche späteren Gebühren unabhängig von ihrer eigenen Lage automatisch zu Zuschlagsgebühren. Die tatsächlichen Voraussetzungen sind zu dokumentieren.
+Nr. 4113 erhöht die Verfahrensposition 4112 bei der Freiheitslage nach Vorbemerkung 4 Absatz 4 auf einen Wahlrahmen von 60 bis 480 Euro und einen gesetzlichen Festbetrag von 216 Euro. Die Zuschlagsposition übernimmt den gesamten Anwendungsbereich einschließlich der dortigen Jugendkammer- und Rehabilitierungsalternativen. Gerade bei diesen Erweiterungen müssen neben der Verfahrenszuordnung auch die tatsächlichen Voraussetzungen fehlenden freien Fußes bestehen; die bloße Verfahrensbezeichnung trägt den Zuschlag nicht.
+
+Der Betrag ersetzt die Grundposition 4112. Eine Berechnung von 178 plus 216 Euro für dieselbe Verfahrensgebühr ist deshalb falsch. Ebenso wenig löst jeder weitere Haftbesuch erneut 216 Euro aus. Ermittlungs- und Gerichtstätigkeit sowie unterschiedliche Rechtszüge sind voneinander zu trennen; ein früherer Zuschlag 4105 wird nicht einfach als Zuschlagsnachweis in den späteren Abschnitt übernommen. Die Höhe einer Wahlgebühr bleibt innerhalb des erhöhten Rahmens nach § 14 zu begründen.
+
+Beispiel: Nach Anklageeingang bearbeitet ein bestellter Verteidiger die gewöhnliche erstinstanzliche Strafkammersache seines weiter inhaftierten Mandanten. Nr. 4113 ist als Verfahrensgebühr einschlägig; für den später wahrgenommenen Hauptverhandlungstag wird Nr. 4115 gesondert geprüft. Ergibt die Zuständigkeitsprüfung stattdessen eine Strafkammer nach § 74c GVG, ist die Verfahrensposition aus 4118/4119 auszuwählen. Haft kann eine falsche Spruchkörpergruppe nicht heilen.
 
 ### Nr. 4114 VV — Terminsgebühr je Hauptverhandlungstag in den in Nummer 4112 genannten Verfahren ..........
 
@@ -260,7 +292,11 @@ Die Zuschlagsvariante betrifft die Verfahrensgebühr der nach Nr. 4112 erfassten
 > 96,00 bis 671,00 € |
 > 307,00 € |
 
-Die Tagesgebühr der Strafkammer knüpft an die in Nr. 4112 eingeordneten Verfahren an. Beispiel: Eine Wirtschaftssache wird nicht allein wegen wirtschaftlichen Inhalts schon nach dieser Nummer beurteilt; zuerst ist die möglicherweise spezielle Zuständigkeit nach Nr. 4118 zu prüfen. Bei passender Grundzuordnung wird jeder wahrgenommene Hauptverhandlungstag einzeln erfasst. Der Wahlgebührenrahmen kann je nach Schwierigkeit und Dauer des betreffenden Tages unterschiedlich bemessen werden, während für bestellte Anwälte die Festvergütung und besondere Langdauerstufen gelten.
+Nr. 4114 enthält die Tagesgebühr für Hauptverhandlungen in den Verfahren der Nr. 4112: 96 bis 671 Euro für Wahlvertretung und 307 Euro als Festbetrag. Die Verweisung übernimmt die dortige Einbeziehung der Jugendkammer und der Rehabilitierungssachen, nicht nur die kurze Bezeichnung Strafkammer. Zunächst muss tatsächlich ein Hauptverhandlungstag beziehungsweise ein einschlägiger besonderer Entstehungstatbestand vorliegen. Nicht jede Anhörung in einer Rehabilitierungssache wird bereits durch die Verfahrensgebührenanmerkung zu einer Hauptverhandlung.
+
+Bei mehreren wahrgenommenen Tagen kann je Tag eine Gebühr entstehen. Für die Wahlgebühr sind Umfang, Schwierigkeit und die weiteren §-14-Kriterien in Bezug auf die jeweilige Tätigkeit zu würdigen. Die Festvergütung wird nicht durch eine solche Ermessensbemessung verändert; für lange Tage sind Nrn. 4116/4117 vorgesehen. Ein Berufungstag vor einer kleinen Strafkammer ist nach Nrn. 4126/4127 einzuordnen und wird nicht wegen des Kammernamens zu Nr. 4114.
+
+Beispiel: In einer gewöhnlichen erstinstanzlichen Strafkammersache folgt auf einen kurzen Beweisaufnahmetag ein längerer Fortsetzungstag. Beide Tagespositionen sind getrennt zu erfassen. Bei Freiheitsentziehung ist jeweils Nr. 4115 zu prüfen. Eine Sache der besonderen Wirtschaftsstrafkammer nach § 74c GVG gehört dagegen zur Gruppe 4118/4120. Weder eine wirtschaftliche Fragestellung allein noch die lange Dauer eines Tags erlaubt, die Verweisung der Nr. 4114 zu übergehen.
 
 ### Nr. 4115 VV — Gebühr 4114 mit Zuschlag ..........
 
@@ -268,7 +304,11 @@ Die Tagesgebühr der Strafkammer knüpft an die in Nr. 4112 eingeordneten Verfah
 
 > 4115 | Gebühr 4114 mit Zuschlag .......... | 96,00 bis 839,00 € | 374,00 € |
 
-Die Zuschlagsnummer erhöht die Tagesvergütung nach Nr. 4114 bei der maßgeblichen Freiheitsentziehung. Beispiel: In einer gewöhnlichen Strafkammersache bleibt der Angeklagte am Verhandlungstag in Haft. Die richtige Zuschlags-Tagesgebühr ist von den daneben möglichen Langdauerpositionen zu unterscheiden. Der Haftstatus rechtfertigt nicht die zusätzliche Kumulation der Grundtagesgebühr; die höhere Nummer ist deren Variante.
+Für einen Hauptverhandlungstag der Gruppe 4112/4114 gilt bei nicht auf freiem Fuß befindlichem Beschuldigten der erhöhte Wahlrahmen von 96 bis 839 Euro beziehungsweise der Festbetrag von 374 Euro. Nr. 4115 verbindet die zutreffende Gerichts- und Verfahrensgruppe mit der Zuschlagsvoraussetzung aus Vorbemerkung 4 Absatz 4. Der Festbetrag wird anstelle von 307 Euro nach Nr. 4114 verlangt, nicht zusätzlich zu ihm.
+
+Die Haftlage ist auf die vergütete Tagestätigkeit zu beziehen. Eine Wochen zuvor beendete Untersuchungshaft beweist den Tageszuschlag nicht. Die außerhalb der Sitzung geleistete Verteidigungsarbeit wird ihrerseits nach 4112/4113 geprüft. Dass Verfahren und Tag verschiedene Gebühren auslösen können, rechtfertigt keine Verdoppelung derselben Tagesposition. Auch die Frage, ob ein ausgefallener Termin vergütet wird, bleibt von den besonderen Erscheinens- und Benachrichtigungsvoraussetzungen der Vorbemerkung 4 Absatz 3 abhängig.
+
+Beispiel: Die bestellte Anwältin nimmt im ersten Rechtszug vor der gewöhnlichen Strafkammer an einem Tag für ihren weiter inhaftierten Mandanten teil. Bei sieben nach Vorbemerkung 4.1 Absatz 3 anrechenbaren Stunden stehen neben den 374 Euro der Tagesgebühr die 154 Euro aus Nr. 4116 zur Prüfung. Dies ergibt 528 Euro an diesen beiden Gebühren, vor Auslagen und Umsatzsteuer. Würde die Sache zur besonderen Gruppe 4118 gehören, wären Tages- und Zeitnummern insgesamt neu zuzuordnen; die höheren Beträge werden nicht allein nach Aufwand ausgewählt.
 
 ### Nr. 4116 VV — Der gerichtlich bestellte oder beigeordnete Rechtsanwalt nimmt mehr als 5 und bis 8 Stunden an der Hauptverhandlung teil:
 
@@ -279,7 +319,11 @@ Die Zuschlagsnummer erhöht die Tagesvergütung nach Nr. 4114 bei der maßgeblic
 >
 > 154,00 € |
 
-Die mittlere Langdauerstufe der Strafkammer setzt bei bestellten oder beigeordneten Anwälten mehr als fünf bis einschließlich acht Stunden Teilnahme voraus. Beispiel: Eine umfangreiche Zeugenvernehmung führt zu sechs bereinigten Stunden. Dann ist die Zusatzgebühr neben Nr. 4114 oder 4115 zu prüfen. Für die Zeitrechnung gilt Vorbemerkung 4.1 Absatz 3; nicht jede im Gerichtsgebäude verbrachte Stunde zählt uneingeschränkt.
+Die zusätzliche Gebühr von 154 Euro gilt für gerichtlich bestellte oder beigeordnete Anwälte bei mehr als fünf bis einschließlich acht Stunden Hauptverhandlungsteilnahme in der Gruppe 4114/4115. Sie ergänzt die jeweils zutreffende Tagesgebühr; die Haftzuschlagsvariante erhöht diesen Zeitbetrag nicht nochmals. Ein Wahlverteidiger erhält aus dieser Nummer keinen gesonderten gesetzlichen Festzuschlag, obwohl die Sitzungsdauer für seine Rahmenbemessung erheblich sein kann.
+
+Die erforderliche Dauer bestimmt sich nach Vorbemerkung 4.1 Absatz 3. Grundsätzlich zählen Wartezeiten und Unterbrechungen an diesem Tag mit. Auszunehmen sind anwaltlich zu vertretende Zeiten sowie qualifizierte Unterbrechungen von jeweils mindestens einer Stunde mit konkret angeordneter Dauer oder Fortsetzungszeit. Einzelne kürzere Pausen werden nicht allein durch Addition zu einer ausgeschlossenen einstündigen Unterbrechung. Bei einer Schwurgerichts- oder besonderen Kammerzuständigkeit ist zuerst die andere Tarifgruppe abzugrenzen.
+
+Beispiel: Ein Strafkammertag umfasst einschließlich berücksichtigungsfähiger Wartezeit sechs Stunden und zehn Minuten. Zwei nicht selbst verschuldete Unterbrechungen von je 35 Minuten erfüllen für sich nicht die einstündige Ausnahme; ohne weitere Ausschlusszeiten liegt die mittlere Zeitstufe vor. Endet die bereinigte Teilnahme dagegen exakt nach fünf Stunden, fehlt ihr Tatbestand. Die Berechnung sollte deshalb konkrete Zeitblöcke zeigen und sich nicht auf die pauschale Angabe „ganztägige Sitzung“ beschränken.
 
 ### Nr. 4117 VV — Der gerichtlich bestellte oder beigeordnete Rechtsanwalt nimmt mehr als 8 Stunden an der Hauptverhandlung teil:
 
@@ -290,7 +334,11 @@ Die mittlere Langdauerstufe der Strafkammer setzt bei bestellten oder beigeordne
 >
 > 307,00 € |
 
-Mehr als acht bereinigte Stunden eröffnen die höhere Strafkammer-Langdauergebühr für bestellte oder beigeordnete Vertretung. Beispiel: Ein Sitzungstag mit langer Beweisaufnahme endet nach neun anrechenbaren Stunden. Die höhere Stufe ersetzt für diesen Tag die mittlere Langdauerstufe. Die Spruchkörpergruppe muss stimmen: Ein nach Nr. 4118 einzuordnender Prozess hat andere Beträge und eigene Nummern.
+Nr. 4117 gewährt bei mehr als acht anrechenbaren Hauptverhandlungsstunden 307 Euro zusätzlich zur Terminsgebühr 4114 oder 4115. Berechtigt ist nur der gerichtlich bestellte oder beigeordnete Anwalt. Die Nummer beschreibt die höhere alternative Zeitstufe; 154 Euro aus Nr. 4116 werden für denselben Tag nicht daneben angesetzt. Auch bei zehn Stunden entstehen nicht mehrere Beträge nach Nr. 4117.
+
+Der Kammername allein reicht zur Zuordnung nicht aus. Ein nach Nr. 4118 erfasstes Schwurgerichts- oder besonderes Strafkammerverfahren hat eigene Tages- und Zeitgebühren. Ein Berufungsverfahren richtet sich ebenfalls nach einer anderen Nummerngruppe. Erst nach richtiger Verfahrenseinordnung wird die Teilnahme nach Vorbemerkung 4.1 Absatz 3 berechnet. Ein größerer Aktenumfang kann die Stundenhürde nicht ersetzen; er ist außerhalb der Sitzung gegebenenfalls bei anderen Vergütungsfragen zu würdigen.
+
+Beispiel: Der bestellte Verteidiger nimmt an einem gewöhnlichen erstinstanzlichen Strafkammertag mit acht Stunden und fünf Minuten bereinigter Dauer teil. Bei freiem Mandanten ergibt sich aus 307 Euro nach Nr. 4114 und 307 Euro nach Nr. 4117 eine Gebührensumme von 614 Euro vor Auslagen und Umsatzsteuer. War dagegen noch eine qualifizierte zehnminütige anwaltlich zu vertretende Verzögerung in den acht Stunden und fünf Minuten enthalten, würde deren Abzug die höhere Stufe ausschließen. Gerade bei knappen Grenzen sind tatsächliche Teilnahme und Ausschlussgrund einzeln zu belegen.
 
 ### Nr. 4118 VV — Verfahrensgebühr für den ersten Rechtszug vor dem Oberlandesgericht, dem Schwurgericht oder der Strafkammer nach den §§ 74a und 74c GVG ..........
 
@@ -304,7 +352,11 @@ Mehr als acht bereinigte Stunden eröffnen die höhere Strafkammer-Langdauergeb�
 >
 > Die Gebühr entsteht auch für Verfahren vor der Jugendkammer, soweit diese in Sachen entscheidet, die nach den allgemeinen Vorschriften zur Zuständigkeit des Schwurgerichts gehören. | | |
 
-Der erhöhte erstinstanzliche Verfahrensrahmen betrifft Oberlandesgericht, Schwurgericht und die ausdrücklich bezeichneten besonderen Strafkammern. Jugendkammern werden erfasst, soweit die Sache nach allgemeinen Vorschriften zur Schwurgerichtszuständigkeit gehört. Beispiel: Eine Jugendkammer verhandelt eine entsprechend qualifizierte Sache. Der bloße Name „Jugendkammer“ darf nicht zur gewöhnlichen Nr. 4112 führen, wenn die Sonderzuständigkeit vorliegt. Umgekehrt genügt die allgemeine Komplexität einer Strafsache nicht zur freien Wahl dieses höheren Rahmens. Der konkrete gerichtliche Zuschnitt ist vor der Gebührenbemessung festzustellen.
+Der besondere erstinstanzliche Verfahrensrahmen beträgt 120 bis 827 Euro, der Festbetrag 379 Euro. Er erfasst Verfahren vor dem Oberlandesgericht, dem Schwurgericht und den Strafkammern nach §§ 74a und 74c GVG. Die Anmerkung bezieht Jugendkammern ein, soweit sie in Sachen entscheiden, die nach allgemeinen Vorschriften zur Zuständigkeit des Schwurgerichts gehören. Die beiden ausdrücklich bezeichneten besonderen Strafkammerzuständigkeiten dürfen weder hinter dem Sammelbegriff „komplizierte Strafsache“ verschwinden noch auf jedes wirtschaftlich oder politisch geprägte Delikt erweitert werden.
+
+Maßgeblich ist der erste Rechtszug der bezeichneten Gruppe. Das Oberlandesgericht als Revisionsgericht fällt deshalb nicht schon wegen seines Gerichtsnamens unter Nr. 4118. Für eine gewöhnliche Jugendkammersache bleibt Nr. 4112 maßgeblich. Die Auswahl der Gruppe geht der Ermessensbemessung im Wahlrahmen nach § 14 voraus; ein besonders arbeitsintensives Amtsgerichtsverfahren wird nicht zu diesem Tarif hochgestuft.
+
+Beispiel: Die Jugendkammer führt im ersten Rechtszug eine Sache, die nach allgemeinen Vorschriften dem Schwurgericht zuzuordnen wäre. Dann ist die besondere Jugendkammeranmerkung anzuwenden. Die gerichtliche Bearbeitung wird nach Nr. 4118, ihre Hauptverhandlungstage nach Nr. 4120 geprüft; bei Freiheitsentziehung kommen die Varianten 4119 und 4121 in Betracht. Eine neue Grundgebühr allein wegen dieser Gerichtszuordnung entsteht dem schon eingearbeiteten Verteidiger nicht. Für die zeitlich anzuwendenden Geldbeträge ist bei älteren Mandaten § 60 voranzustellen.
 
 ### Nr. 4119 VV — Gebühr 4118 mit Zuschlag ..........
 
@@ -312,7 +364,11 @@ Der erhöhte erstinstanzliche Verfahrensrahmen betrifft Oberlandesgericht, Schwu
 
 > 4119 | Gebühr 4118 mit Zuschlag .......... | 120,00 bis 1 034,00 € | 462,00 € |
 
-Die Zuschlagsvariante übernimmt die besondere Gerichts- und Verfahrenszuordnung der Nr. 4118 und verlangt zusätzlich die Freiheitslage nach Vorbemerkung 4. Beispiel: Ein erstinstanzliches OLG-Verfahren wird gegen einen inhaftierten Beschuldigten geführt. Der erhöhte Rahmen beziehungsweise Bestelltenbetrag ist zu prüfen. Die besondere Zuständigkeit und die Freiheitsentziehung sind getrennte Voraussetzungen; die eine ersetzt die andere nicht.
+Nr. 4119 enthält für die gerichtliche Verfahrensarbeit der Gruppe 4118 den Hafttarif: 120 bis 1.034 Euro für Wahlvertretung und 462 Euro für bestellte oder beigeordnete Vertretung. Es müssen sowohl die besondere erstinstanzliche Zuständigkeit einschließlich ihrer Jugendkammererweiterung als auch die Freiheitslage nach Vorbemerkung 4 Absatz 4 gegeben sein. Die inhaftierte Person und der besondere Spruchkörper sind unterschiedliche Anknüpfungspunkte; keiner ersetzt den jeweils anderen.
+
+Die Zuschlagsnummer ersetzt Nr. 4118 als vollständige Verfahrensposition. 379 Euro und 462 Euro werden für diese eine Gebühr nicht addiert. Die erhöhte Rahmenobergrenze bedeutet auch nicht, dass im Wahlmandat jede große Akte mit 1.034 Euro abzurechnen wäre; dafür bedarf es der Bemessung nach § 14. Die Grundgebühr für erste Einarbeitung, die Verfahrensgebühr des vorbereitenden Abschnitts und die Gebühr für einen späteren Sitzungstag sind jeweils nach ihrem eigenen Leistungsbereich zu prüfen.
+
+Beispiel: Der Verteidiger bearbeitet nach Anklageeingang ein erstinstanzliches Verfahren vor dem Oberlandesgericht für einen weiter inhaftierten Beschuldigten. Die passende gerichtliche Verfahrensnummer ist 4119. Ein zusätzlich wahrgenommener Hauptverhandlungstag wird nach 4121 bewertet. Befasst sich dasselbe Oberlandesgericht dagegen mit einer Revision, trägt sein Gerichtsname diese Kombination nicht: Rechtszug und Tarifabschnitt müssen trotz derselben Haftlage gewechselt werden.
 
 ### Nr. 4120 VV — Terminsgebühr je Hauptverhandlungstag in den in Nummer 4118 genannten Verfahren ..........
 
@@ -322,7 +378,11 @@ Die Zuschlagsvariante übernimmt die besondere Gerichts- und Verfahrenszuordnung
 > 156,00 bis 1 115,00 € |
 > 508,00 € |
 
-Für die in Nr. 4118 bezeichneten besonderen erstinstanzlichen Verfahren gilt dieser Tagesgebührenrahmen. Beispiel: Ein Schwurgerichtsverfahren erstreckt sich über mehrere Sitzungstage mit unterschiedlich umfangreicher Beweisaufnahme. Die Teilnahme wird je Hauptverhandlungstag erfasst; die Wahlgebühr ist nicht allein wegen der einheitlichen Verfahrensart für jeden Tag zwingend gleich hoch. Bei Bestellung gilt der Festbetrag mit möglichen eigenen Langdauergebühren. Die gerichtliche Verfahrensgebühr bleibt daneben eine einmalige Abschnittsgebühr.
+Die Tagesgebühr in den erstinstanzlichen Verfahren der Nr. 4118 beträgt 156 bis 1.115 Euro im Wahlrahmen und 508 Euro als Festbetrag. Durch die Verweisung sind alle dort genannten Gerichtsgruppen einschließlich der qualifizierten Jugendkammer erfasst. Die Nummer gilt je Hauptverhandlungstag; sie ist weder eine einmalige Pauschale für den gesamten Prozess noch ein Stundentarif. Eine OLG-Revisionshauptverhandlung wird nicht allein wegen des Gerichtsorts hier eingeordnet.
+
+Für Wahlvertretung können unterschiedlich umfangreiche und schwierige Tage innerhalb desselben Prozesses unterschiedliche Gebühren nach § 14 rechtfertigen. Die Festvergütung des bestellten Anwalts verändert sich dadurch nicht; bei längerer Teilnahme sind 4122 oder 4123 zusätzlich vorgesehen. Fehlender freier Fuß führt zur Variante 4121. Ein separat angesetzter Haftprüfungstermin außerhalb der Hauptverhandlung ist anhand des besonderen Katalogs 4102/4103 zu prüfen, nicht als weiterer Tag dieser Hauptverhandlung zu behandeln.
+
+Beispiel: Eine Schwurgerichtssache umfasst drei Tage. Die bestellte Verteidigerin nimmt an allen Tagen teil; die anrechenbaren Zeiten betragen vier, sechs und neun Stunden. Bei freiem Beschuldigten werden drei Tagesgebühren zu je 508 Euro geprüft; nur beim zweiten und dritten Tag kommen die jeweils unterschiedlichen Zeitstufen hinzu. Damit bleibt die fortlaufende Verfahrensarbeit nach Nr. 4118 von der tageweisen Teilnahme getrennt. Bei einem abgesagten Tag ist vor jedem Ansatz die Sonderregel der Vorbemerkung 4 Absatz 3 eigenständig zu erfüllen.
 
 ### Nr. 4121 VV — Gebühr 4120 mit Zuschlag ..........
 
@@ -330,7 +390,11 @@ Für die in Nr. 4118 bezeichneten besonderen erstinstanzlichen Verfahren gilt di
 
 > 4121 | Gebühr 4120 mit Zuschlag .......... | 156,00 bis 1 394,00 € | 620,00 € |
 
-Die Zuschlagsnummer betrifft die besondere Hauptverhandlungstagesgebühr bei nicht auf freiem Fuß befindlichem Beschuldigten. Beispiel: In einer Staatsschutzsache vor dem Oberlandesgericht nimmt der Verteidiger an einem Haftverhandlungstag der Hauptverhandlung teil. Die Tageszuordnung nach Nr. 4120 und die Zuschlagsvoraussetzung sind beide zu prüfen. Ein eigenständiger Haftprüfungstermin außerhalb der Hauptverhandlung ist stattdessen nach seiner eigenen Tarifgruppe einzuordnen.
+Die erhöhte Hauptverhandlungstagesgebühr der besonderen erstinstanzlichen Gruppe beträgt 156 bis 1.394 Euro im Wahlmandat beziehungsweise 620 Euro als Festbetrag. Nr. 4121 übernimmt die Zuordnung der Nr. 4120 und verlangt darüber hinaus die Freiheitslage der Vorbemerkung 4 Absatz 4. Sie ist der gesamte Hafttarif des Tages, nicht ein Zusatzbetrag von 620 Euro auf die 508 Euro aus der Grundnummer.
+
+Mit dem Verfahrenszuschlag 4119 besteht keine Identität: Dieser betrifft das gerichtliche Betreiben, Nr. 4121 die Tagesleistung. Beide werden nach ihrem jeweiligen Tatbestand geprüft. Umgekehrt macht die Inhaftierung nicht jede anwaltliche Anwesenheit bei Gericht zu einer Hauptverhandlungsteilnahme. Bei gesonderten Haftverhandlungen außerhalb der Hauptverhandlung sind Gegenstand und Katalog der Nrn. 4102/4103 maßgeblich. Die beiden Zusatzgebühren 4122/4123 hängen vom Bestelltenstatus und der anrechenbaren Tagesdauer ab, nicht von einem weiteren Hafttag.
+
+Beispiel: Die bestellte Verteidigerin nimmt für den inhaftierten Angeklagten an einem Schwurgerichtstag mit sieben bereinigten Stunden teil. Neben 620 Euro nach Nr. 4121 sind 254 Euro nach Nr. 4122 zu prüfen, zusammen 874 Euro an diesen beiden Gebühren vor Auslagen und Umsatzsteuer. Die nicht erhöhte Grundtagesgebühr wird dazu nicht nochmals addiert. Fällt ein späterer Tag aus, genügt die unveränderte Haftlage allein für seine Vergütung nicht.
 
 ### Nr. 4122 VV — Der gerichtlich bestellte oder beigeordnete Rechtsanwalt nimmt mehr als 5 und bis 8 Stunden an der Hauptverhandlung teil:
 
@@ -341,7 +405,11 @@ Die Zuschlagsnummer betrifft die besondere Hauptverhandlungstagesgebühr bei nic
 >
 > 254,00 € |
 
-Bei den besonderen erstinstanzlichen Gerichtsgruppen erhalten bestellte oder beigeordnete Anwälte für mehr als fünf bis acht anrechenbare Stunden eine eigene Zusatzgebühr. Beispiel: Ein Schwurgerichtstag dauert nach maßgeblicher Bereinigung sieben Stunden. Der Zuschlag tritt neben Nr. 4120 oder 4121. Die Zeitgrenzen werden nicht durch die größere Schwierigkeit der Sache ersetzt; diese ist bereits in der Gerichtsgruppe angelegt.
+Nr. 4122 gewährt bestellten oder beigeordneten Anwälten 254 Euro zusätzlich zur Tagesgebühr 4120 oder 4121, wenn die Hauptverhandlungsteilnahme mehr als fünf und höchstens acht Stunden beträgt. Der Zusatz ist für dieselbe Gerichtsgruppe bei freiem und nicht freiem Beschuldigten gleich hoch. Die unterschiedliche Grundtagesgebühr darf nicht zu einer erneuten Erhöhung des Zeitbetrags führen. Für Wahlverteidiger gibt es aus dieser Nummer keinen eigenen Festanspruch.
+
+Die Berechnung folgt Vorbemerkung 4.1 Absatz 3. Sie schließt nicht selbst zu vertretende Wartezeiten grundsätzlich ein, nimmt aber anwaltlich zu vertretende Zeiten sowie die dort qualifizierten mindestens einstündigen angeordneten Unterbrechungen aus. Aufwendige Schriftsatzarbeit außerhalb der Sitzung kann das Erreichen der Fünfstundengrenze nicht ersetzen. Ebenso werden mehrere kürzere Hauptverhandlungstage nicht zusammengerechnet, selbst wenn sie dieselbe umfangreiche Beweisaufnahme betreffen.
+
+Beispiel: Ein Schwurgerichtstag dauert einschließlich einbezogener Wartezeit acht Stunden und fünfzig Minuten. Eine konkret angeordnete einstündige Unterbrechung ist abzuziehen. Mit sieben Stunden und fünfzig Minuten bleibt Nr. 4122 einschlägig. Bei einer bereinigten Dauer von genau acht Stunden gilt dieselbe Stufe; erst darüber kommt Nr. 4123 in Betracht. Die Bescheinigung sollte die ausgenommenen Zeitblöcke nennen, damit die nominelle Sitzungsdauer nicht mit der gebührenrechtlichen Dauer verwechselt wird.
 
 ### Nr. 4123 VV — Der gerichtlich bestellte oder beigeordnete Rechtsanwalt nimmt mehr als 8 Stunden an der Hauptverhandlung teil:
 
@@ -352,7 +420,13 @@ Bei den besonderen erstinstanzlichen Gerichtsgruppen erhalten bestellte oder bei
 >
 > 508,00 € |
 
-Die höhere Langdauerstufe setzt mehr als acht Stunden maßgeblicher Teilnahme in der besonderen erstinstanzlichen Gerichtsgruppe voraus. Beispiel: Eine nach Nr. 4118 eingeordnete Verhandlung überschreitet nach Abzug ausgenommener Unterbrechungen acht Stunden knapp. Der bestellte Anwalt prüft die höhere Zusatzgebühr, nicht beide Stufen nebeneinander. Die Dokumentation der konkreten Unterbrechungsanordnungen kann für die Grenzüberschreitung entscheidend sein.
+Die obere Langdauerstufe der besonderen erstinstanzlichen Gerichtsgruppe beträgt 508 Euro zusätzlich zu Nr. 4120 oder 4121. Sie setzt für bestellte oder beigeordnete Vertretung mehr als acht anrechenbare Hauptverhandlungsstunden voraus. Der Betrag ersetzt die mittlere Zusatzstufe 4122 für diesen Tag und wird auch bei erheblicher weiterer Überschreitung nicht stundenweise vervielfacht. Die Schwierigkeit der Sache allein begründet den Zeitanspruch nicht.
+
+Vorbemerkung 4.1 Absatz 3 ist gerade an der Achtstundengrenze entscheidend. Eine konkret auf 70 Minuten festgelegte Unterbrechung erfüllt die zeitliche Ausnahme; eine unbestimmt verlaufene Verzögerung gleicher Länge darf nicht ohne Prüfung der gesetzlichen Anordnungsmerkmale gleichbehandelt werden. Selbst zu vertretende Warte- und Unterbrechungszeit ist ebenfalls auszuscheiden. Ein völlig anderer Terminstyp außerhalb der Hauptverhandlung wird nicht in diese Tagesdauer hineingerechnet.
+
+Beispiel: Nach allen maßgeblichen Einbeziehungen und Abzügen bleiben acht Stunden und zehn Minuten an einem Tag vor der besonderen Strafkammer. Bei Freiheitsentziehung ergeben 620 Euro nach Nr. 4121 und 508 Euro nach Nr. 4123 zusammen 1.128 Euro vor Auslagen und Umsatzsteuer. Bei exakt acht Stunden wäre der Zusatz dagegen 254 Euro nach Nr. 4122.
+
+Prüfliste für den ersten Rechtszug: tatsächliche Gerichtsgruppe und Jugendkammeralternative bestimmen; Verfahrens- und Tagesleistung trennen; Freiheitsstatus zuordnen; Wahlrahmen oder Bestelltenbetrag wählen; Zeiten und Anordnungen je Tag dokumentieren; nur eine Langdauerstufe ansetzen; altes Gebührenrecht nach § 60 vor dem Geldansatz prüfen.
 
 #### Berufung
 
@@ -364,7 +438,13 @@ Die höhere Langdauerstufe setzt mehr als acht Stunden maßgeblicher Teilnahme i
 >
 > Die Gebühr entsteht auch für Beschwerdeverfahren nach § 13 StrRehaG. | | |
 
-Die Verfahrensgebühr der strafrechtlichen Berufung vergütet die Bearbeitung des neuen Rechtszugs. Die Anmerkung bezieht die bezeichneten Rehabilitierungsbeschwerden ein. Beispiel: Nach amtsgerichtlichem Urteil wird ein Anwalt mit der Berufungsverteidigung beauftragt. Neue Beweis- und Rechtsmittelarbeit fällt in diesen Rahmen; die Grundgebühr wird nicht allein wegen des Instanzwechsels erneut verdient. Die Einlegung durch den bisherigen Verteidiger kann nach § 19 noch zum früheren Rechtszug gehören, weshalb der tatsächlich erteilte und betriebene Berufungsauftrag genau abzugrenzen ist.
+Die Verfahrensgebühr der Berufung beträgt 96 bis 671 Euro im Wahlrahmen und 307 Euro als Festvergütung. Ihre Anmerkung erfasst außerdem ausdrücklich Beschwerdeverfahren nach § 13 StrRehaG, nicht jede strafprozessuale Beschwerde. Die Gebühr entsteht für das Betreiben des Berufungsgeschäfts einschließlich Information. Eine Hauptverhandlung ist dafür nicht erforderlich; deren Tagesgebühren sind gesondert geregelt. Die bereits entstandene Grundgebühr wiederholt sich beim bisherigen Verteidiger nicht allein mit dem Instanzwechsel.
+
+§ 19 Absatz 1 Satz 2 Nummer 10 trennt die bloße Rechtsmitteleinlegung: Beim bisherigen Verteidiger gehört die Einlegung bei dem Gericht desselben Rechtszugs noch dorthin; beim neuen Verteidiger gehört sie bereits zum Rechtsmittelrechtszug. Deshalb sind Person, Auftrag und konkrete anschließende Berufungsarbeit zu dokumentieren. Aus einer bloßen Zustellung darf nicht ungeprüft ein zusätzlich betriebenes Mandat abgeleitet werden.
+
+Nach Zurückverweisung eröffnet § 21 Absatz 1 einen neuen Rechtszug, verlangt aber weiterhin gebührenauslösende Tätigkeit. [AG Nürnberg, Beschluss vom 2. Mai 2024 – 401 Ds 207 Js 8267/22, Rn. 5–7](cases/ag-nuernberg-2024-05-02-401-ds-207-js-8267-22.md), lässt die Information über den weiteren Verlauf des neuen Berufungsverfahrens genügen. Es hob die gegenteilige Festsetzung vom 14. Februar auf. Dessen frühere Begründung ist deshalb keine fortbestehende Ablehnung dieser Tätigkeit. Die Entscheidung betrifft den konkreten zweiten Berufungsrechtszug und damalige Beträge.
+
+Beispiel: Der bisherige Verteidiger legt Berufung ein und prüft danach auf entsprechenden Auftrag Beweisanträge für die neue Instanz. Erst die zutreffende Abschnittszuordnung trägt die zusätzliche Verfahrensposition. Ein späterer Haftzuschlag wird nach Nr. 4125 geprüft; eine erfolgreiche Berufung ist keine allgemeine Entstehungsvoraussetzung.
 
 ### Nr. 4125 VV — Gebühr 4124 mit Zuschlag ..........
 
@@ -372,7 +452,11 @@ Die Verfahrensgebühr der strafrechtlichen Berufung vergütet die Bearbeitung de
 
 > 4125 | Gebühr 4124 mit Zuschlag .......... | 96,00 bis 839,00 € | 374,00 € |
 
-Die Zuschlagsnummer betrifft die Berufungsverfahrensgebühr bei maßgeblicher Freiheitsentziehung. Beispiel: Die Berufung wird für einen Angeklagten bearbeitet, der sich nicht auf freiem Fuß befindet. Der erhöhte Rahmen ist von einer neuen Grundgebühr und von späteren Berufungstagesterminen zu unterscheiden. Ein besonderer Ermittlungsgebührzuschlag aus einer früheren Phase wird nicht nochmals unter dieser Nummer fortgeschrieben; jede Phase hat ihren eigenen Tatbestand.
+Nr. 4125 ist die vollständige Zuschlagsvariante der Berufungsverfahrensgebühr: 96 bis 839 Euro für Wahlvertretung, 374 Euro für bestellte oder beigeordnete Vertretung. Sie übernimmt auch die besondere Beschwerdeerweiterung der Nr. 4124. Zusätzlich muss der Beschuldigte nach Vorbemerkung 4 Absatz 4 nicht auf freiem Fuß sein. Weder eine bloß mögliche spätere Vollstreckung noch ein früherer Haftzuschlag im ersten Rechtszug ersetzt diese tatsächliche Voraussetzung.
+
+Zuerst muss überhaupt die Berufungsverfahrensarbeit richtig zugeordnet sein. Die bloße Rechtsmitteleinlegung durch den bisherigen Verteidiger bleibt nach § 19 Absatz 1 Satz 2 Nummer 10 im bisherigen Rechtszug; beim neuen Verteidiger gilt die gesetzliche Ausnahme. Die Zuschlagsnummer schafft keine hiervon unabhängige Gebühr. Ist Nr. 4125 einschlägig, wird Nr. 4124 nicht nochmals ungekürzt daneben angesetzt. Ein Haftbesuch erzeugt auch nicht jedes Mal eine weitere Berufungsverfahrensgebühr. Eigene Hauptverhandlungstage gehören zu 4126/4127.
+
+Beispiel: Ein neu beauftragter Verteidiger legt für den inhaftierten Angeklagten Berufung ein und arbeitet auf umfassenden Berufungsauftrag die Verteidigung aus. Seine Einlegung gehört bereits zum neuen Rechtszug; die Zuschlagsposition ist dort zu prüfen. Nach erfolgreicher Revision und Zurückverweisung kann ein weiterer Rechtszug nach § 21 entstehen, doch muss auch dort konkrete Tätigkeit vorliegen. Die bei Nr. 4124 besprochene Nürnberger Entscheidung trägt die allgemeine Tätigkeitsabgrenzung, entscheidet aber nicht die Freiheitsvoraussetzung von Nr. 4125. Der Haftstatus und das nach § 60 anwendbare Gebührenrecht bleiben daher eigenständig zu dokumentieren.
 
 ### Nr. 4126 VV — Terminsgebühr je Hauptverhandlungstag im Berufungsverfahren ..........
 

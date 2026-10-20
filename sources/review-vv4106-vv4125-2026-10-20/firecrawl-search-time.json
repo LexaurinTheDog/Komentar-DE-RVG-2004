@@ -1,0 +1,7 @@
+{
+  "format": "Locally recorded CLI execution outcome, not a Firecrawl API response body",
+  "command": "firecrawl search 'RVG Längenzuschlag Unterbrechung OLG 2023 2024 site:justiz.nrw.de' --limit 3 --json",
+  "stdout": "No results found.",
+  "exit_code": 0,
+  "recorded_at": "2026-10-20T11:58:37.796624+00:00"
+}

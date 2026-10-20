@@ -287,6 +287,97 @@
         "vb4.1.2"
       ],
       "limitations": "Selective primary database/national corpus review. No exhaustive negative per-unit search or later-case census. 2010decision used only for preserved general court-appearance distinction; altered broader wording ofVorb3Abs3 checked against current statute."
+    },
+    {
+      "date": "2026-10-20",
+      "scope": [
+        "vv4106",
+        "vv4107",
+        "vv4108",
+        "vv4109",
+        "vv4110",
+        "vv4111",
+        "vv4112",
+        "vv4113",
+        "vv4114",
+        "vv4115",
+        "vv4116",
+        "vv4117",
+        "vv4118",
+        "vv4119",
+        "vv4120",
+        "vv4121",
+        "vv4122",
+        "vv4123",
+        "vv4124",
+        "vv4125"
+      ],
+      "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii",
+      "local_search": [
+        {
+          "evidence": "local-corpus-search.txt",
+          "pattern": "(Nr\\.?|Nummer|Nrn\\.)\\s*(4110|4111|4116|4117|4122|4123|4124)\\b|Vorbemerkung 4\\.1 Abs",
+          "matches": 17,
+          "result": "All results werefalse positives inBKV provisions or other contexts; no relevantRVGtimecase."
+        },
+        {
+          "evidence": "local-corpus-search-tariffs.txt",
+          "pattern": "RVG/VV within25characters of4106/4108/4112/4114/4118/4120/4124/4125",
+          "matches": 2,
+          "result": "KVRE395261101 selected andreadinfull; JURE140004663 read as candidate butnotreliedon because revision/§51 context andoldpre2021time law do not directly resolve currenttimeexceptions."
+        }
+      ],
+      "web_queries": [
+        "site.rechtsprechung-im-internet.de RVG4110Unterbrechung",
+        "site.rechtsprechung-im-internet.de4124BerufungGebühr",
+        "site.justiz.nrw.de4110Längenzuschlag2023/2024",
+        "207Js8267/22 02.05.2024"
+      ],
+      "firecrawl": {
+        "index": "firecrawl-index.md",
+        "time_search": "firecrawl-search-time.json",
+        "time_search_result": "No results found; not a comprehensive negative case-law finding."
+      },
+      "primary_database_results": [
+        "AG Nürnberg14.02.2024and02.05.2024; follow-up identified from official first-case metadata and fetched from BAYERN.RECHT"
+      ],
+      "full_texts_read": [
+        "KVRE395261101",
+        "AG Nürnberg2024-02-14 401Ds207Js8267/22",
+        "AG Nürnberg2024-05-02 401Ds207Js8267/22"
+      ],
+      "supported_units": {
+        "KVRE395261101": [
+          "vv4106",
+          "vv4108"
+        ],
+        "AG Nürnberg2024-05-02": [
+          "vv4124"
+        ],
+        "AG Nürnberg2024-02-14": [
+          "vv4124 procedural history only, superseded"
+        ]
+      },
+      "no_additional_verified_case_selected": [
+        "vv4107",
+        "vv4109",
+        "vv4110",
+        "vv4111",
+        "vv4112",
+        "vv4113",
+        "vv4114",
+        "vv4115",
+        "vv4116",
+        "vv4117",
+        "vv4118",
+        "vv4119",
+        "vv4120",
+        "vv4121",
+        "vv4122",
+        "vv4123",
+        "vv4125"
+      ],
+      "limitations": "Selective official andnationalcorpus research; no exhaustiveperunit negativecasefindings orsubsequent-case census. Current time rules explained fromstatute, not importedfromhistoricalpausecases."
     }
   ]
 }

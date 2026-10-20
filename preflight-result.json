@@ -461,5 +461,55 @@
       "reviewed_commentary_units": 20,
       "whole_book_review_complete": false
     }
+  },
+  "bounded_review_vv4106_vv4125_recheck": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/rvg/",
+    "verified_at": "2026-10-20T11:56:32.348357+00:00",
+    "reviewed_ids": [
+      "vv4106",
+      "vv4107",
+      "vv4108",
+      "vv4109",
+      "vv4110",
+      "vv4111",
+      "vv4112",
+      "vv4113",
+      "vv4114",
+      "vv4115",
+      "vv4116",
+      "vv4117",
+      "vv4118",
+      "vv4119",
+      "vv4120",
+      "vv4121",
+      "vv4122",
+      "vv4123",
+      "vv4124",
+      "vv4125"
+    ],
+    "version_evidence": "sources/review-vv4106-vv4125-2026-10-20/version-evidence.json",
+    "http_evidence": "sources/review-vv4106-vv4125-2026-10-20/requests.json",
+    "current_xml_byte_identical": true,
+    "historical_versions_checked": {
+      "operative_duplicates": [],
+      "selection": "One current consolidation, 79 single paragraph nodes and two single annex nodes. Historical quotations and transition references within current provisions are retained as content, not appended as old versions."
+    },
+    "eingangsformel": "No separate Eingangsformel or Präambel and no unlabelled operative Content in this official XML. Global enactment/commencement footnote preserved in sources/rvg-frontmatter.json and canonical.md.",
+    "annexes_checked": "Independent first-cell XML enumeration repeated before comparing manuscriptIDs: Anlage1has231tariffs+32remarks; all536rows retained. Anlage2all22rows retainedwithoutinventedchildIDs.",
+    "coverage": {
+      "expected": 344,
+      "parsed": 344,
+      "missing": [],
+      "duplicates": [],
+      "ok": true
+    },
+    "unresolved_blockers": [],
+    "limitations": [
+      "Three selectively chosen officialfulltexts read; no exhaustiveperunit orlatercase census. February2024AGrejection wasoverturned inMay2024, andis retainedonlyasproceduralhistory.",
+      "2011BVerfG reasoning used onlyfor work/fee distinctionand§51context; supersededhistoricalamounts not adopted. No verifiedcurrenttimecase selected, currenttimeexceptions explainedfromstatute.",
+      "Current consolidation, actualpublishedcommencement andintakechange-map checked; no fullhistorical orindirectamendmentarchive audit. ExternalGVG/StrRehaGlabels usedasprinted inRVG, not independentcommentaries onthoseacts."
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T11:48:45.062934+00:00",
+  "generated_at": "2026-10-20T11:58:52.621792+00:00",
   "files": [
     {
       "path": "sources/KORE307422020.md",
@@ -1877,6 +1877,116 @@
       "sha256": "4ad03cc0ed2605c150e501291c164cacb0f201ceb986bbef51de42b4098a0498"
     },
     {
+      "path": "sources/review-vv4106-vv4125-2026-10-20/KVRE395261101-intake.md",
+      "bytes": 25887,
+      "sha256": "155bfc2624bff64538390248a231c83dba01958c4d722eb1025e43a33f21c0a0"
+    },
+    {
+      "path": "sources/review-vv4106-vv4125-2026-10-20/KVRE395261101-official.txt",
+      "bytes": 28985,
+      "sha256": "537700c27816299042473e5d2622fbca879248dc71ba3e1dc0e97452b306b12d"
+    },
+    {
+      "path": "sources/review-vv4106-vv4125-2026-10-20/KVRE395261101.xml",
+      "bytes": 33885,
+      "sha256": "30b45c37ac3b94a668ace84be963f844447a099e5631526bb6e21f43b32ea611"
+    },
+    {
+      "path": "sources/review-vv4106-vv4125-2026-10-20/KVRE395261101.zip",
+      "bytes": 9492,
+      "sha256": "911035c193fb8526e5fc326dcc33c9003c63a792bdbe4d1218cabcd5f1212c7d"
+    },
+    {
+      "path": "sources/review-vv4106-vv4125-2026-10-20/ag-nuernberg-3269.html",
+      "bytes": 18063,
+      "sha256": "4c757b2ef2e3677f1df9acc1464b228114a88bbd116f48602ac8a6830e9870df"
+    },
+    {
+      "path": "sources/review-vv4106-vv4125-2026-10-20/ag-nuernberg-3269.txt",
+      "bytes": 6538,
+      "sha256": "4f9979dd0e192925cc3a95aa1ef1d71faaf611b19f426bed92d31f37994baad1"
+    },
+    {
+      "path": "sources/review-vv4106-vv4125-2026-10-20/ag-nuernberg-48031.html",
+      "bytes": 20042,
+      "sha256": "0ecb13a851ce33c2bbc398471562a0445690f51084743f8d2b0178bc9091869a"
+    },
+    {
+      "path": "sources/review-vv4106-vv4125-2026-10-20/ag-nuernberg-48031.txt",
+      "bytes": 8097,
+      "sha256": "64aba0868725ff36aa81e9ac882e64dbaecf740062116d1ca6948b82fb40f5ee"
+    },
+    {
+      "path": "sources/review-vv4106-vv4125-2026-10-20/authority-requests.json",
+      "bytes": 2199,
+      "sha256": "f37da459101c906cbc5ae407ab7790865dd62ac946b646442293c94c54169d80"
+    },
+    {
+      "path": "sources/review-vv4106-vv4125-2026-10-20/bgbl-318.pdf",
+      "bytes": 363624,
+      "sha256": "89f50d3f611d6f05089d6d4827783cf1531cfd3c800cd808e86c763b9db28c41"
+    },
+    {
+      "path": "sources/review-vv4106-vv4125-2026-10-20/case-source-comparison.json",
+      "bytes": 547,
+      "sha256": "8d16751a01e79b4874b498ec91ae147072cfc5863118ad0780b745684588f0d5"
+    },
+    {
+      "path": "sources/review-vv4106-vv4125-2026-10-20/firecrawl-index.md",
+      "bytes": 13914,
+      "sha256": "78388062554927d700efd728cdef4c8810114b85c31b531a40e397a284c3bebc"
+    },
+    {
+      "path": "sources/review-vv4106-vv4125-2026-10-20/firecrawl-search-time.json",
+      "bytes": 315,
+      "sha256": "a8a9ea0f1729faf2e8ae1dec854ed42b740fea54b34dd70254e45100d91f4973"
+    },
+    {
+      "path": "sources/review-vv4106-vv4125-2026-10-20/index.html",
+      "bytes": 21362,
+      "sha256": "7e9f02d6a7dc1934d08e4463457f1c15649d20bfd365778bff502c55f2eb80dd"
+    },
+    {
+      "path": "sources/review-vv4106-vv4125-2026-10-20/local-corpus-search-tariffs.txt",
+      "bytes": 114,
+      "sha256": "24c3e912b9b82fb31fd4f055fd91e092bbc7cd56bbb5ae660cf00d76c94ea325"
+    },
+    {
+      "path": "sources/review-vv4106-vv4125-2026-10-20/local-corpus-search.txt",
+      "bytes": 969,
+      "sha256": "fd9efcb8011b3ea3b785820de8d74ddf5cb5abbed018c8f7848db090239ed163"
+    },
+    {
+      "path": "sources/review-vv4106-vv4125-2026-10-20/requests.json",
+      "bytes": 2693,
+      "sha256": "c05aa83303ad1fe93e7c5ab3959a4207b1581a3c13ddec0fa3e58d05ca188ad9"
+    },
+    {
+      "path": "sources/review-vv4106-vv4125-2026-10-20/rvg.xml",
+      "bytes": 330910,
+      "sha256": "be5571d1735031133f154071b08a77ccdb89f3e047330ed057a494dfd128f5d1"
+    },
+    {
+      "path": "sources/review-vv4106-vv4125-2026-10-20/rvg.zip",
+      "bytes": 55552,
+      "sha256": "51019d65e1d783759d31a3d67ff21ec35d922d309a82d575a08848c89de42dde"
+    },
+    {
+      "path": "sources/review-vv4106-vv4125-2026-10-20/search-log.json",
+      "bytes": 2552,
+      "sha256": "1e63feeb5b3eeaad5233ff7eef4e2b20c7a5cc2d035771b9944616a2e3551279"
+    },
+    {
+      "path": "sources/review-vv4106-vv4125-2026-10-20/updates.html",
+      "bytes": 75210,
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596"
+    },
+    {
+      "path": "sources/review-vv4106-vv4125-2026-10-20/version-evidence.json",
+      "bytes": 2519,
+      "sha256": "8cb34dc994787dd2f47723de4463822fb7b6f8d755d50d50b1be9477d8402ce8"
+    },
+    {
       "path": "sources/rvg-frontmatter.json",
       "bytes": 1182,
       "sha256": "00571bf2cbb76c8079a48d7bbbad45c592f2ef1bc980cae7f782292cee8fea8e"
@@ -1903,13 +2013,13 @@
     },
     {
       "path": "sources/search-log.json",
-      "bytes": 8987,
-      "sha256": "0b3deb52d909647fb4c7a92d628593532fd1daaca39a8e610755718117c14a33"
+      "bytes": 11904,
+      "sha256": "ad28be7e89743871108f68838f6948eb5a18fd5e72266faf9065264527786988"
     },
     {
       "path": "sources/verification.json",
-      "bytes": 124768,
-      "sha256": "70a0598be57941f45b6b9ffd404a81cfaf3f669234223b5ed240600c697467c2"
+      "bytes": 131999,
+      "sha256": "2c0b4c8f266e97a5a23f393c6ab5d77b158d557660fc7b5203eddb96c49dff1c"
     }
   ]
 }
