@@ -742,6 +742,13 @@
       "Aktueller amtlicher RVG-Text, Inkrafttreten, Originalintake/Änderungskarte und Anlagen geprüft; keine vollständige historische Archiv- oder mittelbare Änderungssuche. Ältere Entscheidungen nur für die bezeichneten Auslegungsfragen, keine Übernahme alter Gebührenbeträge.",
       "Firecrawl hatte keine Credits. Direkte amtliche Volltexte wurden erfolgreich gesichert. Ein BVerwG-Erstabruf mit403 wurde über die amtliche ssl-Domain erfolgreich ersetzt; fehlende optionale HTML-Bibliothek durch Standardbibliothek ersetzt. Fehlversuche bleiben im Quellenlog, keine ungelöste Quellenlücke.",
       "Technische Wortlaut-, Umfangs-, Link- und Wiederholungsprüfungen ergänzen die individuelle Lektüre; Mindestlänge und Script-Erfolg bescheinigen keine juristische Qualität."
-    ]
+    ],
+    "validation": {
+      "strict_ok": true,
+      "verbatim_ratio": 1.0,
+      "validated_at": "2026-10-20T12:49:39.205546+00:00",
+      "reviewed_commentary_units": 20,
+      "whole_book_review_complete": false
+    }
   }
 }
