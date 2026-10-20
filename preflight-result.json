@@ -93,5 +93,23 @@
   "limitations": [
     "Preflight verifies sources and extraction; it does not review the 344 commentary units substantively.",
     "Existing selective case research is preserved and was not expanded in this bounded task."
-  ]
+  ],
+  "validation": {
+    "strict": {
+      "repo": "Komentar-DE-RVG-2004",
+      "units": 344,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 275039,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "validated_at": "2026-10-20T09:47:46.800783+00:00",
+    "independent_production_coverage_ok": true,
+    "local_links_and_repetition_report": "quality-report.json",
+    "durable_source_checkpoint": {
+      "work": "1c35b69",
+      "output": "8fec7a8"
+    }
+  }
 }
