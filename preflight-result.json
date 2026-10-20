@@ -626,6 +626,13 @@
       "BGH3BGs440/25 is an investigating-judge decision about limited replacement at a custody hearing while another defender is fully appointed. The conclusion is not extended to every sole or first appointment; old Euro amounts are not reused.",
       "Multiple-hearing fee explanation is based on current15(2)andtheactualtariff,notanunverifiedKGcitation. No additional sufficiently relevant verified judgment was selected for other assigned units.",
       "CurrentRVGconsolidation,intake/changemapandactualpromulgatedcommencementchecked. No complete historical archive or exhaustive indirect-amendment audit. External-code context checked only to the limited extent documented in version-evidence.json."
-    ]
+    ],
+    "validation": {
+      "strict_ok": true,
+      "verbatim_ratio": 1.0,
+      "validated_at": "2026-10-20T12:25:33.676795+00:00",
+      "reviewed_commentary_units": 20,
+      "whole_book_review_complete": false
+    }
   }
 }

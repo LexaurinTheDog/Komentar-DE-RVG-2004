@@ -1,5 +1,5 @@
 {
-  "complete": false,
+  "complete": true,
   "task": "bounded_independent_second_pass",
   "title": "RVG",
   "decisive_date": "2026-10-19",
@@ -271,7 +271,33 @@
   "whole_book_review_complete": false,
   "external_professional_approval": false,
   "validation": {
-    "build": "awaiting committed build",
-    "strict": "awaiting check"
-  }
+    "strict": {
+      "repo": "Komentar-DE-RVG-2004",
+      "units": 344,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 544718,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "validated_at": "2026-10-20T12:25:33.676795+00:00",
+    "validated_work_commit": "7c8862bc7976b2a9e728d4c1b8284460c0447787",
+    "validated_output_commit": "d45ce7de4d4b8536a265ec326724db147a910b6d",
+    "build": "success",
+    "independent_xml_coverage": {
+      "expected": 344,
+      "parsed": 344,
+      "missing": [],
+      "duplicates": [],
+      "ok": true
+    },
+    "assigned_complete_wording_matches": 20,
+    "unassigned_commentary_blocks_preserved": 324,
+    "local_links_checked": 619,
+    "broken_local_links": [],
+    "exact_repeated_long_sentences": 0,
+    "exact_repeated_long_paragraphs": 0,
+    "meaning": "Technical checks supplement the actual exact-twenty-unit substantive review; no whole-book or external professional approval."
+  },
+  "validated_at": "2026-10-20T12:25:33.676795+00:00"
 }
