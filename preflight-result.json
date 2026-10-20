@@ -268,6 +268,13 @@
     "missing_ids": [],
     "duplicate_ids": [],
     "all_assigned_texts_match_official_xml": true,
-    "unresolved_blockers": []
+    "unresolved_blockers": [],
+    "validation": {
+      "strict_ok": true,
+      "verbatim_ratio": 1.0,
+      "validated_at": "2026-10-20T10:52:44.736434+00:00",
+      "reviewed_commentary_units": 20,
+      "whole_book_review_complete": false
+    }
   }
 }
