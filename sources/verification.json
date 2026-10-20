@@ -2238,6 +2238,39 @@
         "§ 13"
       ],
       "limitation": "Current official cross-reference context only; no separate historical archive or full commentary of the external code"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/199/regelungstext.pdf?__blob=publicationFile&v=2",
+      "accessed_at": "2026-10-20T12:11:14.053380+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "local_path": "sources/review-vv4126-vv4144-2026-10-20/bgbl-2026-199.pdf",
+      "sha256": "3cc2f1b1fa0fe692aeba6444cec694f41148ef22a9b8cd81ed11ba24077e49b1",
+      "text_path": "sources/review-vv4126-vv4144-2026-10-20/bgbl-2026-199.txt",
+      "validated_format": "Actual PDF signature and successful nonempty text extraction",
+      "purpose": "Check current external StPO/StrRehaG amendment context, limited to cross-references used in assigned commentary"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/95/regelungstext.pdf?__blob=publicationFile&v=2",
+      "accessed_at": "2026-10-20T12:11:14.694238+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "local_path": "sources/review-vv4126-vv4144-2026-10-20/bgbl-2026-95.pdf",
+      "sha256": "832e1e85243651a1e84be477fa20281eb619a63b15c181054055366d9657f44f",
+      "text_path": "sources/review-vv4126-vv4144-2026-10-20/bgbl-2026-95.txt",
+      "validated_format": "Actual PDF signature and successful nonempty text extraction",
+      "purpose": "Check current external StPO/StrRehaG amendment context, limited to cross-references used in assigned commentary"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2025/63/regelungstext.pdf?__blob=publicationFile&v=2",
+      "accessed_at": "2026-10-20T12:11:14.956144+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "local_path": "sources/review-vv4126-vv4144-2026-10-20/bgbl-2025-63.pdf",
+      "sha256": "372569c4c5751883a699d542884fdf9d4f23bf33281b9e95ee4b06c092c0ab6a",
+      "text_path": "sources/review-vv4126-vv4144-2026-10-20/bgbl-2025-63.txt",
+      "validated_format": "Actual PDF signature and successful nonempty text extraction",
+      "purpose": "Check current external StPO/StrRehaG amendment context, limited to cross-references used in assigned commentary"
     }
   ],
   "version_evidence": {

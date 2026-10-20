@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T12:10:51.388097+00:00",
+  "generated_at": "2026-10-20T12:12:17.472728+00:00",
   "files": [
     {
       "path": "sources/KORE307422020.md",
@@ -2072,6 +2072,36 @@
       "sha256": "f088074650269b59e9c932b536a359adae6aa7fe020085d7361ab94d343013c7"
     },
     {
+      "path": "sources/review-vv4126-vv4144-2026-10-20/bgbl-2025-63.pdf",
+      "bytes": 342852,
+      "sha256": "372569c4c5751883a699d542884fdf9d4f23bf33281b9e95ee4b06c092c0ab6a"
+    },
+    {
+      "path": "sources/review-vv4126-vv4144-2026-10-20/bgbl-2025-63.txt",
+      "bytes": 30845,
+      "sha256": "07950d0ed8f93aa7e7720dcef6bc557211e0498e182734f9176077b39a8786db"
+    },
+    {
+      "path": "sources/review-vv4126-vv4144-2026-10-20/bgbl-2026-199.pdf",
+      "bytes": 351455,
+      "sha256": "3cc2f1b1fa0fe692aeba6444cec694f41148ef22a9b8cd81ed11ba24077e49b1"
+    },
+    {
+      "path": "sources/review-vv4126-vv4144-2026-10-20/bgbl-2026-199.txt",
+      "bytes": 57799,
+      "sha256": "784ff13222118a73609f005ceb9d12fab83557b75f09687fc843aec9a5866e2a"
+    },
+    {
+      "path": "sources/review-vv4126-vv4144-2026-10-20/bgbl-2026-95.pdf",
+      "bytes": 339622,
+      "sha256": "832e1e85243651a1e84be477fa20281eb619a63b15c181054055366d9657f44f"
+    },
+    {
+      "path": "sources/review-vv4126-vv4144-2026-10-20/bgbl-2026-95.txt",
+      "bytes": 28710,
+      "sha256": "023cae553a9b94a0070fea0b98b1866f750b731a51c7f8af09339ec712312194"
+    },
+    {
       "path": "sources/review-vv4126-vv4144-2026-10-20/bgbl-318.pdf",
       "bytes": 363624,
       "sha256": "89f50d3f611d6f05089d6d4827783cf1531cfd3c800cd808e86c763b9db28c41"
@@ -2085,6 +2115,11 @@
       "path": "sources/review-vv4126-vv4144-2026-10-20/crossref-requests.json",
       "bytes": 1605,
       "sha256": "ff500777fc41de9a0c07f1faf43849b736ccd3dd37e5d37bda40ee6f7d6862b6"
+    },
+    {
+      "path": "sources/review-vv4126-vv4144-2026-10-20/external-version-requests.json",
+      "bytes": 2049,
+      "sha256": "932507299f70b299c3f4f2185a692db8f44b5010d96d2200ef6763a1f981bf4c"
     },
     {
       "path": "sources/review-vv4126-vv4144-2026-10-20/firecrawl-search.json",
@@ -2193,8 +2228,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 141223,
-      "sha256": "ec97b8c26340cde2633c80bd6c285a5042dc39b525edb1d8d4ff5b40da2ba6cf"
+      "bytes": 143335,
+      "sha256": "7476c73c5d9d105f17e6341f5d9b350091077df1eed6292fb67f2985b44bc081"
     }
   ]
 }
