@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2026/192/regelungstext.pdf?__blob=publicationFile&v=2",
+    "accessed_at": "2026-10-20T12:56:53.164779+00:00",
+    "http_status": 200,
+    "final_url": "https://www.recht.bund.de/bgbl/1/2026/192/regelungstext.pdf?__blob=publicationFile&v=2",
+    "content_type": "application/pdf",
+    "local_path": "sources/review-vv6213-vv7004-2026-10-20/bgbl-2026-192.pdf",
+    "sha256": "15fcf268bd8ec91b2c27933d163d5ffbad40ac7dc6af37ba6a70300b112d0ce2",
+    "validated_format": "PDF signature and successful text extraction"
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2026/198/regelungstext.pdf?__blob=publicationFile&v=2",
+    "accessed_at": "2026-10-20T12:56:53.532430+00:00",
+    "http_status": 200,
+    "final_url": "https://www.recht.bund.de/bgbl/1/2026/198/regelungstext.pdf?__blob=publicationFile&v=2",
+    "content_type": "application/pdf",
+    "local_path": "sources/review-vv6213-vv7004-2026-10-20/bgbl-2026-198.pdf",
+    "sha256": "566f873ec04357c83d73ca87012b77a7a698f6ce146c38fe6c1ae7b7676583dc",
+    "validated_format": "PDF signature and successful text extraction"
+  }
+]

@@ -1,0 +1,327 @@
+{
+  "complete": false,
+  "task": "bounded_independent_second_pass",
+  "title": "RVG",
+  "decisive_date": "2026-10-19",
+  "verified_at": "2026-10-20T13:00:07.267798+00:00",
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "vv6213",
+    "vv6214",
+    "vv6215",
+    "vv6216",
+    "vv6300",
+    "vv6301",
+    "vv6302",
+    "vv6303",
+    "vb6.4",
+    "vv6400",
+    "vv6401",
+    "vv6402",
+    "vv6403",
+    "vv6500",
+    "vb7",
+    "vv7000",
+    "vv7001",
+    "vv7002",
+    "vv7003",
+    "vv7004"
+  ],
+  "changed_ids": [
+    "vv6213",
+    "vv6214",
+    "vv6215",
+    "vv6216",
+    "vv6300",
+    "vv6301",
+    "vv6302",
+    "vv6303",
+    "vb6.4",
+    "vv6400",
+    "vv6401",
+    "vv6402",
+    "vv6403",
+    "vv6500",
+    "vb7",
+    "vv7000",
+    "vv7001",
+    "vv7002",
+    "vv7003",
+    "vv7004"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "vv6213",
+      "finding": "160 Euro nur bei gerichtlicher Bestellung; mehr als5 bis einschließlich8 Stunden, tageweise persönliche Dauer. Pausenregel vollständig, Beispiel321+160=481 und6h−70min=4h50 geprüft; §60 berücksichtigt.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und Kontext gelesen, individuell korrigiert",
+      "source_location": {
+        "table_index": 6,
+        "row_index": 35,
+        "first_cell": "6213"
+      }
+    },
+    {
+      "id": "vv6214",
+      "finding": "320 Euro statt321 oder307; mehr als8 Stunden, keine Kumulation mit6213. Genau8=481,8h5min=641 Euro bei Nr6212=321. Persönliche Teilnahme und vollständiger konkreter Pausenabzug erklärt.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und Kontext gelesen, individuell korrigiert",
+      "source_location": {
+        "table_index": 6,
+        "row_index": 36,
+        "first_cell": "6214"
+      }
+    },
+    {
+      "id": "vv6215",
+      "finding": "84–1331 Euro/566 Euro, Mitte707,50 geprüft; eigene Angelegenheit §17Nr9, zwingende Anrechnung auf Revision und §14Abs2 ohne doppelte Aufwandsminderung. Bestelltenbeispiel566+590−566=590.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und Kontext gelesen, individuell korrigiert",
+      "source_location": {
+        "table_index": 6,
+        "row_index": 37,
+        "first_cell": "6215"
+      }
+    },
+    {
+      "id": "vv6216",
+      "finding": "Beide Entscheidungswege Absatz1, ersichtliche Förderung Absatz2 und Rechtszug/Rahmenmitte Absatz3 vollständig. Im dritten Rechtszug737,50 Euro Wahlanwalt versus590 Euro Bestelltengebühr; keine fiktive Terminsgebühr.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und Kontext gelesen, individuell korrigiert",
+      "source_location": {
+        "table_index": 6,
+        "row_index": 40,
+        "first_cell": "6216"
+      }
+    },
+    {
+      "id": "vv6300",
+      "finding": "Gesamte Verweisungsgruppe415/312/151Nr6/7 FamFG gelesen, keine allgemeine FamFG-Wertgebühr. Verfahrenspflegerrolle und §1Abs2 unterschieden,48–564/245 Euro,306 Mitte, jeder Rechtszug, kein erfundener Haftzuschlag. BGH2023Rn10–20 für getrennte Gegenstände.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und Kontext gelesen, individuell korrigiert",
+      "source_location": {
+        "table_index": 6,
+        "row_index": 43,
+        "first_cell": "6300"
+      }
+    },
+    {
+      "id": "vv6301",
+      "finding": "Gerichtliche Anhörung auch außerhalb Gerichtsgebäudes; keine Tagesgebühr. Einmaligkeit je Angelegenheit/Rechtszug, mehrere Termine und Ausfallvoraussetzungen getrennt; Bestelltenbeispiel245+245=490 ohne Verdoppelung.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und Kontext gelesen, individuell korrigiert",
+      "source_location": {
+        "table_index": 6,
+        "row_index": 45,
+        "first_cell": "6301"
+      }
+    },
+    {
+      "id": "vv6302",
+      "finding": "Anmerkung begrenzt sonstige Fälle auf425/426/329/330 FamFG;24–360/154 Euro. Vollständiger BGH2023 bestätigt eigene Haftaufhebungsangelegenheit, nicht beliebige Schriftsatzgebühren; Grenzen konkurrierender Feststellungsanträge nach Erledigung offengelegt.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und Kontext gelesen, individuell korrigiert",
+      "source_location": {
+        "table_index": 6,
+        "row_index": 47,
+        "first_cell": "6302"
+      }
+    },
+    {
+      "id": "vv6303",
+      "finding": "24–360/154 Euro,192 Mitte, gerichtliche Termine im6302-Verfahren; keine Tagesgebühr, frühere Anordnungsanhörung reicht nicht. Zwei Termine in gleicher Instanz einmal154 plus154 Verfahrensgebühr=308 Euro.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und Kontext gelesen, individuell korrigiert",
+      "source_location": {
+        "table_index": 6,
+        "row_index": 49,
+        "first_cell": "6303"
+      }
+    },
+    {
+      "id": "vb6.4",
+      "finding": "Sachlicher Anwendungsbereich Absatz1, letzte gegenstandsgleiche Geschäftsgebühr, Hälfte bis225 Euro Absatz2.400→200/500→225 geprüft. BVerwG2019 früherer Satz3 nicht als aktuell ausgegeben; heutige allgemeine Regel§14Abs2 ergänzt.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und Kontext gelesen, individuell korrigiert",
+      "source_location": {
+        "table_index": 6,
+        "row_index": 52,
+        "first_cell": "Vorbemerkung 6.4: (1) Die Gebühren nach diesem Abschnitt entstehen in Verfahren auf gerichtliche Entscheidung nach der WBO, auch i. V. m. § 42 WDO, wenn das Verfahren vor dem Truppendienstgericht oder vor dem Bundesverwaltungsgericht an die Stelle des Verwaltungsrechtswegs gemäß § 82 SG tritt. (2) Soweit wegen desselben Gegenstands eine Geschäftsgebühr nach Nummer 2302 für eine Tätigkeit im Verfahren über die Beschwerde oder über die weitere Beschwerde vor einem Disziplinarvorgesetzten entstanden ist, wird diese Gebühr zur Hälfte, höchstens jedoch mit einem Betrag von 225,00 €, auf die Verfahrensgebühr des gerichtlichen Verfahrens vor dem Truppendienstgericht oder dem Bundesverwaltungsgericht angerechnet. Sind mehrere Gebühren entstanden, ist für die Anrechnung die zuletzt entstandene Gebühr maßgebend."
+      }
+    },
+    {
+      "id": "vv6400",
+      "finding": "96–815 Euro,455,50 Mitte; Gerichtstätigkeit ohne Terminerfordernis, vorgerichtliche Phase abgegrenzt. Leere dritte Spalte weder aufgefüllt noch als vollständiger Anspruchsausschluss missverstanden.455,50−200=255,50 geprüft.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und Kontext gelesen, individuell korrigiert",
+      "source_location": {
+        "table_index": 6,
+        "row_index": 53,
+        "first_cell": "6400"
+      }
+    },
+    {
+      "id": "vv6401",
+      "finding": "96–815 Euro je Verhandlungstag, kein Zuschlag aus Disziplinarabschnitt; Rahmenbemessung am einzelnen Tag, Ausfall nach tatsächlichem Erscheinen. Zwei vertretbar mittlere Tagesgebühren=911 Euro; Anrechnung betrifft Verfahrensgebühr.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und Kontext gelesen, individuell korrigiert",
+      "source_location": {
+        "table_index": 6,
+        "row_index": 54,
+        "first_cell": "6401"
+      }
+    },
+    {
+      "id": "vv6402",
+      "finding": "Alle drei Verfahrensarten und unmittelbare BVerwG-Zuständigkeit erklärt.120–947 Euro/533,50 Mitte; BVerwG2019 mit historischem Satz3/Beträgen begrenzt. Nichtzulassungsanrechnung und§14Abs2;450+600−450=600 geprüft.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und Kontext gelesen, individuell korrigiert",
+      "source_location": {
+        "table_index": 6,
+        "row_index": 55,
+        "first_cell": "6402"
+      }
+    },
+    {
+      "id": "vv6403",
+      "finding": "120–947 Euro je tatsächlichem Verhandlungstag; keine schriftliche Fiktion oder Langdauerbeträge. Individuelle Tagesbemessung von Verfahrensarbeit und Verfahrensgebührenanrechnung getrennt; konkrete Mitte533,50 nur Orientierung.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und Kontext gelesen, individuell korrigiert",
+      "source_location": {
+        "table_index": 6,
+        "row_index": 57,
+        "first_cell": "6403"
+      }
+    },
+    {
+      "id": "vv6500",
+      "finding": "Alle vier Absätze gelesen: echter beschränkter Auftrag, einzelne Tätigkeiten mit§15Abs6-Grenze, spätere Gesamtvertretung mit Anrechnung und eigenständige Sonderzuweisung für beide Änderungs-/Aufhebungsverfahren.24–360/154 Euro geprüft.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und Kontext gelesen, individuell korrigiert",
+      "source_location": {
+        "table_index": 6,
+        "row_index": 59,
+        "first_cell": "6500"
+      }
+    },
+    {
+      "id": "vb7",
+      "finding": "Allgemeine Geschäftskosten gegenüber tatsächlich mandatsbezogenen Aufwendungen; abschließende Sondervoraussetzungen nicht über Auffangregel umgangen. Reisebegriff, Mehrzweckverteilung und Altkanzleigrenze vollständig;180Euro im1:2-Verhältnis=60/120. BGH2012 trennt Vorsteuer/Innen-/Außenverhältnis.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und Kontext gelesen, individuell korrigiert",
+      "source_location": {
+        "table_index": 7,
+        "row_index": 1,
+        "first_cell": "Vorbemerkung 7: (1) Mit den Gebühren werden auch die allgemeinen Geschäftskosten entgolten. Soweit nachfolgend nichts anderes bestimmt ist, kann der Rechtsanwalt Ersatz der entstandenen Aufwendungen (§ 675 i. V. m. § 670 BGB) verlangen. (2) Eine Geschäftsreise liegt vor, wenn das Reiseziel außerhalb der Gemeinde liegt, in der sich die Kanzlei oder die Wohnung des Rechtsanwalts befindet. (3) Dient eine Reise mehreren Geschäften, sind die entstandenen Auslagen nach den Nummern 7003 bis 7006 nach dem Verhältnis der Kosten zu verteilen, die bei gesonderter Ausführung der einzelnen Geschäfte entstanden wären. Ein Rechtsanwalt, der seine Kanzlei an einen anderen Ort verlegt, kann bei Fortführung eines ihm vorher erteilten Auftrags Auslagen nach den Nummern 7003 bis 7006 nur insoweit verlangen, als sie auch von seiner bisherigen Kanzlei aus entstanden wären."
+      }
+    },
+    {
+      "id": "vv7000",
+      "finding": "Alle vier Papiergruppen,100-Seiten-Schwellen,einheitliche Staffel,Telefax und beide Dateiregeln vollständig erläutert.80Schwarzweißseiten=29,50Euro;120Unterrichtungsseiten→20abrechenbar;4Dateien→5Euro bei passendem Tatbestand. BVerfG2023Rn16–20 für fehlende Pflicht/Aufforderung, kein Umgehen der Voraussetzungen.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und Kontext gelesen, individuell korrigiert",
+      "source_location": {
+        "table_index": 7,
+        "row_index": 2,
+        "first_cell": "7000"
+      }
+    },
+    {
+      "id": "vv7001",
+      "finding": "Tatsächliche zugeordnete Post-/Telekommunikationskosten, Ausschluss eigener Vergütungsgeltendmachung und Alternative7002 erklärt. Vollständiger BVerwG2014Rn4–8: Paketporto, nicht automatisch Expressmehrkosten, keine doppelte Pauschale.18+7=25Euro geprüft.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und Kontext gelesen, individuell korrigiert",
+      "source_location": {
+        "table_index": 7,
+        "row_index": 8,
+        "first_cell": "7001"
+      }
+    },
+    {
+      "id": "vv7002",
+      "finding": "20Prozent bis20Euro pro gebührenrechtlicher Angelegenheit; StaatskassenbasisAbs2, keine Auslagen in Gebührenbasis.84Euro→16,80Euro,100Euro→Deckel. BVerwG2014Rn8 tatsächliche Kosten oder Pauschale. Keine Gleichsetzung von Akten-/Terminanzahl und Angelegenheiten.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und Kontext gelesen, individuell korrigiert",
+      "source_location": {
+        "table_index": 7,
+        "row_index": 10,
+        "first_cell": "7002"
+      }
+    },
+    {
+      "id": "vv7003",
+      "finding": "0,42Euro je tatsächlich gefahrenem Kilometer, alle abgegoltenen Fahrzeugkosten und Mehrzweck-/Altkanzleigrenze.150km→63Euro. BGH2012Rn9: Pauschale ohne fiktiven Vorsteuerabzug, tatsächliche Reisebelege getrennt.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und Kontext gelesen, individuell korrigiert",
+      "source_location": {
+        "table_index": 7,
+        "row_index": 12,
+        "first_cell": "7003"
+      }
+    },
+    {
+      "id": "vv7004",
+      "finding": "Angemessene tatsächliche Fahrtkosten, kombinierte Strecken ohne Doppelansatz; BGH2012Rn4–9 zum bleibenden Nettoaufwand bei abziehbarer Vorsteuer. BVerfG2023Rn21–27 bejaht bestimmte Akteneinsichtsreisen nur dem Grunde nach, Kostenhöhe zurückverwiesen. Kein pauschaler Ticketklassenanspruch.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und Kontext gelesen, individuell korrigiert",
+      "source_location": {
+        "table_index": 7,
+        "row_index": 14,
+        "first_cell": "7004"
+      }
+    }
+  ],
+  "limitations": [
+    "Genau20zugewiesene Einheiten vollständig inhaltlich geprüft;324andereKommentarblöcke gegenüber7af0141unverändert. Keine Gesamtbandfreigabe oder externe anwaltliche Genehmigung.",
+    "FünfamtlicheVolltexte vollständig gelesen und mit nationalemKorpus absatzweise verglichen. Sie unterstützen selektiv10Einheiten; für10weitere keine zusätzliche hinreichend relevante amtlich verifizierteEntscheidung ausgewählt. Kein erschöpfender Rechtsprechungs-/Folgenachweis.",
+    "ÄltereEntscheidungen mit damaligenBeträgen/Verfahrensfassungen begrenzt; insbesondereVorb6.4Abs2Satz3von2019nicht heutigerText, aktuelleRegel§14Abs2gegengelesen.",
+    "Aktuelle amtlicheRVG-Konsolidierung,Intake/Änderungskarte,Verkündung,Inkrafttreten,beideAnlagen geprüft;keine vollständige historischeArchiv- oder mittelbareÄnderungssuche. FamFG nur in dokumentiertem Kontext; neueste dokumentarischeBearbeitungsnotiz und tatsächlicheInkrafttretensregel dokumentiert.",
+    "Firecrawl ohneCredits; tatsächliche direkteamtlicheAbrufe erfolgreich. KeinewesentlicheQuellenlücke.",
+    "Wortlaut,Erfassung,Links und Wiederholungen technisch geprüft; dieseChecks undMindestlängen beweisen keinejuristischeQualität."
+  ],
+  "official_source": "sources/review-vv6213-vv7004-2026-10-20/rvg.xml",
+  "source_verification": "sources/review-vv6213-vv7004-2026-10-20/requests.json",
+  "version_evidence": "sources/review-vv6213-vv7004-2026-10-20/version-evidence.json",
+  "unit_evidence": "review-vv6213-vv7004-unit-evidence.json",
+  "case_sources": [
+    {
+      "court": "BGH",
+      "title": "BGH, Beschluss vom 21. März 2023 – XIII ZB 76/20",
+      "card": "cases/bgh-2023-xiii-zb-76-20.md",
+      "source": "sources/review-vv6213-vv7004-2026-10-20/KORE651362023.xml",
+      "supported_ids": [
+        "vv6300",
+        "vv6302"
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "title": "BVerwG, Beschluss vom 6. November 2019 – 1 WDS-KSt 2/19",
+      "card": "cases/bverwg-2019-1-wds-kst-2-19.md",
+      "source": "sources/review-vv6213-vv7004-2026-10-20/WBRE201900885.xml",
+      "supported_ids": [
+        "vb6.4",
+        "vv6402"
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "title": "BVerwG, Beschluss vom 30. September 2014 – 9 KSt 6/14",
+      "card": "cases/bverwg-2014-9-kst-6-14.md",
+      "source": "sources/review-vv6213-vv7004-2026-10-20/WBRE201400004.xml",
+      "supported_ids": [
+        "vv7001",
+        "vv7002"
+      ]
+    },
+    {
+      "court": "BGH",
+      "title": "BGH, Beschluss vom 17. April 2012 – VI ZB 46/11",
+      "card": "cases/bgh-2012-vi-zb-46-11.md",
+      "source": "sources/review-vv6213-vv7004-2026-10-20/KORE303562012.xml",
+      "supported_ids": [
+        "vb7",
+        "vv7003",
+        "vv7004"
+      ]
+    },
+    {
+      "court": "BVerfG",
+      "title": "BVerfG, Beschluss vom 28. September 2023 – 2 BvR 739/17",
+      "card": "cases/bverfg-2023-2-bvr-739-17.md",
+      "source": "sources/review-vv6213-vv7004-2026-10-20/KVRE455952301.xml",
+      "supported_ids": [
+        "vv7000",
+        "vv7004"
+      ]
+    }
+  ],
+  "all_assigned_official_wording_equal": true,
+  "all_unassigned_commentary_preserved": true,
+  "whole_book_review_complete": false,
+  "external_professional_approval": false,
+  "validation": {
+    "build": "technical check in progress"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "decisive_date": "2026-10-19",
+  "verified_at": "2026-10-20T13:00:07.267798+00:00",
+  "official_url": "https://www.gesetze-im-internet.de/rvg/",
+  "current_rvg_xml_sha256": "be5571d1735031133f154071b08a77ccdb89f3e047330ed057a494dfd128f5d1",
+  "current_rvg_xml_identical": true,
+  "official_stand": [
+    "NeufNeugefasst durch Bek. v. 15.3.2022 I 610;",
+    "Standzuletzt geändert durch Art. 14 G v. 8.12.2025 I Nr. 318"
+  ],
+  "commencement": {
+    "snapshot": "sources/review-vv6213-vv7004-2026-10-20/bgbl-318.pdf",
+    "read": "Artikel14 und21Abs2/3: Nummern1/3/4 seit1.1.2026,Nummer2 seit1.7.2026; keine Änderung der zugewiesenen Tarife."
+  },
+  "tariff_increase": {
+    "source": "sources/review-vv3103-vv3212-2026-10-20/bgbl-109.pdf",
+    "sha256": "1ff13f868178c6ca85497562b13de3e37a591793b5fe9f820432210ca17fc36d",
+    "read": "Artikel11Abs2Nummern117–129 undArtikel13Abs3 erneut gelesen: aktuelle6213–6500-Beträge und225Euro inVorb6.4 seit1.Juni2025. Keine behaupteteNeuerhebung dieses bereits gesichertenPDF; Altmandate§60."
+  },
+  "external_context": {
+    "famfg_xml": "sources/review-vv6213-vv7004-2026-10-20/famfg.xml",
+    "read_provisions": [
+      "151",
+      "312",
+      "329",
+      "330",
+      "415",
+      "425",
+      "426"
+    ],
+    "version_notes": [
+      "StandZuletzt geändert durch Art. 4 G v. 22.6.2026 I Nr. 192",
+      "HinweisÄnderung durch Art. 4 G v. 2.7.2026 I Nr. 198 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "SonstMittelbare Änderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war"
+    ],
+    "promulgations": "more-requests.json",
+    "actual_read": "BGBl2026INr192Art4 ändert41a/46/113, nachArt20Abs1 seit1.10.2026. BGBl2026INr198Art4 betrifft57/88/94a–d/96/167c/214/216b, nachArt10 grundsätzlich1.7.2027; nurArt4Nr8 seit10.7.2026. Keine dieser Änderungen betrifft die hier gelesenen siebenVerweisungsnormen. Hinweis dokumentarisch noch nicht abschließend bearbeitet offengelegt; keine vollständige historischeFamFG-Recherche."
+  },
+  "internal_cross_references_read": [
+    "§1(2)",
+    "§14(1)–(2)",
+    "§15",
+    "§15a",
+    "§16",
+    "§17",
+    "§45",
+    "§46",
+    "§60",
+    "Vorbemerkung6",
+    "Vorbemerkung6.2.3",
+    "Nr6211",
+    "Nr6212"
+  ],
+  "updates": {
+    "snapshot": "updates.html",
+    "identical_to_preceding_review": true,
+    "limits": "Titelprüfung allein beweist keineAbwesenheit mittelbarer/nicht eingearbeiteterÄnderungen."
+  },
+  "intake_and_structure": {
+    "change_map": "sources/change-map.json",
+    "raw_coverage": "preflight-coverage.json",
+    "all92nodes_classified": true,
+    "historical_duplicate_operative_labels": [],
+    "annex_evidence": "annex-coverage.json"
+  },
+  "limitations": [
+    "Keinevollständige historischeArchiv-/mittelbareÄnderungssuche. Abruf-/Buildtimestamp ist kein Inkrafttretensbeweis.",
+    "Fremdgesetze nur im dokumentierten Verweisungskontext gelesen; kein eigenständiger vollständiger Fremdgesetzkommentar."
+  ]
+}

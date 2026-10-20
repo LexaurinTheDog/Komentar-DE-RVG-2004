@@ -734,6 +734,110 @@
         "result": "Insufficient credits; Direktabrufe dokumentiert."
       },
       "historical_law_limit": "Keine Übernahme historischer Eurobeträge oder BRAGO-Regeln; alter BDG-Verfahrenshintergrund offengelegt."
+    },
+    {
+      "verified_at": "2026-10-20T13:00:07.267798+00:00",
+      "scope": [
+        "vv6213",
+        "vv6214",
+        "vv6215",
+        "vv6216",
+        "vv6300",
+        "vv6301",
+        "vv6302",
+        "vv6303",
+        "vb6.4",
+        "vv6400",
+        "vv6401",
+        "vv6402",
+        "vv6403",
+        "vv6500",
+        "vb7",
+        "vv7000",
+        "vv7001",
+        "vv7002",
+        "vv7003",
+        "vv7004"
+      ],
+      "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii",
+      "local_search": {
+        "evidence": "local-case-search.json",
+        "candidate_count": 200,
+        "method": "Tarifnummern mit Zifferngrenzen undRVG/VV im100ZeichenUmfeld; vollständige ausgewählte Texte gelesen, bloße Zufallstreffer verworfen."
+      },
+      "web_queries": [
+        "site.bundesgerichtshof.de \"7000\" \"Scannen\"",
+        "site.bverwg.de \"6402\" \"2302\"",
+        "site.bundesgerichtshof.de \"6301\" \"Terminsgebühr\""
+      ],
+      "selected_primary_full_texts": [
+        {
+          "slug": "bgh-2023-xiii-zb-76-20",
+          "doknr": "KORE651362023",
+          "supported_ids": [
+            "vv6300",
+            "vv6302"
+          ],
+          "read_in_full": true
+        },
+        {
+          "slug": "bverwg-2019-1-wds-kst-2-19",
+          "doknr": "WBRE201900885",
+          "supported_ids": [
+            "vb6.4",
+            "vv6402"
+          ],
+          "read_in_full": true
+        },
+        {
+          "slug": "bverwg-2014-9-kst-6-14",
+          "doknr": "WBRE201400004",
+          "supported_ids": [
+            "vv7001",
+            "vv7002"
+          ],
+          "read_in_full": true
+        },
+        {
+          "slug": "bgh-2012-vi-zb-46-11",
+          "doknr": "KORE303562012",
+          "supported_ids": [
+            "vb7",
+            "vv7003",
+            "vv7004"
+          ],
+          "read_in_full": true
+        },
+        {
+          "slug": "bverfg-2023-2-bvr-739-17",
+          "doknr": "KVRE455952301",
+          "supported_ids": [
+            "vv7000",
+            "vv7004"
+          ],
+          "read_in_full": true
+        }
+      ],
+      "no_additional_verified_case_selected_for": [
+        "vv6213",
+        "vv6214",
+        "vv6215",
+        "vv6216",
+        "vv6301",
+        "vv6303",
+        "vv6400",
+        "vv6401",
+        "vv6403",
+        "vv6500"
+      ],
+      "firecrawl": {
+        "attempt": "firecrawl-attempt.log",
+        "result": "Insufficientcredits; actual official direct ZIP/XML snapshots succeeded."
+      },
+      "limitations": [
+        "Keine erschöpfende Rechtsprechungsabdeckung oder spätereEntscheidungssuche.",
+        "Keine kommerziellen Redaktionsleitsätze übernommen; eigene Fallkarten begrenzen den konkreten Aussagegehalt."
+      ]
     }
   ]
 }
