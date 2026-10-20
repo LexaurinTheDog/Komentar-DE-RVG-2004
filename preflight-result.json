@@ -142,5 +142,21 @@
     "duplicate_ids": [],
     "all_assigned_texts_match_official_xml": true,
     "unresolved_blockers": []
+  },
+  "bounded_review_p31_p46_recheck": {
+    "verified_at": "2026-10-20T10:13:13.987414+00:00",
+    "official_url": "https://www.gesetze-im-internet.de/rvg/",
+    "decisive_date": "2026-10-19",
+    "fresh_evidence": "sources/review-p31-p46-2026-10-20/requests.json",
+    "current_rvg_xml_identical": true,
+    "commencement_pdf_identical": true,
+    "version_evidence": "Current stand unchanged. Actual Article14 no.3 and Article21(2) read: §33 threshold300 Euro effective1.1.2026, with §61 transitional exception. Article14 no.2 effective1.7.2026. Update service snapshot unchanged; no inference from fetch time alone.",
+    "historical_versions_checked": "All92 current XML nodes classified. No duplicate operative versions, no separate Eingangsformel or unlabelled operative content; global notes preserved. Current/intake change map retained, not a complete historical archive.",
+    "annexes_checked": "Anlage1:231 tariff IDs and32 remarks derived independently from official first-cell labels; full536 rows preserved. Anlage2 full22 rows, no invented child identifiers.",
+    "annex_evidence": "annex-coverage.json",
+    "missing_ids": [],
+    "duplicate_ids": [],
+    "all_assigned_texts_match_official_xml": true,
+    "unresolved_blockers": []
   }
 }

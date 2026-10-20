@@ -1,0 +1,68 @@
+[
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KVRE440582001.zip",
+    "accessed_at": "2026-10-20T10:09:31.972122+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "local_path": "sources/review-p31-p46-2026-10-20/KVRE440582001.zip",
+    "sha256": "adc34a47292d5d481abb5115f469935fe6468a7376907287370a097254362204",
+    "validated_format": "ZIP, single expected decision XML, XML parsed",
+    "xml_path": "sources/review-p31-p46-2026-10-20/KVRE440582001.xml",
+    "xml_sha256": "502fad656e6f834a99b6ce6957d6c48d8478606cda58cdf514a1560fec584674",
+    "court": "BVerfG",
+    "date": "20201102",
+    "docket": "1 BvR 533/20",
+    "ecli": "ECLI:DE:BVerfG:2020:rk20201102.1bvr053320",
+    "local_intake_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kvre440582001.md",
+    "local_intake_sha256": "1c1e3fd5bb6a5c152b456a3b1b4152ef96b5a4d3209727cf8771b1dec8a634ea"
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KVRE442722101.zip",
+    "accessed_at": "2026-10-20T10:09:32.195948+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "local_path": "sources/review-p31-p46-2026-10-20/KVRE442722101.zip",
+    "sha256": "4881dea01be22a551642fcf7377e766d5b988a69d3aa07a4c3f9eeca2797cb38",
+    "validated_format": "ZIP, single expected decision XML, XML parsed",
+    "xml_path": "sources/review-p31-p46-2026-10-20/KVRE442722101.xml",
+    "xml_sha256": "0d32c975ba7e0c389a32003a6282dd5aad1f0ee60838011891685da39436d9a1",
+    "court": "BVerfG",
+    "date": "20210303",
+    "docket": "1 BvR 533/20",
+    "ecli": "ECLI:DE:BVerfG:2021:rk20210303.1bvr053320",
+    "local_intake_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kvre442722101.md",
+    "local_intake_sha256": "ec41652befd239b9f16065d1e0164372338dc87db85f1eaa95a54e25b6b7d62d"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/zpo/__126.html",
+    "accessed_at": "2026-10-20T10:09:32.307091+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "local_path": "sources/review-p31-p46-2026-10-20/zpo-p126.html",
+    "sha256": "b409c238731c278ff80ff876a16c15c4669a88ecafc171dc60fc5074d5cf5ab4",
+    "validated_format": "HTML with expected statutory text",
+    "scope": "Only cross-reference meaning checked, no complete separate statute commentary"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/stpo/__364b.html",
+    "accessed_at": "2026-10-20T10:09:32.449706+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "local_path": "sources/review-p31-p46-2026-10-20/stpo-p364b.html",
+    "sha256": "76a4b30cac8b0d0e505e4f9dda08aaeac5249f672799301c6fef2a684cb244d7",
+    "validated_format": "HTML with expected statutory text",
+    "scope": "Only cross-reference meaning checked, no complete separate statute commentary"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/stbgebv/xml.zip",
+    "accessed_at": "2026-10-20T10:09:32.554230+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "local_path": "sources/review-p31-p46-2026-10-20/stbvv.zip",
+    "sha256": "09c065d24e899388d2d76d21ae7b852f606166fcf78e7e7483182f43528cc3d5",
+    "validated_format": "ZIP with parsed expected StBVV XML",
+    "scope": "Only cross-reference meaning checked, no complete separate statute commentary",
+    "xml_path": "sources/review-p31-p46-2026-10-20/stbvv.xml",
+    "xml_sha256": "4f5f7fd53313217733c7785516a272b25384306f86b1f1f7ab574e13f8151608"
+  }
+]

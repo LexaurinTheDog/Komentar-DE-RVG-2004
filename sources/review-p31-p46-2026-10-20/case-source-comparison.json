@@ -1,0 +1,22 @@
+[
+  {
+    "decision": "KVRE440582001",
+    "ecli": "ECLI:DE:BVerfG:2020:rk20201102.1bvr053320",
+    "judicial_paragraphs_compared": 20,
+    "missing_exact_paragraphs": [],
+    "all_paragraphs_present": true,
+    "official_xml_sha256": "502fad656e6f834a99b6ce6957d6c48d8478606cda58cdf514a1560fec584674",
+    "intake_snapshot_sha256": "1c1e3fd5bb6a5c152b456a3b1b4152ef96b5a4d3209727cf8771b1dec8a634ea",
+    "method": "Every nonempty official p in tenor and reasons matched against copied intake; whitespace only removed. Both complete texts actually read."
+  },
+  {
+    "decision": "KVRE442722101",
+    "ecli": "ECLI:DE:BVerfG:2021:rk20210303.1bvr053320",
+    "judicial_paragraphs_compared": 8,
+    "missing_exact_paragraphs": [],
+    "all_paragraphs_present": true,
+    "official_xml_sha256": "0d32c975ba7e0c389a32003a6282dd5aad1f0ee60838011891685da39436d9a1",
+    "intake_snapshot_sha256": "ec41652befd239b9f16065d1e0164372338dc87db85f1eaa95a54e25b6b7d62d",
+    "method": "Every nonempty official p in tenor and reasons matched against copied intake; whitespace only removed. Both complete texts actually read."
+  }
+]

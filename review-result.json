@@ -2,186 +2,166 @@
   "complete": true,
   "task_kind": "bounded_independent_second_pass",
   "decisive_date": "2026-10-19",
-  "reviewed_at": "2026-10-20T10:03:59.505701+00:00",
+  "reviewed_at": "2026-10-20T10:13:13.987414+00:00",
   "units_reviewed": 20,
   "reviewed_ids": [
-    "p15",
-    "p15a",
-    "p16",
-    "p17",
-    "p18",
-    "p19",
-    "p20",
-    "p21",
-    "p22",
-    "p23",
-    "p23a",
-    "p23b",
-    "p24",
-    "p25",
-    "p26",
-    "p27",
-    "p28",
-    "p29",
-    "p29a",
-    "p30"
+    "p31",
+    "p31a",
+    "p31b",
+    "p32",
+    "p33",
+    "p34",
+    "p35",
+    "p36",
+    "p37",
+    "p38",
+    "p38a",
+    "p39",
+    "p40",
+    "p41",
+    "p41a",
+    "p42",
+    "p43",
+    "p44",
+    "p45",
+    "p46"
   ],
   "changed_ids": [
-    "p15",
-    "p15a",
-    "p16",
-    "p17",
-    "p18",
-    "p19",
-    "p21",
-    "p23",
-    "p23a",
-    "p25",
-    "p26",
-    "p27",
-    "p28",
-    "p30"
+    "p31",
+    "p31a",
+    "p31b",
+    "p33",
+    "p34",
+    "p35",
+    "p37",
+    "p41",
+    "p41a",
+    "p42",
+    "p45",
+    "p46"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "p15",
+      "id": "p31",
       "status": "corrected",
-      "assessment": "Alle sechs Absätze gelesen. Abgeltung, Einmaligkeit, Höchstsatzvergleich, vorzeitige Beendigung und Einzelauftrag richtig. Erledigung statt bloßer Pause, unterschiedliche Zeitanknüpfungen des Satzes 3 und begrenzte Analogie bei spätem Einspruch ergänzt; BGH V ZB 152/16 vollständig gelesen. Offen gelassene Neuauftragsfrage und historischer Tarifbezug ausdrücklich getrennt."
+      "assessment": "Beide Absätze vollständig gelesen. Bruchteilsmaßstab und individueller Antragstellungszeitpunkt stimmen. Gerichtsbekanntheit als genauer Anknüpfungspunkt der Ein-Anteil-Vermutung präzisiert. Mindestwert 5.000 Euro auf jeden Einzelwert vor Addition bezogen und Rechenbeispiel ergänzt. Ausschluss Nr.1008 VV richtig."
     },
     {
-      "id": "p15a",
+      "id": "p31a",
       "status": "corrected",
-      "assessment": "Alle drei Absätze mit Vorbemerkung 3 Absatz 4 VV abgeglichen. Einzelanrechnung und Gesamtbegrenzung richtig. Wirtschaftliche Gegenstandsidentität und Drittwirkung anhand vollständig gelesenen BGH VI ZB 39/21 ergänzt. Früherer Absatz 2 auf heutigen Absatz 3 bezogen; fehlende Anwendung der heutigen Mehrfachanrechnungsgrenze im Altfall und offene Teilwertfrage ausdrücklich begrenzt."
+      "assessment": "Gesamte Norm und Verweisung auf §31 Abs.1 Sätze2–4/Abs.2 geprüft. Exakten §39b-WpÜG-Fall, Mindestwert und Nichtübernahme des Bruchteilsmaßstabs aus §31 Abs.1 Satz1 ergänzt. Aktienwert und Bestand zum Antragszeitpunkt, Zusammenrechnung und Ausschluss Nr.1008 korrekt."
     },
     {
-      "id": "p16",
+      "id": "p31b",
       "status": "corrected",
-      "assessment": "Sämtliche Nummern 1 bis 13 einschließlich 3a und Buchstaben zu Nummer 10 gelesen. Fehlende Erläuterungen zum behördlichen Eilschutz, Lebenspartnerschaft, deutsch-österreichischen Sonderverfahren und den unterschiedlichen schiedsgerichtlichen Zuordnungen ergänzt. Ausnahme der Nichtzulassungsbeschwerde und Begrenzung auf Erstverfahren nach KapMuG bestätigt. Beispiel zu erfolgloser Gerichtsstandsbestimmung korrekt."
+      "assessment": "Ganze Norm mit vollständiger Nr.1000 VV intern verglichen. Hälfte des Anspruchs und besondere Zahlungsvereinbarung korrekt. 10.000-/5.000-Euro-Beispiel und Satz0,7 ergänzt, Wertreduktion von sonstigen Gebührenwerten abgegrenzt. Kein gewöhnlicher Vergleich automatisch auf halben Wert reduziert."
     },
     {
-      "id": "p17",
-      "status": "corrected",
-      "assessment": "Alle Nummern einschließlich 1a, 5a und Buchstabengruppen geprüft. Verwaltungs- und Wehrbeschwerdephasen, genaue Urkundenprozessfälle, Merkmale vorgeschalteter Gütestellen und das familienrechtliche Vermittlungsverfahren ergänzt. Wiederaufnahmegrenze auf VV-Teil 4 oder 5 ausdrücklich klargestellt. Mahnbeispiel und Anrechnungsvorbehalt richtig."
-    },
-    {
-      "id": "p18",
-      "status": "corrected",
-      "assessment": "Absatz 1 Nummern 1 bis 21 und Absatz 2 geprüft. Klauseltypen, weitere Ausfertigung, Schutz- und Aussetzungsanträge, Verwertung und Verwaltung gepfändeter Rechte, Vollstreckung der Vorauszahlungsentscheidung, Sicherheitsbestellung und Veröffentlichungsbefugnis genauer erläutert. Vergleich mit §19 verhindert Gleichsetzung der Androhung mit der Verurteilung. Vollstreckungsbeispiel korrekt."
-    },
-    {
-      "id": "p19",
-      "status": "corrected",
-      "assessment": "Beide Absätze mit sämtlichen Nummern einschließlich 1a, 1b, 9a, 10a und weggefallenem Slot 15 gelesen. Leitentscheidungsverfahren, Neuverteidiger, tarifliche Beschwerdebedingungen und Terminvorbehalte bei Einstellung ergänzt. Alle sechs Gruppen des Absatzes 2 genauer erklärt, insbesondere §766-Erinnerung von §18 unterschieden. Nr.6 an Artikel14 Nr.2/Artikel21 Abs.3 BGBl.2025 I Nr.318 auf Wirksamkeit seit 1.7.2026 geprüft."
-    },
-    {
-      "id": "p20",
+      "id": "p32",
       "status": "checked_no_change",
-      "assessment": "Beide Sätze am amtlichen Text gelesen. Einheit bei Verweisung/Abgabe und neuer Rechtszug beim niedrigeren Gericht korrekt getrennt. Beispiel örtlicher Verweisung und Abgrenzung zu §21 tragen die Aussage; Anwaltswechselvorbehalt erzeugt keinen unbelegten Erstattungsanspruch. Unverändert."
+      "assessment": "Beide Absätze gelesen. Bindung an Gerichtskostenwert bei identischem Gegenstand/Abschnitt und Abgrenzung zur selbständigen Wertfestsetzung zutreffend. Eigenes Antrags- und Rechtsbehelfsrecht des Anwalts einschließlich unterbliebener Festsetzung richtig. Beispiel zeigt das eigene Interesse; kein zusätzlicher Rechtsmittelweg erfunden. Unverändert."
     },
     {
-      "id": "p21",
+      "id": "p33",
       "status": "corrected",
-      "assessment": "Alle drei Absätze geprüft. Verweisungsausnahme konkret auf §146 FamFG auch in Verbindung mit §270 begrenzt. Anrechnung nach Vorbemerkung3 Abs.6 VV mit Voraussetzung früherer Befassung ergänzt. Folgesachenidentität und fiktives Zurückverweisungsbeispiel korrekt; keine pauschale Gleichsetzung neuer Rechtszug mit neuer ungekürzter Gebühr."
+      "assessment": "Alle neun Absätze und §61 gelesen. Ausführliche Behandlung jeder Verfahrensstufe ergänzt: Fälligkeit, Beteiligte, wirtschaftliche Beschwer, Zulassung, zweiwöchige Zustellungsfrist, Ausgangsgericht, Abhilfe, Instanzenausnahmen, fehlendes Verschulden und Jahresgrenze, Ablehnungsbeschwerde, weitere Beschwerde, Vertretung, Einzelrichter/Übertragung/ehrenamtliche Richter und Kosten. Grenze300 Euro anhand Art.14/21 BGBl.2025 I Nr.318 geprüft. §61-Altfall und Rechtsmittelausnahme präzisiert. BVerfG2.11.2020 vollständig gelesen; Versicherungsinteresse nicht mit Anspruch der Versicherung verwechselt; frühere Grenze und Vergleichsmehrwert nicht als entschieden behauptet."
     },
     {
-      "id": "p22",
+      "id": "p34",
+      "status": "corrected",
+      "assessment": "Beide Absätze mit §3a Abs.1 Satz4, Vorbemerkung7 und Nr.7008 VV intern abgeglichen. Grenzen250/190 Euro nur bei fehlender Vereinbarung und Verbraucher, keine Festpreise. Gebührenbetrag von Auslagen/Umsatzsteuer getrennt. Mediation und Gutachten nicht pauschal der Beratungsanrechnung unterstellt. Begrenzte Ausnahme von besonderen Formregeln erklärt; fiktives Folgemandatsbeispiel korrekt."
+    },
+    {
+      "id": "p35",
+      "status": "corrected",
+      "assessment": "Beide Absätze und amtliche StBVV-Verweisungen gelesen. §§23–39 mit §§10/13 ausdrücklich genannt; mögliche missverständliche Beschränkung auf laufende Hilfe entfernt. Engeren Anrechnungskatalog §§23,24,31 gegenüber weiterem Eingangskatalog herausgearbeitet. Summe und Höchstbetragswert korrekt. Keine ungesicherten Fremdtarifsätze ergänzt; StBVV-XML-Snapshot gesichert."
+    },
+    {
+      "id": "p36",
       "status": "checked_no_change",
-      "assessment": "Beide Absätze geprüft: mehrere Gegenstände derselben Angelegenheit, 30-Millionen-Grenze, gesetzlich niedrigere Höchstwerte und bei verschiedenen Gegenständen mehrerer Personen 30 Millionen pro Person/100 Millionen insgesamt. Mehrvertretung wegen desselben Gegenstands und §15 Abs.3 zutreffend getrennt. Mehrunternehmensbeispiel bleibt ausdrücklich von Angelegenheitsprüfung abhängig. Unverändert."
+      "assessment": "Abs.1 Nummern1/2 und Abs.2 vollständig geprüft. VV-Teil3 Abschnitte1,2,4 nur entsprechend; Parteivertretung von Schiedsrichteramt unterschieden. Terminsgebührenprivileg bei schriftlichem Schiedsspruch nur für ZPO-Schiedsverfahren, nicht pauschal ArbGG. Interne §§16/17-Angelegenheitshinweise und Beispiel zutreffend. Unverändert."
     },
     {
-      "id": "p23",
+      "id": "p37",
       "status": "corrected",
-      "assessment": "Alle drei Absätze einschließlich jeder Verweisung gelesen. Fehlende Obergrenze von 500.000 Euro für Absatz3 Satz2 ergänzt und von §22 unterschieden. Voraussetzungen nichtwertabhängiger Beschwerdegebühren und Fortgeltung der Mehrpersonengrenze nach Absatz1 Satz4 präzisiert. Auffangwert weiterhin nur subsidiär; Beispiel zur bezifferten Abwehrforderung zutreffend."
+      "assessment": "Beide Absätze und alle vier Nummern geprüft. Einzelne zuvor nur allgemein behandelte Sonderverfahren ausdrücklich ergänzt. Subsidiäres Modell von Teil3 Abschn.2 Unterabschn.2 und eigener Mindestwert5.000 Euro richtig. BVerfG3.3.2021 vollständig gelesen und als konkrete Ermessensentscheidung mit Randnummern3/4 eingebunden; 12.500 Euro nicht als allgemeiner Erfolgswert bezeichnet."
     },
     {
-      "id": "p23a",
-      "status": "corrected",
-      "assessment": "Beide Absätze gelesen. Aufhebungsfall für Hauptsachewert auf §124 Abs.1 Nr.1 ZPO präzisiert, übriges Kosteninteresse und tatsächliche Auswirkungen deutlicher gemacht. Zusammenrechnungsverbot und §16 Nr.2 richtig. Beispiel 12.000-Euro-Klage schafft keine doppelte Wertbasis und verwechselt Wert nicht mit Satz."
-    },
-    {
-      "id": "p23b",
+      "id": "p38",
       "status": "checked_no_change",
-      "assessment": "Ganze Vorschrift sowie §16 Nr.13 und §41a intern gelesen. Individueller, nur musterbefangener Anspruchsteil und Abgrenzung zur besonderen Musterklägervertretergebühr richtig. Fiktives Mehrvorgangsbeispiel unterstützt den begrenzenden Halbsatz. Keine pauschale Übertragung des Gesamtvolumens. Unverändert."
+      "assessment": "Alle drei Absätze gelesen. Genaues Wertregime des Vorlageverfahrens, Antrag beim vorlegenden Gericht und §33 Abs.2–9 korrekt. Teil4–6-Sonderfall mit Nrn.4130/4132 und Ausnahme von der Anrechnung bei verfahrensrechtlich vorgesehener schriftlicher EuGH-Stellungnahme richtig. Historische Gerichtsbezeichnung bewusst im Gesetz belassen. Beispiel ohne fiktiven Erstattungsanspruch. Unverändert."
     },
     {
-      "id": "p24",
+      "id": "p38a",
       "status": "checked_no_change",
-      "assessment": "Ganze Vorschrift und §17 Nr.5a sowie §23 Abs.3 Satz2 intern geprüft. Wirtschaftliches Auftraggeberinteresse und Ermessensverweis zutreffend; Verbraucherbeispiel als ein mögliches Mandat, keine Beschränkung auf Verbraucher. Angelegenheit und Wert getrennt. Keine Gleichsetzung mit kollektivem Gesamtbetrag. Unverändert."
+      "assessment": "Gesamte Norm gelesen. Teil3 Abschn.2 Unterabschn.2, §14-Umstände und Mindestwert5.000 Euro korrekt. Eigenständige Bewertung statt Bindung an innerstaatlichen Prozess und Trennung von Vergütung/Erstattung richtig. Keine unzulässige Übernahme des §38-Modells; Beispiel als neues Beschwerdemandat stimmig. Unverändert."
     },
     {
-      "id": "p25",
-      "status": "corrected",
-      "assessment": "Absatz1 Eingangssatz, Nummern1 bis4 mit sämtlichen Halbsätzen und Absatz2 gelesen. Tatsächlich offener Titelbetrag unterhalb 2.000 Euro mit 850-Euro-Beispiel ergänzt. Künftiges Arbeitseinkommen, Verteilungsbetrag und Sachwertobergrenze präzisiert sowie Verwaltungszwang und Vollziehungsanwendung ausdrücklich gemacht. Maßnahmenidentität weiterhin getrennt geprüft."
-    },
-    {
-      "id": "p26",
-      "status": "corrected",
-      "assessment": "Alle drei Nummern mit Teilforderungs- und Niedrigerwertregeln gelesen. Teilforderungsfall genau auf §10 Abs.1 Nr.5 ZVG bezogen. Anteil des Miteigentümers und Abgrenzung der Wertregel von nur für Beteiligte entstehender Terminsgebühr nach Nr.3312 VV ergänzt. Bieter ohne Gebot bekommt nicht Wert null; Beispiel richtig."
-    },
-    {
-      "id": "p27",
-      "status": "corrected",
-      "assessment": "Beide Sätze und §1 Abs.2 sowie Nr.3311 VV intern gelesen. Unpräzise Beschreibung des Jahreswerts als bloße Begrenzung korrigiert: maßgebend ist der Wert der Leistungen eines Jahres. Schuldneraggregation auf sämtliche verfahrensbegründenden Ansprüche bezogen. Sonstige Beteiligte und Amtsvergütung richtig abgegrenzt; Beispiel beibehalten."
-    },
-    {
-      "id": "p28",
-      "status": "corrected",
-      "assessment": "Alle drei Absätze und ausdrücklich bezeichneten VV-Gebühren geprüft. Nrn.3313,3317,3500,3513 sowie Nr.3314 und Beschränkung der Beschwerde auf Eröffnungsbeschluss genauer erklärt. Mindestwert 4.000 Euro nicht auf Gläubiger oder alle Insolvenzgebühren übertragen. Nennwert statt Quote und subsidiäre Interessenbewertung einschließlich §23-Verweis korrekt."
-    },
-    {
-      "id": "p29",
+      "id": "p39",
       "status": "checked_no_change",
-      "assessment": "Gesamte Verweisung auf §28 gelesen. Festgesetzte Haftungssumme ersetzt Massewert, nicht jede andere differenzierte Wertgrundlage. Schuldner-/Gläubigerrollen im fiktiven Verteilungsbeispiel und Abgrenzung von Quote zutreffend. Keine Ausdehnung auf allgemeine maritime Mandate. Unverändert."
+      "assessment": "Beide Absätze mit §§45 Abs.2/47 Abs.1 Satz2 intern gelesen. Privater Anspruch und Vorschuss trotz genauer gesetzlicher Beiordnung korrekt, Landeskasse erst bei passendem Verzug. Familienrechtliche und strafvollzugsrechtliche Fälle nicht auf alle Beiordnungen ausgeweitet. Beispiel/Abgrenzung richtig. Unverändert."
     },
     {
-      "id": "p29a",
+      "id": "p40",
       "status": "checked_no_change",
-      "assessment": "Gesamte Norm mit §23 Abs.3 Satz2 und §1 Abs.2 intern geprüft. Wirtschaftliches Einzelinteresse statt automatischem Planvolumen, dokumentierte Schätzung und Abgrenzung zur Amtsarbeit von Restrukturierungsbeauftragtem/Sanierungsmoderator zutreffend. Einzelgläubigerbeispiel korrekt; keine pauschale Gebührenbehauptung. Unverändert."
+      "assessment": "Ganze Norm mit §§7,45 Abs.2 und47 Abs.1 Satz2 verglichen. Anspruch gegen Vertretene bei Bestellung nach §67a Abs.1 Satz2 VwGO, Mehrmandanten- und Haftungsgrenzen korrekt. Staatskassenvergütung und -vorschuss mit jeweils erforderlichem Verzug getrennt. Reine tatsächliche Koordination nicht als Bestellung behandelt. Unverändert."
     },
     {
-      "id": "p30",
+      "id": "p41",
       "status": "corrected",
-      "assessment": "Beide Absätze einschließlich aller Werte geprüft. Sonderfall des §77 Abs.4 Satz1 AsylG anhand amtlicher Einzelnorm konkret erklärt; keine umfassende AsylG-Kommentierung. Erhöhungen 1.000 Euro je weiterer natürlicher Person in Klage/500 Euro im Eilverfahren ausdrücklich ergänzt. Drei-Personen-Beispiel 7.000 Euro korrekt. Billigkeitsabweichung und Trennung von Nr.1008 weiterhin richtig."
+      "assessment": "Alle drei Sätze und sämtliche Bestellungsverweise gelesen. Kein Vorschuss gegen Vertretenen korrekt. Zuvor nur pauschalen §126-ZPO-Hinweis anhand tatsächlich gelesener amtlicher Einzelnorm konkretisiert: eigene Beitreibung gegen kostenpflichtigen Gegner, Einredenausschluss und begrenzte Kostenaufrechnung. Ansprüche gegen Vertretenen/Gegner/Staatskasse auseinandergehalten; §48 bestimmt nur Staatskassenumfang."
+    },
+    {
+      "id": "p41a",
+      "status": "corrected",
+      "assessment": "Alle vier Absätze gelesen. Tatsächlicher Mehraufwand, Vorteil/Bedeutung für Beigeladene, §13-0,3-Grenze und höchstens30 Millionen Euro für erfasste ausgesetzte Ansprüche richtig. OLG-Zuständigkeit, Erklärungsfrist, Nichtanhörung der Kasse sowie genaue Mitteilungsadressaten/öffentliche Bekanntmachung ergänzt. Privater Anspruch bleibt unberührt; Landeskasse einschließlich Umsatzsteuer, kein Vorschuss. Keine Übertragung auf jedes Anlegerverfahren."
+    },
+    {
+      "id": "p42",
+      "status": "corrected",
+      "assessment": "Alle fünf Absätze und interne §§52/53 gelesen. Katalog der Sonderverfahren vervollständigt. Unzumutbarkeit, nur Rahmengebühren, ersetzte Abschnitte und doppelte Höchstbeträge korrekt. Zusatzvoraussetzungen für bestellte Anwälte, Wegfall privater Gebühren bei Kassenleistung sowie Erstattungsanspruch/Leistungsfähigkeit erläutert. Einzelrichterübertragung nur zur Einheitlichkeit, Bindungswirkung und behördliche Zuständigkeit/§62-OWiG-Antrag korrekt."
+    },
+    {
+      "id": "p43",
+      "status": "checked_no_change",
+      "assessment": "Beide Sätze vollständig gelesen. Schutz nur abgetretener notwendiger Anwaltsauslagen gegen Staatskassenaufrechnung und nur bei rechtzeitig aktenkundiger Urkunde/Anzeige des Beschuldigten oder Betroffenen korrekt. Interne Kanzleiakte reicht nicht. Kein neuer Erstattungsanspruch und keine allgemeine Aufrechnungsunwirksamkeit behauptet. Beispiel zutreffend. Unverändert."
+    },
+    {
+      "id": "p44",
+      "status": "checked_no_change",
+      "assessment": "Beide Sätze mit Teil2 Abschn.5 VV sowie §§47 Abs.2/55 intern geprüft. Landeskassenanspruch, besondere Beratungsstellenvereinbarungen und ausschließlich vom Rechtsuchenden geschuldete Nr.2500 korrekt getrennt. Kein Staatskassenvorschuss, keine reguläre Geschäftsgebühr als bloß ermäßigte Beratungshilfe und kein automatischer Gerichtsschutz im Beispiel. Unverändert."
+    },
+    {
+      "id": "p45",
+      "status": "corrected",
+      "assessment": "Alle fünf Absätze einschließlich Kassenwechsel beider Richtungen gelesen. Zuordnung nach Gerichtsträger, besondere Verzugsvoraussetzung und zeit-/gebührenbezogene Aufteilung korrekt. Abs.4 und gerichtlichen Bußgeldfall präzisiert: besondere Vorbereitung/Bestätigung nach §364b StPO, nicht bloße alte Bestellung. Verweis anhand amtlicher Einzelnorm geprüft. Abs.5 nur entsprechende Anwendung des Abs.3 mit Behördenersetzung."
+    },
+    {
+      "id": "p46",
+      "status": "corrected",
+      "assessment": "Alle drei Absätze einschließlich sämtlicher Sätze gelesen. Erforderlichkeit und bindende Vorabfeststellung von Kostenhöhe getrennt. Klargestellt, dass fehlende Vorabfeststellung erforderliche Auslagen nicht generell ausschließt. Aufwendungen und JVEG-Höchstbeträge ausdrücklich erläutert. Wiederaufnahmevorbereitung nur mit §364b-Bestellung/Feststellung, auch gerichtliches Bußgeldverfahren; Geschäftsallgemeinkosten nicht umetikettiert."
     }
   ],
   "limitations": [
-    "Only the exact 20 assigned units were substantively reviewed in this task; other 324 commentary units preserved against 5ffcdb7.",
-    "Selective new case research confined to §§15 and15a; no additional sufficiently relevant verified case asserted for the remaining18 units and no exhaustive search claimed.",
-    "Current official consolidation checked against promulgated last-amendment commencement; no full historical archive or guarantee against unincorporated legislation.",
-    "External-law cross-reference check limited to the cited AsylG §77(4) sentence1, the actual promulgation and source-derived RVG references; no full separate foreign-statute commentary.",
-    "No external professional approval and no claim of whole-book review completion."
+    "Only the exact20 assigned units were reviewed substantively; all324 other commentary texts preserved against4bdd61cf1d9063ee471f741acee1a6c60c2eaa92.",
+    "Two selective BVerfG decisions verified/read for §§33/37. No exhaustive case-law survey and no additional sufficiently relevant verified decision asserted for the other18 units.",
+    "Current RVG consolidation, actual last-amendment commencement and duplicate structures checked; no full historical archive or guarantee against unincorporated legislation.",
+    "External-law checks limited to cross-reference meaning in §126 ZPO, §364b StPO and selected StBVV provisions; no separate full commentary or comprehensive historical-version research for those statutes.",
+    "No external professional approval and no whole-book review completion claimed."
   ],
   "whole_book_complete": false,
-  "evidence": "review-p15-p30-unit-evidence.json",
-  "previous_bounded_result_preserved": "review-p1-p14-result.json",
+  "evidence": "review-p31-p46-unit-evidence.json",
+  "previous_bounded_results": [
+    "review-p1-p14-result.json",
+    "review-p15-p30-result.json"
+  ],
   "preflight": "preflight-result.json",
   "case_cards": [
-    "cases/bgh-2017-v-zb-152-16.md",
-    "cases/bgh-2023-vi-zb-39-21.md"
+    "cases/bverfg-2020-1-bvr-533-20.md",
+    "cases/bverfg-2021-1-bvr-533-20.md"
   ],
   "validation": {
-    "strict": {
-      "repo": "Komentar-DE-RVG-2004",
-      "units": 344,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 291994,
-      "errors": [],
-      "warnings": [],
-      "ok": true
-    },
-    "validated_at": "2026-10-20T10:07:17.308117+00:00",
-    "validated_output_checkpoint": "d5ca8cc",
-    "completeness_report": "preflight-coverage.json",
-    "completeness_ok": true,
-    "annex_coverage": "annex-coverage.json",
-    "all_assigned_official_texts_equal": true,
-    "local_links_checked": 120,
-    "broken_local_links": [],
-    "identical_long_commentary_sentences": 0,
-    "identical_long_commentary_paragraphs": 0,
-    "unassigned_commentary_preserved": 324,
-    "quality_report": "quality-report.json",
-    "limitations": "Strict validator verifies technical properties and clean committed output; legal review findings are recorded per unit separately."
+    "status": "pending rebuild and strict validation"
   }
 }

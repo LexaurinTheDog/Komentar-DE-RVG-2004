@@ -3,8 +3,8 @@
   "title": "Gesetz über die Vergütung der Rechtsanwältinnen und Rechtsanwälte",
   "country": "de",
   "decisive_date": "2026-10-19",
-  "updated_at": "2026-10-20T10:07:17.308117+00:00",
-  "stage": "bounded_independent_review_checkpoint",
+  "updated_at": "2026-10-20T10:15:12.902842+00:00",
+  "stage": "bounded_review_checkpoint",
   "official_norm_units": 81,
   "numbered_paragraphs": 79,
   "annexes": 2,
@@ -12,7 +12,7 @@
   "operative_preliminary_remarks": 32,
   "total_units": 344,
   "completed_units": 344,
-  "commentary_chars": 291994,
+  "commentary_chars": 301068,
   "chapters": 17,
   "source_checks": {
     "official_source": "https://www.gesetze-im-internet.de/rvg/",
@@ -27,8 +27,8 @@
     "preflight_version_evidence": "sources/preflight-version-evidence.json",
     "annex_coverage": "annex-coverage.json",
     "frontmatter": "sources/rvg-frontmatter.json",
-    "bounded_review_recheck": "sources/review-p15-p30-2026-10-20/requests.json",
-    "additional_authorities": "sources/review-p15-p30-2026-10-20/authority-requests.json"
+    "bounded_review_recheck": "sources/review-p31-p46-2026-10-20/requests.json",
+    "additional_authorities": "sources/review-p31-p46-2026-10-20/authority-requests.json"
   },
   "case_law_sources": [
     {
@@ -58,9 +58,23 @@
       "docket": "VI ZB 39/21",
       "ecli": "ECLI:DE:BGH:2023:241023BVIZB39.21.0",
       "source": "sources/review-p15-p30-2026-10-20/KORE305342023.xml"
+    },
+    {
+      "court": "BVerfG",
+      "date": "2020-11-02",
+      "docket": "1 BvR 533/20",
+      "ecli": "ECLI:DE:BVerfG:2020:rk20201102.1bvr053320",
+      "source": "sources/review-p31-p46-2026-10-20/KVRE440582001.xml"
+    },
+    {
+      "court": "BVerfG",
+      "date": "2021-03-03",
+      "docket": "1 BvR 533/20",
+      "ecli": "ECLI:DE:BVerfG:2021:rk20210303.1bvr053320",
+      "source": "sources/review-p31-p46-2026-10-20/KVRE442722101.xml"
     }
   ],
-  "case_law_scope": "Four selectively researched BGH decisions on remuneration agreements, renewed fees and offsetting. No exhaustive per-unit case-law survey.",
+  "case_law_scope": "Six selective full-text decisions: four BGH, two BVerfG; no exhaustive per-unit case-law survey.",
   "validation": {
     "repo": "Komentar-DE-RVG-2004",
     "units": 344,
@@ -78,8 +92,8 @@
     "ok": true
   },
   "remaining_limitations": [
-    "Current bounded substantive review covers exactly20 IDs p15–p30; all324 unassigned commentary texts preserved. Earlier p1–p14 result retained separately. Whole-book review remains incomplete; no external legal approval.",
-    "Four selectively researched BGH decisions; no exhaustive per-unit case-law survey.",
+    "Current bounded substantive review covers exactly20 IDs p31–p46; all324 unassigned texts preserved. Previous bounded results retained separately. Whole-book review remains incomplete; no external legal approval.",
+    "Six selective full-text decisions: four BGH, two BVerfG; no exhaustive per-unit case-law survey.",
     "External procedural, tax and professional laws referenced by RVG are not separately reproduced or comprehensively commented.",
     "Consolidation/current-update verification cannot guarantee discovery of unpublished or not-yet-incorporated legislation."
   ],
@@ -93,7 +107,7 @@
     "broken_local_links": 0,
     "identical_long_sentences": 0,
     "identical_long_paragraphs": 0,
-    "local_links_checked": 120
+    "local_links_checked": 150
   },
   "previous_authoring_stage": "drafted_technical_validation",
   "preflight": {
@@ -111,49 +125,46 @@
     "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
-      "p15",
-      "p15a",
-      "p16",
-      "p17",
-      "p18",
-      "p19",
-      "p20",
-      "p21",
-      "p22",
-      "p23",
-      "p23a",
-      "p23b",
-      "p24",
-      "p25",
-      "p26",
-      "p27",
-      "p28",
-      "p29",
-      "p29a",
-      "p30"
+      "p31",
+      "p31a",
+      "p31b",
+      "p32",
+      "p33",
+      "p34",
+      "p35",
+      "p36",
+      "p37",
+      "p38",
+      "p38a",
+      "p39",
+      "p40",
+      "p41",
+      "p41a",
+      "p42",
+      "p43",
+      "p44",
+      "p45",
+      "p46"
     ],
     "changed_ids": [
-      "p15",
-      "p15a",
-      "p16",
-      "p17",
-      "p18",
-      "p19",
-      "p21",
-      "p23",
-      "p23a",
-      "p25",
-      "p26",
-      "p27",
-      "p28",
-      "p30"
+      "p31",
+      "p31a",
+      "p31b",
+      "p33",
+      "p34",
+      "p35",
+      "p37",
+      "p41",
+      "p41a",
+      "p42",
+      "p45",
+      "p46"
     ],
     "unresolved_blockers": [],
     "result": "review-result.json",
     "unassigned_units_preserved": 324,
     "whole_book_review_complete": false,
-    "strict_validation_ok": true,
-    "validated_output_commit": "d5ca8cc"
+    "strict_validation_ok": false
   },
   "previous_bounded_review": {
     "result": "review-p1-p14-result.json",
@@ -202,5 +213,103 @@
     "unresolved_blockers": [],
     "validated_output_commit": "b3996ae",
     "strict_validation_ok": true
-  }
+  },
+  "previous_bounded_reviews": [
+    {
+      "result": "review-p1-p14-result.json",
+      "complete": true,
+      "units_reviewed": 20,
+      "reviewed_ids": [
+        "p1",
+        "p2",
+        "p3",
+        "p3a",
+        "p4",
+        "p4a",
+        "p4b",
+        "p5",
+        "p6",
+        "p7",
+        "p8",
+        "p9",
+        "p10",
+        "p11",
+        "p12",
+        "p12a",
+        "p12b",
+        "p12c",
+        "p13",
+        "p14"
+      ],
+      "changed_ids": [
+        "p1",
+        "p3",
+        "p3a",
+        "p4a",
+        "p4b",
+        "p5",
+        "p7",
+        "p9",
+        "p10",
+        "p11",
+        "p12a",
+        "p12b",
+        "p13",
+        "p14"
+      ],
+      "unassigned_units_preserved": 324,
+      "whole_book_review_complete": false,
+      "unresolved_blockers": [],
+      "validated_output_commit": "b3996ae",
+      "strict_validation_ok": true
+    },
+    {
+      "complete": true,
+      "units_reviewed": 20,
+      "reviewed_ids": [
+        "p15",
+        "p15a",
+        "p16",
+        "p17",
+        "p18",
+        "p19",
+        "p20",
+        "p21",
+        "p22",
+        "p23",
+        "p23a",
+        "p23b",
+        "p24",
+        "p25",
+        "p26",
+        "p27",
+        "p28",
+        "p29",
+        "p29a",
+        "p30"
+      ],
+      "changed_ids": [
+        "p15",
+        "p15a",
+        "p16",
+        "p17",
+        "p18",
+        "p19",
+        "p21",
+        "p23",
+        "p23a",
+        "p25",
+        "p26",
+        "p27",
+        "p28",
+        "p30"
+      ],
+      "unresolved_blockers": [],
+      "result": "review-p15-p30-result.json",
+      "unassigned_units_preserved": 324,
+      "whole_book_review_complete": false,
+      "strict_validation_ok": true,
+      "validated_output_commit": "d5ca8cc"
+    }
+  ]
 }

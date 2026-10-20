@@ -1,0 +1,53 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/rvg/",
+    "accessed_at": "2026-10-20T10:08:41.847429+00:00",
+    "purpose": "bounded independent substantive review p31–p46, 20 exact units",
+    "http_status": 200,
+    "final_url": "https://www.gesetze-im-internet.de/rvg/",
+    "content_type": "text/html",
+    "local_path": "sources/review-p31-p46-2026-10-20/index.html",
+    "sha256": "7e9f02d6a7dc1934d08e4463457f1c15649d20bfd365778bff502c55f2eb80dd",
+    "validated_format": "HTML document and RVG identifier where applicable"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/rvg/xml.zip",
+    "accessed_at": "2026-10-20T10:08:42.010165+00:00",
+    "purpose": "bounded independent substantive review p31–p46, 20 exact units",
+    "http_status": 200,
+    "final_url": "https://www.gesetze-im-internet.de/rvg/xml.zip",
+    "content_type": "application/zip",
+    "local_path": "sources/review-p31-p46-2026-10-20/rvg.zip",
+    "sha256": "51019d65e1d783759d31a3d67ff21ec35d922d309a82d575a08848c89de42dde",
+    "members": [
+      "BJNR078800004.xml"
+    ],
+    "validated_format": "ZIP and XML parsed; expected identifier verified",
+    "xml_path": "sources/review-p31-p46-2026-10-20/rvg.xml",
+    "xml_sha256": "be5571d1735031133f154071b08a77ccdb89f3e047330ed057a494dfd128f5d1",
+    "identical_to_manuscript_source": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+    "accessed_at": "2026-10-20T10:08:42.195605+00:00",
+    "purpose": "bounded independent substantive review p31–p46, 20 exact units",
+    "http_status": 200,
+    "final_url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+    "content_type": "text/html",
+    "local_path": "sources/review-p31-p46-2026-10-20/updates.html",
+    "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+    "validated_format": "HTML document and RVG identifier where applicable"
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2025/318/regelungstext.pdf?__blob=publicationFile&v=2",
+    "accessed_at": "2026-10-20T10:08:42.365002+00:00",
+    "purpose": "bounded independent substantive review p31–p46, 20 exact units",
+    "http_status": 200,
+    "final_url": "https://www.recht.bund.de/bgbl/1/2025/318/regelungstext.pdf?__blob=publicationFile&v=2",
+    "content_type": "application/pdf",
+    "local_path": "sources/review-p31-p46-2026-10-20/bgbl-318.pdf",
+    "sha256": "89f50d3f611d6f05089d6d4827783cf1531cfd3c800cd808e86c763b9db28c41",
+    "validated_format": "PDF magic, byte-identical to commencement text previously extracted and read",
+    "identical_to_manuscript_source": true
+  }
+]

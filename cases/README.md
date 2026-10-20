@@ -10,3 +10,8 @@ Die Fallkarten beruhen auf tatsächlich gelesenen und erneut amtlich abgerufenen
 Die [Quellenprüfung](../sources/verification.json), der [Abgleich der gelesenen mit den amtlich neu abgerufenen Entscheidungsgründen](../sources/case-source-comparison.json) und das [Suchprotokoll](../sources/search-log.json) dokumentieren Herkunft und Grenzen. Für die übrigen Einheiten wird keine vollständige Einzelrecherche behauptet. Es werden keine ungesicherten Entscheidungsnummern als Ersatz für fehlende Fallnachweise eingefügt.
 
 Die beiden bei der Prüfung von §§ 15–30 ergänzten Beschlüsse sind zusätzlich im [eigenen Suchprotokoll](../sources/review-p15-p30-2026-10-20/search-log.json) und im [Quellenversionsvergleich](../sources/review-p15-p30-2026-10-20/case-source-comparison.json) dokumentiert. Die Recherche dieser Prüfrunde ist auf die Probleme der §§ 15 und 15a konzentriert; für die übrigen 18 zugewiesenen Vorschriften wird keine neu geprüfte Entscheidung behauptet.
+
+- [BVerfG, 2.11.2020 – 1 BvR 533/20](bverfg-2020-1-bvr-533-20.md): Zugang zur eigenen Wertbeschwerde trotz Versicherungsinteresses, keine Entscheidung über den Vergleichsmehrwert.
+- [BVerfG, 3.3.2021 – 1 BvR 533/20](bverfg-2021-1-bvr-533-20.md): konkrete Ermessensbewertung nach erfolgreicher Verfassungsbeschwerde, kein einheitlicher Erfolgswert.
+
+Diese beiden Volltexte ergänzen die Prüfung von §§ 31–46. [Suchprotokoll](../sources/review-p31-p46-2026-10-20/search-log.json) und [Korpusvergleich](../sources/review-p31-p46-2026-10-20/case-source-comparison.json) dokumentieren die selektive Prüfung für §§ 33 und 37. Für die anderen 18 Vorschriften wird keine zusätzliche verifizierte Entscheidung behauptet.

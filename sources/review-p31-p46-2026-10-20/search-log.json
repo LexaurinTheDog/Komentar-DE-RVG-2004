@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-20",
+  "scope": "Selective research for this bounded review; no comprehensive per-unit case-law search",
+  "steps": [
+    {
+      "method": "web discovery",
+      "queries": [
+        "site.rechtsprechung-im-internet.de \"§34\" \"Verbraucher\" \"Vergütung\"",
+        "site.rechtsprechung-im-internet.de \"§46\" \"Dolmetscher\" \"RVG\"",
+        "site.rechtsprechung-im-internet.de \"§37 Abs.2\" \"Gegenstandswert\"",
+        "site.bundesverfassungsgericht.de \"1 BvR 533/20\" \"2021\"",
+        "site.rechtsprechung-im-internet.de \"1 BvR 533/20\"",
+        "site.rechtsprechung-im-internet.de \"Beratung\" \"IX ZR 110/10\""
+      ],
+      "result": "BVerfG official full-text pages located. Other primary/third-party hits used only for discovery, no commercial annotations reproduced and no unread cases cited."
+    },
+    {
+      "method": "rg local corpus manifest",
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/manifest.jsonl",
+      "queries": [
+        "§34 RVG|§33 RVG|§46 RVG|§42 RVG|§31b RVG|§37 RVG",
+        "1 BvR 533/20|3 StR 404/07"
+      ],
+      "result": "Manifest has identifiers not substantive text. Docket search located KVRE440582001 and KVRE442722101; actual intake full texts copied and read."
+    },
+    {
+      "method": "Official ZIP/XML",
+      "evidence": "authority-requests.json",
+      "result": "Both decisions fetched HTTP200; ZIP/XML format validated and all paragraphs compared with national corpus; entire reasons read, see case-source-comparison.json."
+    }
+  ],
+  "coverage": [
+    {
+      "id": "p33",
+      "decision": "KVRE440582001",
+      "limit": "Client own challenge, not insurers standing, current monetary threshold or substantive comparison value."
+    },
+    {
+      "id": "p37",
+      "decision": "KVRE442722101",
+      "limit": "Specific discretion, no universal successful-complaint tariff."
+    },
+    {
+      "ids": [
+        "p31",
+        "p31a",
+        "p31b",
+        "p32",
+        "p34",
+        "p35",
+        "p36",
+        "p38",
+        "p38a",
+        "p39",
+        "p40",
+        "p41",
+        "p41a",
+        "p42",
+        "p43",
+        "p44",
+        "p45",
+        "p46"
+      ],
+      "decision": null,
+      "disposition": "No additional sufficiently relevant verified decision asserted; complete statute-based review, no exhaustive negative search claimed."
+    }
+  ]
+}
