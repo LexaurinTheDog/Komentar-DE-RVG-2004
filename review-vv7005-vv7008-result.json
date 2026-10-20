@@ -1,0 +1,118 @@
+{
+  "kind": "bounded_independent_second_pass",
+  "complete": false,
+  "units_reviewed": 4,
+  "reviewed_ids": [
+    "vv7005",
+    "vv7006",
+    "vv7007",
+    "vv7008"
+  ],
+  "changed_ids": [
+    "vv7005",
+    "vv7006",
+    "vv7007",
+    "vv7008"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "vv7005",
+      "reviewed": true,
+      "official_wording_equal": true,
+      "changed": true,
+      "material_blocker_remaining": false,
+      "finding": "Die vorhandene Erläuterung enthält richtige Grenzen, aber keine Eurobeträge und keine Auslandsrechnung. Tagesweise mehrtägige Anwendung und Anspruchsverteilung fehlen.",
+      "correction": "30/50/80 Euro und einschließlich/überschreitend präzisiert; keine Stufenaddition; 50-Prozent-Zuschlag mit 45/75/120 Euro ausgerechnet. Reisebegriff, private Verlängerung, Mehrzweckverteilung und § 46/§ 60 abgegrenzt. BVerwG-Rn. 19 als konkretes Mehrtagesbeispiel begrenzt.",
+      "fictional_example_checked": "8–16 Uhr=8 Stunden→50 Euro; 8–16.05 Uhr→80 Euro; 8 Stunden Ausland 50×1,5=75 Euro."
+    },
+    {
+      "id": "vv7006",
+      "reviewed": true,
+      "official_wording_equal": true,
+      "changed": true,
+      "material_blocker_remaining": false,
+      "finding": "Grundansatz sachgerecht, jedoch Höhe, Vorsteuer, Grenzen der Angemessenheit und Wirkung einer Feststellung nach § 46 zu knapp.",
+      "correction": "Tatsächlicher angemessener Aufwand und Belege; Übernachtungsanlass von Preishöhe getrennt. Amtliche Entscheidungen von 2012, 2025 und 2026 gelesen. Leipziger Hotelpreis ausdrücklich örtlich und auf 2025 begrenzt; keine Übernahme der Mitarbeiter-Reiseregeln. § 46-Feststellung nicht als Freibrief für beliebigen Hotelpreis dargestellt.",
+      "fictional_example_checked": "110 Euro verbleibender Nettoaufwand; abziehbare Eingangssteuer nicht nochmals als Auslage; private Zusatznacht ausgeschlossen."
+    },
+    {
+      "id": "vv7007",
+      "reviewed": true,
+      "official_wording_equal": true,
+      "changed": true,
+      "material_blocker_remaining": false,
+      "finding": "Schwelle und Verhältnis bisher nur abstrakt; Beispiel berechnet den Anteil nicht. Abschließender Tarif und Verhältnis von Vereinbarung und Prozesskostenerstattung fehlen.",
+      "correction": "Einzelfallzahlung, Versicherungssumme statt bloßem Streitwert und strikte Grenze über 30 Millionen Euro erläutert. Abweichende Versichereraufteilung bleibt möglich. Vollständiger BGH 2018, eigene Gründe ab Rn. 18 und besonders 24–25, stützt Sperre der allgemeinen Auffangregel. Historische BRAO-Mindestdeckung nicht übernommen.",
+      "fictional_example_checked": "50 Millionen Gesamtdeckung, 10 000 Euro Gesamtprämie: 10 000×(50−30)/50=4 000 Euro. Genau 30 Millionen→0 Euro aus Nr. 7007."
+    },
+    {
+      "id": "vv7008",
+      "reviewed": true,
+      "official_wording_equal": true,
+      "changed": true,
+      "material_blocker_remaining": false,
+      "finding": "Ausgangstext unterscheidet Anspruch und Vorsteuer bereits, bleibt zur steuerlichen Bemessung und zur heutigen Fassung der Verweisung aber unbestimmt.",
+      "correction": "Heutigen RVG-Wortlaut unverändert erhalten. § 19 UStG seit 2025 steuerfrei statt unerhoben; tatsächliche Verkündung/Inkraftritt gelesen. Vorsteuer der Kanzlei, Steuer auf ihre Gesamtleistung und Vorsteuer/Kostenerstattung des Mandanten getrennt. Einheitssteuersatz nur für entsprechende Haupt-/Nebenleistung; echte durchlaufende Posten abgegrenzt. Prüfliste um Versicherung und Reise-/Steuerdetails ergänzt.",
+      "fictional_example_checked": "1 000+20+110=1 130 Euro; ×0,19=214,70 Euro; Gesamt 1 344,70 Euro. Keine ungeprüfte Übernahme des Hotelsteuersatzes."
+    }
+  ],
+  "limitations": [
+    "Genau vier zugewiesene Einheiten inhaltlich geprüft; keine Gesamtbandfreigabe und keine externe anwaltliche Genehmigung. Die 340 anderen Kommentarblöcke wurden in dieser Runde nicht neu geprüft oder geändert.",
+    "Vier ausgewählte amtliche Volltexte vollständig gelesen und mit dem nationalen Korpus abgeglichen; selektive Recherche, keine vollständige spätere Rechtsprechungs- oder Detailfragenabdeckung.",
+    "RVG-Stand, Intakevergleich, Anlagen und tatsächliche Inkrafttretensbelege geprüft. Fremdsteuerrecht nur im dokumentierten Kontext; kein vollständiges historisches Archiv oder umfassender UStG-Kommentar.",
+    "Firecrawl ohne Credits; direkte amtliche Abrufe sämtlicher benötigter Primärbelege erfolgreich. Technische Länge/Hashgleichheit ersetzt keine juristische Qualitätsprüfung."
+  ],
+  "decisive_date": "2026-10-19",
+  "reviewed_at": "2026-10-20T13:09:35.028389+00:00",
+  "official_url": "https://www.gesetze-im-internet.de/rvg/",
+  "source_http_evidence": "sources/review-vv7005-vv7008-2026-10-20/requests.json",
+  "version_evidence": "sources/review-vv7005-vv7008-2026-10-20/version-evidence.json",
+  "unit_evidence": "review-vv7005-vv7008-unit-evidence.json",
+  "case_sources": [
+    {
+      "court": "BGH",
+      "title": "BGH, Beschluss vom 24. Januar 2018 – VII ZB 60/17",
+      "card": "cases/bgh-2018-vii-zb-60-17.md",
+      "source": "sources/review-vv7005-vv7008-2026-10-20/KORE304472018.xml",
+      "supported_ids": [
+        "vv7007"
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "title": "BVerwG, Beschluss vom 4. Februar 2026 – 10 KSt 1.25",
+      "card": "cases/bverwg-2026-10-kst-1-25.md",
+      "source": "sources/review-vv7005-vv7008-2026-10-20/WBRE202600236.xml",
+      "supported_ids": [
+        "vv7006",
+        "vv7008"
+      ]
+    },
+    {
+      "court": "BGH",
+      "title": "BGH, Beschluss vom 17. April 2012 – VI ZB 46/11",
+      "card": "cases/bgh-2012-vi-zb-46-11-vv7006-vv7008.md",
+      "source": "sources/review-vv7005-vv7008-2026-10-20/KORE303562012.xml",
+      "supported_ids": [
+        "vv7006",
+        "vv7008"
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "title": "BVerwG, Beschluss vom 21. Oktober 2025 – 11 KSt 2.25",
+      "card": "cases/bverwg-2025-11-kst-2-25.md",
+      "source": "sources/review-vv7005-vv7008-2026-10-20/WBRE202500725.xml",
+      "supported_ids": [
+        "vv7005",
+        "vv7006",
+        "vv7008"
+      ]
+    }
+  ],
+  "all_assigned_official_wording_equal": true,
+  "all_unassigned_commentary_preserved": true,
+  "whole_book_review_complete": false,
+  "external_professional_approval": false
+}

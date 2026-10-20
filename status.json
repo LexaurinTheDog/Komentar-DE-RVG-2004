@@ -3,7 +3,7 @@
   "title": "Gesetz über die Vergütung der Rechtsanwältinnen und Rechtsanwälte",
   "country": "de",
   "decisive_date": "2026-10-19",
-  "updated_at": "2026-10-20T13:03:06.101488+00:00",
+  "updated_at": "2026-10-20T13:11:52.191945+00:00",
   "stage": "bounded_review_checkpoint",
   "official_norm_units": 81,
   "numbered_paragraphs": 79,
@@ -12,7 +12,7 @@
   "operative_preliminary_remarks": 32,
   "total_units": 344,
   "completed_units": 344,
-  "commentary_chars": 618557,
+  "commentary_chars": 626549,
   "chapters": 17,
   "source_checks": {
     "official_source": "https://www.gesetze-im-internet.de/rvg/",
@@ -27,61 +27,50 @@
     "preflight_version_evidence": "sources/preflight-version-evidence.json",
     "annex_coverage": "annex-coverage.json",
     "frontmatter": "sources/rvg-frontmatter.json",
-    "bounded_review_recheck": "sources/review-vv6213-vv7004-2026-10-20/requests.json",
+    "bounded_review_recheck": "sources/review-vv7005-vv7008-2026-10-20/requests.json",
     "additional_authorities": [
       {
         "court": "BGH",
-        "title": "BGH, Beschluss vom 21. März 2023 – XIII ZB 76/20",
-        "card": "cases/bgh-2023-xiii-zb-76-20.md",
-        "source": "sources/review-vv6213-vv7004-2026-10-20/KORE651362023.xml",
+        "title": "BGH, Beschluss vom 24. Januar 2018 – VII ZB 60/17",
+        "card": "cases/bgh-2018-vii-zb-60-17.md",
+        "source": "sources/review-vv7005-vv7008-2026-10-20/KORE304472018.xml",
         "supported_ids": [
-          "vv6300",
-          "vv6302"
+          "vv7007"
         ]
       },
       {
         "court": "BVerwG",
-        "title": "BVerwG, Beschluss vom 6. November 2019 – 1 WDS-KSt 2/19",
-        "card": "cases/bverwg-2019-1-wds-kst-2-19.md",
-        "source": "sources/review-vv6213-vv7004-2026-10-20/WBRE201900885.xml",
+        "title": "BVerwG, Beschluss vom 4. Februar 2026 – 10 KSt 1.25",
+        "card": "cases/bverwg-2026-10-kst-1-25.md",
+        "source": "sources/review-vv7005-vv7008-2026-10-20/WBRE202600236.xml",
         "supported_ids": [
-          "vb6.4",
-          "vv6402"
-        ]
-      },
-      {
-        "court": "BVerwG",
-        "title": "BVerwG, Beschluss vom 30. September 2014 – 9 KSt 6/14",
-        "card": "cases/bverwg-2014-9-kst-6-14.md",
-        "source": "sources/review-vv6213-vv7004-2026-10-20/WBRE201400004.xml",
-        "supported_ids": [
-          "vv7001",
-          "vv7002"
+          "vv7006",
+          "vv7008"
         ]
       },
       {
         "court": "BGH",
         "title": "BGH, Beschluss vom 17. April 2012 – VI ZB 46/11",
-        "card": "cases/bgh-2012-vi-zb-46-11.md",
-        "source": "sources/review-vv6213-vv7004-2026-10-20/KORE303562012.xml",
+        "card": "cases/bgh-2012-vi-zb-46-11-vv7006-vv7008.md",
+        "source": "sources/review-vv7005-vv7008-2026-10-20/KORE303562012.xml",
         "supported_ids": [
-          "vb7",
-          "vv7003",
-          "vv7004"
+          "vv7006",
+          "vv7008"
         ]
       },
       {
-        "court": "BVerfG",
-        "title": "BVerfG, Beschluss vom 28. September 2023 – 2 BvR 739/17",
-        "card": "cases/bverfg-2023-2-bvr-739-17.md",
-        "source": "sources/review-vv6213-vv7004-2026-10-20/KVRE455952301.xml",
+        "court": "BVerwG",
+        "title": "BVerwG, Beschluss vom 21. Oktober 2025 – 11 KSt 2.25",
+        "card": "cases/bverwg-2025-11-kst-2-25.md",
+        "source": "sources/review-vv7005-vv7008-2026-10-20/WBRE202500725.xml",
         "supported_ids": [
-          "vv7000",
-          "vv7004"
+          "vv7005",
+          "vv7006",
+          "vv7008"
         ]
       }
     ],
-    "assigned_version_evidence": "sources/review-vv6213-vv7004-2026-10-20/version-evidence.json"
+    "assigned_version_evidence": "sources/review-vv7005-vv7008-2026-10-20/version-evidence.json"
   },
   "case_law_sources": [
     {
@@ -396,9 +385,57 @@
         "vv7000",
         "vv7004"
       ]
+    },
+    {
+      "court": "BGH",
+      "date": "20180124",
+      "docket": "VII ZB 60/17",
+      "ecli": "ECLI:DE:BGH:2018:240118BVIIZB60.17.0",
+      "source": "sources/review-vv7005-vv7008-2026-10-20/KORE304472018.xml",
+      "card": "cases/bgh-2018-vii-zb-60-17.md",
+      "supported_ids": [
+        "vv7007"
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "date": "20260204",
+      "docket": "10 KSt 1.25, 10 KSt 1.25 (10 A 6.23)",
+      "ecli": "ECLI:DE:BVerwG:2026:040226B10KSt1.25.0",
+      "source": "sources/review-vv7005-vv7008-2026-10-20/WBRE202600236.xml",
+      "card": "cases/bverwg-2026-10-kst-1-25.md",
+      "supported_ids": [
+        "vv7006",
+        "vv7008"
+      ]
+    },
+    {
+      "court": "BGH",
+      "date": "20120417",
+      "docket": "VI ZB 46/11",
+      "ecli": null,
+      "source": "sources/review-vv7005-vv7008-2026-10-20/KORE303562012.xml",
+      "card": "cases/bgh-2012-vi-zb-46-11-vv7006-vv7008.md",
+      "supported_ids": [
+        "vv7006",
+        "vv7008"
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "date": "20251021",
+      "docket": "11 KSt 2.25, 11 KSt 2.25 (11 A 5.24)",
+      "ecli": "ECLI:DE:BVerwG:2025:211025B11KSt2.25.0",
+      "source": "sources/review-vv7005-vv7008-2026-10-20/WBRE202500725.xml",
+      "card": "cases/bverwg-2025-11-kst-2-25.md",
+      "supported_ids": [
+        "vv7005",
+        "vv7006",
+        "vv7008"
+      ]
     }
   ],
-  "case_law_scope": "Existing selective case cards preserved; this exact twenty-unit review fully reads five official primary texts and compares all judicial paragraphs with the local national corpus. Ten units selectively supported. No exhaustive case-law or later-case census.",
+  "case_law_scope": "Earlier selective case cards preserved. This exact four-unit review reads four official primary full texts and compares all judicial paragraphs with the national corpus. No exhaustive per-detail or later-case census.",
   "validation": {
     "strict": {
       "repo": "Komentar-DE-RVG-2004",
@@ -436,12 +473,10 @@
     "ok": true
   },
   "remaining_limitations": [
-    "Genau20zugewiesene Einheiten vollständig inhaltlich geprüft;324andereKommentarblöcke gegenüber7af0141unverändert. Keine Gesamtbandfreigabe oder externe anwaltliche Genehmigung.",
-    "FünfamtlicheVolltexte vollständig gelesen und mit nationalemKorpus absatzweise verglichen. Sie unterstützen selektiv10Einheiten; für10weitere keine zusätzliche hinreichend relevante amtlich verifizierteEntscheidung ausgewählt. Kein erschöpfender Rechtsprechungs-/Folgenachweis.",
-    "ÄltereEntscheidungen mit damaligenBeträgen/Verfahrensfassungen begrenzt; insbesondereVorb6.4Abs2Satz3von2019nicht heutigerText, aktuelleRegel§14Abs2gegengelesen.",
-    "Aktuelle amtlicheRVG-Konsolidierung,Intake/Änderungskarte,Verkündung,Inkrafttreten,beideAnlagen geprüft;keine vollständige historischeArchiv- oder mittelbareÄnderungssuche. FamFG nur in dokumentiertem Kontext; neueste dokumentarischeBearbeitungsnotiz und tatsächlicheInkrafttretensregel dokumentiert.",
-    "Firecrawl ohneCredits; tatsächliche direkteamtlicheAbrufe erfolgreich. KeinewesentlicheQuellenlücke.",
-    "Wortlaut,Erfassung,Links und Wiederholungen technisch geprüft; dieseChecks undMindestlängen beweisen keinejuristischeQualität."
+    "Genau vier zugewiesene Einheiten inhaltlich geprüft; keine Gesamtbandfreigabe und keine externe anwaltliche Genehmigung. Die 340 anderen Kommentarblöcke wurden in dieser Runde nicht neu geprüft oder geändert.",
+    "Vier ausgewählte amtliche Volltexte vollständig gelesen und mit dem nationalen Korpus abgeglichen; selektive Recherche, keine vollständige spätere Rechtsprechungs- oder Detailfragenabdeckung.",
+    "RVG-Stand, Intakevergleich, Anlagen und tatsächliche Inkrafttretensbelege geprüft. Fremdsteuerrecht nur im dokumentierten Kontext; kein vollständiges historisches Archiv oder umfassender UStG-Kommentar.",
+    "Firecrawl ohne Credits; direkte amtliche Abrufe sämtlicher benötigter Primärbelege erfolgreich. Technische Länge/Hashgleichheit ersetzt keine juristische Qualitätsprüfung."
   ],
   "unresolved_material_source_blockers": [],
   "independent_review_complete": false,
@@ -449,7 +484,7 @@
   "authoring_started_date": "2026-10-19",
   "quality": {
     "ok": true,
-    "local_links_checked": 742,
+    "local_links_checked": 776,
     "broken_local_links": [],
     "identical_long_sentences": 0,
     "identical_long_paragraphs": 0
@@ -467,84 +502,26 @@
     "independent_coverage_ok": true
   },
   "bounded_review": {
-    "complete": true,
-    "units_reviewed": 20,
+    "complete": false,
+    "units_reviewed": 4,
     "reviewed_ids": [
-      "vv6213",
-      "vv6214",
-      "vv6215",
-      "vv6216",
-      "vv6300",
-      "vv6301",
-      "vv6302",
-      "vv6303",
-      "vb6.4",
-      "vv6400",
-      "vv6401",
-      "vv6402",
-      "vv6403",
-      "vv6500",
-      "vb7",
-      "vv7000",
-      "vv7001",
-      "vv7002",
-      "vv7003",
-      "vv7004"
+      "vv7005",
+      "vv7006",
+      "vv7007",
+      "vv7008"
     ],
     "changed_ids": [
-      "vv6213",
-      "vv6214",
-      "vv6215",
-      "vv6216",
-      "vv6300",
-      "vv6301",
-      "vv6302",
-      "vv6303",
-      "vb6.4",
-      "vv6400",
-      "vv6401",
-      "vv6402",
-      "vv6403",
-      "vv6500",
-      "vb7",
-      "vv7000",
-      "vv7001",
-      "vv7002",
-      "vv7003",
-      "vv7004"
+      "vv7005",
+      "vv7006",
+      "vv7007",
+      "vv7008"
     ],
     "unresolved_blockers": [],
-    "result": "review-vv6213-vv7004-result.json",
-    "unassigned_units_preserved": 324,
+    "result": "review-vv7005-vv7008-result.json",
+    "unassigned_units_preserved": 340,
     "whole_book_review_complete": false,
     "validation": {
-      "strict": {
-        "repo": "Komentar-DE-RVG-2004",
-        "units": 344,
-        "verbatim_ratio": 1.0,
-        "commentary_chars": 618557,
-        "errors": [],
-        "warnings": [],
-        "ok": true
-      },
-      "validated_at": "2026-10-20T13:03:06.029425+00:00",
-      "validated_work_commit": "bb976befdfc9dea219e7a40003e63ad67c750047",
-      "validated_output_commit": "0f11a20643e0b3f9361f3c39d7f1d54f9c7293df",
-      "build": "success",
-      "independent_xml_coverage": {
-        "expected": 344,
-        "parsed": 344,
-        "missing": [],
-        "duplicates": [],
-        "ok": true
-      },
-      "assigned_complete_wording_matches": 20,
-      "unassigned_commentary_blocks_preserved": 324,
-      "local_links_checked": 742,
-      "broken_local_links": [],
-      "exact_repeated_long_sentences": 0,
-      "exact_repeated_long_paragraphs": 0,
-      "meaning": "Technical evidence supplements the actual individually read exact20unit review; no whole-book completion or external professional approval."
+      "status": "pending current checkpoint strict validation"
     }
   },
   "previous_bounded_review": {
@@ -1754,6 +1731,87 @@
         "exact_repeated_long_sentences": 0,
         "exact_repeated_long_paragraphs": 0,
         "meaning": "Technical checks supplement the actual exact-twenty-unit substantive review; no whole-book or external professional approval."
+      }
+    },
+    {
+      "complete": true,
+      "units_reviewed": 20,
+      "reviewed_ids": [
+        "vv6213",
+        "vv6214",
+        "vv6215",
+        "vv6216",
+        "vv6300",
+        "vv6301",
+        "vv6302",
+        "vv6303",
+        "vb6.4",
+        "vv6400",
+        "vv6401",
+        "vv6402",
+        "vv6403",
+        "vv6500",
+        "vb7",
+        "vv7000",
+        "vv7001",
+        "vv7002",
+        "vv7003",
+        "vv7004"
+      ],
+      "changed_ids": [
+        "vv6213",
+        "vv6214",
+        "vv6215",
+        "vv6216",
+        "vv6300",
+        "vv6301",
+        "vv6302",
+        "vv6303",
+        "vb6.4",
+        "vv6400",
+        "vv6401",
+        "vv6402",
+        "vv6403",
+        "vv6500",
+        "vb7",
+        "vv7000",
+        "vv7001",
+        "vv7002",
+        "vv7003",
+        "vv7004"
+      ],
+      "unresolved_blockers": [],
+      "result": "review-vv6213-vv7004-result.json",
+      "unassigned_units_preserved": 324,
+      "whole_book_review_complete": false,
+      "validation": {
+        "strict": {
+          "repo": "Komentar-DE-RVG-2004",
+          "units": 344,
+          "verbatim_ratio": 1.0,
+          "commentary_chars": 618557,
+          "errors": [],
+          "warnings": [],
+          "ok": true
+        },
+        "validated_at": "2026-10-20T13:03:06.029425+00:00",
+        "validated_work_commit": "bb976befdfc9dea219e7a40003e63ad67c750047",
+        "validated_output_commit": "0f11a20643e0b3f9361f3c39d7f1d54f9c7293df",
+        "build": "success",
+        "independent_xml_coverage": {
+          "expected": 344,
+          "parsed": 344,
+          "missing": [],
+          "duplicates": [],
+          "ok": true
+        },
+        "assigned_complete_wording_matches": 20,
+        "unassigned_commentary_blocks_preserved": 324,
+        "local_links_checked": 742,
+        "broken_local_links": [],
+        "exact_repeated_long_sentences": 0,
+        "exact_repeated_long_paragraphs": 0,
+        "meaning": "Technical evidence supplements the actual individually read exact20unit review; no whole-book completion or external professional approval."
       }
     }
   ],

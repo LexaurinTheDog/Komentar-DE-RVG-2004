@@ -839,5 +839,16 @@
         "Keine kommerziellen Redaktionsleitsätze übernommen; eigene Fallkarten begrenzen den konkreten Aussagegehalt."
       ]
     }
+  ],
+  "bounded_reviews": [
+    {
+      "reviewed_ids": [
+        "vv7005",
+        "vv7006",
+        "vv7007",
+        "vv7008"
+      ],
+      "evidence": "sources/review-vv7005-vv7008-2026-10-20/search-log.json"
+    }
   ]
 }

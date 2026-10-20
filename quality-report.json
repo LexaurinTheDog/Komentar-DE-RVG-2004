@@ -1,13 +1,13 @@
 {
   "commentary_units": 344,
   "statutory_units": 344,
-  "commentary_chars": 618557,
-  "mean_comment_chars": 1798,
+  "commentary_chars": 626549,
+  "mean_comment_chars": 1821,
   "minimum_comment_chars": 476,
   "missing_comments": [],
   "identical_sentences_over_90_characters": [],
   "identical_paragraphs_over_150_characters": [],
-  "local_links_checked": 742,
+  "local_links_checked": 776,
   "broken_local_links": [],
   "external_urls": [
     "http://cordis.europa.eu/en/",
@@ -795,6 +795,7 @@
     "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE302152017",
     "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE303562012",
     "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE304332018",
+    "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE304472018",
     "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE305342023",
     "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE307422020",
     "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE308052018",
@@ -822,12 +823,14 @@
     "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=WBRE201400004",
     "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=WBRE201600020",
     "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=WBRE201900885",
+    "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=WBRE202500725",
+    "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=WBRE202600236",
     "https://www.verwaltungsvorschriften-im-internet.de/",
     "https://x.com/EUPublications"
   ],
   "external_url_check_scope": "Statutory, commencement and judgment source URLs were fetched and logged in verification.json. Project/attribution URL and incidental URLs inside preserved raw source material are not exhaustively network-tested.",
   "source_manifest_hash_mismatches": [],
   "placeholders": [],
-  "limitations": "No exact repeated long sentence is a limited originality signal, not a semantic plagiarism or legal-quality certification. Bounded substantive second pass covers exactly20assigned units; no external professional approval.",
+  "limitations": "No exact repeated long sentence is a limited originality signal, not a semantic plagiarism or legal-quality certification. Bounded substantive second pass covers exactly four assigned units; no external professional approval.",
   "ok": true
 }

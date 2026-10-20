@@ -1,0 +1,51 @@
+{
+  "reviewed_ids": [
+    "vv7005",
+    "vv7006",
+    "vv7007",
+    "vv7008"
+  ],
+  "findings": [
+    {
+      "id": "vv7005",
+      "reviewed": true,
+      "official_wording_equal": true,
+      "changed": true,
+      "material_blocker_remaining": false,
+      "finding": "Die vorhandene Erläuterung enthält richtige Grenzen, aber keine Eurobeträge und keine Auslandsrechnung. Tagesweise mehrtägige Anwendung und Anspruchsverteilung fehlen.",
+      "correction": "30/50/80 Euro und einschließlich/überschreitend präzisiert; keine Stufenaddition; 50-Prozent-Zuschlag mit 45/75/120 Euro ausgerechnet. Reisebegriff, private Verlängerung, Mehrzweckverteilung und § 46/§ 60 abgegrenzt. BVerwG-Rn. 19 als konkretes Mehrtagesbeispiel begrenzt.",
+      "fictional_example_checked": "8–16 Uhr=8 Stunden→50 Euro; 8–16.05 Uhr→80 Euro; 8 Stunden Ausland 50×1,5=75 Euro."
+    },
+    {
+      "id": "vv7006",
+      "reviewed": true,
+      "official_wording_equal": true,
+      "changed": true,
+      "material_blocker_remaining": false,
+      "finding": "Grundansatz sachgerecht, jedoch Höhe, Vorsteuer, Grenzen der Angemessenheit und Wirkung einer Feststellung nach § 46 zu knapp.",
+      "correction": "Tatsächlicher angemessener Aufwand und Belege; Übernachtungsanlass von Preishöhe getrennt. Amtliche Entscheidungen von 2012, 2025 und 2026 gelesen. Leipziger Hotelpreis ausdrücklich örtlich und auf 2025 begrenzt; keine Übernahme der Mitarbeiter-Reiseregeln. § 46-Feststellung nicht als Freibrief für beliebigen Hotelpreis dargestellt.",
+      "fictional_example_checked": "110 Euro verbleibender Nettoaufwand; abziehbare Eingangssteuer nicht nochmals als Auslage; private Zusatznacht ausgeschlossen."
+    },
+    {
+      "id": "vv7007",
+      "reviewed": true,
+      "official_wording_equal": true,
+      "changed": true,
+      "material_blocker_remaining": false,
+      "finding": "Schwelle und Verhältnis bisher nur abstrakt; Beispiel berechnet den Anteil nicht. Abschließender Tarif und Verhältnis von Vereinbarung und Prozesskostenerstattung fehlen.",
+      "correction": "Einzelfallzahlung, Versicherungssumme statt bloßem Streitwert und strikte Grenze über 30 Millionen Euro erläutert. Abweichende Versichereraufteilung bleibt möglich. Vollständiger BGH 2018, eigene Gründe ab Rn. 18 und besonders 24–25, stützt Sperre der allgemeinen Auffangregel. Historische BRAO-Mindestdeckung nicht übernommen.",
+      "fictional_example_checked": "50 Millionen Gesamtdeckung, 10 000 Euro Gesamtprämie: 10 000×(50−30)/50=4 000 Euro. Genau 30 Millionen→0 Euro aus Nr. 7007."
+    },
+    {
+      "id": "vv7008",
+      "reviewed": true,
+      "official_wording_equal": true,
+      "changed": true,
+      "material_blocker_remaining": false,
+      "finding": "Ausgangstext unterscheidet Anspruch und Vorsteuer bereits, bleibt zur steuerlichen Bemessung und zur heutigen Fassung der Verweisung aber unbestimmt.",
+      "correction": "Heutigen RVG-Wortlaut unverändert erhalten. § 19 UStG seit 2025 steuerfrei statt unerhoben; tatsächliche Verkündung/Inkraftritt gelesen. Vorsteuer der Kanzlei, Steuer auf ihre Gesamtleistung und Vorsteuer/Kostenerstattung des Mandanten getrennt. Einheitssteuersatz nur für entsprechende Haupt-/Nebenleistung; echte durchlaufende Posten abgegrenzt. Prüfliste um Versicherung und Reise-/Steuerdetails ergänzt.",
+      "fictional_example_checked": "1 000+20+110=1 130 Euro; ×0,19=214,70 Euro; Gesamt 1 344,70 Euro. Keine ungeprüfte Übernahme des Hotelsteuersatzes."
+    }
+  ],
+  "actual_method": "Jede zugewiesene Norm und ihre vollständige bisherige Kommentierung einzeln gelesen; neue Kommentierung samt Beispielen gegengelesen. Maschinenprüfungen sind gesonderte Belege, kein Ersatz der Inhaltsprüfung."
+}

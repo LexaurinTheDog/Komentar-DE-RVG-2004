@@ -1,0 +1,61 @@
+{
+  "verified_at": "2026-10-20T13:09:35.028389+00:00",
+  "reviewed_ids": [
+    "vv7005",
+    "vv7006",
+    "vv7007",
+    "vv7008"
+  ],
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii",
+  "local_search": {
+    "evidence": "local-case-search.json",
+    "candidate_count": 77,
+    "method": "Zifferngrenzen für 7005–7008 und RVG/VV im 100-Zeichen-Umfeld. Zufallstreffer aussortiert. Volltextlektüre der vier ausgewählten Primärquellen."
+  },
+  "web_queries": [
+    "site.bundesgerichtshof.de \"7007\" \"30\"",
+    "site.bundesgerichtshof.de \"7008\" \"Vorsteuer\"",
+    "\"RVG\" \"7007\" site:bundesgerichtshof.de",
+    "\"7005\" site:bverwg.de",
+    "\"7006\" site:bverwg.de"
+  ],
+  "firecrawl": {
+    "status": "CLI authentifiziert, verfügbare Credits 0; keine Neuinstallation oder Änderung der Konfiguration",
+    "fallback": "Direkte erfolgreiche amtliche Volltextabrufe; Websuche nur zur Auswahl/Navigierung. Keine Suchtreffer als gerichtliche Begründung ausgegeben."
+  },
+  "selected_primary_full_texts": [
+    {
+      "doknr": "KORE304472018",
+      "supported_ids": [
+        "vv7007"
+      ],
+      "read_in_full": true
+    },
+    {
+      "doknr": "WBRE202600236",
+      "supported_ids": [
+        "vv7006",
+        "vv7008"
+      ],
+      "read_in_full": true
+    },
+    {
+      "doknr": "KORE303562012",
+      "supported_ids": [
+        "vv7006",
+        "vv7008"
+      ],
+      "read_in_full": true
+    },
+    {
+      "doknr": "WBRE202500725",
+      "supported_ids": [
+        "vv7005",
+        "vv7006",
+        "vv7008"
+      ],
+      "read_in_full": true
+    }
+  ],
+  "limitations": "Selektive Rechtsprechung. Für Zeitgrenzen/Auslandszuschlag und Versicherungsquoten ist der amtliche Tarif die unmittelbare Quelle; kein spezielles Urteil für jede Detailfrage behauptet. Keine erschöpfende Nachverfolgung späterer Fälle."
+}

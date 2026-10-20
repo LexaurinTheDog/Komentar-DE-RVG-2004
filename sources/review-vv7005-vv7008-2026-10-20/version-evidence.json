@@ -1,0 +1,72 @@
+{
+  "decisive_date": "2026-10-19",
+  "verified_at": "2026-10-20T13:09:35.028389+00:00",
+  "official_url": "https://www.gesetze-im-internet.de/rvg/",
+  "requests": "sources/review-vv7005-vv7008-2026-10-20/requests.json",
+  "current_xml_identical_to_authoring_source": true,
+  "xml_sha256": "be5571d1735031133f154071b08a77ccdb89f3e047330ed057a494dfd128f5d1",
+  "official_stand": [
+    "NeufNeugefasst durch Bek. v. 15.3.2022 I 610;",
+    "Standzuletzt geändert durch Art. 14 G v. 8.12.2025 I Nr. 318"
+  ],
+  "rvg_commencement": {
+    "evidence": "sources/review-vv7005-vv7008-2026-10-20/bgbl-318.pdf",
+    "read": "Art. 14 und Art. 21 Abs. 2–3: Nrn. 1,3,4 seit 1.1.2026; Nr. 2 seit 1.7.2026. Keine Änderung der vier zugewiesenen Tarife. Tatsächliche Verkündung gelesen; Abrufdatum und XML-builddate sind kein Inkrafttretensbeleg."
+  },
+  "intake_comparison": {
+    "original": "sources/intake-2026-10-02.md",
+    "change_map": "sources/change-map.json",
+    "result": "Original bleibt erhalten. Bereits dokumentierter Vollvergleich ohne normative Änderung; heutige vollständige RVG-XML bytegleich zur Bearbeitungsquelle. Beide Quellenversionen und Änderungsabbildung bleiben erhalten."
+  },
+  "current_update_service": {
+    "evidence": "sources/review-vv7005-vv7008-2026-10-20/updates.html",
+    "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+    "meaning": "Aktueller Dienst erneut abgerufen; keine alleinige Schlussfolgerung aus einem Titel- oder Zeitstempelvergleich über mittelbare Änderungen."
+  },
+  "external_ustg": {
+    "url": "https://www.gesetze-im-internet.de/ustg_1980/xml.zip",
+    "xml": "sources/review-vv7005-vv7008-2026-10-20/ustg.xml",
+    "sha256": "d25fccc9b7c1a7bec9fcfce55b5400ea521f818adfdbe9452ab9fcfd8d98f777",
+    "read_provisions": [
+      "§ 10 Absatz 1",
+      "§ 12 Absatz 1",
+      "§ 15 Absatz 1 Nummer 1",
+      "§ 19 Absätze 1–6"
+    ],
+    "current_stand": [
+      "NeufNeugefasst durch Bek. v. 21.2.2005 I 386;",
+      "Standzuletzt geändert durch Art. 5 G v. 29.6.2026 I Nr. 197"
+    ],
+    "commencement": [
+      {
+        "evidence": "sources/review-vv7005-vv7008-2026-10-20/bgbl-2024-387.pdf",
+        "read": "Jahressteuergesetz 2024: Artikel 25 Nummer 17 fasst § 19 neu, Artikel 56 Absatz 7 setzt Artikel 25 zum 1.1.2025 in Kraft. Absatz 1: steuerfrei statt Nichterhebung; Absatz 3: Verzicht. Verkündeter Wortlaut mit aktueller XML gegengelesen."
+      },
+      {
+        "evidence": "sources/review-vv7005-vv7008-2026-10-20/bgbl-2026-197.pdf",
+        "read": "Artikel 5 verändert § 22a und § 22e, nicht §§ 10/12/15/19. Nach Artikel 13 Absatz 1 seit 1.9.2026 wirksam. Keine ungeprüfte Anwendung einer künftigen Fassungsstufe."
+      }
+    ],
+    "scope": "Nur der bezeichnete Kontext. Kein vollständiger UStG-Kommentar und keine erschöpfende Archiv-/mittelbare Änderungssuche."
+  },
+  "internal_cross_references_read": [
+    "§ 1 Absatz 1",
+    "§ 3a",
+    "§ 10",
+    "§ 22 Absatz 2",
+    "§ 46 Absätze 1–2",
+    "§ 60",
+    "Vorbemerkung 7 Absätze 1–3",
+    "Nrn. 7003–7008"
+  ],
+  "historical_versions_checked": {
+    "operative_duplicates": [],
+    "selection": "One current consolidation, 79 single paragraph nodes and two single annex nodes. Historical quotations and transition references within current provisions are retained as content, not appended as old versions."
+  },
+  "eingangsformel": "No separate Eingangsformel or Präambel and no unlabelled operative Content in this official XML. Global enactment/commencement footnote preserved in sources/rvg-frontmatter.json and canonical.md.",
+  "annex_coverage": "annex-coverage.json",
+  "limitations": [
+    "Heutige Konsolidierung, tatsächliche Inkrafttretensbelege und erhaltene Intakefassung geprüft; kein vollständiges historisches Gesetzesarchiv.",
+    "Gerichtliche Fallbeträge und damalige berufsrechtliche Mindestversicherung nicht als aktuelle allgemeine Sätze verwendet."
+  ]
+}
