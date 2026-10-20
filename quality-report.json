@@ -1,13 +1,13 @@
 {
   "commentary_units": 344,
   "statutory_units": 344,
-  "commentary_chars": 281786,
-  "mean_comment_chars": 819,
+  "commentary_chars": 291994,
+  "mean_comment_chars": 848,
   "minimum_comment_chars": 401,
   "missing_comments": [],
   "identical_sentences_over_90_characters": [],
   "identical_paragraphs_over_150_characters": [],
-  "local_links_checked": 89,
+  "local_links_checked": 120,
   "broken_local_links": [],
   "external_urls": [
     "http://www.justiz.de/onlinedienste/bundesundlandesrecht/index.php",
@@ -16,6 +16,7 @@
     "https://www.gesetze-im-internet.de/Teilliste_translations.html",
     "https://www.gesetze-im-internet.de/aktuDienst.html",
     "https://www.gesetze-im-internet.de/aktuell.html",
+    "https://www.gesetze-im-internet.de/asylvfg_1992/__77.html",
     "https://www.gesetze-im-internet.de/barrierefreiheit.html",
     "https://www.gesetze-im-internet.de/datenschutz.html",
     "https://www.gesetze-im-internet.de/englisch_rvg/index.html",
@@ -127,6 +128,8 @@
     "https://www.gesetze-im-internet.de/volltextsuche.html",
     "https://www.recht.bund.de/bgbl/1/2025/318/regelungstext.pdf?__blob=publicationFile&v=2",
     "https://www.rechtsprechung-im-internet.de/",
+    "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE304332018",
+    "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE305342023",
     "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE307422020",
     "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE716052025",
     "https://www.verwaltungsvorschriften-im-internet.de/"

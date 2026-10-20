@@ -1,0 +1,264 @@
+---
+source: rechtsprechung-im-internet
+country: de
+document_type: decision
+court: BGH
+chamber: 6. Zivilsenat
+ecli: ECLI:DE:BGH:2023:241023BVIZB39.21.0
+doknr: KORE305342023
+case_number: VI ZB 39/21
+date: '2023-10-24'
+decision_type: Beschluss
+norms: § 15a Abs 2 Alt 3 RVG vom 30.07.2009, Teil 3 Vorbem 3 Abs 4 S 1 RVG-VV, Teil
+  3 Vorbem 3 Abs 4 S 4 RVG-VV
+prior_instance: 'vorgehend OLG Bamberg, 19. April 2021, Az: 5 W 21/21
+
+
+  vorgehend LG Coburg, 4. März 2021, Az: 22 O 69/20'
+source_url: https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE305342023
+download_url: https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE305342023.zip
+chars: 15276
+license: amtliches Werk (§ 5 UrhG)
+retrieved_at: '2026-10-03T15:32:56Z'
+---
+
+# BGH VI ZB 39/21 (2023-10-24)
+
+- **Gericht:** BGH 6. Zivilsenat
+- **Datum:** 2023-10-24
+- **Aktenzeichen:** VI ZB 39/21
+- **ECLI:** ECLI:DE:BGH:2023:241023BVIZB39.21.0
+- **Dokumenttyp:** Beschluss
+- **Normen:** § 15a Abs 2 Alt 3 RVG vom 30.07.2009, Teil 3 Vorbem 3 Abs 4 S 1 RVG-VV, Teil 3 Vorbem 3 Abs 4 S 4 RVG-VV
+
+## Titelzeile
+
+Rechtsanwaltskosten: Anrechung der Geschäftsgebühr auf die Verfahrensgebühr
+
+## Leitsatz
+
+Zur Anrechnung der Geschäftsgebühr auf die Verfahrensgebühr, wenn außergerichtlich als Nebenforderung geltend gemachte Ansprüche auf Ersatz der vorgerichtlichen Rechtsanwaltskosten den alleinigen Gegenstand des gerichtlichen Verfahrens bilden.
+
+## Tenor
+
+Die Rechtsbeschwerde der Klägerin gegen den Beschluss des 5. Zivilsenats des Oberlandesgerichts Bamberg vom 19. April 2021 wird auf ihre Kosten zurückgewiesen.
+
+Der Gegenstandswert des Rechtsbeschwerdeverfahrens wird auf 725,40 € festgesetzt.
+
+## Gründe
+
+I.
+
+1 Die Parteien streiten im Verfahren der Kostenfestsetzung darum, ob bei der Berechnung der von der Beklagten der Klägerin zu erstattenden Kosten die für die vorgerichtliche Tätigkeit der Klägerin angefallenen Geschäftsgebühren auf die Verfahrensgebühr anzurechnen sind (Teil 3 Vorbemerkung 3 Abs. 4 Satz 1 VV RVG in Verbindung mit § 15a Abs. 2 Fall 1 RVG in der bis 31. Dezember 2020 geltenden Fassung vom 30. Juli 2009, nachfolgend: a.F.).
+
+2 Die Klägerin ist eine Partnerschaftsgesellschaft, in der sich Rechtsanwälte zur Berufsausübung zusammengeschlossen haben. Sie ist von einer Leasinggesellschaft außergerichtlich mit der Geltendmachung von (materiellen) Schadensersatzansprüchen aus 22 Verkehrsunfällen gegen den beklagten Haftpflichtversicherer beauftragt worden, bei denen jeweils im Eigentum der Leasinggesellschaft stehende und bei der Beklagten versicherte Fahrzeuge beschädigt worden waren. Die Unfälle ereigneten sich in den Jahren 2016 und 2017. Auf die außergerichtlichen Schreiben der Klägerin, mit denen sie jeweils Ersatz des Sachschadens und der zur Durchsetzung dieses Anspruchs vorgerichtlich angefallenen Rechtsanwaltskosten (1,3 - Geschäftsgebühren nach Nr. 2300 VV RVG nebst Kostenpauschalen) forderte, beglich die Beklagte jeweils nur den Sachschaden, nicht aber die Rechtsanwaltskosten. Die Ansprüche auf Erstattung dieser Kosten in Höhe von insgesamt 9.175,35 € trat die Leasinggesellschaft an die Klägerin ab, die sie in dem dem Kostenfestsetzungsverfahren zu Grunde liegenden Klageverfahren gegen die Beklagte geltend gemacht hat. Im Laufe des Rechtsstreits hat die Beklagte die außergerichtlichen Rechtsanwaltskosten in Höhe von 9.175,35 € an die Klägerin bezahlt. Die Parteien haben daraufhin den Rechtsstreit übereinstimmend für erledigt erklärt. Das Landgericht hat der Beklagten die Kosten des Rechtsstreits auferlegt.
+
+3 Im Kostenfestsetzungsverfahren hat die Klägerin unter anderem eine 1,3 Verfahrensgebühr nach Nr. 3100 VV RVG in Höhe von 725,40 € geltend gemacht. Das Landgericht hat diesen Betrag bei der Kostenfestsetzung in vollem Umfang berücksichtigt. Auf die sofortige Beschwerde der Beklagten hat das Oberlandesgericht den Kostenfestsetzungsbeschluss des Landgerichts abgeändert und den von der Beklagten an die Klägerin zu erstattenden Betrag um 725,40 € reduziert. Hiergegen wendet sich die Klägerin mit ihrer vom Oberlandesgericht zugelassenen Rechtsbeschwerde.
+
+II.
+
+4 Die nach § 574 Abs. 1 Satz 1 Nr. 2 ZPO statthafte und auch im Übrigen zulässige Rechtsbeschwerde hat in der Sache keinen Erfolg.
+
+5 1. Nach Auffassung des Beschwerdegerichts sind die vorgerichtlich entstandenen 22 Geschäftsgebühren auf die Verfahrensgebühr gemäß Teil 3 Vorbemerkung 3 Abs. 4 VV RVG anzurechnen. Die Geschäftsgebühren seien wegen desselben Gegenstands entstanden wie die Verfahrensgebühr. Gegenstand der außergerichtlichen Tätigkeit der Klägerin sei die Regulierung von materiellen Schadensersatzansprüchen der Zedentin aus 22 Verkehrsunfällen gegen die hinter den Schadensverursachern als Haftpflichtversicherung stehende Beklagte. Zu diesen Ansprüchen gehörten nach § 249 BGB auch die Kosten der Rechtsverfolgung. Eben diese Kosten - und damit ein Teil des Schadens aus den Verkehrsunfällen - seien mit der anschließenden Klage gegen die Beklagte eingeklagt worden. Die von der Klägerin entfaltete außergerichtliche Tätigkeit betreffe daher hinsichtlich der Kosten der Rechtsverfolgung dieselben rechtlichen und tatsächlichen Punkte wie die spätere gerichtliche Geltendmachung. Ein rein formales Abstellen auf einen geänderten Streitwert überzeuge hingegen nicht, weil dies der gebotenen wirtschaftlichen Betrachtung und dem Sinn und Zweck der Anrechnungsvorschrift, dass ein bereits vorgerichtlich mit der Angelegenheit befasster Rechtsanwalt einen geringeren Einarbeitungs- und Vorbereitungsaufwand habe, nicht gerecht werde. Die Anrechnung führe dazu, dass die Verfahrensgebühr gänzlich entfalle. Denn alle Geschäftsgebühren seien in der tatsächlichen Höhe anteilig auf die Verfahrensgebühr anzurechnen. Die Beklagte könne sich auch nach § 15a Abs. 2 Fall 1 RVG a.F. auf die Anrechnung berufen. Sie habe die mit der Klage geforderten Geschäftsgebühren unstreitig bezahlt und den diesbezüglichen Anspruch damit erfüllt.
+
+6 2. Diese Erwägungen halten der rechtlichen Nachprüfung stand. Das Beschwerdegericht hat die vorgerichtlich entstandenen Geschäftsgebühren zu Recht anteilig auf die Verfahrensgebühr des gerichtlichen Verfahrens angerechnet mit der Folge, dass diese vollständig aufgezehrt worden ist. Die Beklagte kann sich auch gemäß § 15a Abs. 2 Fall 1 RVG a.F. auf die Anrechnung berufen.
+
+7 a) Nach der Regelung in Teil 3 Vorbemerkung 3 Abs. 4 Satz 1 VV RVG wird die wegen desselben Gegenstands entstandene Geschäftsgebühr auf die Verfahrensgebühr des gerichtlichen Verfahrens angerechnet, bei Wertgebühren jedoch höchstens mit einem Gebührensatz von 0,75. Bei einer wertabhängigen Gebühr erfolgt nach Teil 3 Vorbemerkung 3 Abs. 4 Satz 5 VV RVG in der bis 31. Dezember 2020 geltenden Fassung vom 23. Juli 2013 (nachfolgend: a.F.; entspricht Teil 3 Vorbemerkung 3 Abs. 4 Satz 4 VV RVG) die Anrechnung nach dem Wert des Gegenstands, der auch Gegenstand des gerichtlichen Verfahrens ist.
+
+8 b) Das Beschwerdegericht hat zu Recht angenommen, dass die Geschäftsgebühren wegen desselben Gegenstands im Sinne von Teil 3 Vorbemerkung 3 Abs. 4 zu Nr. 3100 VV RVG entstanden sind wie die Verfahrensgebühr.
+
+9 aa) Der Gegenstand der anwaltlichen Tätigkeit im kostenrechtlichen Sinn wird durch das Recht oder das Rechtsverhältnis definiert, auf das sich die Tätigkeit des Rechtsanwalts im Rahmen des ihm von seinem Mandanten erteilten Auftrags bezieht. Dabei ist keine formale, sondern eine wertende Betrachtungsweise angezeigt und auf die wirtschaftliche Identität abzustellen. Die Frage, ob eine vorgerichtliche anwaltliche Tätigkeit und die anschließende Klage in diesem Sinne denselben Gegenstand gemäß Teil 3 Vorbemerkung 3 Abs. 4 VV RVG betreffen, ist daher anhand einer wirtschaftlichen Betrachtung zu entscheiden (vgl. BGH, Urteil vom 14. März 2007 - VIII ZR 184/06, NJW 2007, 2050 Rn. 15; Beschlüsse vom 2. Oktober 2008 - I ZB 30/08, WRP 2009, 75, juris Rn. 11; vom 29. November 2011 - XI ZB 16/11, NJW 2012, 781 Rn. 8; vom 20. Dezember 2011 - XI ZB 17/11, NJW-RR 2012, 313 Rn. 9; vgl. Enders in Hartung/Schons/Enders, RVG, 3. Aufl., § 2 Rn. 2; Mayer in Gerold/Schmidt, RVG, 24. Aufl., § 2 RVG Rn. 6). Denn die Anrechnungsbestimmungen von Teil 3 Vorbemerkung 3 Abs. 4 VV RVG, § 15a Abs. 1 RVG finden ihren Grund in dem geringeren Einarbeitungs- und Vorbereitungsaufwand, den ein bereits vorgerichtlich mit der Angelegenheit befasster Rechtsanwalt hat (vgl. BT-Drucks. 15/1971, S. 209; BGH, Urteile vom 7. Dezember 2022 - VIII ZR 81/21, ZIP 2023, 531 Rn. 33; vom 14. März 2007 - VIII ZR 184/06, NJW 2007, 2050 Rn. 15; Beschluss vom 20. Dezember 2011 - XI ZB 17/11, NJW-RR 2012, 313 Rn. 9).
+
+10 bb) Gemessen an diesen Grundsätzen war Gegenstand der von der Klägerin vorgerichtlich entfalteten anwaltlichen Tätigkeit die Regulierung der der Leasinggesellschaft infolge der Beschädigung ihrer Fahrzeuge entstandenen Sachschäden einschließlich der dadurch entstehenden Rechtsanwaltskosten gegenüber der Beklagten.
+
+11 (1) Der dem Geschädigten wegen Beschädigung einer Sache nach § 249 Abs. 2 Satz 1 BGB zustehende Schadensersatz umfasst grundsätzlich auch den Ersatz der zur Durchsetzung dieses Anspruchs erforderlichen Rechtsverfolgungskosten (vgl. Senatsurteile vom 29. Oktober 2019 - VI ZR 45/19, VersR 2020, 174 Rn. 21; vom 18. Januar 2005 - VI ZR 73/04, VersR 2005, 558, juris Rn. 6, 10). Denn auch diese Kosten dienen letztlich der Herstellung des Zustands, der bestehen würde, wenn der zum Ersatz verpflichtende Umstand nicht eingetreten wäre (§ 249 BGB, vgl. Senatsurteil vom 18. Januar 2005 - VI ZR 73/04, VersR 2005, 558, juris Rn. 6, 10). Dementsprechend hat die Klägerin nach den nicht angegriffenen Feststellungen des Beschwerdegerichts die Beklagte in ihren nach dem jeweiligen Unfall verfassten außergerichtlichen Schreiben nicht nur zum Ersatz des jeweils entstandenen Sachschadens, sondern darüber hinaus zur Erstattung der jeweils angefallenen Rechtsanwaltskosten aufgefordert.
+
+12 (2) Der Umstand, dass der Gegenstand der anwaltlichen Tätigkeit nur teilweise, nämlich nur hinsichtlich der auf Ersatz der vorgerichtlichen Rechtsanwaltskosten gerichteten Ansprüche in das gerichtliche Verfahren übergegangen ist, führt zu keiner anderen Beurteilung. Der Gesetzgeber hat den Fall, dass der Gegenstand der außergerichtlichen Tätigkeit nur zum Teil Gegenstand des gerichtlichen Verfahrens wird, in Teil 3 Vorbemerkung 3 Abs. 4 Satz 5 VV RVG a.F. ausdrücklich geregelt und damit zum Ausdruck gebracht, dass eine Anrechnung auch bei Teilidentität der Gegenstände zu erfolgen hat.
+
+13 (3) Eine andere Beurteilung ist auch nicht deshalb geboten, weil sich der für die Berechnung der Verfahrensgebühr maßgebliche Streitwert nach der Höhe der - den alleinigen Gegenstand des gerichtlichen Verfahrens bildenden - Ansprüche auf Ersatz der vorgerichtlichen Rechtsanwaltskosten bestimmt, wohingegen diese in den für die Berechnung der jeweiligen Geschäftsgebühr maßgeblichen Gegenstandswert nicht werterhöhend eingeflossen sind (aA LG Saarbrücken, AGS 2007, 291, juris Rn. 31; AG Rosenheim, AGS 2020, 202, 203, juris Rn. 5; AG Berlin-Mitte, JurBüro 2015, 576, juris Rn. 1). Letzteres ist allein darauf zurückzuführen, dass die Kostenerstattungsansprüche nach den Feststellungen des Beschwerdegerichts außergerichtlich jeweils neben der unmittelbar auf Ersatz des Sachschadens gerichteten Hauptforderung geltend gemacht worden waren und von deren Bestehen abhängig sind. Sie stellten deshalb Nebenforderungen im Sinne von § 4 Abs. 1 ZPO dar, die nach der genannten Bestimmung in Verbindung mit § 23 Abs. 1 Satz 3 RVG, § 48 Abs. 1 Satz 1 GKG bei der Bestimmung des Gegenstandswertes nicht zu berücksichtigen waren (vgl. zu § 4 ZPO: Senatsbeschluss vom 17. Februar 2009 - VI ZB 60/07, VersR 2009, 806 Rn. 5; BGH, Beschluss vom 11. September 2019 - IV ZB 13/19, VersR 2019, 1451 Rn. 20 f.).
+
+14 Dies ändert aber nichts daran, dass sich die vorgerichtliche anwaltliche Tätigkeit der Klägerin auch auf die Regulierung der durch die Beschädigung der Fahrzeuge erforderlich gewordenen vorprozessualen Anwaltskosten bezog. Zwischen der außergerichtlichen und der gerichtlichen Geltendmachung der Ansprüche auf Ersatz der vorgerichtlichen Rechtsanwaltskosten bestand ein enger inhaltlicher Zusammenhang. Die von der Klägerin zu entfaltende Tätigkeit betraf in beiden Fällen dieselben rechtlichen und tatsächlichen Punkte, weshalb eine Anrechnung auch nach dem Sinn der Regelung in Teil 3 Vorbemerkung 3 Abs. 4 Satz 1 RVG VV geboten erscheint. Wie unter aa) bereits ausgeführt beruht die (teilweise) Anrechnung der Gebühren für die denselben Gegenstand betreffende vorgerichtliche Tätigkeit gerade auf der Erwägung, den in diesen Fällen typischerweise geringeren Aufwand des Rechtsanwalts bei der Höhe der insgesamt verdienten Gebühren zu berücksichtigen.
+
+15 c) Das Beschwerdegericht hat auch zu Recht angenommen, dass die Verfahrensgebühr durch die Anrechnung der Geschäftsgebühren im Ergebnis vollständig aufgezehrt wird.
+
+16 aa) Es ist zunächst zutreffend davon ausgegangen, dass nach dem im Streitfall anwendbaren Recht alle vorgerichtlich entstandenen Geschäftsgebühren, die im Wege objektiver Klagehäufung in einem einzigen gerichtlichen Verfahren verfolgt wurden, anteilig auf die Verfahrensgebühr anzurechnen sind, und nicht eine einheitliche Geschäftsgebühr aus den addierten Gegenstandswerten zu bilden ist, die anteilig auf die Verfahrensgebühr anzurechnen wäre (BGH, Beschluss vom 28. Februar 2017 - I ZB 55/16, NJW 2017, 1821 Rn. 12 f.). Die - letzteres vorsehende - Neuregelung des § 15a Abs. 2 Satz 2 RVG ist gemäß § 60 Abs. 1 Satz 1 RVG im Streitfall nicht anwendbar, da der unbedingte Auftrag zur Erledigung derselben Angelegenheit vor dem Inkrafttreten der Gesetzesänderung am 1. Januar 2021 erteilt worden ist.
+
+17 bb) Ob alle entstandenen Geschäftsgebühren in der tatsächlichen Höhe anteilig auf die Verfahrensgebühr anzurechnen sind (so wohl BGH, Beschluss vom 28. Februar 2017 - I ZB 55/16, NJW 2017, 1821, Ls. und Rn. 8 ff., allerdings in anderem Zusammenhang) oder - wofür der Wortlaut Teil 3 Vorbemerkung 3 Abs. 4 Satz 5 VV RVG a.F. spricht - jeweils nur nach dem Wert des Gegenstandes, der in das gerichtliche Verfahren übergegangen ist (so OLG Koblenz, Beschluss vom 24. September 2008 - 14 W 590/08, JurBüro 2009, 304, juris Rn. 10; Ahlmann in Riedel/Sußbauer, RVG, 10. Aufl., VV Vorb. 3 Rn. 90; Bischof in Bischof, RVG, 9. Aufl., Vorbemerkung 3 VV Rn. 100, 123; Mayer in Mayer/Kroiß, HK RVG, 8. Aufl., VV RVG Vorbemerkung 3 Rn. 96; Müller-Rabe in Gerold/Schmidt, RVG, 26. Aufl., VV Vorb. 3 Rn. 319; N. Schneider in Schneider/Volpert, AnwK RVG, 9. Aufl., VV Vorb. 3 Rn. 242, 244; v. Seltmann, RVG, Vorbemerkung 3 Rn. 13; Schons in Hartung/Schons/Enders, RVG, 3. Aufl. Vorb. 3 VV Rn. 166 f.; Tomson, NJW 2007, 267, 269), kann vorliegend offenbleiben. Denn auch wenn die zuletzt genannte Auffassung zuträfe, würde die Verfahrensgebühr in Höhe von 725,40 € durch die Anrechnung der Geschäftsgebühren vollständig aufgezehrt. Wie sich aus der untenstehenden Tabelle ergibt, beliefe sich die Summe der nach dem in das gerichtliche Verfahren übergegangenen Gegenstandswerte berechneten und zur Hälfte anzurechnenden Geschäftsgebühren auf 780 €.
+
+18 A
+
+B
+
+C
+
+eingeklagter Betrag
+
+1,3 Geschäftsgebühr nach
+
+dem ins gerichtliche Verfahren
+
+übergegangen Gegenstandswert
+
+0,65 Geschäftsgebühr
+
+nach dem ins gerichtliche
+
+Verfahren übergegangen
+
+Gegenstandswert
+
+805,20 €
+
+104,00 €
+
+52,00 €
+
+124,00 €
+
+58,50 €
+
+29,25 €
+
+140,25 €
+
+58,50 €
+
+29,25 €
+
+169,50 €
+
+58,50 €
+
+29,25 €
+
+169,50 €
+
+58,50 €
+
+29,25 €
+
+805,20 €
+
+104,00 €
+
+52,00 €
+
+480,20 €
+
+58,50 €
+
+29,25 €
+
+281,30 €
+
+58,50 €
+
+29,25 €
+
+679,10 €
+
+104,00 €
+
+52,00 €
+
+347,60 €
+
+58,50 €
+
+29,25 €
+
+347,60 €
+
+58,50 €
+
+29,25 €
+
+281,30 €
+
+58,50 €
+
+29,25 €
+
+347,60 €
+
+58,50 €
+
+29,25 €
+
+805,20 €
+
+104,00 €
+
+52,00 €
+
+546,50 €
+
+104,00 €
+
+52,00 €
+
+413,90 €
+
+58,50 €
+
+29,25 €
+
+480,20 €
+
+58,50 €
+
+29,25 €
+
+413,90 €
+
+58,50 €
+
+29,25 €
+
+805,20 €
+
+104,00 €
+
+52,00 €
+
+281,30 €
+
+58,50 €
+
+29,25 €
+
+169,50 €
+
+58,50 €
+
+29,25 €
+
+281,30 €
+
+58,50 €
+
+29,25 €
+
+Summe
+
+Summe
+
+Summe
+
+9.175,35 €
+
+1.560,00 €
+
+780,00 €
+
+19 d) Die Beklagte kann sich auch gemäß § 15a Abs. 2 Fall 1 RVG a.F. auf die Anrechnung berufen. Nach den nicht angegriffenen Feststellungen hat sie im Laufe des Prozesses den mit der Klage geltend gemachten Anspruch auf Ausgleich der Geschäftsgebühren durch Zahlung erfüllt.
+
+Seiters
+
+von Pentz
+
+Klein
+
+Allgayer
+
+Linder

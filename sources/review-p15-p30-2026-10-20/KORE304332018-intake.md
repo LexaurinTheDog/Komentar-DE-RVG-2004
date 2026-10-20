@@ -1,0 +1,112 @@
+---
+source: rechtsprechung-im-internet
+country: de
+document_type: decision
+court: BGH
+chamber: 5. Zivilsenat
+ecli: ECLI:DE:BGH:2017:161117BVZB152.16.0
+doknr: KORE304332018
+case_number: V ZB 152/16
+date: '2017-11-16'
+decision_type: Beschluss
+norms: § 15 Abs 2 RVG, § 15 Abs 5 S 2 RVG, Nr 3100 RVG-VV, Nr 3104 RVG-VV
+prior_instance: 'vorgehend Brandenburgisches Oberlandesgericht, 3. November 2016,
+  Az: 6 W 79/16, Beschluss
+
+
+  vorgehend LG Frankfurt (Oder), 23. Oktober 2015, Az: 14 O 31/14'
+source_url: https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE304332018
+download_url: https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304332018.zip
+chars: 17125
+license: amtliches Werk (§ 5 UrhG)
+retrieved_at: '2026-10-03T15:19:02Z'
+---
+
+# BGH V ZB 152/16 (2017-11-16)
+
+- **Gericht:** BGH 5. Zivilsenat
+- **Datum:** 2017-11-16
+- **Aktenzeichen:** V ZB 152/16
+- **ECLI:** ECLI:DE:BGH:2017:161117BVZB152.16.0
+- **Dokumenttyp:** Beschluss
+- **Normen:** § 15 Abs 2 RVG, § 15 Abs 5 S 2 RVG, Nr 3100 RVG-VV, Nr 3104 RVG-VV
+
+## Titelzeile
+
+Rechtsanwaltsgebühren: Behandlung des Verfahrens über den Einspruch gegen ein Versäumnisurteil und des vorausgegangenen Verfahrens; Folgen eines Einspruchs mehr als zwei Jahre nach Zustellung des Versäumnisurteils
+
+## Leitsatz
+
+1. Das Verfahren über den Einspruch gegen ein Versäumnisurteil und das vorausgegangene Verfahren sind in gebührenrechtlicher Hinsicht dieselbe Angelegenheit.
+
+2. Ein Rechtsanwalt kann jedenfalls in analoger Anwendung von § 15 Abs. 5 Satz 2 RVG erneut Gebühren verlangen, wenn er nach dem Einspruch gegen ein Versäumnisurteil, der mehr als zwei Kalenderjahre nach Zustellung des Urteils eingelegt worden ist, in dem gerichtlichen Verfahren weiter tätig wird.
+
+## Tenor
+
+Auf die Rechtsbeschwerde der Klägerin wird der Beschluss des 6. Zivilsenats des Brandenburgischen Oberlandesgerichts vom 3. November 2016 unter Zurückweisung des weitergehenden Rechtsmittels im Kostenpunkt und insoweit aufgehoben, als der Kostenfestsetzungsbeschluss des Landgerichts Frankfurt (Oder) vom 23. Oktober 2015 (14 O 31/14) in Höhe von 14.277,38 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 4. September 2015 zum Nachteil der Klägerin abgeändert worden ist.
+
+Im Umfang der Aufhebung wird die sofortige Beschwerde der Beklagten gegen den genannten Kostenfestsetzungsbeschluss zurückgewiesen und dieser klarstellend neu gefasst: Die von der Beklagten an die Klägerin aufgrund des Urteils des Landgerichts Frankfurt (Oder) vom 29. Juli 2015 (14 O 31/14) zu erstattenden Kosten werden auf 19.646,90 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 4. September 2015 festgesetzt.
+
+Gerichtsgebühren für das Beschwerde- und das Rechtsbeschwerdeverfahren werden nicht erhoben. Die der Klägerin entstandenen außergerichtlichen Kosten der Rechtsmittelverfahren trägt die Beklagte.
+
+Der Gegenstandswert des Rechtsbeschwerdeverfahrens beträgt 14.922,96 €.
+
+## Gründe
+
+I.
+
+1 Die Klägerin nahm die Beklagte auf Feststellung der Unwirksamkeit eines notariellen Grundstückskaufvertrags in Anspruch. Das Landgericht verurteilte die Beklagte mit Versäumnisurteil vom 2. Juni 2008 antragsgemäß, legte ihr die Verfahrenskosten auf und bewilligte die öffentliche Zustellung der Entscheidung. Es setzte im Januar 2009 gegen die Beklagte eine 1,3 Verfahrensgebühr und eine 0,5 Terminsgebühr nebst Auslagen, insgesamt einen Betrag von 13.831,13 € fest.
+
+2 Am 24. Januar 2014 hat die Beklagte Einspruch gegen das Versäumnisurteil eingelegt, die Unwirksamkeit der öffentlichen Zustellung geltend gemacht und Widerklage sowie Eventualwiderklage erhoben. Das Landgericht hat am 29. Juli 2015 das Versäumnisurteil aufrechterhalten, der Widerklage im Hilfsantrag stattgegeben und der Beklagten die weiteren Kosten des Rechtsstreits auferlegt. Den Gebührenstreitwert hat es auf 1.670.697,35 € festgesetzt.
+
+3 Die Klägerin verlangt die Festsetzung weiterer Kosten von 20.292,48 €, darunter eine erneute 1,3 Verfahrensgebühr sowie die 1,2 Terminsgebühr. Das Landgericht hat die Kosten antragsgemäß festgesetzt. Auf die sofortige Beschwerde der Beklagten hat das Oberlandesgericht den Beschluss abgeändert und weitere Kosten in Höhe von 5.369,52 € festgesetzt. Mit der zugelassenen Rechtsbeschwerde verfolgt die Klägerin ihren Festsetzungsantrag weiter. Die Beklagte beantragt die Zurückweisung des Rechtsmittels.
+
+II.
+
+4 Das Beschwerdegericht, dessen Entscheidung u.a. in Rpfleger 2017, 302 veröffentlicht ist, meint, die Prozessbevollmächtigten der Klägerin können insgesamt nur eine 1,3 Verfahrens- und nur eine 1,2 Terminsgebühr aus dem Gebührenstreitwert von 1.670.697,35 € verlangen. Für die Tätigkeit nach dem Einspruch erhielten sie keine zusätzliche Vergütung nach § 15 Abs. 5 Satz 2 RVG. Voraussetzung für die Anwendung dieser Vorschrift sei, dass der Rechtsanwalt neu beauftragt werde, nachdem der frühere Auftrag seit mehr als zwei Kalenderjahren erledigt sei. Daran fehle es. Zwar sei es mit der Zustellung des Versäumnisurteils zu einer Erledigung des Auftrags im Sinne des § 8 Abs. 1 Satz 1 RVG gekommen. Den Rechtsanwälten sei aber kein neuer Auftrag erteilt worden. Ein solcher neuer Auftrag wäre kostenrechtlich auch nicht als zur zweckentsprechenden Rechtsverfolgung notwendig anzusehen (§ 91 Abs. 1 Satz 1 ZPO). Bei einem Einspruch gegen ein Versäumnisurteil werde dasselbe Verfahren fortgesetzt, und es liege gebührenrechtlich dieselbe Angelegenheit vor. Die Vorschrift des § 15 Abs. 5 Satz 2 RVG sei auch nicht analog anwendbar. Es fehle an einer planwidrigen Regelungslücke. Die von dem Bundesgerichtshof für den Fall der Anfechtung eines Prozessvergleichs angenommene Lücke habe der Gesetzgeber durch Einfügung von Satz 3 im Jahr 2012 geschlossen. Das verdeutliche, dass er das Erfordernis der Erteilung eines neuen Auftrags allein für diese Fälle als entbehrlich angesehen habe.
+
+III.
+
+5 Diese Erwägungen halten einer rechtlichen Prüfung nicht stand. Entgegen der Ansicht des Beschwerdegerichts können die Prozessbevollmächtigten der Klägerin für die Tätigkeit nach dem Einspruch der Beklagten gegen das Versäumnisurteil eine erneute 1,3 Verfahrensgebühr nach Nr. 3100 VV-RVG und zusätzlich zu der 0,5 Terminsgebühr nach Nr. 3105 VV-RVG die 1,2 Terminsgebühr nach Nr. 3104 VV-RVG verlangen. Zwar handelt es sich bei dem Verfahren vor und nach dem Einspruch gegen ein Versäumnisurteil gebührenrechtlich um eine Angelegenheit (§ 15 Abs. 2 RVG). Die Vorschrift des § 15 Abs. 5 Satz 2 RVG ist aber entsprechend anwendbar, so dass erneute Gebühren für die weitere anwaltliche Tätigkeit entstehen.
+
+6 1. Rechtsfehlerfrei geht das Beschwerdegericht zunächst davon aus, dass das Verfahren über den Einspruch gegen ein Versäumnisurteil und das vorausgegangene Verfahren in gebührenrechtlicher Hinsicht dieselbe Angelegenheit sind (allg. Ansicht, vgl. OLG Celle, JurBüro 2016, 414; OLG Koblenz, JurBüro 2010, 584; KG, JurBüro 2008, 647; OLG Köln, Beschluss vom 5. November 2008 - 17 W 227/08, juris Rn. 12; Beschluss vom 21. Juni 2006 - 17 W 126/06, juris Rn. 6; Hartmann, Kostengesetze, 47. Aufl., § 15 RVG Rn. 32; Gerold/Schmidt/Mayer, RVG, 22. Aufl., § 15 Rn. 85, § 17 Rn. 44). Die Regelung des § 38 BRAGO, wonach das Verfahren über den Einspruch gegen ein Versäumnisurteil als besondere Angelegenheit galt, ist durch das Gesetz über die Vergütung der Rechtsanwältinnen und Rechtsanwälte (Rechtsanwaltsvergütungsgesetz - RVG) vom 5. Mai 2004 (BGBl. I S. 718, 788) nicht übernommen worden. Es bleibt deshalb bei der in § 16 und § 17 Nr. 1 RVG zum Ausdruck kommenden allgemeinen Regel, dass das gerichtliche Verfahren in einem Rechtszug eine Angelegenheit ist (vgl. BGH, Beschluss vom 24. März 2016 - III ZB 116/15, NJW-RR 2016, 883 Rn. 7; Ahlmann in Riedel/Sußbauer, 10. Aufl., RVG, § 15 Rn. 10; Hartmann, Kostengesetze, 47. Aufl., § 15 RVG Rn. 32; Gerold/Schmidt/Mayer, 22. Aufl., RVG, § 15 Rn. 5 f., 14). Der zulässige Einspruch hat keinen Devolutiveffekt, sondern versetzt den Prozess, soweit der Einspruch reicht, in die Lage zurück, in der er sich vor dem Eintritt der Versäumnis befand (§ 342 ZPO). Der Rechtsanwalt kann die Gebühren für die Tätigkeit vor und nach dem Einspruch nur einmal fordern (§ 15 Abs. 2 RVG). Es entsteht eine Verfahrensgebühr nach Nr. 3100 VV-RVG, und die ursprünglich aufgrund des ersten Termins angefallene 0,5-Terminsgebühr nach Nr. 3105 VV-RVG geht in der 1,2-Terminsgebühr nach Nr. 3104 VV-RVG auf (vgl. KG, JurBüro 2008, 647; OLG Koblenz, MDR 2010, 1494; Herget/Zöller, ZPO, 32. Aufl., § 344 Rn. 2; Hünnekens, Rpfleger 2004, 445, 451).
+
+7 2. Anders als das Beschwerdegericht meint, können die Prozessbevollmächtigten der Klägerin für ihre weitere Tätigkeit aber deshalb eine erneute Vergütung fordern, weil die Beklagte den Einspruch mehr als zwei Kalenderjahre nach Erlass des Versäumnisurteils eingelegt hat. Es kann dahinstehen, ob das unmittelbar aus § 15 Abs. 5 Satz 2 RVG folgt. Die Vorschrift ist jedenfalls analog anwendbar.
+
+8 a) Nach § 15 Abs. 5 Satz 2 RVG gilt die weitere Tätigkeit eines Rechtsanwalts als neue Angelegenheit, wenn der frühere Auftrag seit mehr als zwei Kalenderjahren erledigt ist. Von einer solchen Erledigung des früheren Auftrags der Prozessbevollmächtigten der Klägerin geht das Beschwerdegericht rechtsfehlerfrei aus.
+
+9 aa) Für die Erledigung des Auftrags im Sinne von § 15 Abs. 5 Satz 2 RVG ist auf die zu § 8 Abs. 1 Satz 1 RVG gefundene Definition dieses Begriffs abzustellen (BGH, Beschluss vom 11. August 2010 - XII ZB 60/08, FamRZ 2010, 1723 Rn. 14; vgl. auch Urteil vom 30. März 2006 - VII ZB 69/05 - NJW 2006, 1525 Rn. 7 zu § 13 Abs. 5 Satz 2 BRAGO). Danach ist ein Auftrag erledigt, wenn der Anwalt seine Verpflichtungen aus dem Anwaltsvertrag vollständig erfüllt hat. Das ist dann der Fall, wenn von ihm keine weiteren Handlungen in Erfüllung des Auftrags mehr zu erwarten sind. Die Entscheidung der Frage, wann dieser Zeitpunkt erreicht ist, hängt von den Umständen des Einzelfalls ab. Allgemeine Regeln lassen sich dazu nicht aufstellen (vgl. BGH, Beschluss vom 13. November 2008 - IX ZR 24/06, juris Rn. 2 mwN). Dabei ist von Bedeutung, ob der Anwalt selbst seinen Auftrag als erfüllt ansieht oder nicht (vgl. BGH, Urteil vom 10. Oktober 1978 - VI ZR 115/77, NJW 1979, 264, 265; Rinkler, in Fischer/Vill/Fischer/Rinkler/Chab, Handbuch der Anwaltshaftung, 4. Aufl., § 1 Rn. 69). Das Ziel braucht nicht erreicht zu sein (Gerold/Schmidt/Mayer, RVG, 22. Aufl., § 8 Rn. 10).
+
+10 bb) Daran gemessen war der von der Klägerin erteilte Anwaltsauftrag erledigt. Die Beklagte hat gegen das am 2. Juni 2008 ergangene und öffentlich zugestellte Versäumnisurteil nicht innerhalb der vom Gericht nach § 339 Abs. 2 ZPO bestimmten Einspruchsfrist Einspruch eingelegt, und mit einem Einspruch, ggf. in Verbindung mit einem Wiedereinsetzungsantrag, mussten die Prozessbevollmächtigten der Klägerin jedenfalls nicht mehr rechnen, nachdem die Jahresfrist des § 234 Abs. 3 ZPO abgelaufen war.
+
+11 b) Ob, wie das Beschwerdegericht meint, § 15 Abs. 5 Satz 2 RVG weiter voraussetzt, dass dem Anwalt für die Tätigkeit in dem Verfahren nach dem Einspruch gegen das Versäumnisurteil ein neuer Auftrag erteilt worden ist, kann offen bleiben.
+
+12 aa) Allerdings kann sich das Beschwerdegericht insoweit auf die Rechtsprechung des VII. und des XII. Zivilsenats des Bundesgerichtshofs stützen (Beschluss vom 30. März 2006 - VII ZB 69/05, NJW 2006, 1525 Rn. 5 zu § 13 Abs. 5 BRAGO; Beschluss vom 11. August 2010 - XII ZB 60/08, FamRZ 2010, 1723 Rn. 13). Danach soll § 15 Abs. 5 Satz 2 RVG nur anwendbar sein, wenn einem Rechtsanwalt nach Erledigung eines früheren Auftrags ein neuer Auftrag erteilt wird. An einem solchen neuen Auftrag fehle es, wenn ein durch einen Prozessvergleich beendeter Prozess nach Anfechtung mehr als zwei Kalenderjahre nach dessen Abschluss fortgesetzt werde. Er sei auch nicht erforderlich, weil dasselbe Verfahren fortgesetzt werde und der Anwalt weiterhin beauftragt bleibe (BGH, Beschluss vom 11. August 2010 - XII ZB 60/08, aaO Rn. 13).
+
+13 bb) Diese Rechtsprechung hat überwiegend Zustimmung (KG, FamRZ 2011, 667; Finanzgericht Baden-Württemberg, AGS 2010, 606; Ahlmann in Riedel/Sußbauer, 10. Aufl., RVG, § 15 Rn. 71; Schneider/Wolf, AnwK RVG, 7. Aufl., § 8 Rn. 73; Enders in Hartung/Schons/Enders, Rechtsanwaltsvergütungsgesetz, 2. Aufl., § 15 Rn. 125 ff.), aber auch Ablehnung erfahren. Die Kritiker machen geltend, dass sich aus dem Wortlaut von § 15 Abs. 5 Satz 2 RVG das Erfordernis eines neuen Auftrags nicht ergebe (Winkler in Mayer/Kroiß, RVG, 6. Aufl., § 15 Rn. 159). Sie weisen zudem darauf hin, ein Rechtsanwalt, dessen Auftrag erledigt sei, müsse stets neu beauftragt werden, damit er weiter tätig werde; das könne konkludent erfolgen (vgl. Hansens, RVG-Report 2011, 17, 18; ders., RVG-Report 2017, 54, 55 f.; Onderka, AGS 2010, 479, 480).
+
+14 cc) Tatsächlich ist zweifelhaft, ob es für die Anwendung des § 15 Abs. 5 Satz 2 RVG auf die Erteilung eines neuen Auftrags ankommt. Es spricht vieles dafür, dass die Vorschrift auch dann anwendbar ist, wenn der Anwalt in derselben Angelegenheit weiter tätig wird, weil alte Auftrag - wie hier - nur scheinbar erledigt ist und deshalb fortbesteht. Der Gesetzgeber hat in § 15 Abs. 5 RVG eine Situation beschrieben, in der der Anwalt in derselben Angelegenheit weiter tätig wird. Dafür soll er grundsätzlich nicht mehr an Gebühren verdienen, als er erhalten hätte, wenn er von vornherein mit dem weiteren Tätigwerden beauftragt worden wäre (Satz 1). Der Anwalt soll seine Gebühren aber noch einmal verlangen können, wenn der frühere Auftrag seit mehr als zwei Kalenderjahren im Sinne von § 8 Abs. 1 Satz 1 RVG erledigt ist (Satz 2). Ob die weitere Tätigkeit einen neuen Auftrag erfordert, dürfte unmaßgeblich sein.
+
+15 c) Die Frage muss hier nicht entschieden werden. Ein Rechtsanwalt kann jedenfalls in analoger Anwendung von § 15 Abs. 5 Satz 2 RVG erneut Gebühren verlangen, wenn er nach dem Einspruch gegen ein Versäumnisurteil, der mehr als zwei Kalenderjahre nach Zustellung des Urteils eingelegt worden ist, in dem gerichtlichen Verfahren weiter tätig wird. Es kommt nicht darauf an, ob diese Tätigkeit auf einem neuen oder auf dem scheinbar erledigten alten Auftrag beruht.
+
+16 aa) Die Vorschrift des § 15 Abs. 5 Satz 2 RVG trifft keine Aussage dazu, ob die Tätigkeit eines Rechtsanwalts nach einem Einspruch, der mehr als zwei Kalenderjahre nach Erlass des Versäumnisurteils eingelegt worden ist, als neue Angelegenheit im Sinne dieser Vorschrift gilt. Könnte der Rechtsanwalt für eine solche Tätigkeit nur dann noch einmal Gebühren verlangen, wenn ihm ein neuer Auftrag im Sinne der Rechtsprechung des VII. und des XII. Zivilsenats des Bundesgerichtshofs erteilt würde, hätte der Gesetzgeber diese Fallgestaltung übersehen, obwohl sie von dem der Vorschrift zu Grunde liegenden Gedanken, dass der Rechtsanwalt sich, weil eine lange Zeit vergangen ist, vollkommen neu einarbeiten muss (BT-Drucks. 12/6962 S. 102 zur Vorgängerregelung des § 13 Abs. 5 Satz 2 BRAGO), erfasst wird. Da sich die Fallkonstellation bei Schaffung des § 15 Abs. 5 Satz 2 RVG bzw. des inhaltsgleichen § 13 Abs. 5 Satz 2 BRAGO nicht aufdrängte, lässt sich der unterbliebenen Regelung keine bewusste Entscheidung des Gesetzgebers gegen einen Anspruch des Anwalts auf erneute Gebühren entnehmen. Es ist deshalb von einer planwidrigen Lücke auszugehen.
+
+17 Die Lücke ist durch eine analoge Anwendung von § 15 Abs. 5 Satz 2 RVG zu schließen. Der der Vorschrift zugrunde liegende Gedanke - der Rechtsanwalt muss sich, weil eine lange Zeit vergangen ist, vollkommen neu einarbeiten - passt auch hier. Wird nach mehr als zwei Kalenderjahren Einspruch gegen ein Versäumnisurteil eingelegt und das Verfahren fortgesetzt, muss ein Rechtsanwalt sich wegen des Zeitablaufs neu in die Angelegenheit einarbeiten. Es wäre unbillig, wenn er für seine weitere Tätigkeit nicht erneut Gebühren erhalten würde.
+
+18 bb) Ein der analogen Anwendung von § 15 Abs. 5 Satz 2 RVG entgegenstehender Wille des Gesetzgebers ergibt sich, anders als das Beschwerdegericht meint, nicht aus § 15 Abs. 5 Satz 3 RVG. Aus dieser durch das Gesetz zur Reform des Kapitalanleger-Musterverfahrensgesetzes (KapMuG) und zur Änderung anderer Vorschriften vom 19. Oktober 2012 (BGBl. I S. 2182) geschaffenen Regelung lässt sich nicht auf ein „beredtes Schweigen“ des Gesetzgebers schließen, das es verbieten könnte, § 15 Abs. 5 Satz 2 RVG auf weitere Fälle analog anzuwenden. Der Gesetzgeber wollte im Hinblick auf die Rechtsprechung des XII. Zivilsenats (Beschluss vom 11. August 2010 - XII ZB 60/08, FamRZ 2010, 1723) lediglich sicherstellen, dass der Fall der Vergleichsanfechtung und der Fall der Wiedereröffnung des Verfahrens auf Antrag des Klägers nach der Beendigung des Verfahrens auf der Grundlage eines in einem Musterverfahren geschlossenen Vergleichs gleichgestellt werden (BT-Drucks. 17/8799 S. 28). Daraus kann nicht gefolgert werden, er habe in § 15 Abs. 5 Satz 3 RVG eine abschließende Regelung treffen, jede weitere analoge Anwendung von § 15 Abs. 5 Satz 2 RVG also ausschließen wollen.
+
+19 3. Die Vergütung der Prozessbevollmächtigten der Klägerin für die Tätigkeit nach dem Einspruch gegen das Versäumnisurteil ist aber, anders als von ihr beantragt, nach dem bei Erteilung des unbedingten Prozessauftrags im Jahr 2007 geltenden Recht zu berechnen (§ 60 Abs. 1 Satz 1 u. Abs. 2 RVG). Die 1,3 Verfahrensgebühr nach Nr. 3100 VV-RVG aus 1.670.697,35 € (§ 22 Abs. 1 RVG) beträgt 8.574,80 € und die 1,2 Terminsgebühr nach Nr. 3104 VV-RVG 7.915,20 €. Bei Hinzurechnung der Postentgeltpauschale nach Nr. 7002 VV-RVG von 20,00 € und der Umsatzsteuer nach Nr. 7008 VV-RVG in Höhe von 3.136,90 € belaufen sich die von der Beklagten an die Klägerin zu erstattenden weiteren Kosten auf 19.646,90 €. Auf die Rechtsbeschwerde war daher unter Zurückweisung des Rechtsmittels im Übrigen der Beschluss des Berufungsgerichts entsprechend abzuändern.
+
+IV.
+
+20 Die Kostenentscheidung folgt aus § 92 Abs. 2 Nr. 1 ZPO, Nr. 1812 und 1826 KV-GKG. Für das Beschwerde- und das Rechtsbeschwerdeverfahren war nach billigem Ermessen zu bestimmen, dass eine Gerichtsgebühr nicht zu erheben ist.
+
+Stresemann
+
+Schmidt-Räntsch
+
+Kazele
+
+Haberkamp
+
+Hamdorf

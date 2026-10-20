@@ -1,0 +1,46 @@
+[
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304332018.zip",
+    "accessed_at": "2026-10-20T09:58:39.678585+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "local_path": "sources/review-p15-p30-2026-10-20/KORE304332018.zip",
+    "sha256": "9932d96d10a12eb63fefe4bcfdc82e5200d6392c0f990b44032ab74da9dbae0f",
+    "validated_format": "ZIP, single expected decision XML, XML parsed",
+    "xml_path": "sources/review-p15-p30-2026-10-20/KORE304332018.xml",
+    "xml_sha256": "1902662a63e34784d313958b94d1ecc812ef67d4c347a89b9de41853ef9a11c6",
+    "court": "BGH",
+    "docket": "V ZB 152/16",
+    "date": "20171116",
+    "ecli": "ECLI:DE:BGH:2017:161117BVZB152.16.0",
+    "local_intake_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore304332018.md",
+    "local_intake_sha256": "09dd6f64a0b0d849da84c1e6922010443173b66209f3f55bc8e4f0b357660c87"
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE305342023.zip",
+    "accessed_at": "2026-10-20T09:58:39.829876+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "local_path": "sources/review-p15-p30-2026-10-20/KORE305342023.zip",
+    "sha256": "f45a6863f01a0b18f527af9d047508192f824b61808498fb8686046b5fad4ba3",
+    "validated_format": "ZIP, single expected decision XML, XML parsed",
+    "xml_path": "sources/review-p15-p30-2026-10-20/KORE305342023.xml",
+    "xml_sha256": "f291982edbf88bcb9f745466ab40bd64edff0da9df4be9b784e36f12cd0ca6f6",
+    "court": "BGH",
+    "docket": "VI ZB 39/21",
+    "date": "20231024",
+    "ecli": "ECLI:DE:BGH:2023:241023BVIZB39.21.0",
+    "local_intake_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore305342023.md",
+    "local_intake_sha256": "3b483733a44520d57a7ef7a4a4ca6e77876dea02f018492e07181106a603b869"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/asylvfg_1992/__77.html",
+    "accessed_at": "2026-10-20T09:58:39.931582+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "local_path": "sources/review-p15-p30-2026-10-20/asylg-p77.html",
+    "sha256": "640d30a6c74d1862eec210fda8bcde41f788372a6efa6ba16322ee4afb6d1125",
+    "validated_format": "HTML, expected AsylG section and operative text checked",
+    "scope": "Only §77(4) sentence 1 cross-reference for RVG §30; no comprehensive AsylG commentary"
+  }
+]

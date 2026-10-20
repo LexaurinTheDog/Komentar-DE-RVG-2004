@@ -1,0 +1,22 @@
+[
+  {
+    "decision": "KORE304332018",
+    "ecli": "ECLI:DE:BGH:2017:161117BVZB152.16.0",
+    "judicial_paragraphs_compared": 35,
+    "missing_exact_paragraphs": [],
+    "all_paragraphs_present": true,
+    "official_xml_sha256": "1902662a63e34784d313958b94d1ecc812ef67d4c347a89b9de41853ef9a11c6",
+    "intake_snapshot_sha256": "09dd6f64a0b0d849da84c1e6922010443173b66209f3f55bc8e4f0b357660c87",
+    "method": "Every nonempty official p in leitsatz, tenor, facts and reasons compared with copied national intake. Whitespace only removed. Official XML full text additionally read."
+  },
+  {
+    "decision": "KORE305342023",
+    "ecli": "ECLI:DE:BGH:2023:241023BVIZB39.21.0",
+    "judicial_paragraphs_compared": 106,
+    "missing_exact_paragraphs": [],
+    "all_paragraphs_present": true,
+    "official_xml_sha256": "f291982edbf88bcb9f745466ab40bd64edff0da9df4be9b784e36f12cd0ca6f6",
+    "intake_snapshot_sha256": "3b483733a44520d57a7ef7a4a4ca6e77876dea02f018492e07181106a603b869",
+    "method": "Every nonempty official p in leitsatz, tenor, facts and reasons compared with copied national intake. Whitespace only removed. Official XML full text additionally read."
+  }
+]

@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-20",
+  "scope": "Selective discovery for §§15 and15a; no exhaustive per-unit case-law survey",
+  "steps": [
+    {
+      "method": "web search",
+      "queries": [
+        "site.rechtsprechung-im-internet.de \"§ 15a\" \"2024\"",
+        "site.rechtsprechung-im-internet.de \"§ 15\" \"zwei Kalenderjahren\"",
+        "site.rechtsprechung-im-internet.de \"V ZB 152/16\"",
+        "site.bundesgerichtshof.de \"V ZB 152/16\"",
+        "site.rechtsprechung-im-internet.de \"Anrechnung\" \"22 Verkehrsunfällen\"",
+        "site.juris.bundesgerichtshof.de \"VI ZB 39/21\""
+      ],
+      "result": "Initial results included irrelevant/third-party material, used for navigation only. Official BGH links identified for both cases. No commercial annotations copied.",
+      "official_discovery_urls": [
+        "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=81045&Blank=1.pdf",
+        "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=135658&Blank=1.pdf"
+      ]
+    },
+    {
+      "method": "rg local national corpus manifest",
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/manifest.jsonl",
+      "query": "V ZB 152/16|VI ZB 39/21|XII ZB 60/08",
+      "results": [
+        "KORE304332018",
+        "KORE305342023",
+        "KORE308612010"
+      ],
+      "selection": "First two full texts read and verified by current official ZIP/XML. XII ZB60/08 was a discovery hit only, not independently cited as read authority."
+    },
+    {
+      "method": "Official RII ZIP/XML and full text reading",
+      "evidence": "authority-requests.json",
+      "read_decisions": [
+        "KORE304332018",
+        "KORE305342023"
+      ],
+      "limits": "V ZB152/16 leaves general new-mandate question open; VI ZB39/21 applies pre2021 law and leaves partial-value alternative open. See separate case cards."
+    }
+  ],
+  "coverage": [
+    {
+      "id": "p15",
+      "decision": "KORE304332018"
+    },
+    {
+      "id": "p15a",
+      "decision": "KORE305342023"
+    },
+    {
+      "ids": [
+        "p16",
+        "p17",
+        "p18",
+        "p19",
+        "p20",
+        "p21",
+        "p22",
+        "p23",
+        "p23a",
+        "p23b",
+        "p24",
+        "p25",
+        "p26",
+        "p27",
+        "p28",
+        "p29",
+        "p29a",
+        "p30"
+      ],
+      "decision": null,
+      "disposition": "No additional verified case asserted; review based on full official statutory text and internal references. No exhaustive negative case-law search claimed."
+    }
+  ]
+}

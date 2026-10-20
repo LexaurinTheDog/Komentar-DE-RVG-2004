@@ -260,6 +260,101 @@
       "xml_path": "sources/review-p1-p14-2026-10-20/KORE716052025.xml",
       "xml_sha256": "32e45760bf275a90dd9a80d388c58f86628fa1b8a5223bd1d5e675441a5620ca",
       "identical_to_manuscript_source": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/rvg/",
+      "accessed_at": "2026-10-20T09:57:32.970905+00:00",
+      "purpose": "bounded independent substantive review p15–p30, 20 exact units",
+      "http_status": 200,
+      "final_url": "https://www.gesetze-im-internet.de/rvg/",
+      "content_type": "text/html",
+      "local_path": "sources/review-p15-p30-2026-10-20/index.html",
+      "sha256": "7e9f02d6a7dc1934d08e4463457f1c15649d20bfd365778bff502c55f2eb80dd",
+      "validated_format": "HTML document and RVG identifier where applicable"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/rvg/xml.zip",
+      "accessed_at": "2026-10-20T09:57:33.116274+00:00",
+      "purpose": "bounded independent substantive review p15–p30, 20 exact units",
+      "http_status": 200,
+      "final_url": "https://www.gesetze-im-internet.de/rvg/xml.zip",
+      "content_type": "application/zip",
+      "local_path": "sources/review-p15-p30-2026-10-20/rvg.zip",
+      "sha256": "51019d65e1d783759d31a3d67ff21ec35d922d309a82d575a08848c89de42dde",
+      "members": [
+        "BJNR078800004.xml"
+      ],
+      "validated_format": "ZIP and XML parsed; expected identifier verified",
+      "xml_path": "sources/review-p15-p30-2026-10-20/rvg.xml",
+      "xml_sha256": "be5571d1735031133f154071b08a77ccdb89f3e047330ed057a494dfd128f5d1",
+      "identical_to_manuscript_source": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "accessed_at": "2026-10-20T09:57:33.271254+00:00",
+      "purpose": "bounded independent substantive review p15–p30, 20 exact units",
+      "http_status": 200,
+      "final_url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "content_type": "text/html",
+      "local_path": "sources/review-p15-p30-2026-10-20/updates.html",
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+      "validated_format": "HTML document and RVG identifier where applicable"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2025/318/regelungstext.pdf?__blob=publicationFile&v=2",
+      "accessed_at": "2026-10-20T09:57:34.580476+00:00",
+      "purpose": "bounded independent substantive review p15–p30, 20 exact units",
+      "http_status": 200,
+      "final_url": "https://www.recht.bund.de/bgbl/1/2025/318/regelungstext.pdf?__blob=publicationFile&v=2",
+      "content_type": "application/pdf",
+      "local_path": "sources/review-p15-p30-2026-10-20/bgbl-318.pdf",
+      "sha256": "89f50d3f611d6f05089d6d4827783cf1531cfd3c800cd808e86c763b9db28c41",
+      "validated_format": "PDF magic, byte-identical to commencement text previously extracted and read",
+      "identical_to_manuscript_source": true
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304332018.zip",
+      "accessed_at": "2026-10-20T09:58:39.678585+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "local_path": "sources/review-p15-p30-2026-10-20/KORE304332018.zip",
+      "sha256": "9932d96d10a12eb63fefe4bcfdc82e5200d6392c0f990b44032ab74da9dbae0f",
+      "validated_format": "ZIP, single expected decision XML, XML parsed",
+      "xml_path": "sources/review-p15-p30-2026-10-20/KORE304332018.xml",
+      "xml_sha256": "1902662a63e34784d313958b94d1ecc812ef67d4c347a89b9de41853ef9a11c6",
+      "court": "BGH",
+      "docket": "V ZB 152/16",
+      "date": "20171116",
+      "ecli": "ECLI:DE:BGH:2017:161117BVZB152.16.0",
+      "local_intake_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore304332018.md",
+      "local_intake_sha256": "09dd6f64a0b0d849da84c1e6922010443173b66209f3f55bc8e4f0b357660c87"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE305342023.zip",
+      "accessed_at": "2026-10-20T09:58:39.829876+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "local_path": "sources/review-p15-p30-2026-10-20/KORE305342023.zip",
+      "sha256": "f45a6863f01a0b18f527af9d047508192f824b61808498fb8686046b5fad4ba3",
+      "validated_format": "ZIP, single expected decision XML, XML parsed",
+      "xml_path": "sources/review-p15-p30-2026-10-20/KORE305342023.xml",
+      "xml_sha256": "f291982edbf88bcb9f745466ab40bd64edff0da9df4be9b784e36f12cd0ca6f6",
+      "court": "BGH",
+      "docket": "VI ZB 39/21",
+      "date": "20231024",
+      "ecli": "ECLI:DE:BGH:2023:241023BVIZB39.21.0",
+      "local_intake_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore305342023.md",
+      "local_intake_sha256": "3b483733a44520d57a7ef7a4a4ca6e77876dea02f018492e07181106a603b869"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/asylvfg_1992/__77.html",
+      "accessed_at": "2026-10-20T09:58:39.931582+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "local_path": "sources/review-p15-p30-2026-10-20/asylg-p77.html",
+      "sha256": "640d30a6c74d1862eec210fda8bcde41f788372a6efa6ba16322ee4afb6d1125",
+      "validated_format": "HTML, expected AsylG section and operative text checked",
+      "scope": "Only §77(4) sentence 1 cross-reference for RVG §30; no comprehensive AsylG commentary"
     }
   ],
   "version_evidence": {
@@ -318,5 +413,56 @@
     "decisive_date": "2026-10-19",
     "records": "sources/review-p1-p14-2026-10-20/requests.json",
     "version_basis": "Existing promulgated Article 14 and commencement Article 21 re-read; current RVG XML compared byte for byte. Date of retrieval is not proof of commencement."
+  },
+  "bounded_review_p15_p30": {
+    "verified_at": "2026-10-20T10:03:59.505701+00:00",
+    "decisive_date": "2026-10-19",
+    "requests": "sources/review-p15-p30-2026-10-20/requests.json",
+    "authorities": "sources/review-p15-p30-2026-10-20/authority-requests.json",
+    "version_evidence": {
+      "authoring_started_date": "2026-10-19",
+      "decisive_date": "2026-10-19",
+      "recheck_date": "2026-10-20",
+      "official_stand": [
+        "Neugefasst durch Bek. v. 15.3.2022 I 610;",
+        "zuletzt geändert durch Art. 14 G v. 8.12.2025 I Nr. 318"
+      ],
+      "last_amending_act": "Art. 14 G v. 8.12.2025, BGBl. 2025 I Nr. 318",
+      "commencement_evidence": {
+        "path": "sources/bgbl-2025-318.pdf",
+        "rechecked_path": "sources/preflight-2026-10-20-bgbl-318.pdf",
+        "sha256": "89f50d3f611d6f05089d6d4827783cf1531cfd3c800cd808e86c763b9db28c41",
+        "text_path": "sources/bgbl-2025-318.txt",
+        "provisions": "Artikel 14 und Artikel 21 Absätze 2 und 3",
+        "effective_dates": {
+          "2026-01-01": "Article 14 numbers 1, 3 and 4: contents, § 33, § 61",
+          "2026-07-01": "Article 14 number 2: § 19(1) sentence 2 number 6"
+        },
+        "method": "Actual promulgation text read; current XML § 19, § 33(3) (300 Euro) and § 61 checked against the amendment. PDF re-fetch identical by SHA-256."
+      },
+      "current_source_xml": {
+        "path": "sources/rvg.xml",
+        "sha256": "be5571d1735031133f154071b08a77ccdb89f3e047330ed057a494dfd128f5d1",
+        "builddate": "20260630215537"
+      },
+      "recheck_xml": {
+        "path": "sources/preflight-2026-10-20/rvg.xml",
+        "sha256": "be5571d1735031133f154071b08a77ccdb89f3e047330ed057a494dfd128f5d1",
+        "identical_to_authoring_source": true
+      },
+      "intake_version": "Original intake 2026-10-02 preserved; sources/change-map.json retains the per-unit comparison. No normative content change detected there; current re-fetch is byte-identical to authoring XML.",
+      "current_update_service": "sources/preflight-2026-10-20-updates.html; checked against 19 October snapshot; newly listed issues 301–304 do not identify RVG. An update-service title scan alone is not proof of absence of indirect amendments.",
+      "basis": "Current official index, full HTML and actual parsed RVG ZIP/XML; stand metadata plus promulgated commencement, not fetch/build timestamps alone.",
+      "limitations": [
+        "Current official consolidation checked, not a complete historical-version archive or an exhaustive search of every amending act.",
+        "No guarantee against not-yet-incorporated legislation; decisive manuscript date remains authoring start 19 October 2026."
+      ]
+    },
+    "firecrawl": {
+      "url": "https://www.gesetze-im-internet.de/rvg/",
+      "path": "sources/review-p15-p30-firecrawl-index.md",
+      "scrape_id": "01a158be-79e9-7580-9bf4-9aa7cd48e505",
+      "http_result": "See independently captured direct HTTP200 index snapshot; scrape ID is not HTTP proof."
+    }
   }
 }

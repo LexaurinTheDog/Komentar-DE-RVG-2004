@@ -126,5 +126,21 @@
     "duplicate_ids": [],
     "all_assigned_texts_match_official_xml": true,
     "unresolved_blockers": []
+  },
+  "bounded_review_p15_p30_recheck": {
+    "verified_at": "2026-10-20T10:03:59.505701+00:00",
+    "official_url": "https://www.gesetze-im-internet.de/rvg/",
+    "decisive_date": "2026-10-19",
+    "fresh_evidence": "sources/review-p15-p30-2026-10-20/requests.json",
+    "current_rvg_xml_identical": true,
+    "commencement_pdf_identical": true,
+    "version_evidence": "Article14 and Article21 read in actual BGBl.2025 I Nr.318: §19(1) sentence2 no.6 effective since 2026-07-01; current official stand unchanged. Update-service snapshot byte-identical to prior preflight; title-only scan is not proof against indirect amendment.",
+    "historical_versions_checked": "All92 current XML nodes classified again; no historical duplicate operative labels. No separate Eingangsformel or unlabelled operative content; global notes retained. Full historical archive not examined.",
+    "annexes_checked": "Independent first-cell derivation: Anlage1 231 tariff IDs and32 operative remarks; complete536 rows retained. Anlage2 all22 rows retained, no invented child IDs.",
+    "annex_evidence": "annex-coverage.json",
+    "missing_ids": [],
+    "duplicate_ids": [],
+    "all_assigned_texts_match_official_xml": true,
+    "unresolved_blockers": []
   }
 }
