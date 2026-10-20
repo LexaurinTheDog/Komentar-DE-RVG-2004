@@ -1,5 +1,5 @@
 {
-  "complete": false,
+  "complete": true,
   "task_kind": "bounded_independent_second_pass",
   "decisive_date": "2026-10-19",
   "reviewed_at": "2026-10-20T11:26:23.094015+00:00",
@@ -190,8 +190,35 @@
     }
   ],
   "validation": {
-    "status": "Substantive reading of all20units completed; rebuild and strict technical validation pending."
+    "strict": {
+      "repo": "Komentar-DE-RVG-2004",
+      "units": 344,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 422367,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "validated_at": "2026-10-20T11:27:39.604004+00:00",
+    "validated_work_commit": "754beab8d8d3deb172518b36296db261f51bf7a0",
+    "validated_output_commit": "10b761658170134859b8d12e3226034bda6a738d",
+    "build": "success",
+    "independent_xml_coverage": {
+      "expected": 344,
+      "parsed": 344,
+      "missing": [],
+      "duplicates": [],
+      "ok": true
+    },
+    "assigned_complete_wording_matches": 20,
+    "unassigned_commentary_blocks_preserved": 324,
+    "local_links_checked": 420,
+    "broken_local_links": [],
+    "exact_repeated_long_sentences": 0,
+    "exact_repeated_long_paragraphs": 0,
+    "meaning": "Technical checks support the separately read exact20unit review; not substantive review of unassigned units or external professional approval."
   },
   "whole_book_review_complete": false,
-  "external_professional_approval": false
+  "external_professional_approval": false,
+  "validated_at": "2026-10-20T11:27:39.604004+00:00"
 }
