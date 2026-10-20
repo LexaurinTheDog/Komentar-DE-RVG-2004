@@ -3,7 +3,7 @@
   "title": "Gesetz über die Vergütung der Rechtsanwältinnen und Rechtsanwälte",
   "country": "de",
   "decisive_date": "2026-10-19",
-  "updated_at": "2026-10-20T12:36:14.731675+00:00",
+  "updated_at": "2026-10-20T12:36:34.517132+00:00",
   "stage": "bounded_review_checkpoint",
   "official_norm_units": 81,
   "numbered_paragraphs": 79,
@@ -266,8 +266,33 @@
   ],
   "case_law_scope": "Existing selective case cards preserved. This exact20unit batch freshly fetches and fully reads IX ZR 123/10 for vv5115 and IX ZR 306/12 for vv5100/vv5109/vv5113. IX ZR 123/10 was already present; only IX ZR 306/12 is an added unique decision. No exhaustive case-law or later-case census.",
   "validation": {
-    "build": "awaiting committed build",
-    "strict": "awaiting check"
+    "strict": {
+      "repo": "Komentar-DE-RVG-2004",
+      "units": 344,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 568796,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "validated_at": "2026-10-20T12:36:34.445999+00:00",
+    "validated_work_commit": "1fba237b9d3696a46afe31cd38fab5de6c1b60e3",
+    "validated_output_commit": "20783d46fc0e662c2812543d3e4270fd5f63b4ca",
+    "build": "success",
+    "independent_xml_coverage": {
+      "expected": 344,
+      "parsed": 344,
+      "missing": [],
+      "duplicates": [],
+      "ok": true
+    },
+    "assigned_complete_wording_matches": 20,
+    "unassigned_commentary_blocks_preserved": 324,
+    "local_links_checked": 651,
+    "broken_local_links": [],
+    "exact_repeated_long_sentences": 0,
+    "exact_repeated_long_paragraphs": 0,
+    "meaning": "Technical checks supplement the actual exact-twenty-unit substantive review; no whole-book or external professional approval."
   },
   "completeness": {
     "report": "completeness.json",
@@ -310,7 +335,7 @@
     "independent_coverage_ok": true
   },
   "bounded_review": {
-    "complete": false,
+    "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
       "vv5100",
@@ -361,8 +386,33 @@
     "unassigned_units_preserved": 324,
     "whole_book_review_complete": false,
     "validation": {
-      "build": "awaiting committed build",
-      "strict": "awaiting check"
+      "strict": {
+        "repo": "Komentar-DE-RVG-2004",
+        "units": 344,
+        "verbatim_ratio": 1.0,
+        "commentary_chars": 568796,
+        "errors": [],
+        "warnings": [],
+        "ok": true
+      },
+      "validated_at": "2026-10-20T12:36:34.445999+00:00",
+      "validated_work_commit": "1fba237b9d3696a46afe31cd38fab5de6c1b60e3",
+      "validated_output_commit": "20783d46fc0e662c2812543d3e4270fd5f63b4ca",
+      "build": "success",
+      "independent_xml_coverage": {
+        "expected": 344,
+        "parsed": 344,
+        "missing": [],
+        "duplicates": [],
+        "ok": true
+      },
+      "assigned_complete_wording_matches": 20,
+      "unassigned_commentary_blocks_preserved": 324,
+      "local_links_checked": 651,
+      "broken_local_links": [],
+      "exact_repeated_long_sentences": 0,
+      "exact_repeated_long_paragraphs": 0,
+      "meaning": "Technical checks supplement the actual exact-twenty-unit substantive review; no whole-book or external professional approval."
     }
   },
   "previous_bounded_review": {

@@ -684,6 +684,13 @@
       "Amtliche RVG-Konsolidierung, Originalintake/Änderungskarte und Verkündung samt Inkrafttreten geprüft. Keine vollständige historische Archiv- oder mittelbare Änderungssuche. Fremdgesetzkontext nur im dokumentierten Umfang geprüft.",
       "Firecrawl scheiterte wegen ausgeschöpfter Credits. Tatsächliche amtliche Volltextabrufe erfolgten direkt; Suchtreffer aus Websuche wurden nicht als Gerichtsbegründung behandelt.",
       "Wortlautgleichheit, Erfassung, Links und Wiederholungsprüfung ergänzen die individuelle Inhaltsprüfung. Mindestlänge und technische Validierung beweisen keine juristische Qualität."
-    ]
+    ],
+    "validation": {
+      "strict_ok": true,
+      "verbatim_ratio": 1.0,
+      "validated_at": "2026-10-20T12:36:34.445999+00:00",
+      "reviewed_commentary_units": 20,
+      "whole_book_review_complete": false
+    }
   }
 }
