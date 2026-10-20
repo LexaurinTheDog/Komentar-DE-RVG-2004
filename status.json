@@ -3,7 +3,7 @@
   "title": "Gesetz über die Vergütung der Rechtsanwältinnen und Rechtsanwälte",
   "country": "de",
   "decisive_date": "2026-10-19",
-  "updated_at": "2026-10-20T10:39:07.501486+00:00",
+  "updated_at": "2026-10-20T10:39:54.519003+00:00",
   "stage": "bounded_review_checkpoint",
   "official_norm_units": 81,
   "numbered_paragraphs": 79,
@@ -105,7 +105,30 @@
   ],
   "case_law_scope": "Ten selectively verified decisions: six BGH, three BVerfG and one BSG; new batch sources support1002/1005 and2100. No exhaustive per-unit research.",
   "validation": {
-    "status": "awaiting build and strict validation"
+    "status": "passed",
+    "validated_at": "2026-10-20T10:39:54.444371+00:00",
+    "strict": {
+      "repo": "Komentar-DE-RVG-2004",
+      "units": 344,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 328611,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "validated_manuscript_output_commit": "e6305c4894edc63b871580bcbe3a40e695cf6fe0",
+    "independent_coverage_ok": true,
+    "expected_units": 344,
+    "parsed_units": 344,
+    "all_assigned_official_texts_equal": true,
+    "all_other_324_commentaries_unchanged": true,
+    "annex2_value_fee_pairs_checked": 42,
+    "local_links_checked": 231,
+    "broken_local_links": [],
+    "identical_long_sentences": 0,
+    "identical_long_paragraphs": 0,
+    "quality_report": "quality-report.json",
+    "limitations": "Technical whole-band validation does not establish substantive review of unassigned units; legal review remains exactly20units."
   },
   "completeness": {
     "report": "completeness.json",
@@ -128,7 +151,7 @@
   "authoring_started_date": "2026-10-19",
   "quality": {
     "ok": true,
-    "local_links_checked": 188,
+    "local_links_checked": 231,
     "broken_local_links": [],
     "identical_long_sentences": 0,
     "identical_long_paragraphs": 0
@@ -146,7 +169,7 @@
     "independent_coverage_ok": true
   },
   "bounded_review": {
-    "complete": false,
+    "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
       "a2",
@@ -193,7 +216,30 @@
     "unassigned_units_preserved": 324,
     "whole_book_review_complete": false,
     "validation": {
-      "status": "awaiting build and strict validation"
+      "status": "passed",
+      "validated_at": "2026-10-20T10:39:54.444371+00:00",
+      "strict": {
+        "repo": "Komentar-DE-RVG-2004",
+        "units": 344,
+        "verbatim_ratio": 1.0,
+        "commentary_chars": 328611,
+        "errors": [],
+        "warnings": [],
+        "ok": true
+      },
+      "validated_manuscript_output_commit": "e6305c4894edc63b871580bcbe3a40e695cf6fe0",
+      "independent_coverage_ok": true,
+      "expected_units": 344,
+      "parsed_units": 344,
+      "all_assigned_official_texts_equal": true,
+      "all_other_324_commentaries_unchanged": true,
+      "annex2_value_fee_pairs_checked": 42,
+      "local_links_checked": 231,
+      "broken_local_links": [],
+      "identical_long_sentences": 0,
+      "identical_long_paragraphs": 0,
+      "quality_report": "quality-report.json",
+      "limitations": "Technical whole-band validation does not establish substantive review of unassigned units; legal review remains exactly20units."
     }
   },
   "previous_bounded_review": {

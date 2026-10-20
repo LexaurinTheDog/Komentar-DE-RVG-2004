@@ -17,7 +17,7 @@ for k,ct,date,case in [('KSRE148681527','BSG','2013-12-17','B 11 AL 15/12 R'),('
   import xml.etree.ElementTree as E
   s['case_law_sources'].append(dict(court=ct,date=date,docket=case,ecli=E.parse(W/source).getroot().findtext('ecli'),source=source))
 s['case_law_scope']='Ten selectively verified decisions: six BGH, three BVerfG and one BSG; new batch sources support1002/1005 and2100. No exhaustive per-unit research.'
-s['validation']=r['validation'];dump(W/'status.json',s)
+s['validation']=r['validation'];q=json.loads((W/'quality-report.json').read_text());s['quality']=dict(ok=q['ok'],local_links_checked=q['local_links_checked'],broken_local_links=q['broken_local_links'],identical_long_sentences=len(q['identical_sentences_over_90_characters']),identical_long_paragraphs=len(q['identical_paragraphs_over_150_characters']));dump(W/'status.json',s)
 files=[]
 for p in sorted((W/'sources').rglob('*')):
  if p.is_file():files.append(dict(path=str(p.relative_to(W)),bytes=p.stat().st_size,sha256=hashlib.sha256(p.read_bytes()).hexdigest()))
@@ -25,7 +25,7 @@ dump(W/'source-manifest.json',dict(generated_at=now,files=files))
 # Copy supporting evidence preserving all existing title artifacts.
 for folder in ['sources','cases']:
  shutil.copytree(W/folder,O/folder,dirs_exist_ok=True)
-for name in ['README.md','REVIEW.md','SOURCES.md','meta.json','units.jsonl','source-manifest.json','status.json','preflight-result.json','annex-coverage.json','preflight-coverage.json','preflight-production-coverage.json','audit-result.json','completeness.json','review-result.json','review-a2-vv2201-result.json','review-a2-vv2201-notes.json','review-a2-vv2201-unit-evidence.json']:
+for name in ['README.md','REVIEW.md','SOURCES.md','validation.json','quality-report.json','meta.json','units.jsonl','source-manifest.json','status.json','preflight-result.json','annex-coverage.json','preflight-coverage.json','preflight-production-coverage.json','audit-result.json','completeness.json','review-result.json','review-a2-vv2201-result.json','review-a2-vv2201-notes.json','review-a2-vv2201-unit-evidence.json']:
  shutil.copyfile(W/name,O/name)
 for p in W.glob('_review_a2_vv2201*.py'):shutil.copyfile(p,O/p.name)
 print(json.dumps(dict(output=str(O),source_files=len(files),review_scope=20,complete=r['complete'])))
