@@ -15,3 +15,8 @@ Die beiden bei der Prüfung von §§ 15–30 ergänzten Beschlüsse sind zusätz
 - [BVerfG, 3.3.2021 – 1 BvR 533/20](bverfg-2021-1-bvr-533-20.md): konkrete Ermessensbewertung nach erfolgreicher Verfassungsbeschwerde, kein einheitlicher Erfolgswert.
 
 Diese beiden Volltexte ergänzen die Prüfung von §§ 31–46. [Suchprotokoll](../sources/review-p31-p46-2026-10-20/search-log.json) und [Korpusvergleich](../sources/review-p31-p46-2026-10-20/case-source-comparison.json) dokumentieren die selektive Prüfung für §§ 33 und 37. Für die anderen 18 Vorschriften wird keine zusätzliche verifizierte Entscheidung behauptet.
+
+- [BGH, 4.6.2019 – 1 StR 454/17](bgh-2019-1-str-454-17.md): aufwendige Revisionshauptverhandlung und nach Bestellungsumfang getrennte Pauschgebührzuständigkeit.
+- [BVerfG, 22.7.2019 – 1 BvR 1955/17](bverfg-2019-1-bvr-1955-17.md): konkrete Zumutbarkeitsprüfung beim Zeugenbeistand, Darlegung der Belastung und offene weitere Härtefälle.
+
+Diese beiden Entscheidungen ergänzen die begrenzte Prüfung von §§ 47–62 und Anlage 1 ausschließlich bei § 51. Die damaligen Gebührenbeträge werden als historisch gekennzeichnet. [Suchprotokoll](../sources/review-p47-a1-2026-10-20/search-log.json), [Quellenprotokoll](../sources/review-p47-a1-2026-10-20/authority-requests.json) und [vollständiger Korpusvergleich](../sources/review-p47-a1-2026-10-20/case-source-comparison.json) sichern die selektive Recherche. Für die übrigen 19 zugewiesenen Einheiten wird keine weitere verifizierte Entscheidung behauptet.

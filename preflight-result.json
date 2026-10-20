@@ -167,5 +167,22 @@
       "review_scope": 20,
       "whole_book_review_complete": false
     }
+  },
+  "bounded_review_p47_a1_recheck": {
+    "complete": true,
+    "verified_at": "2026-10-20T10:26:15.629655+00:00",
+    "official_url": "https://www.gesetze-im-internet.de/rvg/",
+    "decisive_date": "2026-10-19",
+    "fresh_evidence": "sources/review-p47-a1-2026-10-20/requests.json",
+    "current_rvg_xml_identical": true,
+    "commencement_pdf_identical": true,
+    "version_evidence": "Official stand unchanged: Art14G8.12.2025INr318. Article14 and21 read: numbers1/3/4 effective1.1.2026, number2 effective1.7.2026. Current update service byte-identical to preceding snapshot; title scan alone not proof against indirect amendments.",
+    "historical_versions_checked": "All92 current XML nodes classified again, no operative historical duplicates or unlabelled operative content. No separate Eingangsformel; global notices retained. Original intake/change map preserved, no normative change found.",
+    "annexes_checked": "Anlage1 full536 rows read and retained;231 tariff/32 remark IDs independently derived from official XML. Anlage2 full22 rows retained, no invented child identifiers; its commentary is outside this assignment.",
+    "annex_evidence": "annex-coverage.json",
+    "missing_ids": [],
+    "duplicate_ids": [],
+    "all_assigned_texts_match_official_xml": true,
+    "unresolved_blockers": []
   }
 }

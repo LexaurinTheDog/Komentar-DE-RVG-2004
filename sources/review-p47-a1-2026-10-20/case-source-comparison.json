@@ -1,0 +1,22 @@
+[
+  {
+    "decision": "KORE627122019",
+    "ecli": "ECLI:DE:BGH:2019:040619B1STR454.17.0",
+    "judicial_paragraphs_compared": 12,
+    "missing_exact_paragraphs": [],
+    "all_paragraphs_present": true,
+    "official_xml_sha256": "6a0f5fa81b624366ac784a2e18bdbae89a15b4e8d3078f22ec2d72ed754cd915",
+    "intake_sha256": "16e91464dd73a1c8052b551845becab2839be5f971016b58fdb88df95d8b9293",
+    "method": "Every official nonempty p matched after whitespace removal against national corpus snapshot. Complete official judgment and national text actually read."
+  },
+  {
+    "decision": "KVRE432221901",
+    "ecli": "ECLI:DE:BVerfG:2019:rk20190722.1bvr195517",
+    "judicial_paragraphs_compared": 17,
+    "missing_exact_paragraphs": [],
+    "all_paragraphs_present": true,
+    "official_xml_sha256": "7771c2bd82b9ea3819a5b5a287fed05f8343a6110eb2eca1ca7abaefa0374950",
+    "intake_sha256": "4f1ca2c1ff0cce100b61ad44759279524052780af60b5606412f71e1c0c19420",
+    "method": "Every official nonempty p matched after whitespace removal against national corpus snapshot. Complete official judgment and national text actually read."
+  }
+]

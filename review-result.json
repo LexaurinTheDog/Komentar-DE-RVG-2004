@@ -1,185 +1,171 @@
 {
-  "complete": true,
+  "complete": false,
   "task_kind": "bounded_independent_second_pass",
   "decisive_date": "2026-10-19",
-  "reviewed_at": "2026-10-20T10:13:13.987414+00:00",
+  "reviewed_at": "2026-10-20T10:26:15.629655+00:00",
   "units_reviewed": 20,
   "reviewed_ids": [
-    "p31",
-    "p31a",
-    "p31b",
-    "p32",
-    "p33",
-    "p34",
-    "p35",
-    "p36",
-    "p37",
-    "p38",
-    "p38a",
-    "p39",
-    "p40",
-    "p41",
-    "p41a",
-    "p42",
-    "p43",
-    "p44",
-    "p45",
-    "p46"
+    "p47",
+    "p48",
+    "p49",
+    "p50",
+    "p51",
+    "p52",
+    "p53",
+    "p53a",
+    "p54",
+    "p55",
+    "p56",
+    "p57",
+    "p58",
+    "p59",
+    "p59a",
+    "p59b",
+    "p60",
+    "p61",
+    "p62",
+    "a1"
   ],
   "changed_ids": [
-    "p31",
-    "p31a",
-    "p31b",
-    "p33",
-    "p34",
-    "p35",
-    "p37",
-    "p41",
-    "p41a",
-    "p42",
-    "p45",
-    "p46"
+    "p48",
+    "p49",
+    "p51",
+    "p52",
+    "p55",
+    "p56",
+    "p57",
+    "p58",
+    "p59",
+    "p59a",
+    "p60",
+    "p61",
+    "p62",
+    "a1"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "p31",
-      "status": "corrected",
-      "assessment": "Beide Absätze vollständig gelesen. Bruchteilsmaßstab und individueller Antragstellungszeitpunkt stimmen. Gerichtsbekanntheit als genauer Anknüpfungspunkt der Ein-Anteil-Vermutung präzisiert. Mindestwert 5.000 Euro auf jeden Einzelwert vor Addition bezogen und Rechenbeispiel ergänzt. Ausschluss Nr.1008 VV richtig."
-    },
-    {
-      "id": "p31a",
-      "status": "corrected",
-      "assessment": "Gesamte Norm und Verweisung auf §31 Abs.1 Sätze2–4/Abs.2 geprüft. Exakten §39b-WpÜG-Fall, Mindestwert und Nichtübernahme des Bruchteilsmaßstabs aus §31 Abs.1 Satz1 ergänzt. Aktienwert und Bestand zum Antragszeitpunkt, Zusammenrechnung und Ausschluss Nr.1008 korrekt."
-    },
-    {
-      "id": "p31b",
-      "status": "corrected",
-      "assessment": "Ganze Norm mit vollständiger Nr.1000 VV intern verglichen. Hälfte des Anspruchs und besondere Zahlungsvereinbarung korrekt. 10.000-/5.000-Euro-Beispiel und Satz0,7 ergänzt, Wertreduktion von sonstigen Gebührenwerten abgegrenzt. Kein gewöhnlicher Vergleich automatisch auf halben Wert reduziert."
-    },
-    {
-      "id": "p32",
+      "id": "p47",
       "status": "checked_no_change",
-      "assessment": "Beide Absätze gelesen. Bindung an Gerichtskostenwert bei identischem Gegenstand/Abschnitt und Abgrenzung zur selbständigen Wertfestsetzung zutreffend. Eigenes Antrags- und Rechtsbehelfsrecht des Anwalts einschließlich unterbliebener Festsetzung richtig. Beispiel zeigt das eigene Interesse; kein zusätzlicher Rechtsmittelweg erfunden. Unverändert."
+      "assessment": "Beide Absätze vollständig geprüft. Entstandene Gebühren, entstandene und künftige Auslagen, angemessene Höhe sowie besondere Verzugsfälle und Beratungshilfeausschluss stimmen. Beispiel trennt künftige Terminsgebühr von Auslagenprognose. Unverändert."
     },
     {
-      "id": "p33",
+      "id": "p48",
       "status": "corrected",
-      "assessment": "Alle neun Absätze und §61 gelesen. Ausführliche Behandlung jeder Verfahrensstufe ergänzt: Fälligkeit, Beteiligte, wirtschaftliche Beschwer, Zulassung, zweiwöchige Zustellungsfrist, Ausgangsgericht, Abhilfe, Instanzenausnahmen, fehlendes Verschulden und Jahresgrenze, Ablehnungsbeschwerde, weitere Beschwerde, Vertretung, Einzelrichter/Übertragung/ehrenamtliche Richter und Kosten. Grenze300 Euro anhand Art.14/21 BGBl.2025 I Nr.318 geprüft. §61-Altfall und Rechtsmittelausnahme präzisiert. BVerfG2.11.2020 vollständig gelesen; Versicherungsinteresse nicht mit Anspruch der Versicherung verwechselt; frühere Grenze und Vergleichsmehrwert nicht als entschieden behauptet."
+      "assessment": "Alle sechs Absätze und sämtliche Nummern gelesen. Die sieben Familienregelungsgegenstände und deren begrenzte Einigungswirkung konkretisiert. Absatz4 auf gesamten PKH-Abschnitt einschließlich Vorbereitung und den gerichtlichen Vorbehalt bezogen. Erstinstanzliche Vorbestellungstätigkeit von Rückwirkung nur im späteren Rechtszug und gesonderter Verbindungserstreckung unterschieden. Absatz2 und ausdrückliche Gegenbestimmung, Absatz5 mit Widerantragsausnahme geprüft."
     },
     {
-      "id": "p34",
+      "id": "p49",
       "status": "corrected",
-      "assessment": "Beide Absätze mit §3a Abs.1 Satz4, Vorbemerkung7 und Nr.7008 VV intern abgeglichen. Grenzen250/190 Euro nur bei fehlender Vereinbarung und Verbraucher, keine Festpreise. Gebührenbetrag von Auslagen/Umsatzsteuer getrennt. Mediation und Gutachten nicht pauschal der Beratungsanrechnung unterstellt. Begrenzte Ausnahme von besonderen Formregeln erklärt; fiktives Folgemandatsbeispiel korrekt."
+      "assessment": "Gesamte Tabelle mit allen19 Wert-/Gebührenstufen gelesen und mit §13 sowie Anlage2 abgeglichen. Ersetzung erst oberhalb4.000, Höchststufe über80.000 mit786 Euro bestätigt. Beispielrechnung374 ×1,3 =486,20 Euro und nächste Stufe10.001 bis13.000 mit389 Euro ergänzt. Zeitrecht weiterhin vorgeschaltet."
     },
     {
-      "id": "p35",
-      "status": "corrected",
-      "assessment": "Beide Absätze und amtliche StBVV-Verweisungen gelesen. §§23–39 mit §§10/13 ausdrücklich genannt; mögliche missverständliche Beschränkung auf laufende Hilfe entfernt. Engeren Anrechnungskatalog §§23,24,31 gegenüber weiterem Eingangskatalog herausgearbeitet. Summe und Höchstbetragswert korrekt. Keine ungesicherten Fremdtarifsätze ergänzt; StBVV-XML-Snapshot gesichert."
-    },
-    {
-      "id": "p36",
+      "id": "p50",
       "status": "checked_no_change",
-      "assessment": "Abs.1 Nummern1/2 und Abs.2 vollständig geprüft. VV-Teil3 Abschnitte1,2,4 nur entsprechend; Parteivertretung von Schiedsrichteramt unterschieden. Terminsgebührenprivileg bei schriftlichem Schiedsspruch nur für ZPO-Schiedsverfahren, nicht pauschal ArbGG. Interne §§16/17-Angelegenheitshinweise und Beispiel zutreffend. Unverändert."
+      "assessment": "Alle drei Absätze gelesen. Einziehungsrang, Begrenzung durch ZPO und Gerichtsbestimmung, Beendigungs- und Zahlungs/Vollstreckungsvoraussetzungen, Mitteilung der Regelvergütung und bereinigte Differenzverteilung richtig. Beispiel Anwaltswechsel behauptet keine sofortige unbedingte Differenzzahlung. Unverändert."
     },
     {
-      "id": "p37",
+      "id": "p51",
       "status": "corrected",
-      "assessment": "Beide Absätze und alle vier Nummern geprüft. Einzelne zuvor nur allgemein behandelte Sonderverfahren ausdrücklich ergänzt. Subsidiäres Modell von Teil3 Abschn.2 Unterabschn.2 und eigener Mindestwert5.000 Euro richtig. BVerfG3.3.2021 vollständig gelesen und als konkrete Ermessensentscheidung mit Randnummern3/4 eingebunden; 12.500 Euro nicht als allgemeiner Erfolgswert bezeichnet."
+      "assessment": "Alle drei Absätze, §42 und §48(6) gelesen. Sonderverfahrenskatalog, selbständige Zumutbarkeit, Ersatz statt Addition, Vorschuss, genaue Bestellungskompetenz, Senatsbesetzung und behördliche Entscheidung präzisiert. BGH1StR454/17 und BVerfG1BvR1955/17 vollständig gelesen. Historische Tarifbeträge, konkrete Zuständigkeitsgrenze, verfassungsrechtliche Prüfung und offengelassene Härtefälle ausdrücklich begrenzt."
     },
     {
-      "id": "p38",
-      "status": "checked_no_change",
-      "assessment": "Alle drei Absätze gelesen. Genaues Wertregime des Vorlageverfahrens, Antrag beim vorlegenden Gericht und §33 Abs.2–9 korrekt. Teil4–6-Sonderfall mit Nrn.4130/4132 und Ausnahme von der Anrechnung bei verfahrensrechtlich vorgesehener schriftlicher EuGH-Stellungnahme richtig. Historische Gerichtsbezeichnung bewusst im Gesetz belassen. Beispiel ohne fiktiven Erstattungsanspruch. Unverändert."
-    },
-    {
-      "id": "p38a",
-      "status": "checked_no_change",
-      "assessment": "Gesamte Norm gelesen. Teil3 Abschn.2 Unterabschn.2, §14-Umstände und Mindestwert5.000 Euro korrekt. Eigenständige Bewertung statt Bindung an innerstaatlichen Prozess und Trennung von Vergütung/Erstattung richtig. Keine unzulässige Übernahme des §38-Modells; Beispiel als neues Beschwerdemandat stimmig. Unverändert."
-    },
-    {
-      "id": "p39",
-      "status": "checked_no_change",
-      "assessment": "Beide Absätze mit §§45 Abs.2/47 Abs.1 Satz2 intern gelesen. Privater Anspruch und Vorschuss trotz genauer gesetzlicher Beiordnung korrekt, Landeskasse erst bei passendem Verzug. Familienrechtliche und strafvollzugsrechtliche Fälle nicht auf alle Beiordnungen ausgeweitet. Beispiel/Abgrenzung richtig. Unverändert."
-    },
-    {
-      "id": "p40",
-      "status": "checked_no_change",
-      "assessment": "Ganze Norm mit §§7,45 Abs.2 und47 Abs.1 Satz2 verglichen. Anspruch gegen Vertretene bei Bestellung nach §67a Abs.1 Satz2 VwGO, Mehrmandanten- und Haftungsgrenzen korrekt. Staatskassenvergütung und -vorschuss mit jeweils erforderlichem Verzug getrennt. Reine tatsächliche Koordination nicht als Bestellung behandelt. Unverändert."
-    },
-    {
-      "id": "p41",
+      "id": "p52",
       "status": "corrected",
-      "assessment": "Alle drei Sätze und sämtliche Bestellungsverweise gelesen. Kein Vorschuss gegen Vertretenen korrekt. Zuvor nur pauschalen §126-ZPO-Hinweis anhand tatsächlich gelesener amtlicher Einzelnorm konkretisiert: eigene Beitreibung gegen kostenpflichtigen Gegner, Einredenausschluss und begrenzte Kostenaufrechnung. Ansprüche gegen Vertretenen/Gegner/Staatskasse auseinandergehalten; §48 bestimmt nur Staatskassenumfang."
+      "assessment": "Alle sechs Absätze geprüft. Gebührenzahlung von Auslagen getrennt. Entscheidungszuständigkeit, ZPO-Erklärungsverweis, Belehrungs-/Wiedereinsetzungsverknüpfung, besonderer Verjährungszeitpunkt und Ende der Hemmung erst sechs Monate nach Rechtskraft ergänzt. Im OWiG-Fall übernimmt Absatz6 gerade nicht Absatz4; für Behördenentscheidung §57 abgegrenzt. Vorschussausschluss und Familienunterhalt zutreffend."
     },
     {
-      "id": "p41a",
-      "status": "corrected",
-      "assessment": "Alle vier Absätze gelesen. Tatsächlicher Mehraufwand, Vorteil/Bedeutung für Beigeladene, §13-0,3-Grenze und höchstens30 Millionen Euro für erfasste ausgesetzte Ansprüche richtig. OLG-Zuständigkeit, Erklärungsfrist, Nichtanhörung der Kasse sowie genaue Mitteilungsadressaten/öffentliche Bekanntmachung ergänzt. Privater Anspruch bleibt unberührt; Landeskasse einschließlich Umsatzsteuer, kein Vorschuss. Keine Übertragung auf jedes Anlegerverfahren."
-    },
-    {
-      "id": "p42",
-      "status": "corrected",
-      "assessment": "Alle fünf Absätze und interne §§52/53 gelesen. Katalog der Sonderverfahren vervollständigt. Unzumutbarkeit, nur Rahmengebühren, ersetzte Abschnitte und doppelte Höchstbeträge korrekt. Zusatzvoraussetzungen für bestellte Anwälte, Wegfall privater Gebühren bei Kassenleistung sowie Erstattungsanspruch/Leistungsfähigkeit erläutert. Einzelrichterübertragung nur zur Einheitlichkeit, Bindungswirkung und behördliche Zuständigkeit/§62-OWiG-Antrag korrekt."
-    },
-    {
-      "id": "p43",
+      "id": "p53",
       "status": "checked_no_change",
-      "assessment": "Beide Sätze vollständig gelesen. Schutz nur abgetretener notwendiger Anwaltsauslagen gegen Staatskassenaufrechnung und nur bei rechtzeitig aktenkundiger Urkunde/Anzeige des Beschuldigten oder Betroffenen korrekt. Interne Kanzleiakte reicht nicht. Kein neuer Erstattungsanspruch und keine allgemeine Aufrechnungsunwirksamkeit behauptet. Beispiel zutreffend. Unverändert."
+      "assessment": "Alle drei Absätze mit §52 gelesen. Absatz1-Auftraggeberanspruch, gesetzlicher Anspruch des Beistands nur gegen Verurteilten und Vereinbarungsanspruch gegen geschützte Person zutreffend unterschieden. Maßgeblich sind persönliche/wirtschaftliche Verhältnisse bei Vereinbarungsabschluss, nicht spätere Verbesserung oder Prozesschancen. Feststellung und entsprechende Absätze3–5 von §52 korrekt. Unverändert."
     },
     {
-      "id": "p44",
+      "id": "p53a",
       "status": "checked_no_change",
-      "assessment": "Beide Sätze mit Teil2 Abschn.5 VV sowie §§47 Abs.2/55 intern geprüft. Landeskassenanspruch, besondere Beratungsstellenvereinbarungen und ausschließlich vom Rechtsuchenden geschuldete Nr.2500 korrekt getrennt. Kein Staatskassenvorschuss, keine reguläre Geschäftsgebühr als bloß ermäßigte Beratungshilfe und kein automatischer Gerichtsschutz im Beispiel. Unverändert."
+      "assessment": "Beide Sätze und amtlichen §397b(3)StPO gelesen. Positive gerichtliche Feststellung, Zeitraum nur bis Bestellung/Beiordnung des anderen Anwalts und Kassenzuordnung richtig. Beispiel begründet keine Staatskassenvergütung allein aus Privatmandat oder anschließender Parallelvertretung. Unverändert."
     },
     {
-      "id": "p45",
-      "status": "corrected",
-      "assessment": "Alle fünf Absätze einschließlich Kassenwechsel beider Richtungen gelesen. Zuordnung nach Gerichtsträger, besondere Verzugsvoraussetzung und zeit-/gebührenbezogene Aufteilung korrekt. Abs.4 und gerichtlichen Bußgeldfall präzisiert: besondere Vorbereitung/Bestätigung nach §364b StPO, nicht bloße alte Bestellung. Verweis anhand amtlicher Einzelnorm geprüft. Abs.5 nur entsprechende Anwendung des Abs.3 mit Behördenersetzung."
+      "id": "p54",
+      "status": "checked_no_change",
+      "assessment": "Gesamte Norm gelesen. Schuldhaftes Veranlassen des Wechsels, Kausalität und gebührenbezogene Beschränkung auf ebenfalls beim Nachfolger entstehende Gebühren korrekt. Kein pauschaler Verfall aller Gebühren und keine Kürzung allein wegen Wechsels behauptet. Unverändert."
     },
     {
-      "id": "p46",
+      "id": "p55",
       "status": "corrected",
-      "assessment": "Alle drei Absätze einschließlich sämtlicher Sätze gelesen. Erforderlichkeit und bindende Vorabfeststellung von Kostenhöhe getrennt. Klargestellt, dass fehlende Vorabfeststellung erforderliche Auslagen nicht generell ausschließt. Aufwendungen und JVEG-Höchstbeträge ausdrücklich erläutert. Wiederaufnahmevorbereitung nur mit §364b-Bestellung/Feststellung, auch gerichtliches Bußgeldverfahren; Geschäftsallgemeinkosten nicht umetikettiert."
+      "assessment": "Alle sieben Absätze gelesen. Grund- und laufende Rechtszugszuständigkeit bestätigt. Kontaktperson-Landgericht, Beratungshilfe-Amtsgericht und örtliche Anknüpfung konkretisiert. §104(2)Sätze1/2ZPO tatsächlich gelesen; Glaubhaftmachung und Postversicherung von nicht übernommenem Satz3 getrennt. Zahlungsdaten, Nachmeldung und Monatsaufforderung samt Erlöschen richtig. Absatz7 nur auf Absätze1/5 begrenzt."
+    },
+    {
+      "id": "p56",
+      "status": "corrected",
+      "assessment": "Beide Absätze und alle verwiesenen §33-Absätze gelesen. Erinnerung ohne entsprechende Mindestbeschwer/Zweiwochenfrist deutlicher von Beschwerde unterschieden. Letztere mit300-Euro-Grenze/Zulassung, Zustellungsfrist, Instanzengrenzen, Wiedereinsetzung und weiterer Beschwerde erklärt. §61-Vorbehalt, Gebührenfreiheit und Nichterstattung bestätigt."
+    },
+    {
+      "id": "p57",
+      "status": "corrected",
+      "assessment": "Beide Sätze und amtlichen §62OWiG gelesen. Besonderer gerichtlicher Antrag statt §56-Erinnerung zutreffend. Gerichtszuständigkeitsverweisung, grundsätzliche Unanfechtbarkeit und gesondertes Kostenregime ergänzt. Keine nicht normierte Zweiwochenfrist übernommen und keine pauschale Gebührenfreiheit behauptet."
+    },
+    {
+      "id": "p58",
+      "status": "corrected",
+      "assessment": "Alle drei Absätze und §15a gelesen. Beratungshilfe, Vorrang der ungedeckten Teil3-Vergütung und Anrechnungsdeckel richtig. Für Teile4–6 angelegenheitsbezogen, reguläre Gebühren ohne§51 als Doppelbasis und zweite Wahlanwaltshöchstgrenze bestätigt. Zwei-Stufen-Rückrechnungsbeispiel mit ausdrücklich unterstellten Beträgen ergänzt; keine echten Tarifsätze erfunden."
+    },
+    {
+      "id": "p59",
+      "status": "corrected",
+      "assessment": "Alle drei Absätze gelesen. Übergang erst mit Befriedigung, begrenzter personeller Katalog und Schutz verbleibender Anwaltsforderungen ergänzt. Gerichtskostenweg, grundsätzlicher erstinstanzlicher Ansatz und besondere Bundeskassenzuordnung sowie Beratungshilfeübernahme korrekt. Keine Doppelvereinnahmung im Beispiel."
+    },
+    {
+      "id": "p59a",
+      "status": "corrected",
+      "assessment": "Alle vier Absätze und Verweisungen gelesen. Staatsanwaltschaftlicher Verteidiger und Zeugenbeistand, besondere IRG/Polizeivertragsfälle und Bundesamtsfestsetzung richtig getrennt. Landgericht am Behördensitz und Generalbundesanwalt/BGH bei gerichtlichem Antrag sowie gesonderte Pauschgebührzuständigkeiten präzisiert. Abschnitt8-Prüfliste erhalten."
+    },
+    {
+      "id": "p59b",
+      "status": "checked_no_change",
+      "assessment": "Ganze Vorschrift mit allen drei Pflichtangaben gelesen. Wortlautfeststellung statt inhaltlicher Gesetzgebung, Stichtag/Änderungen/Inkrafttreten und Abgrenzung zum Abrufdatum korrekt. Historisches Neufassungsdatum nicht als aktueller Rechtsstand behandelt. Unverändert."
+    },
+    {
+      "id": "p60",
+      "status": "corrected",
+      "assessment": "Alle drei Absätze und sämtliche sechs Sätze des Absatz1 geprüft. Unbedingter Auftrag, Geltung für §45/§59a und Wirksamkeitszeitpunkt bei fehlendem Auftrag konkretisiert. Neue miterfasste Angelegenheit von bloßer Tätigkeit in alter Sache getrennt. Ansprüche außerhalb Kasse, Verweisungsänderungen und Gesamtwertregel korrekt. Pflegeberufe-Altfall vor15.8.2019 samt genauer GKG-Verweisung ergänzt."
+    },
+    {
+      "id": "p61",
+      "status": "corrected",
+      "assessment": "Beide Sätze am aktuellen XML und Art14/21BGBl2025INr318 gelesen. Alte200-Euro-Grenze aus tatsächlicher Änderungsanordnung und Ausnahme des Satz2 ausdrücklich ergänzt; genau200 reicht nicht. Wirtschaftliche Beschwer von Wert getrennt. BT21/2777S13–14 bestätigt Änderungs-/Übergangszweck, liefert keine weitergehende Auflösung jedes denkbaren Grenzfalls. Kein bloßes Abrufdatum als Wirksamkeitsbeweis."
+    },
+    {
+      "id": "p62",
+      "status": "corrected",
+      "assessment": "Gesamten Vorbehalt und aktuellen §20ThUG gelesen. Bisher allgemeine Erklärung um Teil6Abschnitt3-Modell, begrenzte §52-Übernahme, gesonderten Beschwerdeweg und besondere Zwischenphase nach Rechtskraft bis erster Tätigkeit im weiteren Verfahren ergänzt. Fiktives Beispiel grenzt diese besondere Angelegenheit ab. Keine nicht geprüften Sonderbeträge rekonstruiert."
+    },
+    {
+      "id": "a1",
+      "status": "corrected",
+      "assessment": "Vollständige amtliche Anlage1 in acht Tabellen einschließlich Gliederung,536Zeilen, aller Vorbemerkungen, Tarif- und Fortsetzungszeilen gelesen. Elterntext im vollständigen Zeichenstrom verglichen,231Tarifnummern und32Vorbemerkungen unabhängig aus amtlichen ersten Tabellenzellen hergeleitet. Elternkommentar um Teilzuordnung, Auslagenabgrenzung, weggefallene Slots und Prüfliste ergänzt. Keine inhaltliche Zweitprüfung der263nicht zugewiesenen Einzelkommentare behauptet."
     }
   ],
   "limitations": [
-    "Only the exact20 assigned units were reviewed substantively; all324 other commentary texts preserved against4bdd61cf1d9063ee471f741acee1a6c60c2eaa92.",
-    "Two selective BVerfG decisions verified/read for §§33/37. No exhaustive case-law survey and no additional sufficiently relevant verified decision asserted for the other18 units.",
-    "Current RVG consolidation, actual last-amendment commencement and duplicate structures checked; no full historical archive or guarantee against unincorporated legislation.",
-    "External-law checks limited to cross-reference meaning in §126 ZPO, §364b StPO and selected StBVV provisions; no separate full commentary or comprehensive historical-version research for those statutes.",
-    "No external professional approval and no whole-book review completion claimed."
+    "Exactly20 assigned units substantively reviewed;324 other commentary blocks preserved against55360cebf38ddb97664ee0f0380cb4a6ddadc1b5.",
+    "Review of full Anlage1 source and its parent commentary is not a second pass of the263 separate VV commentaries.",
+    "Selective case research for§51 only; no additional sufficiently relevant verified case asserted for the other19 units, and no exhaustive negative survey claimed.",
+    "Current official RVG consolidation, actual promulgation and commencement, intake comparison and structural duplicates checked; no complete historical archive or guarantee against unincorporated legislation.",
+    "External-law checks limited to the explained cross-references in ZPO104,OWiG62,BerHG4,StPO397b and ThUG20; no complete separate commentary or historical archive check of these statutes.",
+    "No external professional approval and no whole-book completion claimed."
   ],
   "whole_book_complete": false,
-  "evidence": "review-p31-p46-unit-evidence.json",
+  "evidence": "review-p47-a1-unit-evidence.json",
+  "preflight": "preflight-result.json",
   "previous_bounded_results": [
     "review-p1-p14-result.json",
-    "review-p15-p30-result.json"
+    "review-p15-p30-result.json",
+    "review-p31-p46-result.json"
   ],
-  "preflight": "preflight-result.json",
   "case_cards": [
-    "cases/bverfg-2020-1-bvr-533-20.md",
-    "cases/bverfg-2021-1-bvr-533-20.md"
+    "cases/bgh-2019-1-str-454-17.md",
+    "cases/bverfg-2019-1-bvr-1955-17.md"
   ],
   "validation": {
-    "status": "passed",
-    "validated_at": "2026-10-20T10:15:45.318666+00:00",
-    "strict": {
-      "repo": "Komentar-DE-RVG-2004",
-      "units": 344,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 301068,
-      "errors": [],
-      "warnings": [],
-      "ok": true
-    },
-    "validated_manuscript_output_commit": "a72b224",
-    "independent_coverage_ok": true,
-    "exact_scope_evidence": "review-p31-p46-unit-evidence.json",
-    "all_other_324_commentaries_unchanged": true,
-    "local_links_checked": 150,
-    "broken_local_links": [],
-    "identical_long_sentences": 0,
-    "identical_long_paragraphs": 0
+    "status": "awaiting rebuild and strict validation"
   }
 }

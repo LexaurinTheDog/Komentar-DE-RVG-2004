@@ -79,5 +79,9 @@
   "bounded_review_p31_p46_2026_10_20": {
     "scope": "Selective research for this bounded review; no comprehensive per-unit case-law search",
     "evidence": "sources/review-p31-p46-2026-10-20/search-log.json"
+  },
+  "bounded_review_p47_a1_2026_10_20": {
+    "scope": "Selective research for§51, not exhaustive per-unit coverage",
+    "evidence": "sources/review-p47-a1-2026-10-20/search-log.json"
   }
 }

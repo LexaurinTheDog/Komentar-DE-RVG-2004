@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-20",
+  "scope": "Selective research for§51, not exhaustive per-unit coverage",
+  "steps": [
+    {
+      "method": "web search",
+      "queries": [
+        "site.bundesverfassungsgericht.de \"51 RVG\" \"Sonderopfer\"",
+        "site.bundesverfassungsgericht.de \"Pauschgebühr\" \"2019\"",
+        "site.bundesverfassungsgericht.de \"§51\" \"2016\" \"Vergütung\"",
+        "site.bundesverfassungsgericht.de \"Pauschgebühr\" \"2018\""
+      ],
+      "result": "Relevant BGH1StR454/17 and BVerfG1BvR1955/17 identified. Third-party navigation hits not used as authority or copied."
+    },
+    {
+      "method": "rg local national manifest",
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/manifest.jsonl",
+      "queries": [
+        "Pausch|2 BvR717/16|2 BvR51/07|2 BvR2456/04|2 BvR382/19",
+        "1 BvR1955/17|1 StR454/17|1 StR72/17"
+      ],
+      "result": "Exact docket metadata recovered. KVRE430391901 screened and rejected as unrelated detention case; not read in full or cited. KORE627122019 and KVRE432221901 full texts copied, read and officially re-fetched."
+    },
+    {
+      "method": "Official ZIP/XML and full reading",
+      "evidence": "authority-requests.json",
+      "decisions": [
+        "KORE627122019",
+        "KVRE432221901"
+      ],
+      "result": "Complete tenor and reasons read, parties/court distinguished; every text paragraph compared with local corpus."
+    },
+    {
+      "method": "Official legislative material",
+      "url": "https://dserver.bundestag.de/btd/21/027/2102777.pdf",
+      "read_pages": "13–14 plus operative Article14",
+      "result": "Threshold/transition rationale confirms enactment context. Promulgated BGBl controls effective wording; material not treated as law."
+    }
+  ],
+  "coverage": [
+    {
+      "id": "p51",
+      "decisions": [
+        "KORE627122019",
+        "KVRE432221901"
+      ],
+      "limits": "Historical fees not current tariffs; concrete competence and constitutional analysis, not exhaustive §51 precedents."
+    },
+    {
+      "ids": [
+        "p47",
+        "p48",
+        "p49",
+        "p50",
+        "p52",
+        "p53",
+        "p53a",
+        "p54",
+        "p55",
+        "p56",
+        "p57",
+        "p58",
+        "p59",
+        "p59a",
+        "p59b",
+        "p60",
+        "p61",
+        "p62",
+        "a1"
+      ],
+      "decision": null,
+      "disposition": "No new sufficiently relevant verified case asserted. Statute-based review, no exhaustive negative search claimed."
+    }
+  ]
+}
