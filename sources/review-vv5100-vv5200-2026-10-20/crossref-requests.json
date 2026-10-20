@@ -1,0 +1,36 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/owig_1968/xml.zip",
+    "accessed_at": "2026-10-20T12:27:37.574063+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "local_path": "sources/review-vv5100-vv5200-2026-10-20/owig_1968.zip",
+    "sha256": "45dcbbb7f8b562e36a94e8fbdf8a850fbd262631a04d22f9d6301d3214f1fb3d",
+    "xml_path": "sources/review-vv5100-vv5200-2026-10-20/owig_1968.xml",
+    "xml_sha256": "565be49468363a54cdc41a5adca6ba84c7c93e1d9d41725e7629843d7ab64f3f",
+    "validated_format": "ZIP and XML parsed, official abbreviation checked",
+    "scope": [
+      "§ 46",
+      "§ 69",
+      "§ 72",
+      "§ 79",
+      "§ 80"
+    ],
+    "limitation": "Current official cross-reference context only; no separate historical archive or full commentary of the external code"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/stpo/xml.zip",
+    "accessed_at": "2026-10-20T12:27:37.794024+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "local_path": "sources/review-vv5100-vv5200-2026-10-20/stpo.zip",
+    "sha256": "fb59fced4b71b550a0320054e2e4f51cbf6db67df9adab7e6d3eb5f138dd0dd9",
+    "xml_path": "sources/review-vv5100-vv5200-2026-10-20/stpo.xml",
+    "xml_sha256": "dc2a551f062dbb6afb69d16a337f78656d1cadb5cd20c0dd4cc89396711f7838",
+    "validated_format": "ZIP and XML parsed, official abbreviation checked",
+    "scope": [
+      "§ 439"
+    ],
+    "limitation": "Current official cross-reference context only; no separate historical archive or full commentary of the external code"
+  }
+]

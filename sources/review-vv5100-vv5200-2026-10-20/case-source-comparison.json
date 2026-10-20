@@ -1,0 +1,18 @@
+[
+  {
+    "doknr": "KORE310182011",
+    "judicial_paragraphs": 20,
+    "all_judicial_paragraphs_present_in_local_corpus": true,
+    "missing": [],
+    "official_xml_sha256": "e6ae9c23d9ab0d4d329a18c03a1d2129469d36a73b5108d61fcaa0ed997cf87e",
+    "local_intake_sha256": "efc0177d050783923e4af112d03633a4c20e7656e38e135bed15da5be89ca568"
+  },
+  {
+    "doknr": "KORE316002013",
+    "judicial_paragraphs": 27,
+    "all_judicial_paragraphs_present_in_local_corpus": true,
+    "missing": [],
+    "official_xml_sha256": "6d4fb20a9b1b858dd8bd9aa2453e7b0456f276a8de0f9b76bf6160424d288853",
+    "local_intake_sha256": "d59a8466a518deea984b9cca86edb54868637d4c1309f26d730714bd97a20259"
+  }
+]

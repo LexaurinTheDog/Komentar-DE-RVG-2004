@@ -1,303 +1,278 @@
 {
-  "complete": true,
+  "complete": false,
   "task": "bounded_independent_second_pass",
   "title": "RVG",
   "decisive_date": "2026-10-19",
-  "verified_at": "2026-10-20T12:23:02.407146+00:00",
+  "verified_at": "2026-10-20T12:35:59.403982+00:00",
   "units_reviewed": 20,
   "reviewed_ids": [
-    "vv4145",
-    "vv4146",
-    "vv4147",
-    "vb4.2",
-    "vv4200",
-    "vv4201",
-    "vv4202",
-    "vv4203",
-    "vv4204",
-    "vv4205",
-    "vv4206",
-    "vv4207",
-    "vb4.3",
-    "vv4300",
-    "vv4301",
-    "vv4302",
-    "vv4303",
-    "vv4304",
-    "vb5",
-    "vb5.1"
+    "vv5100",
+    "vb5.1.2",
+    "vv5101",
+    "vv5102",
+    "vv5103",
+    "vv5104",
+    "vv5105",
+    "vv5106",
+    "vb5.1.3",
+    "vv5107",
+    "vv5108",
+    "vv5109",
+    "vv5110",
+    "vv5111",
+    "vv5112",
+    "vv5113",
+    "vv5114",
+    "vv5115",
+    "vv5116",
+    "vv5200"
   ],
   "changed_ids": [
-    "vv4145",
-    "vv4146",
-    "vv4147",
-    "vb4.2",
-    "vv4200",
-    "vv4201",
-    "vv4202",
-    "vv4203",
-    "vv4204",
-    "vv4205",
-    "vv4206",
-    "vv4207",
-    "vb4.3",
-    "vv4300",
-    "vv4301",
-    "vv4302",
-    "vv4303",
-    "vv4304",
-    "vb5",
-    "vb5.1"
+    "vv5100",
+    "vb5.1.2",
+    "vv5101",
+    "vv5102",
+    "vv5103",
+    "vv5104",
+    "vv5105",
+    "vv5106",
+    "vb5.1.3",
+    "vv5107",
+    "vv5108",
+    "vv5109",
+    "vv5110",
+    "vv5111",
+    "vv5112",
+    "vv5113",
+    "vv5114",
+    "vv5115",
+    "vv5116",
+    "vv5200"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "vv4145",
-      "finding": "0,5-Wertgebühr; Absehenbeschluss von Hinweis, Sachurteil und Kostenbeschwerde getrennt. Zulässigkeitsvoraussetzungen des tatsächlich gelesenen § 406a Absatz 1 StPO, Gegenstandswert, § 49 und Einzelauftrag erläutert.",
-      "disposition": "corrected and individually read against complete official source and pertinent cross-references",
-      "source_location": {
-        "table_index": 4,
-        "row_index": 77,
-        "first_cell": "4145"
-      }
-    },
-    {
-      "id": "vv4146",
-      "finding": "Gerichtlichen Leistungsstreit nach § 25 Absatz 1 StrRehaG von ursprünglicher Rehabilitierung, Verwaltung sowie anderen Rechtswegen abgegrenzt. Beide 1,5-Spalten, rechtszugbeendende Beschwerde und konkrete Wertberechnung erklärt.",
-      "disposition": "corrected and individually read against complete official source and pertinent cross-references",
-      "source_location": {
-        "table_index": 4,
-        "row_index": 78,
-        "first_cell": "4146"
-      }
-    },
-    {
-      "id": "vv4147",
-      "finding": "Vertragstatbestand, tatsächlich bestimmte Verfahrensgebühr statt automatischer Rahmenmitte, Ausschluss von Nr. 1008/Haftzuschlag, andere Vergleichsgegenstände und Konkurrenz zu Nr. 4141 präzisiert.",
-      "disposition": "corrected and individually read against complete official source and pertinent cross-references",
-      "source_location": {
-        "table_index": 4,
-        "row_index": 79,
-        "first_cell": "4147"
-      }
-    },
-    {
-      "id": "vb4.2",
-      "finding": "Besondere Hauptsachebeschwerde als Ausnahme zu § 19 Absatz 1 Satz 2 Nummer 10a erklärt; Gegenstandstarif bleibt maßgeblich, keine automatische Terminsgebühr. Kostenrechtsbehelf und Einzelauftrag abgegrenzt.",
-      "disposition": "corrected and individually read against complete official source and pertinent cross-references",
-      "source_location": {
-        "table_index": 4,
-        "row_index": 82,
-        "first_cell": "Vorbemerkung 4.2: Im Verfahren über die Beschwerde gegen die Entscheidung in der Hauptsache entstehen die Gebühren besonders."
-      }
-    },
-    {
-      "id": "vv4200",
-      "finding": "Vollständigen Katalog, 72–803 Euro/350 Euro, Tätigkeitsbeginn und fehlende zusätzliche Grundgebühr erläutert. Sicherungsverwahrungsanordnung, Vollzug, Aufschub, Einzelauftrag und Beschwerde auseinandergehalten.",
-      "disposition": "corrected and individually read against complete official source and pertinent cross-references",
-      "source_location": {
-        "table_index": 4,
-        "row_index": 83,
-        "first_cell": "4200"
-      }
-    },
-    {
-      "id": "vv4201",
-      "finding": "72–1.004 Euro/430 Euro als alternative Gesamtgebühr erklärt; tatsächliche Freiheitslage, Statuswechsel und gesonderter Termin geprüft. Keine Addition der beiden Verfahrensvarianten oder notwendiger Einzelbesuchsnachweis.",
-      "disposition": "corrected and individually read against complete official source and pertinent cross-references",
-      "source_location": {
-        "table_index": 4,
-        "row_index": 87,
-        "first_cell": "4201"
-      }
-    },
-    {
-      "id": "vv4202",
-      "finding": "72–360 Euro/173 Euro, gerichtliche Teilnahme und Ausfallausnahme ergänzt. Einmalige Gebühr bei mehreren Anhörungen derselben Angelegenheit aus § 15 Absatz 2 und Tarifwortlaut begründet; Beispiel 350 + 173 = 523 Euro.",
-      "disposition": "corrected and individually read against complete official source and pertinent cross-references",
-      "source_location": {
-        "table_index": 4,
-        "row_index": 88,
-        "first_cell": "4202"
-      }
-    },
-    {
-      "id": "vv4203",
-      "finding": "72–450 Euro/209 Euro; Haftstatus, Terminstatbestand und einmalige Angelegenheit getrennt. Keine Übertragung der Hauptverhandlungszeitstufen; Beispiel 430 + 209 = 639 Euro.",
-      "disposition": "corrected and individually read against complete official source and pertinent cross-references",
-      "source_location": {
-        "table_index": 4,
-        "row_index": 89,
-        "first_cell": "4203"
-      }
-    },
-    {
-      "id": "vv4204",
-      "finding": "36–360 Euro/158 Euro; Auffangmandat anhand des tatsächlich gelesenen Strafaufschubs nach § 456 StPO konkretisiert. Vollzug, Reststrafenaussetzung und Einzelhandlung abgegrenzt, keine falsche spezielle Wertregel des § 23 Absatz 3 behauptet.",
-      "disposition": "corrected and individually read against complete official source and pertinent cross-references",
-      "source_location": {
-        "table_index": 4,
-        "row_index": 90,
-        "first_cell": "4204"
-      }
-    },
-    {
-      "id": "vv4205",
-      "finding": "36–450 Euro/194 Euro; Gegenstand und Freiheit nacheinander geprüft. Beispiel eines Aufschubs einer weiteren Strafe bei anderer Haft, ohne Zusage materiellen Erfolgs. § 60 und Bestellungsumfang gesondert erklärt.",
-      "disposition": "corrected and individually read against complete official source and pertinent cross-references",
-      "source_location": {
-        "table_index": 4,
-        "row_index": 91,
-        "first_cell": "4205"
-      }
-    },
-    {
-      "id": "vv4206",
-      "finding": "36–360 Euro/158 Euro; gleicher Betrag bedeutet unterschiedliche Verfahrens- und Terminspositionen. Gerichtstermin, Ausfallausnahme, einmalige Angelegenheit und Einzelauftrag erklärt; Beispiel 158 + 158 = 316 Euro.",
-      "disposition": "corrected and individually read against complete official source and pertinent cross-references",
-      "source_location": {
-        "table_index": 4,
-        "row_index": 92,
-        "first_cell": "4206"
-      }
-    },
-    {
-      "id": "vv4207",
-      "finding": "36–450 Euro/194 Euro; eigene Statusprüfung des Termins, keine Addition zu Nr. 4206. Beispiel 194 + 194 = 388 Euro; keine zusätzlichen Tagesbeträge. Praktische Vollstreckungsprüfliste ergänzt.",
-      "disposition": "corrected and individually read against complete official source and pertinent cross-references",
-      "source_location": {
-        "table_index": 4,
-        "row_index": 93,
-        "first_cell": "4207"
-      }
-    },
-    {
-      "id": "vb4.3",
-      "finding": "Alle vier Absätze erklärt: Auftragsumfang, Vermögensausnahme, Einzelgebühren/Beschwerde unter § 15 und spätere Anrechnung. BGH 3 BGs 440/25 vollständig erneut gelesen und nur für die begrenzte Ersatzbestellung verwendet.",
-      "disposition": "corrected and individually read against complete official source and pertinent cross-references",
-      "source_location": {
-        "table_index": 4,
-        "row_index": 95,
-        "first_cell": "Vorbemerkung 4.3: (1) Die Gebühren entstehen für einzelne Tätigkeiten, ohne dass dem Rechtsanwalt sonst die Verteidigung oder Vertretung übertragen ist. (2) Beschränkt sich die Tätigkeit des Rechtsanwalts auf die Geltendmachung oder Abwehr eines aus der Straftat erwachsenen vermögensrechtlichen Anspruchs im Strafverfahren, so erhält er die Gebühren nach den Nummern 4143 bis 4145. (3) Die Gebühr entsteht für jede der genannten Tätigkeiten gesondert, soweit nichts anderes bestimmt ist. § 15 RVG bleibt unberührt. Das Beschwerdeverfahren gilt als besondere Angelegenheit. (4) Wird dem Rechtsanwalt die Verteidigung oder die Vertretung für das Verfahren übertragen, werden die nach diesem Abschnitt entstandenen Gebühren auf die für die Verteidigung oder Vertretung entstehenden Gebühren angerechnet."
-      }
-    },
-    {
-      "id": "vv4300",
-      "finding": "72–803 Euro/350 Euro und alle drei Schriftgruppen einschließlich §§ 57a/67e StGB erläutert. Vollrevision, Vollstreckungsgesamtmandat, Verbot zusätzlicher Einlegungsvergütung und spätere Anrechnung abgegrenzt.",
-      "disposition": "corrected and individually read against complete official source and pertinent cross-references",
-      "source_location": {
-        "table_index": 4,
-        "row_index": 96,
-        "first_cell": "4300"
-      }
-    },
-    {
-      "id": "vv4301",
-      "finding": "48–552 Euro/240 Euro sowie alle sechs Tätigkeitsgruppen erklärt. Gerichtliche Klageerzwingung von staatsanwaltschaftlicher Vorbeschwerde getrennt; BGH 3 BGs 440/25 Rn. 10–17 mit Fallgrenzen und historischem Betragskontext verwendet.",
-      "disposition": "corrected and individually read against complete official source and pertinent cross-references",
-      "source_location": {
-        "table_index": 4,
-        "row_index": 101,
-        "first_cell": "4301"
-      }
-    },
-    {
-      "id": "vv4302",
-      "finding": "36–348 Euro/154 Euro; drei Auffanggruppen, Spezialvorrang und Vermögensausnahme erläutert. Keine zusätzlichen Einzelbriefe im Vollmandat; spätere Begründung und Gesamtmandat nach Konkurrenz/Anrechnung behandelt.",
-      "disposition": "corrected and individually read against complete official source and pertinent cross-references",
-      "source_location": {
-        "table_index": 4,
-        "row_index": 109,
-        "first_cell": "4302"
-      }
-    },
-    {
-      "id": "vv4303",
-      "finding": "36–360 Euro und Ausnahme trotz früherer Verteidigung erklärt. Gnadenvertretung von gesetzlichen Vollstreckungsanträgen getrennt; keine erfundene Bestelltengebühr, Gebühr je Ergänzungsschreiben oder Zusage eines Gnadenerfolgs.",
-      "disposition": "corrected and individually read against complete official source and pertinent cross-references",
-      "source_location": {
-        "table_index": 4,
-        "row_index": 113,
-        "first_cell": "4303"
-      }
-    },
-    {
-      "id": "vv4304",
-      "finding": "4.197 Euro und leere Wahlspalte erläutert. Tatsächliche §§ 31/34a EGGVG gelesen: eigener Beiordnungsakt und Ausschluss des Verteidigers. Zuständigkeiten nach §§ 55/51, keine Besuchsvervielfachung, Prüfliste ergänzt.",
-      "disposition": "corrected and individually read against complete official source and pertinent cross-references",
-      "source_location": {
-        "table_index": 4,
-        "row_index": 115,
-        "first_cell": "4304"
-      }
-    },
-    {
-      "id": "vb5",
-      "finding": "Alle vier Absätze behandelt: Beteiligtenrollen, Verfahrensarbeit, Gerichtstermine/Ausfall und Spezialvernehmungen sowie beide Kostenverweisgruppen nach Teil 3. § 108 OWiG tatsächlich gelesen, Gebühren und Kostenlast getrennt.",
-      "disposition": "corrected and individually read against complete official source and pertinent cross-references",
+      "id": "vv5100",
+      "finding": "Rahmen 36–204 Euro/96 Euro, Einarbeitung neben Verfahrensgebühr, abschnittsübergreifende Einmaligkeit, Entstehensausschluss gegenüber Anrechnung bei Strafverfahrenswechsel, § 60 und tatsächlich gelesene BGH-Bemessungsentscheidung erklärt.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
       "source_location": {
         "table_index": 5,
-        "row_index": 2,
-        "first_cell": "Vorbemerkung 5: (1) Für die Tätigkeit als Beistand oder Vertreter eines Einziehungs- oder Nebenbeteiligten, eines Zeugen oder eines Sachverständigen sind die Vorschriften dieses Teils entsprechend anzuwenden. (2) Die Verfahrensgebühr entsteht für das Betreiben des Geschäfts einschließlich der Information. (3) Die Terminsgebühr entsteht für die Teilnahme an gerichtlichen Terminen, soweit nichts anderes bestimmt ist. Der Rechtsanwalt erhält die Terminsgebühr auch, wenn er zu einem anberaumten Termin erscheint, dieser aber aus Gründen, die er nicht zu vertreten hat, nicht stattfindet. Dies gilt nicht, wenn er rechtzeitig von der Aufhebung oder Verlegung des Termins in Kenntnis gesetzt worden ist. (4) Für folgende Tätigkeiten entstehen Gebühren nach den Vorschriften des Teils 3: 1.für das Verfahren über die Erinnerung oder die Beschwerde gegen einen Kostenfestsetzungsbeschluss, für das Verfahren über die Erinnerung gegen den Kostenansatz, für das Verfahren über die Beschwerde gegen die Entscheidung über diese Erinnerung und für Verfahren über den Antrag auf gerichtliche Entscheidung gegen einen Kostenfestsetzungsbescheid und den Ansatz der Gebühren und Auslagen (§ 108 OWiG), dabei steht das Verfahren über den Antrag auf gerichtliche Entscheidung dem Verfahren über die Erinnerung oder die Beschwerde gegen einen Kostenfestsetzungsbeschluss gleich,2.in der Zwangsvollstreckung aus Entscheidungen, die über die Erstattung von Kosten ergangen sind, und für das Beschwerdeverfahren gegen die gerichtliche Entscheidung nach Nummer 1."
+        "row_index": 6,
+        "first_cell": "5100"
       }
     },
     {
-      "id": "vb5.1",
-      "finding": "Gesamtvergütung von mehreren Gebührentypen und Angelegenheiten getrennt. Entstehenszeitpunkt, letzte Festsetzung, Ersatzmittelbetrag, Regelsätze und Summenregel erklärt. Beispiele 200/600 und 300 + 350 = 650 Euro sowie Einstiegsprüfliste ergänzt.",
-      "disposition": "corrected and individually read against complete official source and pertinent cross-references",
+      "id": "vb5.1.2",
+      "finding": "Verwarnungs- und Zwischenverfahren bis Gerichtseingang erläutert; Übergang der Verfolgungsaufgaben auf Staatsanwaltschaft von Gebührenabschnitt getrennt. Neue Tätigkeit neben Gerichtseingang erforderlich, polizeiliche/behördliche Vernehmung von Mandantengespräch unterschieden.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
       "source_location": {
         "table_index": 5,
-        "row_index": 4,
-        "first_cell": "Vorbemerkung 5.1: (1) Durch die Gebühren wird die gesamte Tätigkeit als Verteidiger entgolten. (2) Hängt die Höhe der Gebühren von der Höhe der Geldbuße ab, ist die zum Zeitpunkt des Entstehens der Gebühr zuletzt festgesetzte Geldbuße maßgebend. Ist eine Geldbuße nicht festgesetzt, richtet sich die Höhe der Gebühren im Verfahren vor der Verwaltungsbehörde nach dem mittleren Betrag der in der Bußgeldvorschrift angedrohten Geldbuße. Sind in einer Rechtsvorschrift Regelsätze bestimmt, sind diese maßgebend. Mehrere Geldbußen sind zusammenzurechnen."
+        "row_index": 9,
+        "first_cell": "Vorbemerkung 5.1.2: (1) Zu dem Verfahren vor der Verwaltungsbehörde gehört auch das Verwarnungsverfahren und das Zwischenverfahren (§ 69 OWiG) bis zum Eingang der Akten bei Gericht. (2) Die Terminsgebühr entsteht auch für die Teilnahme an Vernehmungen vor der Polizei oder der Verwaltungsbehörde."
+      }
+    },
+    {
+      "id": "vv5101",
+      "finding": "Unter-80-Grenze, 24–132 Euro/62 Euro, Tätigkeitsbeginn, Kriterien des § 14 und fehlende erneute Entstehung je Schreiben erklärt. Grundgebühr, Vernehmung und vorzeitiges Ende getrennt.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
+      "source_location": {
+        "table_index": 5,
+        "row_index": 10,
+        "first_cell": "5101"
+      }
+    },
+    {
+      "id": "vv5102",
+      "finding": "24–132 Euro/62 Euro, tatsächliche Teilnahme, Tagesbezug und eigene Entstehenslage der Bußenstufe erläutert. Mehrere Vernehmungen desselben Tages in derselben Sache nicht doppelt berechnet.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
+      "source_location": {
+        "table_index": 5,
+        "row_index": 11,
+        "first_cell": "5102"
+      }
+    },
+    {
+      "id": "vv5103",
+      "finding": "Beide eingeschlossenen Grenzwerte 80/5.000 Euro, 36–348 Euro/154 Euro und konkrete Bemessung gegenüber bloßer Bußenstufe erklärt; kein automatischer Mittelbetrag und keine allgemeine Anrechnung auf gerichtliche Verfahrensgebühr behauptet.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
+      "source_location": {
+        "table_index": 5,
+        "row_index": 12,
+        "first_cell": "5103"
+      }
+    },
+    {
+      "id": "vv5104",
+      "finding": "36–348 Euro/154 Euro, Vernehmung und konkrete Terminarbeit sowie Tageszählung erläutert. Beispiel zwei Tage = 308 Euro bei Bestellung rechnerisch geprüft.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
+      "source_location": {
+        "table_index": 5,
+        "row_index": 13,
+        "first_cell": "5104"
+      }
+    },
+    {
+      "id": "vv5105",
+      "finding": "Mehr-als-5.000-Grenze und 48–360 Euro/163 Euro erklärt; Entstehenszeitpunkt, keine lineare Bußenquote, Einziehung und andere gerichtliche Beträge unterschieden.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
+      "source_location": {
+        "table_index": 5,
+        "row_index": 14,
+        "first_cell": "5105"
+      }
+    },
+    {
+      "id": "vv5106",
+      "finding": "48–360 Euro/163 Euro, selbständiger Teilnahmetatbestand und jeder Tag erläutert; keine Langdauerzuschläge aus Teil 4 übernommen. Behördliche praktische Prüfliste ergänzt.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
+      "source_location": {
+        "table_index": 5,
+        "row_index": 15,
+        "first_cell": "5106"
+      }
+    },
+    {
+      "id": "vb5.1.3",
+      "finding": "Beide Absätze vollständig: gerichtliche Termine außerhalb Hauptverhandlung, gesonderte Wiederaufnahmevorbereitung samt Abraten, § 17 Nummer 13, keine neue Grundgebühr und zusätzliche Staatskassenbedingungen §§ 45 Absatz 4/46 Absatz 3.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
+      "source_location": {
+        "table_index": 5,
+        "row_index": 17,
+        "first_cell": "Vorbemerkung 5.1.3: (1) Die Terminsgebühr entsteht auch für die Teilnahme an gerichtlichen Terminen außerhalb der Hauptverhandlung. (2) Die Gebühren dieses Unterabschnitts entstehen für das Wiederaufnahmeverfahren einschließlich seiner Vorbereitung gesondert; die Verfahrensgebühr entsteht auch, wenn von der Stellung eines Wiederaufnahmeantrags abgeraten wird."
+      }
+    },
+    {
+      "id": "vv5107",
+      "finding": "24–132 Euro/62 Euro, eigene gerichtliche Bearbeitung, getrennte Angelegenheit, verschiedene Entstehenslagen und Fortbestand bei vorzeitigem Ende erklärt; kein automatischer Betrag allein wegen Akteneingangs.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
+      "source_location": {
+        "table_index": 5,
+        "row_index": 18,
+        "first_cell": "5107"
+      }
+    },
+    {
+      "id": "vv5108",
+      "finding": "24–288 Euro/125 Euro, Tagesbezug gegenüber Dauer, ergänzende Gerichtstermine und Ausfallvoraussetzungen erläutert. Zwei-Tage-Beispiel 250 Euro korrekt, keine Straf-Langdauerpositionen.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
+      "source_location": {
+        "table_index": 5,
+        "row_index": 19,
+        "first_cell": "5108"
+      }
+    },
+    {
+      "id": "vv5109",
+      "finding": "36–348 Euro/154 Euro, gerichtliche Angelegenheit und einmalige Verfahrensarbeit erklärt. IX ZR 306/12 nur für Gebührenbestimmung/Mindestgebührenantrag verwendet. Rechenbeispiel 154 + 245 = 399 Euro geprüft.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
+      "source_location": {
+        "table_index": 5,
+        "row_index": 20,
+        "first_cell": "5109"
+      }
+    },
+    {
+      "id": "vv5110",
+      "finding": "48–564 Euro/245 Euro, konkrete Tagesbemessung, tatsächliche Gerichtsteilnahme und §-72-Beschluss gegenüber Nr. 5115 unterschieden; keine zivilrechtliche Terminsfiktion eingeführt.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
+      "source_location": {
+        "table_index": 5,
+        "row_index": 21,
+        "first_cell": "5110"
+      }
+    },
+    {
+      "id": "vv5111",
+      "finding": "Über 5.000 Euro, 60–420 Euro/192 Euro und Abweichung vom behördlichen Rahmen erklärt. Schwierigkeit ersetzt Grenzbetrag nicht; Einziehung und Rechtsbeschwerde abgegrenzt.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
+      "source_location": {
+        "table_index": 5,
+        "row_index": 22,
+        "first_cell": "5111"
+      }
+    },
+    {
+      "id": "vv5112",
+      "finding": "96–671 Euro/307 Euro, Tage gegenüber einer Verfahrensgebühr getrennt. Beispiel 3 × 307 + 192 = 1.113 Euro geprüft; erstinstanzliche Prüfliste ergänzt.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
+      "source_location": {
+        "table_index": 5,
+        "row_index": 23,
+        "first_cell": "5112"
+      }
+    },
+    {
+      "id": "vv5113",
+      "finding": "96–671 Euro/307 Euro ohne Bußenstufen; §§ 79/80 OWiG tatsächlich gelesen. Zulassungsantrag und bloße Einlegung durch bisherigen Verteidiger von weiterer Rechtsmittelarbeit getrennt. IX ZR 306/12 begrenzt verwendet.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
+      "source_location": {
+        "table_index": 5,
+        "row_index": 25,
+        "first_cell": "5113"
+      }
+    },
+    {
+      "id": "vv5114",
+      "finding": "96–671 Euro/307 Euro je Hauptverhandlungstag, § 79 Absatz 5 OWiG und grundsätzlich schriftlicher Rechtsmittelabschluss erläutert; keine erstinstanzliche Vorbemerkung als allgemeine Terminsfiktion übertragen. Beispiel 307 + 307 = 614 Euro.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
+      "source_location": {
+        "table_index": 5,
+        "row_index": 26,
+        "first_cell": "5114"
+      }
+    },
+    {
+      "id": "vv5115",
+      "finding": "Alle fünf Erledigungsgruppen, mehr als zwei Wochen vor vorgesehenem Tagesbeginn, Förderung statt Erfolgsautomat und wirkliche §-72-Entscheidung erklärt. IX ZR 123/10 vollständig gelesen: gezieltes Schweigen kann genügen, offenkundiger Täterschaftsausschluss und Zurückverweisung beachtet. Rahmenmitten 192/240/383,50 und behördliche 204 Euro geprüft.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
+      "source_location": {
+        "table_index": 5,
+        "row_index": 28,
+        "first_cell": "5115"
+      }
+    },
+    {
+      "id": "vv5116",
+      "finding": "1,0-Wertgebühr, alle Maßnahmen samt § 439 StPO, Abgrenzung Beweissicherung, tatsächlicher Einziehungsbezug, unter-30-Ausschluss, einmalige Behörden-/Gerichtsgebühr und neue Rechtsbeschwerdetätigkeit erläutert. Beispiel 5.000-Euro-Wert: 354,50 Euro nach § 13/Anlage 2 und 319 Euro nach § 49 verifiziert.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
+      "source_location": {
+        "table_index": 5,
+        "row_index": 31,
+        "first_cell": "5116"
+      }
+    },
+    {
+      "id": "vv5200",
+      "finding": "Alle vier Absätze: echter Einzelauftrag, §-15-Grenzen, spätere Anrechnung und Vollstreckungs-/Gnadenausnahme auch nach früherer Verteidigung. 24–132 Euro/62 Euro, Bestellung und Umfang getrennt; abschließende Teil-5-Prüfliste.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
+      "source_location": {
+        "table_index": 5,
+        "row_index": 34,
+        "first_cell": "5200"
       }
     }
   ],
   "limitations": [
-    "Diese unabhängige Inhaltsprüfung erfasst genau die 20 genannten Kennungen. Alle 324 anderen Kommentarblöcke bleiben gegenüber dem Ausgangscommit unverändert und behalten ihren bisherigen Prüfstatus.",
+    "Diese unabhängige Inhaltsprüfung erfasst genau die 20 zugewiesenen Kennungen. Alle 324 anderen Kommentarblöcke bleiben gegenüber c12fa5c unverändert und behalten ihren bisherigen Prüfstatus.",
     "Kein Abschluss der Gesamtprüfung und keine externe anwaltliche Freigabe.",
-    "Eine ausgewählte amtliche Gerichtsentscheidung wurde vollständig erneut gelesen, neu abgerufen und absatzweise mit dem nationalen Korpus verglichen. Keine erschöpfende Rechtsprechungs- oder Folgeentscheidungsrecherche.",
-    "BGH 3 BGs 440/25 ist eine Ermittlungsrichterentscheidung zur begrenzten Vertretung bei Haftvorführung, während ein anderer Anwalt voll bestellt war. Keine Übertragung auf sämtliche Erst- oder Alleinbestellungen; historische Beträge nicht übernommen.",
-    "Die Erklärung der einmaligen Terminsgebühr in derselben Vollstreckungsangelegenheit folgt § 15 Absatz 2 und dem aktuellen Tarifwortlaut. Ein nur sekundär gefundenes KG-Zitat wurde nicht übernommen. Für die übrigen Einheiten wurde keine weitere hinreichend relevante verifizierte Entscheidung ausgewählt.",
-    "Amtliche RVG-Konsolidierung, Intake/Änderungskarte und tatsächliche Verkündung samt Inkrafttreten geprüft. Keine vollständige historische Archiv- oder mittelbare Änderungssuche. Fremdgesetzkontext nur im dokumentierten Umfang geprüft.",
-    "Wortlautgleichheit, Erfassung, Links und Wiederholungsprüfungen ergänzen die individuelle Inhaltsprüfung. Mindestlänge oder technische Validierung beweisen keine juristische Qualität."
+    "Zwei amtliche gerichtliche Volltexte vollständig gelesen, frisch als ZIP/XML gesichert und absatzweise mit dem nationalen Korpus verglichen. IX ZR 123/10 war bereits vorhanden und wird nicht als neue einzigartige Entscheidung gezählt; IX ZR 306/12 ist ergänzt. Keine erschöpfende Rechtsprechungs- oder Folgenachweisrecherche.",
+    "Die älteren Entscheidungen tragen nur die dokumentierten Förderungs- und Bemessungsfragen. Alte Beträge werden nicht als aktuelle Gebühren übernommen; heutige Rahmen wurden am aktuellen RVG und an der Verkündung 2025 I Nr. 109 geprüft.",
+    "Für die anderen 16 Einheiten wurde keine weitere hinreichend relevante amtlich verifizierte Entscheidung ausgewählt. Ein negativer Recherchebefund ist kein Nachweis, dass keine Rechtsprechung existiert.",
+    "Amtliche RVG-Konsolidierung, Originalintake/Änderungskarte und Verkündung samt Inkrafttreten geprüft. Keine vollständige historische Archiv- oder mittelbare Änderungssuche. Fremdgesetzkontext nur im dokumentierten Umfang geprüft.",
+    "Firecrawl scheiterte wegen ausgeschöpfter Credits. Tatsächliche amtliche Volltextabrufe erfolgten direkt; Suchtreffer aus Websuche wurden nicht als Gerichtsbegründung behandelt.",
+    "Wortlautgleichheit, Erfassung, Links und Wiederholungsprüfung ergänzen die individuelle Inhaltsprüfung. Mindestlänge und technische Validierung beweisen keine juristische Qualität."
   ],
-  "official_source": "sources/review-vv4145-vb5_1-2026-10-20/rvg.xml",
-  "source_verification": "sources/review-vv4145-vb5_1-2026-10-20/requests.json",
-  "version_evidence": "sources/review-vv4145-vb5_1-2026-10-20/version-evidence.json",
-  "unit_evidence": "review-vv4145-vb5_1-unit-evidence.json",
-  "case_sources": "sources/review-vv4145-vb5_1-2026-10-20/authority-requests.json",
+  "official_source": "sources/review-vv5100-vv5200-2026-10-20/rvg.xml",
+  "source_verification": "sources/review-vv5100-vv5200-2026-10-20/requests.json",
+  "version_evidence": "sources/review-vv5100-vv5200-2026-10-20/version-evidence.json",
+  "unit_evidence": "review-vv5100-vv5200-unit-evidence.json",
+  "case_sources": "sources/review-vv5100-vv5200-2026-10-20/authority-requests.json",
   "all_assigned_official_wording_equal": true,
   "all_unassigned_commentary_preserved": true,
   "whole_book_review_complete": false,
   "external_professional_approval": false,
   "validation": {
-    "strict": {
-      "repo": "Komentar-DE-RVG-2004",
-      "units": 344,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 544718,
-      "errors": [],
-      "warnings": [],
-      "ok": true
-    },
-    "validated_at": "2026-10-20T12:25:33.676795+00:00",
-    "validated_work_commit": "7c8862bc7976b2a9e728d4c1b8284460c0447787",
-    "validated_output_commit": "d45ce7de4d4b8536a265ec326724db147a910b6d",
-    "build": "success",
-    "independent_xml_coverage": {
-      "expected": 344,
-      "parsed": 344,
-      "missing": [],
-      "duplicates": [],
-      "ok": true
-    },
-    "assigned_complete_wording_matches": 20,
-    "unassigned_commentary_blocks_preserved": 324,
-    "local_links_checked": 619,
-    "broken_local_links": [],
-    "exact_repeated_long_sentences": 0,
-    "exact_repeated_long_paragraphs": 0,
-    "meaning": "Technical checks supplement the actual exact-twenty-unit substantive review; no whole-book or external professional approval."
-  },
-  "validated_at": "2026-10-20T12:25:33.676795+00:00"
+    "build": "awaiting committed build",
+    "strict": "awaiting check"
+  }
 }

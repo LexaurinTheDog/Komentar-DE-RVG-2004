@@ -1,0 +1,11 @@
+[
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2025/349/regelungstext.pdf?__blob=publicationFile&v=2",
+    "accessed_at": "2026-10-20T12:32:20.658527+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "sha256": "15fc7aef651937a652a9649ca7fdbd69b4cfb55f36848ec31ccad836008e5bdb",
+    "local_path": "sources/review-vv5100-vv5200-2026-10-20/bgbl-349.pdf",
+    "validated_format": "PDF magic; extracted text separately checked for expected act"
+  }
+]

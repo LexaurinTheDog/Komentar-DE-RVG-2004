@@ -1,0 +1,36 @@
+[
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE310182011.zip",
+    "accessed_at": "2026-10-20T12:27:37.109548+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "local_path": "sources/review-vv5100-vv5200-2026-10-20/KORE310182011.zip",
+    "sha256": "13b377b1d99649daaf05f10a2e0201518cc6908d3a83c39c9f5dbe8c27b9e876",
+    "validated_format": "ZIP with single expected decision XML, parsed doknr verified",
+    "xml_path": "sources/review-vv5100-vv5200-2026-10-20/KORE310182011.xml",
+    "xml_sha256": "e6ae9c23d9ab0d4d329a18c03a1d2129469d36a73b5108d61fcaa0ed997cf87e",
+    "court": "BGH",
+    "date": "20110120",
+    "docket": "IX ZR 123/10",
+    "ecli": "",
+    "local_intake_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore310182011.md",
+    "local_intake_sha256": "efc0177d050783923e4af112d03633a4c20e7656e38e135bed15da5be89ca568"
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE316002013.zip",
+    "accessed_at": "2026-10-20T12:27:37.357804+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "local_path": "sources/review-vv5100-vv5200-2026-10-20/KORE316002013.zip",
+    "sha256": "6aafa8e407ac3f1b5db908918fcd0a05b1eeeb50d72346a4b3a34e778507de39",
+    "validated_format": "ZIP with single expected decision XML, parsed doknr verified",
+    "xml_path": "sources/review-vv5100-vv5200-2026-10-20/KORE316002013.xml",
+    "xml_sha256": "6d4fb20a9b1b858dd8bd9aa2453e7b0456f276a8de0f9b76bf6160424d288853",
+    "court": "BGH",
+    "date": "20130704",
+    "docket": "IX ZR 306/12",
+    "ecli": "",
+    "local_intake_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore316002013.md",
+    "local_intake_sha256": "d59a8466a518deea984b9cca86edb54868637d4c1309f26d730714bd97a20259"
+  }
+]

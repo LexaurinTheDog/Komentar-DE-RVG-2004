@@ -634,5 +634,56 @@
       "reviewed_commentary_units": 20,
       "whole_book_review_complete": false
     }
+  },
+  "bounded_review_vv5100_vv5200_recheck": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/rvg/",
+    "verified_at": "2026-10-20T12:35:59.403982+00:00",
+    "reviewed_ids": [
+      "vv5100",
+      "vb5.1.2",
+      "vv5101",
+      "vv5102",
+      "vv5103",
+      "vv5104",
+      "vv5105",
+      "vv5106",
+      "vb5.1.3",
+      "vv5107",
+      "vv5108",
+      "vv5109",
+      "vv5110",
+      "vv5111",
+      "vv5112",
+      "vv5113",
+      "vv5114",
+      "vv5115",
+      "vv5116",
+      "vv5200"
+    ],
+    "version_evidence": "sources/review-vv5100-vv5200-2026-10-20/version-evidence.json",
+    "http_evidence": "sources/review-vv5100-vv5200-2026-10-20/requests.json",
+    "current_xml_byte_identical": true,
+    "historical_versions_checked": {
+      "operative_duplicates": [],
+      "selection": "One current consolidation, 79 single paragraph nodes and two single annex nodes. Historical quotations and transition references within current provisions are retained as content, not appended as old versions."
+    },
+    "eingangsformel": "No separate Eingangsformel or Präambel and no unlabelled operative Content in this official XML. Global enactment/commencement footnote preserved in sources/rvg-frontmatter.json and canonical.md.",
+    "annexes_checked": "Unabhängige Kennungen aus ersten XML-Zellen vor Vergleich mit Parsedaten: Anlage 1 231 Tarife und 32 Vorbemerkungen; sämtliche 536 Zeilen vollständig erhalten. Anlage 2 22 Zeilen ohne erfundene Kindkennungen.",
+    "annex_evidence": "annex-coverage.json",
+    "coverage": {
+      "expected": 344,
+      "parsed": 344,
+      "missing": [],
+      "duplicates": [],
+      "ok": true
+    },
+    "unresolved_blockers": [],
+    "limitations": [
+      "Amtliche RVG-Konsolidierung, Originalintake/Änderungskarte und Verkündung samt Inkrafttreten geprüft. Keine vollständige historische Archiv- oder mittelbare Änderungssuche. Fremdgesetzkontext nur im dokumentierten Umfang geprüft.",
+      "Firecrawl scheiterte wegen ausgeschöpfter Credits. Tatsächliche amtliche Volltextabrufe erfolgten direkt; Suchtreffer aus Websuche wurden nicht als Gerichtsbegründung behandelt.",
+      "Wortlautgleichheit, Erfassung, Links und Wiederholungsprüfung ergänzen die individuelle Inhaltsprüfung. Mindestlänge und technische Validierung beweisen keine juristische Qualität."
+    ]
   }
 }

@@ -562,6 +562,93 @@
         "vb5.1"
       ],
       "limits": "Selective national-corpus and official-database research; no claim of exhaustive per-unit negatives or later-case census. No holdings reconstructed from search snippets."
+    },
+    {
+      "date": "2026-10-20T12:35:59.403982+00:00",
+      "scope": [
+        "vv5100",
+        "vb5.1.2",
+        "vv5101",
+        "vv5102",
+        "vv5103",
+        "vv5104",
+        "vv5105",
+        "vv5106",
+        "vb5.1.3",
+        "vv5107",
+        "vv5108",
+        "vv5109",
+        "vv5110",
+        "vv5111",
+        "vv5112",
+        "vv5113",
+        "vv5114",
+        "vv5115",
+        "vv5116",
+        "vv5200"
+      ],
+      "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii",
+      "local_search": {
+        "pattern": "(Nr\\.? ?5115|Nummer 5115|Nr\\.? ?5116|Nummer 5116|Nr\\.? ?5100|Nummer 5100|Nr\\.? ?5200)",
+        "evidence": "local-case-files.txt",
+        "limitations": "GKG-, CELEX- und andere Zahlen-Falschpositive einzeln ausgeschieden; keine Relevanzannahme aus Trefferanzahl."
+      },
+      "firecrawl": {
+        "url": "https://www.gesetze-im-internet.de/rvg/",
+        "evidence": "firecrawl-attempt.log",
+        "result": "Insufficient credits; keine Quelle aus dieser Fehlermeldung abgeleitet."
+      },
+      "web_queries": [
+        "site.rechtsprechung-im-internet.de \"5116\"",
+        "site.gesetze-bayern.de \"5116\" \"Gegenstandswert\"",
+        "site.rechtsprechung-im-internet.de \"5115\" \"Rechtsbeschwerde\"",
+        "site.recht.bund.de \"2025\" \"349\" \"Artikel 21\" Ordnungswidrigkeiten",
+        "site.rechtsprechung-im-internet.de \"IX ZR 123/10\"",
+        "site.rechtsprechung-im-internet.de \"IX ZR 306/12\""
+      ],
+      "official_full_texts_read": [
+        "KORE310182011",
+        "KORE316002013"
+      ],
+      "supported_units": {
+        "KORE310182011": [
+          "vv5115"
+        ],
+        "KORE316002013": [
+          "vv5100",
+          "vv5109",
+          "vv5113"
+        ]
+      },
+      "no_additional_sufficiently_relevant_verified_case_selected_for": [
+        "vb5.1.2",
+        "vv5101",
+        "vv5102",
+        "vv5103",
+        "vv5104",
+        "vv5105",
+        "vv5106",
+        "vb5.1.3",
+        "vv5107",
+        "vv5108",
+        "vv5110",
+        "vv5111",
+        "vv5112",
+        "vv5114",
+        "vv5116",
+        "vv5200"
+      ],
+      "not_selected": [
+        {
+          "decision": "LG Verden 7.4.2008 – 1 Qs 218/07",
+          "reason": "Suchfund über NI-VORIS; kein gesicherter amtlicher Volltext in dieser Runde, daher keine Übernahme eines angeblichen tragenden Satzes."
+        },
+        {
+          "decision": "LG Kassel 15.5.2019 – 8 Qs 4/19; LG Saarbrücken 29.6.2020 – 8 Qs 69/20; AG Charlottenburg 17.1.2020 – 220 C 85/19",
+          "reason": "Nur sekundäre Suchentdeckung; nicht als verifizierte Autorität verwendet."
+        }
+      ],
+      "limits": "Selektive Recherche. Für Nr. 5116 gesetzlicher Text und aktuelle Werttabellen maßgeblich, kein ungesicherter Fallbeleg eingefügt."
     }
   ]
 }

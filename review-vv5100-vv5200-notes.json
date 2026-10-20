@@ -1,0 +1,227 @@
+{
+  "reviewed_at": "2026-10-20T12:35:59.403982+00:00",
+  "reviewed_ids": [
+    "vv5100",
+    "vb5.1.2",
+    "vv5101",
+    "vv5102",
+    "vv5103",
+    "vv5104",
+    "vv5105",
+    "vv5106",
+    "vb5.1.3",
+    "vv5107",
+    "vv5108",
+    "vv5109",
+    "vv5110",
+    "vv5111",
+    "vv5112",
+    "vv5113",
+    "vv5114",
+    "vv5115",
+    "vv5116",
+    "vv5200"
+  ],
+  "findings": [
+    {
+      "id": "vv5100",
+      "finding": "Rahmen 36–204 Euro/96 Euro, Einarbeitung neben Verfahrensgebühr, abschnittsübergreifende Einmaligkeit, Entstehensausschluss gegenüber Anrechnung bei Strafverfahrenswechsel, § 60 und tatsächlich gelesene BGH-Bemessungsentscheidung erklärt.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
+      "source_location": {
+        "table_index": 5,
+        "row_index": 6,
+        "first_cell": "5100"
+      }
+    },
+    {
+      "id": "vb5.1.2",
+      "finding": "Verwarnungs- und Zwischenverfahren bis Gerichtseingang erläutert; Übergang der Verfolgungsaufgaben auf Staatsanwaltschaft von Gebührenabschnitt getrennt. Neue Tätigkeit neben Gerichtseingang erforderlich, polizeiliche/behördliche Vernehmung von Mandantengespräch unterschieden.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
+      "source_location": {
+        "table_index": 5,
+        "row_index": 9,
+        "first_cell": "Vorbemerkung 5.1.2: (1) Zu dem Verfahren vor der Verwaltungsbehörde gehört auch das Verwarnungsverfahren und das Zwischenverfahren (§ 69 OWiG) bis zum Eingang der Akten bei Gericht. (2) Die Terminsgebühr entsteht auch für die Teilnahme an Vernehmungen vor der Polizei oder der Verwaltungsbehörde."
+      }
+    },
+    {
+      "id": "vv5101",
+      "finding": "Unter-80-Grenze, 24–132 Euro/62 Euro, Tätigkeitsbeginn, Kriterien des § 14 und fehlende erneute Entstehung je Schreiben erklärt. Grundgebühr, Vernehmung und vorzeitiges Ende getrennt.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
+      "source_location": {
+        "table_index": 5,
+        "row_index": 10,
+        "first_cell": "5101"
+      }
+    },
+    {
+      "id": "vv5102",
+      "finding": "24–132 Euro/62 Euro, tatsächliche Teilnahme, Tagesbezug und eigene Entstehenslage der Bußenstufe erläutert. Mehrere Vernehmungen desselben Tages in derselben Sache nicht doppelt berechnet.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
+      "source_location": {
+        "table_index": 5,
+        "row_index": 11,
+        "first_cell": "5102"
+      }
+    },
+    {
+      "id": "vv5103",
+      "finding": "Beide eingeschlossenen Grenzwerte 80/5.000 Euro, 36–348 Euro/154 Euro und konkrete Bemessung gegenüber bloßer Bußenstufe erklärt; kein automatischer Mittelbetrag und keine allgemeine Anrechnung auf gerichtliche Verfahrensgebühr behauptet.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
+      "source_location": {
+        "table_index": 5,
+        "row_index": 12,
+        "first_cell": "5103"
+      }
+    },
+    {
+      "id": "vv5104",
+      "finding": "36–348 Euro/154 Euro, Vernehmung und konkrete Terminarbeit sowie Tageszählung erläutert. Beispiel zwei Tage = 308 Euro bei Bestellung rechnerisch geprüft.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
+      "source_location": {
+        "table_index": 5,
+        "row_index": 13,
+        "first_cell": "5104"
+      }
+    },
+    {
+      "id": "vv5105",
+      "finding": "Mehr-als-5.000-Grenze und 48–360 Euro/163 Euro erklärt; Entstehenszeitpunkt, keine lineare Bußenquote, Einziehung und andere gerichtliche Beträge unterschieden.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
+      "source_location": {
+        "table_index": 5,
+        "row_index": 14,
+        "first_cell": "5105"
+      }
+    },
+    {
+      "id": "vv5106",
+      "finding": "48–360 Euro/163 Euro, selbständiger Teilnahmetatbestand und jeder Tag erläutert; keine Langdauerzuschläge aus Teil 4 übernommen. Behördliche praktische Prüfliste ergänzt.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
+      "source_location": {
+        "table_index": 5,
+        "row_index": 15,
+        "first_cell": "5106"
+      }
+    },
+    {
+      "id": "vb5.1.3",
+      "finding": "Beide Absätze vollständig: gerichtliche Termine außerhalb Hauptverhandlung, gesonderte Wiederaufnahmevorbereitung samt Abraten, § 17 Nummer 13, keine neue Grundgebühr und zusätzliche Staatskassenbedingungen §§ 45 Absatz 4/46 Absatz 3.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
+      "source_location": {
+        "table_index": 5,
+        "row_index": 17,
+        "first_cell": "Vorbemerkung 5.1.3: (1) Die Terminsgebühr entsteht auch für die Teilnahme an gerichtlichen Terminen außerhalb der Hauptverhandlung. (2) Die Gebühren dieses Unterabschnitts entstehen für das Wiederaufnahmeverfahren einschließlich seiner Vorbereitung gesondert; die Verfahrensgebühr entsteht auch, wenn von der Stellung eines Wiederaufnahmeantrags abgeraten wird."
+      }
+    },
+    {
+      "id": "vv5107",
+      "finding": "24–132 Euro/62 Euro, eigene gerichtliche Bearbeitung, getrennte Angelegenheit, verschiedene Entstehenslagen und Fortbestand bei vorzeitigem Ende erklärt; kein automatischer Betrag allein wegen Akteneingangs.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
+      "source_location": {
+        "table_index": 5,
+        "row_index": 18,
+        "first_cell": "5107"
+      }
+    },
+    {
+      "id": "vv5108",
+      "finding": "24–288 Euro/125 Euro, Tagesbezug gegenüber Dauer, ergänzende Gerichtstermine und Ausfallvoraussetzungen erläutert. Zwei-Tage-Beispiel 250 Euro korrekt, keine Straf-Langdauerpositionen.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
+      "source_location": {
+        "table_index": 5,
+        "row_index": 19,
+        "first_cell": "5108"
+      }
+    },
+    {
+      "id": "vv5109",
+      "finding": "36–348 Euro/154 Euro, gerichtliche Angelegenheit und einmalige Verfahrensarbeit erklärt. IX ZR 306/12 nur für Gebührenbestimmung/Mindestgebührenantrag verwendet. Rechenbeispiel 154 + 245 = 399 Euro geprüft.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
+      "source_location": {
+        "table_index": 5,
+        "row_index": 20,
+        "first_cell": "5109"
+      }
+    },
+    {
+      "id": "vv5110",
+      "finding": "48–564 Euro/245 Euro, konkrete Tagesbemessung, tatsächliche Gerichtsteilnahme und §-72-Beschluss gegenüber Nr. 5115 unterschieden; keine zivilrechtliche Terminsfiktion eingeführt.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
+      "source_location": {
+        "table_index": 5,
+        "row_index": 21,
+        "first_cell": "5110"
+      }
+    },
+    {
+      "id": "vv5111",
+      "finding": "Über 5.000 Euro, 60–420 Euro/192 Euro und Abweichung vom behördlichen Rahmen erklärt. Schwierigkeit ersetzt Grenzbetrag nicht; Einziehung und Rechtsbeschwerde abgegrenzt.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
+      "source_location": {
+        "table_index": 5,
+        "row_index": 22,
+        "first_cell": "5111"
+      }
+    },
+    {
+      "id": "vv5112",
+      "finding": "96–671 Euro/307 Euro, Tage gegenüber einer Verfahrensgebühr getrennt. Beispiel 3 × 307 + 192 = 1.113 Euro geprüft; erstinstanzliche Prüfliste ergänzt.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
+      "source_location": {
+        "table_index": 5,
+        "row_index": 23,
+        "first_cell": "5112"
+      }
+    },
+    {
+      "id": "vv5113",
+      "finding": "96–671 Euro/307 Euro ohne Bußenstufen; §§ 79/80 OWiG tatsächlich gelesen. Zulassungsantrag und bloße Einlegung durch bisherigen Verteidiger von weiterer Rechtsmittelarbeit getrennt. IX ZR 306/12 begrenzt verwendet.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
+      "source_location": {
+        "table_index": 5,
+        "row_index": 25,
+        "first_cell": "5113"
+      }
+    },
+    {
+      "id": "vv5114",
+      "finding": "96–671 Euro/307 Euro je Hauptverhandlungstag, § 79 Absatz 5 OWiG und grundsätzlich schriftlicher Rechtsmittelabschluss erläutert; keine erstinstanzliche Vorbemerkung als allgemeine Terminsfiktion übertragen. Beispiel 307 + 307 = 614 Euro.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
+      "source_location": {
+        "table_index": 5,
+        "row_index": 26,
+        "first_cell": "5114"
+      }
+    },
+    {
+      "id": "vv5115",
+      "finding": "Alle fünf Erledigungsgruppen, mehr als zwei Wochen vor vorgesehenem Tagesbeginn, Förderung statt Erfolgsautomat und wirkliche §-72-Entscheidung erklärt. IX ZR 123/10 vollständig gelesen: gezieltes Schweigen kann genügen, offenkundiger Täterschaftsausschluss und Zurückverweisung beachtet. Rahmenmitten 192/240/383,50 und behördliche 204 Euro geprüft.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
+      "source_location": {
+        "table_index": 5,
+        "row_index": 28,
+        "first_cell": "5115"
+      }
+    },
+    {
+      "id": "vv5116",
+      "finding": "1,0-Wertgebühr, alle Maßnahmen samt § 439 StPO, Abgrenzung Beweissicherung, tatsächlicher Einziehungsbezug, unter-30-Ausschluss, einmalige Behörden-/Gerichtsgebühr und neue Rechtsbeschwerdetätigkeit erläutert. Beispiel 5.000-Euro-Wert: 354,50 Euro nach § 13/Anlage 2 und 319 Euro nach § 49 verifiziert.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
+      "source_location": {
+        "table_index": 5,
+        "row_index": 31,
+        "first_cell": "5116"
+      }
+    },
+    {
+      "id": "vv5200",
+      "finding": "Alle vier Absätze: echter Einzelauftrag, §-15-Grenzen, spätere Anrechnung und Vollstreckungs-/Gnadenausnahme auch nach früherer Verteidigung. 24–132 Euro/62 Euro, Bestellung und Umfang getrennt; abschließende Teil-5-Prüfliste.",
+      "disposition": "Am vollständigen amtlichen Wortlaut und den dokumentierten Verweisen gelesen und individuell berichtigt",
+      "source_location": {
+        "table_index": 5,
+        "row_index": 34,
+        "first_cell": "5200"
+      }
+    }
+  ]
+}
