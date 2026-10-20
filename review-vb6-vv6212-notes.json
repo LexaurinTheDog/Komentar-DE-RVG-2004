@@ -1,0 +1,227 @@
+{
+  "reviewed_at": "2026-10-20T12:47:32.336380+00:00",
+  "reviewed_ids": [
+    "vb6",
+    "vb6.1.1",
+    "vv6100",
+    "vv6101",
+    "vv6102",
+    "vb6.2",
+    "vv6200",
+    "vv6201",
+    "vv6202",
+    "vb6.2.3",
+    "vv6203",
+    "vv6204",
+    "vv6205",
+    "vv6206",
+    "vv6207",
+    "vv6208",
+    "vv6209",
+    "vv6210",
+    "vv6211",
+    "vv6212"
+  ],
+  "findings": [
+    {
+      "id": "vb6",
+      "finding": "Alle drei Absätze geprüft: Beistandsgleichstellung ist kein automatischer Staatskassenanspruch; Information kann Verfahrensarbeit sein; gerichtlicher Grundtatbestand, speziellere Verhandlungstage und Ausfall nach tatsächlichem Erscheinen getrennt.",
+      "disposition": "Individuell am vollständigen amtlichen Text gelesen und berichtigt",
+      "source_location": {
+        "table_index": 6,
+        "row_index": 2,
+        "first_cell": "Vorbemerkung 6: (1) Für die Tätigkeit als Beistand für einen Zeugen oder Sachverständigen in einem Verfahren, für das sich die Gebühren nach diesem Teil bestimmen, entstehen die gleichen Gebühren wie für einen Verfahrensbevollmächtigten in diesem Verfahren. (2) Die Verfahrensgebühr entsteht für das Betreiben des Geschäfts einschließlich der Information. (3) Die Terminsgebühr entsteht für die Teilnahme an gerichtlichen Terminen, soweit nichts anderes bestimmt ist. Der Rechtsanwalt erhält die Terminsgebühr auch, wenn er zu einem anberaumten Termin erscheint, dieser aber aus Gründen, die er nicht zu vertreten hat, nicht stattfindet. Dies gilt nicht, wenn er rechtzeitig von der Aufhebung oder Verlegung des Termins in Kenntnis gesetzt worden ist."
+      }
+    },
+    {
+      "id": "vb6.1.1",
+      "finding": "Enge behördliche Voraussetzungen vom weiter gefassten gerichtlichen Abschnitt unterschieden; kein Ausschluss von Auslieferungs- und IStGH-Verfahren durch irrtümliche Übertragung der behördlichen Eingangsvoraussetzung.",
+      "disposition": "Individuell am vollständigen amtlichen Text gelesen und berichtigt",
+      "source_location": {
+        "table_index": 6,
+        "row_index": 5,
+        "first_cell": "Vorbemerkung 6.1.1: Die Gebühr nach diesem Unterabschnitt entsteht für die Tätigkeit gegenüber der Bewilligungsbehörde in Verfahren nach Abschnitt 2 Unterabschnitt 2 des Neunten Teils des Gesetzes über die internationale Rechtshilfe in Strafsachen oder dem Deutsch-Schweizerischer-Polizeivertrag-Umsetzungsgesetz."
+      }
+    },
+    {
+      "id": "vv6100",
+      "finding": "60–408 Euro/187 Euro und 234 Euro rechnerische Mitte geprüft; konkrete behördliche Tätigkeit, Einmaligkeit, § 59a Absatz 3, keine tariflich angeordnete allgemeine Anrechnung auf Nr. 6101 und § 60 erklärt.",
+      "disposition": "Individuell am vollständigen amtlichen Text gelesen und berichtigt",
+      "source_location": {
+        "table_index": 6,
+        "row_index": 6,
+        "first_cell": "6100"
+      }
+    },
+    {
+      "id": "vv6101",
+      "finding": "120–827 Euro/379 Euro, 473,50 Euro Mitte, vollständige Abschnittsreichweite und kein eigener Haftzuschlag erklärt. Nr. 6101 nicht auf behördliche Geldsanktionsfälle reduziert; tatsächliche Gerichtstätigkeit von Terminstatbestand getrennt.",
+      "disposition": "Individuell am vollständigen amtlichen Text gelesen und berichtigt",
+      "source_location": {
+        "table_index": 6,
+        "row_index": 8,
+        "first_cell": "6101"
+      }
+    },
+    {
+      "id": "vv6102",
+      "finding": "156–1.115 Euro/508 Euro, je Verhandlungstag, spezieller Auslieferungsstreit anhand vollständig gelesenen OLG-Beschlusses. Keine automatische Terminsgebühr für Amtsgerichtsvernehmung und keine Behauptung abschließender höchstrichterlicher Klärung. Beispiel 2×508+379=1.395 geprüft.",
+      "disposition": "Individuell am vollständigen amtlichen Text gelesen und berichtigt",
+      "source_location": {
+        "table_index": 6,
+        "row_index": 9,
+        "first_cell": "6102"
+      }
+    },
+    {
+      "id": "vb6.2",
+      "finding": "Umfassende Abgeltung von Instanzen-/Tätigkeitsgebühren unterschieden; Aufsicht außerhalb Disziplinarverfahren nach Teil 2; beide Kostenrechtsbehelfs-/Vollstreckungsausnahmen vollständig und normale Kostenfestsetzung nach § 19 getrennt. BVerwG 2009 entscheidet Tarif, lässt Angelegenheitszahl offen.",
+      "disposition": "Individuell am vollständigen amtlichen Text gelesen und berichtigt",
+      "source_location": {
+        "table_index": 6,
+        "row_index": 11,
+        "first_cell": "Vorbemerkung 6.2: (1) Durch die Gebühren wird die gesamte Tätigkeit im Verfahren abgegolten. (2) Für die Vertretung gegenüber der Aufsichtsbehörde außerhalb eines Disziplinarverfahrens entstehen Gebühren nach Teil 2. (3) Für folgende Tätigkeiten entstehen Gebühren nach Teil 3: 1.für das Verfahren über die Erinnerung oder die Beschwerde gegen einen Kostenfestsetzungsbeschluss, für das Verfahren über die Erinnerung gegen den Kostenansatz und für das Verfahren über die Beschwerde gegen die Entscheidung über diese Erinnerung,2.in der Zwangsvollstreckung aus einer Entscheidung, die über die Erstattung von Kosten ergangen ist, und für das Beschwerdeverfahren gegen diese Entscheidung."
+      }
+    },
+    {
+      "id": "vv6200",
+      "finding": "48–420 Euro/187 Euro, erste Einarbeitung neben Verfahrensgebühr, Einmaligkeit im Rechtsfall unabhängig von der Phase; erstmalige Mandatsübernahme im Rechtsmittel von bloßem Phasenwechsel beim gleichen Anwalt unterschieden.",
+      "disposition": "Individuell am vollständigen amtlichen Text gelesen und berichtigt",
+      "source_location": {
+        "table_index": 6,
+        "row_index": 13,
+        "first_cell": "6200"
+      }
+    },
+    {
+      "id": "vv6201",
+      "finding": "48–444 Euro/197 Euro und ausdrücklich außergerichtliche Anhörung/Beweiserhebung; Mandantengespräch und Aufsicht außerhalb Disziplinarverfahren abgegrenzt, Tageszählung und Staatskassenbasis separat geprüft.",
+      "disposition": "Individuell am vollständigen amtlichen Text gelesen und berichtigt",
+      "source_location": {
+        "table_index": 6,
+        "row_index": 15,
+        "first_cell": "6201"
+      }
+    },
+    {
+      "id": "vv6202",
+      "finding": "Beide Absätze vollständig, 48–348 Euro/158 Euro; gesondertes überprüfendes Vorverfahren gegenüber weiterem Brief im bisherigen Verfahren, tatsächlicher Gerichtseingang und neue Gerichtstätigkeit getrennt. Keine automatische Übernahme einer Teil-2-Anrechnung.",
+      "disposition": "Individuell am vollständigen amtlichen Text gelesen und berichtigt",
+      "source_location": {
+        "table_index": 6,
+        "row_index": 18,
+        "first_cell": "6202"
+      }
+    },
+    {
+      "id": "vb6.2.3",
+      "finding": "Wiederaufnahme einschließlich Vorbereitung gesondert; § 17 Nummer 13 unmittelbar nur Teile 4/5. Zeitregel mit Wartezeiten, eigener Verantwortlichkeit, qualifizierter mindestens einstündiger Pause, vollständigem Abzug und Verbot bloßer Pausenaddition erklärt.",
+      "disposition": "Individuell am vollständigen amtlichen Text gelesen und berichtigt",
+      "source_location": {
+        "table_index": 6,
+        "row_index": 22,
+        "first_cell": "Vorbemerkung 6.2.3: (1) Die nachfolgenden Gebühren entstehen für das Wiederaufnahmeverfahren einschließlich seiner Vorbereitung gesondert. (2) Kommt es für eine Gebühr auf die Dauer der Teilnahme an der Hauptverhandlung an, sind auch Wartezeiten und Unterbrechungen an einem Hauptverhandlungstag als Teilnahme zu berücksichtigen. Dies gilt nicht für Wartezeiten und Unterbrechungen, die der Rechtsanwalt zu vertreten hat, sowie für Unterbrechungen von jeweils mindestens einer Stunde, soweit diese unter Angabe einer konkreten Dauer der Unterbrechung oder eines Zeitpunkts der Fortsetzung der Hauptverhandlung angeordnet wurden."
+      }
+    },
+    {
+      "id": "vv6203",
+      "finding": "60–384 Euro/178 Euro; erster tatsächlicher Rechtszug, eigene Gerichtstätigkeit nach Eingang, keine Gebühr pro Antrag; 178+307=485 geprüft, Wiederaufnahme nicht mit wiederholtem Sachantrag gleichgesetzt.",
+      "disposition": "Individuell am vollständigen amtlichen Text gelesen und berichtigt",
+      "source_location": {
+        "table_index": 6,
+        "row_index": 23,
+        "first_cell": "6203"
+      }
+    },
+    {
+      "id": "vv6204",
+      "finding": "96–671 Euro/307 Euro, tägliche Verhandlungsteilnahme und gesonderte Verfahrensarbeit; Wahlbemessung versus Bestelltenzuschlag, Beispiel zwei Tage mit einem mittleren Zuschlag =768 Euro geprüft.",
+      "disposition": "Individuell am vollständigen amtlichen Text gelesen und berichtigt",
+      "source_location": {
+        "table_index": 6,
+        "row_index": 24,
+        "first_cell": "6204"
+      }
+    },
+    {
+      "id": "vv6205",
+      "finding": "154 Euro nur gerichtliche Bestellung, mehr als5 bis einschließlich8 Stunden; genau5 unzureichend, genau8 mittlere Stufe; qualifizierte Pause vollständig abgezogen; 307+154=461 geprüft.",
+      "disposition": "Individuell am vollständigen amtlichen Text gelesen und berichtigt",
+      "source_location": {
+        "table_index": 6,
+        "row_index": 25,
+        "first_cell": "6205"
+      }
+    },
+    {
+      "id": "vv6206",
+      "finding": "307 Euro zusätzlich zur Nr.6204 bei mehr als8 Stunden, kein Kumulationszuschlag neben Nr.6205; tageweise persönliche Dauer statt Summe mehrerer Tage; 307+307=614 geprüft, praktische Prüfliste ergänzt.",
+      "disposition": "Individuell am vollständigen amtlichen Text gelesen und berichtigt",
+      "source_location": {
+        "table_index": 6,
+        "row_index": 26,
+        "first_cell": "6206"
+      }
+    },
+    {
+      "id": "vv6207",
+      "finding": "96–671 Euro/307 Euro; zweite Instanz von bloßer Einlegung und Zwischenbeschwerde nach §19 Nummern10/10a getrennt. Vollständig gelesener nationaler BVerwG-Fall belegt fehlende §51-Pauschgebühr im Wehrdisziplinarverfahren; heutiger Katalog gegengeprüft.",
+      "disposition": "Individuell am vollständigen amtlichen Text gelesen und berichtigt",
+      "source_location": {
+        "table_index": 6,
+        "row_index": 28,
+        "first_cell": "6207"
+      }
+    },
+    {
+      "id": "vv6208",
+      "finding": "96–671 Euro/307 Euro, tatsächlicher zweiter Rechtszug trotz gleicher Beträge wie erste Instanz; Tagesbezug und Fortsetzung, Dauerpositionen zusätzlich statt ersetzend; Beispiel768 Euro geprüft.",
+      "disposition": "Individuell am vollständigen amtlichen Text gelesen und berichtigt",
+      "source_location": {
+        "table_index": 6,
+        "row_index": 29,
+        "first_cell": "6208"
+      }
+    },
+    {
+      "id": "vv6209",
+      "finding": "154 Euro bei gerichtlicher Bestellung, mehr als5 bis8 Stunden; Hauptverhandlung und anrechenbare Wartezeit gegenüber Reise-/Bürozeit; kein Aufrunden und kein Zusammenrechnen über Tage; Beispiel461 Euro geprüft.",
+      "disposition": "Individuell am vollständigen amtlichen Text gelesen und berichtigt",
+      "source_location": {
+        "table_index": 6,
+        "row_index": 30,
+        "first_cell": "6209"
+      }
+    },
+    {
+      "id": "vv6210",
+      "finding": "307 Euro bei mehr als8 Stunden; vollständiger Abzug konkret angeordneter70-Minuten-Pause erläutert. Vergleich8h5min=614 Euro versus genau8h=461 Euro; zweite Prüfliste ergänzt.",
+      "disposition": "Individuell am vollständigen amtlichen Text gelesen und berichtigt",
+      "source_location": {
+        "table_index": 6,
+        "row_index": 31,
+        "first_cell": "6210"
+      }
+    },
+    {
+      "id": "vv6211",
+      "finding": "144–1.331 Euro/590 Euro und rechnerische Mitte737,50; tatsächlicher dritter Rechtszug statt bloßer Gerichtshierarchie; bloße Einlegung getrennt und zwingende Anrechnung der Nichtzulassungsgebühr nach Nr.6215 erklärt.",
+      "disposition": "Individuell am vollständigen amtlichen Text gelesen und berichtigt",
+      "source_location": {
+        "table_index": 6,
+        "row_index": 33,
+        "first_cell": "6211"
+      }
+    },
+    {
+      "id": "vv6212",
+      "finding": "144–659 Euro/321 Euro abweichend von früheren Tagesgebühren; tatsächliche Verhandlung und eigene Ausfallprüfung, kein Schriftlichkeitsfiktion; andere dritte Langdauerbeträge und selbständige Nr.6216 nicht übertragen. 590+321=911 geprüft.",
+      "disposition": "Individuell am vollständigen amtlichen Text gelesen und berichtigt",
+      "source_location": {
+        "table_index": 6,
+        "row_index": 34,
+        "first_cell": "6212"
+      }
+    }
+  ]
+}

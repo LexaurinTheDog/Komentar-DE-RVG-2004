@@ -1,0 +1,86 @@
+{
+  "authoring_started_date": "2026-10-19",
+  "decisive_date": "2026-10-19",
+  "recheck_date": "2026-10-20",
+  "official_stand": [
+    "Neugefasst durch Bek. v. 15.3.2022 I 610;",
+    "zuletzt geändert durch Art. 14 G v. 8.12.2025 I Nr. 318"
+  ],
+  "last_amending_act": "Art. 14 G v. 8.12.2025, BGBl. 2025 I Nr. 318",
+  "commencement_evidence": {
+    "path": "sources/bgbl-2025-318.pdf",
+    "rechecked_path": "sources/preflight-2026-10-20-bgbl-318.pdf",
+    "sha256": "89f50d3f611d6f05089d6d4827783cf1531cfd3c800cd808e86c763b9db28c41",
+    "text_path": "sources/bgbl-2025-318.txt",
+    "provisions": "Artikel 14 und Artikel 21 Absätze 2 und 3",
+    "effective_dates": {
+      "2026-01-01": "Article 14 numbers 1, 3 and 4: contents, § 33, § 61",
+      "2026-07-01": "Article 14 number 2: § 19(1) sentence 2 number 6"
+    },
+    "method": "Actual promulgation text read; current XML § 19, § 33(3) (300 Euro) and § 61 checked against the amendment. PDF re-fetch identical by SHA-256."
+  },
+  "current_source_xml": {
+    "path": "sources/rvg.xml",
+    "sha256": "be5571d1735031133f154071b08a77ccdb89f3e047330ed057a494dfd128f5d1",
+    "builddate": "20260630215537"
+  },
+  "recheck_xml": {
+    "path": "sources/preflight-2026-10-20/rvg.xml",
+    "sha256": "be5571d1735031133f154071b08a77ccdb89f3e047330ed057a494dfd128f5d1",
+    "identical_to_authoring_source": true
+  },
+  "intake_version": "Original intake 2026-10-02 preserved; sources/change-map.json retains the per-unit comparison. No normative content change detected there; current re-fetch is byte-identical to authoring XML.",
+  "current_update_service": "sources/preflight-2026-10-20-updates.html; checked against 19 October snapshot; newly listed issues 301–304 do not identify RVG. An update-service title scan alone is not proof of absence of indirect amendments.",
+  "basis": "Current official index, full HTML and actual parsed RVG ZIP/XML; stand metadata plus promulgated commencement, not fetch/build timestamps alone.",
+  "limitations": [
+    "Current official consolidation checked, not a complete historical-version archive or an exhaustive search of every amending act.",
+    "No guarantee against not-yet-incorporated legislation; decisive manuscript date remains authoring start 19 October 2026."
+  ],
+  "verified_at": "2026-10-20T12:47:32.336380+00:00",
+  "fresh_requests": "sources/review-vb6-vv6212-2026-10-20/requests.json",
+  "review_scope": [
+    "vb6",
+    "vb6.1.1",
+    "vv6100",
+    "vv6101",
+    "vv6102",
+    "vb6.2",
+    "vv6200",
+    "vv6201",
+    "vv6202",
+    "vb6.2.3",
+    "vv6203",
+    "vv6204",
+    "vv6205",
+    "vv6206",
+    "vv6207",
+    "vv6208",
+    "vv6209",
+    "vv6210",
+    "vv6211",
+    "vv6212"
+  ],
+  "current_rvg_xml_identical": true,
+  "commencement_read": {
+    "snapshot": "sources/review-vb6-vv6212-2026-10-20/bgbl-318.pdf",
+    "text": "sources/bgbl-2025-318.txt",
+    "provisions": "Artikel14 und21 Absatz2/3 gelesen. Nummern1/3/4 seit1.1.2026; Nummer2 seit1.7.2026. Keine Änderung der geprüften Teil-6-Tarife."
+  },
+  "tariff_amendment": {
+    "path": "sources/review-vv3103-vv3212-2026-10-20/bgbl-109.pdf",
+    "sha256": "1ff13f868178c6ca85497562b13de3e37a591793b5fe9f820432210ca17fc36d",
+    "text": "sources/review-vv3103-vv3212-2026-10-20/bgbl-109.txt",
+    "read": "Tatsächlicher Artikel11 Absatz2 Nummern101–116 und Artikel13 Absatz3: aktuelle zugewiesene Beträge seit1.Juni2025, Altmandate nach §60. Gesicherte Verkündung erneut gelesen; kein behaupteter Neuabruf."
+  },
+  "external_statutes": {
+    "requests": "sources/review-vb6-vv6212-2026-10-20/authority-requests.json",
+    "additional_promulgations": "sources/review-vb6-vv6212-2026-10-20/more-requests.json",
+    "irg": "Aktueller Stand Art.2G10.2.2026INr39. Tatsächlicher Art.2 und Art.10 gelesen: Änderung betrifft §§74/91 und den Zehnten Teil §§92ff, nicht die hier gelesenen §§21/22/28/30/31/33/40/53/87e. Inkrafttreten14.2.2026 nach Verkündung13.2.2026. Keine vollständige ältere Änderungsgeschichte behauptet.",
+    "bdg": "Stand Art.6G19.7.2024INr247. Tatsächlicher Art.6 ändert nur §85, Art.10Abs.3 rückwirkend1.4.2024. Heutige §§38/63 vollständig gelesen; ältere2009er Verfahrens- und Gebührenregelungen nicht als heutiges Recht übernommen."
+  },
+  "updates": {
+    "path": "sources/review-vb6-vv6212-2026-10-20/updates.html",
+    "identical_to_previous_round": true,
+    "limitation": "Titelvergleich beweist allein keine Abwesenheit mittelbarer oder noch nicht eingearbeiteter Gesetzesänderungen."
+  }
+}

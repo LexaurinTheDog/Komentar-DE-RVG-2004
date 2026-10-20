@@ -1,0 +1,18 @@
+{
+  "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-WBRE201600020.zip",
+  "accessed_at": "2026-10-20T12:45:11.865614+00:00",
+  "http_status": 200,
+  "content_type": "application/zip",
+  "local_path": "sources/review-vb6-vv6212-2026-10-20/WBRE201600020.zip",
+  "sha256": "e706e5259c49cfd187df779887580c208e22b82cc93cfbf16a472c3e15c79a4f",
+  "xml_path": "sources/review-vb6-vv6212-2026-10-20/WBRE201600020.xml",
+  "xml_sha256": "cc468d699ecad13e159681fe5d243e167f2fc59bc7673fa36b066fdfd5ed0564",
+  "validated_format": "ZIP/XML; expected docket and ECLI checked",
+  "court": "BVerwG",
+  "date": "20151125",
+  "docket": "2 WDB 1/15",
+  "ecli": "ECLI:DE:BVerwG:2015:251115B2WDB1.15.0",
+  "judicial_paragraphs": 2,
+  "all_judicial_paragraphs_in_local_corpus": true,
+  "local_corpus_sha256": "926292c2be2f5051227beed0979e6dcbe90b1e3f92ab7c8add8f1ba56cd01a62"
+}

@@ -1,0 +1,48 @@
+[
+  {
+    "url": "https://www.bverwg.de/entscheidungen/pdf/111109B2AV4.09.0.pdf",
+    "accessed_at": "2026-10-20T12:38:43.239341+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://www.gesetze-bayern.de/Content/Document/Y-300-Z-BECKRS-B-2021-N-19500",
+    "accessed_at": "2026-10-20T12:38:43.469608+00:00",
+    "http_status": 200,
+    "final_url": "https://www.gesetze-bayern.de/Content/Document/Y-300-Z-BECKRS-B-2021-N-19500",
+    "content_type": "text/html; charset=utf-8",
+    "local_path": "sources/review-vb6-vv6212-2026-10-20/olg-muenchen-2021-4-ws-3-21.html",
+    "sha256": "1381c5632c1b4fca84c89bd93b0ae6e9c46154b7290e76a91577c7976057dda2",
+    "error": "No module named 'bs4'"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/irg/xml.zip",
+    "accessed_at": "2026-10-20T12:38:43.989389+00:00",
+    "http_status": 200,
+    "final_url": "https://www.gesetze-im-internet.de/irg/xml.zip",
+    "content_type": "application/zip",
+    "local_path": "sources/review-vb6-vv6212-2026-10-20/irg.zip",
+    "sha256": "41d18975a2dd31ec5f9b3e8179986c1739893db2d57776bf8fb24189ddc38229",
+    "xml_path": "sources/review-vb6-vv6212-2026-10-20/irg.xml",
+    "xml_sha256": "e72f5309a132ce7c9bc5dfe3a11ca0b220fc14c0f1f64c08424351b27c1643dd",
+    "stand": [
+      "NeufNeugefasst durch Bek. v. 27.6.1994 I 1537;",
+      "Standzuletzt geändert durch Art. 2 G v. 10.2.2026 I Nr. 39"
+    ],
+    "validated_format": "ZIP/XML parsed; official short title IRG"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/bdg/xml.zip",
+    "accessed_at": "2026-10-20T12:38:44.224722+00:00",
+    "http_status": 200,
+    "final_url": "https://www.gesetze-im-internet.de/bdg/xml.zip",
+    "content_type": "application/zip",
+    "local_path": "sources/review-vb6-vv6212-2026-10-20/bdg.zip",
+    "sha256": "d08e1a6b1af41119b1ea36eb159d24c857aa8f743f74e958a2e31a49792cba0e",
+    "xml_path": "sources/review-vb6-vv6212-2026-10-20/bdg.xml",
+    "xml_sha256": "0d93a519b6be6b9dac276c39cbb92bb34378ac5996fd8f23476241a8e4f74426",
+    "stand": [
+      "StandZuletzt geändert durch Art. 6 G v. 19.7.2024 I Nr. 247"
+    ],
+    "validated_format": "ZIP/XML parsed; official short title BDG"
+  }
+]

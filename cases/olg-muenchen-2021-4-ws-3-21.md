@@ -1,0 +1,7 @@
+# OLG München, Beschluss vom 19. Juli 2021 – 4 Ws 3/21
+
+Vollständige gerichtliche Gründe Rn. 1–21 am 20. Oktober 2026 gelesen. [Amtliche Veröffentlichung](https://www.gesetze-bayern.de/Content/Document/Y-300-Z-BECKRS-B-2021-N-19500), [gesicherte Antwort](../sources/review-vb6-vv6212-2026-10-20/olg-muenchen-2021-4-ws-3-21.html), [Lesefassung](../sources/review-vb6-vv6212-2026-10-20/olg-muenchen-2021-4-ws-3-21.txt), [HTTP/SHA-256](../sources/review-vb6-vv6212-2026-10-20/authority-requests.json). Die zuerst fehlgeschlagene optionale HTML-Extraktion wurde mit Standardbibliothek repariert. Kein erfundener ECLI.
+
+Rn. 1–7: Bestellung im Auslieferungsverfahren, Gebührenfestsetzung und Erinnerung. Rn. 8–13: Gericht verneint die Terminsgebühr für die amtsgerichtliche Vernehmung; Teil 6 statt Teil 4, Verhandlung vor dem OLG statt jedes Gerichtstermins. Rn. 11 dokumentiert Gegenauffassungen. Rn. 14–18 begründen die Auslegung ergänzend und erwähnen eine mögliche Pauschgebühr bei außergewöhnlichem Aufwand. Rn. 19–21 enthalten Ergebnis, historische Rechnung und Verfahrenskosten.
+
+Unterstützt **vv6101 und vv6102**. Keine als höchstrichterlich endgültig bezeichnete Klärung. Heutige Nr. 6102 und §§ 21, 22, 28, 30, 31, 33 IRG kontrolliert; die spätere Betragsanhebung ersetzt keinen neuen Entstehungstatbestand. Alte Gebühren und Umsatzsteuerwerte werden nicht übertragen. Redaktioneller kommerzieller Leitsatz der Website wird nicht als Gerichtsaussage übernommen. Selektiver Beleg ohne vollständige spätere Rechtsprechungssuche.

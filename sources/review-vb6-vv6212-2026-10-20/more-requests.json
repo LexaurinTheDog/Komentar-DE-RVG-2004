@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://ssl.bverwg.de/entscheidungen/pdf/111109B2AV4.09.0.pdf",
+    "accessed_at": "2026-10-20T12:39:13.506905+00:00",
+    "http_status": 200,
+    "final_url": "https://ssl.bverwg.de/entscheidungen/pdf/111109B2AV4.09.0.pdf",
+    "content_type": "application/pdf; charset=utf-8",
+    "local_path": "sources/review-vb6-vv6212-2026-10-20/bverwg-2009-2-av-4-09.pdf",
+    "sha256": "2de60f3c3cf3dcb85a2240e15aff5c7f3316be9ae6678c7a6bc581db55a5df11",
+    "validated_format": "PDF signature and successful text extraction"
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2026/39/regelungstext.pdf?__blob=publicationFile&v=2",
+    "accessed_at": "2026-10-20T12:39:14.093162+00:00",
+    "http_status": 200,
+    "final_url": "https://www.recht.bund.de/bgbl/1/2026/39/regelungstext.pdf?__blob=publicationFile&v=2",
+    "content_type": "application/pdf",
+    "local_path": "sources/review-vb6-vv6212-2026-10-20/bgbl-2026-39.pdf",
+    "sha256": "ffe96778e66583bd9fd22de77ec0e3436227ba8225df73c343426cd5467ac212",
+    "validated_format": "PDF signature and successful text extraction"
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2024/247/regelungstext.pdf?__blob=publicationFile&v=2",
+    "accessed_at": "2026-10-20T12:39:14.528531+00:00",
+    "http_status": 200,
+    "final_url": "https://www.recht.bund.de/bgbl/1/2024/247/regelungstext.pdf?__blob=publicationFile&v=2",
+    "content_type": "application/pdf",
+    "local_path": "sources/review-vb6-vv6212-2026-10-20/bgbl-2024-247.pdf",
+    "sha256": "bdcc628df6bdbcec0d0421d50f27510bdd8ff99335f82d235218ee4fe358a98f",
+    "validated_format": "PDF signature and successful text extraction"
+  },
+  {
+    "purpose": "Repair HTML extraction without optional parser dependency; original 200 response retained",
+    "local_path": "sources/review-vb6-vv6212-2026-10-20/olg-muenchen-2021-4-ws-3-21.html",
+    "sha256": "1381c5632c1b4fca84c89bd93b0ae6e9c46154b7290e76a91577c7976057dda2",
+    "validated_format": "HTML docket plus Tenor/Gründe; stdlib tag removal to reading text"
+  }
+]

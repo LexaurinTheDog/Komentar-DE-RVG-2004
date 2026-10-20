@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-20T12:47:32.336380+00:00",
+  "scope": [
+    "vb6",
+    "vb6.1.1",
+    "vv6100",
+    "vv6101",
+    "vv6102",
+    "vb6.2",
+    "vv6200",
+    "vv6201",
+    "vv6202",
+    "vb6.2.3",
+    "vv6203",
+    "vv6204",
+    "vv6205",
+    "vv6206",
+    "vv6207",
+    "vv6208",
+    "vv6209",
+    "vv6210",
+    "vv6211",
+    "vv6212"
+  ],
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii",
+  "local_search": {
+    "raw_candidates": "local-case-search.json",
+    "candidate_count": 139,
+    "relevance_filter": "Tarifnummer mit beidseitigen Zifferngrenzen; RVG in60Zeichen Nähe für gezielte Nachsicht. Viele Rohfunde sind Aktenzeichen, Metadaten, GOZ oder GKG, nicht RVG-Autoritäten. Keine Aussage über alle möglicherweise einschlägigen ungenannten Entscheidungen.",
+    "result": "local-case-relevance.json; WBRE201600020 vollständig gelesen und amtlich neu gesichert"
+  },
+  "web_queries": [
+    "site.bverwg.de 6202 RVG",
+    "site.rechtsprechung-im-internet.de 6101 RVG",
+    "site.bverwg.de 6200 Grundgebühr",
+    "site:bverwg.de 2 AV 4.09",
+    "site:gesetze-bayern.de 6102 RVG Terminsgebühr"
+  ],
+  "official_full_texts_read": [
+    "BVerwG11.11.2009–2AV4.09 Rn1–6",
+    "OLG München19.7.2021–4Ws3/21 Rn1–21",
+    "BVerwG25.11.2015–2WDB1/15 Rn1–2"
+  ],
+  "supported_units": {
+    "BVerwG2009": [
+      "vb6.2"
+    ],
+    "OLGMuenchen2021": [
+      "vv6101",
+      "vv6102"
+    ],
+    "BVerwG2015": [
+      "vv6207"
+    ]
+  },
+  "no_additional_verified_case_selected_for": [
+    "vb6",
+    "vb6.1.1",
+    "vv6100",
+    "vv6200",
+    "vv6201",
+    "vv6202",
+    "vb6.2.3",
+    "vv6203",
+    "vv6204",
+    "vv6205",
+    "vv6206",
+    "vv6208",
+    "vv6209",
+    "vv6210",
+    "vv6211",
+    "vv6212"
+  ],
+  "unselected": [
+    {
+      "decision": "VG München21.6.2024–M19LDB24.1906",
+      "reason": "Suchentdeckung; nicht vollständig gelesen/als Autorität verwendet."
+    }
+  ],
+  "firecrawl": {
+    "evidence": "firecrawl-attempt.log",
+    "result": "Insufficient credits; Direktabrufe dokumentiert."
+  },
+  "historical_law_limit": "Keine Übernahme historischer Eurobeträge oder BRAGO-Regeln; alter BDG-Verfahrenshintergrund offengelegt."
+}

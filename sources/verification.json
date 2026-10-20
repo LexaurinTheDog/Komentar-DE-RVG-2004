@@ -2550,6 +2550,157 @@
       "sha256": "15fc7aef651937a652a9649ca7fdbd69b4cfb55f36848ec31ccad836008e5bdb",
       "local_path": "sources/review-vv5100-vv5200-2026-10-20/bgbl-349.pdf",
       "validated_format": "PDF magic; extracted text separately checked for expected act"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/rvg/",
+      "accessed_at": "2026-10-20T12:37:46.775873+00:00",
+      "purpose": "bounded independent substantive review vb6–vv6212, 20 exact units",
+      "http_status": 200,
+      "final_url": "https://www.gesetze-im-internet.de/rvg/",
+      "content_type": "text/html",
+      "local_path": "sources/review-vb6-vv6212-2026-10-20/index.html",
+      "sha256": "7e9f02d6a7dc1934d08e4463457f1c15649d20bfd365778bff502c55f2eb80dd",
+      "validated_format": "HTML document and RVG identifier where applicable"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/rvg/xml.zip",
+      "accessed_at": "2026-10-20T12:37:47.305176+00:00",
+      "purpose": "bounded independent substantive review vb6–vv6212, 20 exact units",
+      "http_status": 200,
+      "final_url": "https://www.gesetze-im-internet.de/rvg/xml.zip",
+      "content_type": "application/zip",
+      "local_path": "sources/review-vb6-vv6212-2026-10-20/rvg.zip",
+      "sha256": "51019d65e1d783759d31a3d67ff21ec35d922d309a82d575a08848c89de42dde",
+      "members": [
+        "BJNR078800004.xml"
+      ],
+      "validated_format": "ZIP and XML parsed; expected identifier verified",
+      "xml_path": "sources/review-vb6-vv6212-2026-10-20/rvg.xml",
+      "xml_sha256": "be5571d1735031133f154071b08a77ccdb89f3e047330ed057a494dfd128f5d1",
+      "identical_to_manuscript_source": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "accessed_at": "2026-10-20T12:37:48.360545+00:00",
+      "purpose": "bounded independent substantive review vb6–vv6212, 20 exact units",
+      "http_status": 200,
+      "final_url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "content_type": "text/html",
+      "local_path": "sources/review-vb6-vv6212-2026-10-20/updates.html",
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+      "validated_format": "HTML document and RVG identifier where applicable"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2025/318/regelungstext.pdf?__blob=publicationFile&v=2",
+      "accessed_at": "2026-10-20T12:37:49.469704+00:00",
+      "purpose": "bounded independent substantive review vb6–vv6212, 20 exact units",
+      "http_status": 200,
+      "final_url": "https://www.recht.bund.de/bgbl/1/2025/318/regelungstext.pdf?__blob=publicationFile&v=2",
+      "content_type": "application/pdf",
+      "local_path": "sources/review-vb6-vv6212-2026-10-20/bgbl-318.pdf",
+      "sha256": "89f50d3f611d6f05089d6d4827783cf1531cfd3c800cd808e86c763b9db28c41",
+      "validated_format": "PDF magic, byte-identical to commencement text previously extracted and read",
+      "identical_to_manuscript_source": true
+    },
+    {
+      "url": "https://www.bverwg.de/entscheidungen/pdf/111109B2AV4.09.0.pdf",
+      "accessed_at": "2026-10-20T12:38:43.239341+00:00",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.gesetze-bayern.de/Content/Document/Y-300-Z-BECKRS-B-2021-N-19500",
+      "accessed_at": "2026-10-20T12:38:43.469608+00:00",
+      "http_status": 200,
+      "final_url": "https://www.gesetze-bayern.de/Content/Document/Y-300-Z-BECKRS-B-2021-N-19500",
+      "content_type": "text/html; charset=utf-8",
+      "local_path": "sources/review-vb6-vv6212-2026-10-20/olg-muenchen-2021-4-ws-3-21.html",
+      "sha256": "1381c5632c1b4fca84c89bd93b0ae6e9c46154b7290e76a91577c7976057dda2",
+      "error": "No module named 'bs4'"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/irg/xml.zip",
+      "accessed_at": "2026-10-20T12:38:43.989389+00:00",
+      "http_status": 200,
+      "final_url": "https://www.gesetze-im-internet.de/irg/xml.zip",
+      "content_type": "application/zip",
+      "local_path": "sources/review-vb6-vv6212-2026-10-20/irg.zip",
+      "sha256": "41d18975a2dd31ec5f9b3e8179986c1739893db2d57776bf8fb24189ddc38229",
+      "xml_path": "sources/review-vb6-vv6212-2026-10-20/irg.xml",
+      "xml_sha256": "e72f5309a132ce7c9bc5dfe3a11ca0b220fc14c0f1f64c08424351b27c1643dd",
+      "stand": [
+        "NeufNeugefasst durch Bek. v. 27.6.1994 I 1537;",
+        "Standzuletzt geändert durch Art. 2 G v. 10.2.2026 I Nr. 39"
+      ],
+      "validated_format": "ZIP/XML parsed; official short title IRG"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bdg/xml.zip",
+      "accessed_at": "2026-10-20T12:38:44.224722+00:00",
+      "http_status": 200,
+      "final_url": "https://www.gesetze-im-internet.de/bdg/xml.zip",
+      "content_type": "application/zip",
+      "local_path": "sources/review-vb6-vv6212-2026-10-20/bdg.zip",
+      "sha256": "d08e1a6b1af41119b1ea36eb159d24c857aa8f743f74e958a2e31a49792cba0e",
+      "xml_path": "sources/review-vb6-vv6212-2026-10-20/bdg.xml",
+      "xml_sha256": "0d93a519b6be6b9dac276c39cbb92bb34378ac5996fd8f23476241a8e4f74426",
+      "stand": [
+        "StandZuletzt geändert durch Art. 6 G v. 19.7.2024 I Nr. 247"
+      ],
+      "validated_format": "ZIP/XML parsed; official short title BDG"
+    },
+    {
+      "url": "https://ssl.bverwg.de/entscheidungen/pdf/111109B2AV4.09.0.pdf",
+      "accessed_at": "2026-10-20T12:39:13.506905+00:00",
+      "http_status": 200,
+      "final_url": "https://ssl.bverwg.de/entscheidungen/pdf/111109B2AV4.09.0.pdf",
+      "content_type": "application/pdf; charset=utf-8",
+      "local_path": "sources/review-vb6-vv6212-2026-10-20/bverwg-2009-2-av-4-09.pdf",
+      "sha256": "2de60f3c3cf3dcb85a2240e15aff5c7f3316be9ae6678c7a6bc581db55a5df11",
+      "validated_format": "PDF signature and successful text extraction"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/39/regelungstext.pdf?__blob=publicationFile&v=2",
+      "accessed_at": "2026-10-20T12:39:14.093162+00:00",
+      "http_status": 200,
+      "final_url": "https://www.recht.bund.de/bgbl/1/2026/39/regelungstext.pdf?__blob=publicationFile&v=2",
+      "content_type": "application/pdf",
+      "local_path": "sources/review-vb6-vv6212-2026-10-20/bgbl-2026-39.pdf",
+      "sha256": "ffe96778e66583bd9fd22de77ec0e3436227ba8225df73c343426cd5467ac212",
+      "validated_format": "PDF signature and successful text extraction"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2024/247/regelungstext.pdf?__blob=publicationFile&v=2",
+      "accessed_at": "2026-10-20T12:39:14.528531+00:00",
+      "http_status": 200,
+      "final_url": "https://www.recht.bund.de/bgbl/1/2024/247/regelungstext.pdf?__blob=publicationFile&v=2",
+      "content_type": "application/pdf",
+      "local_path": "sources/review-vb6-vv6212-2026-10-20/bgbl-2024-247.pdf",
+      "sha256": "bdcc628df6bdbcec0d0421d50f27510bdd8ff99335f82d235218ee4fe358a98f",
+      "validated_format": "PDF signature and successful text extraction"
+    },
+    {
+      "purpose": "Repair HTML extraction without optional parser dependency; original 200 response retained",
+      "local_path": "sources/review-vb6-vv6212-2026-10-20/olg-muenchen-2021-4-ws-3-21.html",
+      "sha256": "1381c5632c1b4fca84c89bd93b0ae6e9c46154b7290e76a91577c7976057dda2",
+      "validated_format": "HTML docket plus Tenor/Gründe; stdlib tag removal to reading text"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-WBRE201600020.zip",
+      "accessed_at": "2026-10-20T12:45:11.865614+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "local_path": "sources/review-vb6-vv6212-2026-10-20/WBRE201600020.zip",
+      "sha256": "e706e5259c49cfd187df779887580c208e22b82cc93cfbf16a472c3e15c79a4f",
+      "xml_path": "sources/review-vb6-vv6212-2026-10-20/WBRE201600020.xml",
+      "xml_sha256": "cc468d699ecad13e159681fe5d243e167f2fc59bc7673fa36b066fdfd5ed0564",
+      "validated_format": "ZIP/XML; expected docket and ECLI checked",
+      "court": "BVerwG",
+      "date": "20151125",
+      "docket": "2 WDB 1/15",
+      "ecli": "ECLI:DE:BVerwG:2015:251115B2WDB1.15.0",
+      "judicial_paragraphs": 2,
+      "all_judicial_paragraphs_in_local_corpus": true,
+      "local_corpus_sha256": "926292c2be2f5051227beed0979e6dcbe90b1e3f92ab7c8add8f1ba56cd01a62"
     }
   ],
   "version_evidence": {
@@ -2920,5 +3071,19 @@
       "sha256": "8d8da65540100f2b803ee223c5c59081f6d960738f8af0c8cacc07bdc5eaa816",
       "result": "insufficient credits; successful direct official body fetches recorded separately"
     }
+  },
+  "bounded_review_vb6_vv6212_recheck": {
+    "date": "2026-10-20",
+    "decisive_date": "2026-10-19",
+    "records": "sources/review-vb6-vv6212-2026-10-20/requests.json",
+    "version_basis": "Existing promulgated Article 14 and commencement Article 21 re-read; current RVG XML compared byte for byte. Date of retrieval is not proof of commencement.",
+    "version_evidence": "sources/review-vb6-vv6212-2026-10-20/version-evidence.json",
+    "case_sources": [
+      "sources/review-vb6-vv6212-2026-10-20/authority-requests.json",
+      "sources/review-vb6-vv6212-2026-10-20/more-requests.json",
+      "sources/review-vb6-vv6212-2026-10-20/local-case-request.json"
+    ],
+    "firecrawl": "sources/review-vb6-vv6212-2026-10-20/firecrawl-attempt.log",
+    "resolved_fetch_failures": "www.bverwg.de403 replaced by ssl.bverwg.de200; optional bs4 unavailable replaced with stdlib extraction"
   }
 }
