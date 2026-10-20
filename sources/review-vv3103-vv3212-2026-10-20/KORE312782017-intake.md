@@ -1,0 +1,91 @@
+---
+source: rechtsprechung-im-internet
+country: de
+document_type: decision
+court: BGH
+chamber: 6. Zivilsenat
+ecli: ECLI:DE:BGH:2017:240117BVIZB21.16.0
+doknr: KORE312782017
+case_number: VI ZB 21/16
+date: '2017-01-24'
+decision_type: Beschluss
+norms: Nr 3105 Abs 1 Nr 2 RVG-VV, § 331 Abs 3 ZPO
+prior_instance: 'vorgehend OLG Oldenburg (Oldenburg), 20. April 2016, Az: 6 W 36/16
+
+
+  vorgehend LG Oldenburg (Oldenburg), 6. November 2015, Az: 9 O 136/15'
+source_url: https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE312782017
+download_url: https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE312782017.zip
+chars: 11473
+license: amtliches Werk (§ 5 UrhG)
+retrieved_at: '2026-10-03T16:40:05Z'
+---
+
+# BGH VI ZB 21/16 (2017-01-24)
+
+- **Gericht:** BGH 6. Zivilsenat
+- **Datum:** 2017-01-24
+- **Aktenzeichen:** VI ZB 21/16
+- **ECLI:** ECLI:DE:BGH:2017:240117BVIZB21.16.0
+- **Dokumenttyp:** Beschluss
+- **Normen:** Nr 3105 Abs 1 Nr 2 RVG-VV, § 331 Abs 3 ZPO
+
+## Titelzeile
+
+Vergütung des Rechtsanwalts: Anfall der Terminsgebühr bei Erlass eines Versäumnisurteils ohne entsprechenden Antrag des Klägers
+
+## Leitsatz
+
+Die Gebühr nach Nr. 3105 Anm. Abs. 1 Nr. 2 RVG VV entsteht auch dann, wenn die Entscheidung nach § 331 Abs. 3 ZPO ohne einen entsprechenden (Prozess-)Antrag des Klägers ergeht.
+
+## Tenor
+
+Die Rechtsbeschwerde gegen den Beschluss des 6. Zivilsenats des Oberlandesgerichts Oldenburg vom 20. April 2016 wird auf Kosten des Beklagten zurückgewiesen.
+
+Der Gegenstandswert für das Rechtsbeschwerdeverfahren beträgt bis zu 1.000 €.
+
+## Gründe
+
+I.
+
+1 Der Kläger nahm den Beklagten auf Zahlung materiellen und immateriellen Schadensersatzes in Anspruch. Das Landgericht verfügte die Zustellung der Klageschrift und forderte den Beklagten unter Fristsetzung gemäß § 276 Abs. 1 ZPO zur Anzeige der Verteidigungsbereitschaft auf. Obwohl der Kläger keinen entsprechenden Antrag gestellt hatte, gab das Landgericht der Klage nach fruchtlosem Ablauf dieser Frist durch Versäumnisurteil gemäß § 331 Abs. 3 ZPO statt und verurteilte den Beklagten zur Kostentragung. Den vom Beklagten hiergegen erhobenen Einspruch ("Anhörungsrüge, hilfsweise Einspruch") hat das Landgericht wegen Verfristung als unzulässig verworfen.
+
+2 Im Kostenfestsetzungsverfahren begehrt der Kläger nunmehr unter anderem die Festsetzung einer 0,5-Terminsgebühr nach Nr. 3105 Anm. Abs. 1 Nr. 2 des Vergütungsverzeichnisses zum Rechtsanwaltsvergütungsgesetz (VV RVG). Das Landgericht hat die Kosten entsprechend festgesetzt. Das Oberlandesgericht hat die vom Beklagten dagegen geführte sofortige Beschwerde zurückgewiesen. Hiergegen wendet sich der Beklagte mit seiner vom Beschwerdegericht zugelassenen Rechtsbeschwerde. Er vertritt die Auffassung, die Gebühr nach Nr. 3105 Anm. Abs. 1 Nr. 2 VV RVG sei nicht angefallen, weil das Versäumnisurteil - prozessordnungswidrig - ohne den nach § 331 Abs. 3 Satz 1 ZPO erforderlichen Antrag des Klägers ergangen sei.
+
+II.
+
+3 Die gemäß § 574 Abs. 1 Satz 1 Nr. 2 ZPO statthafte und auch im Übrigen zulässige Rechtsbeschwerde hat in der Sache keinen Erfolg.
+
+4 1. Das Beschwerdegericht hat zur Begründung seiner Entscheidung im Wesentlichen ausgeführt, das Landgericht habe die beantragte 0,5-Terminsgebühr gemäß Nr. 3105 VV RVG zu Recht gegen den Beklagten festgesetzt, weil gegen ihn ein Versäumnisurteil ergangen sei. Zwar dürfte der Erlass eines Versäumnisurteils, was im Streitfall aber offen bleiben könne, ohne entsprechenden Antrag verfahrensfehlerhaft sein. Dies habe aber auf den Anfall der Gebühr nach Nr. 3105 Anm. Abs. 1 Nr. 2 VV RVG keinen Einfluss. Denn der Anfall der Gebühr knüpfe allein an den Erlass der Entscheidung als formales Prozessmerkmal, ohne dass im Kostenfestsetzungsverfahren zu hinterfragen sei, ob die Voraussetzungen für den Erlass des Versäumnisurteils vorgelegen hätten.
+
+5 2. Dies hält rechtlicher Überprüfung im Ergebnis stand.
+
+6 Ob und unter welchen Voraussetzungen davon ausgegangen werden kann, dass der Prozessantrag nach § 331 Abs. 3 ZPO - wie das Landgericht in dem die Anhörungsrüge des Beklagten zurückweisenden Beschluss vom 30. April 2015 unter Bezugnahme auf das Urteil des Bundesgerichtshofs vom 4. April 1962 (V ZR 110/60, BGHZ 37, 79, 81 f.) im Streitfall angenommen hat - konkludent mit dem Sachantrag gestellt ist, kann offenbleiben. Denn die im Streit stehende Gebühr nach Nr. 3105 Anm. Abs. 1 Nr. 2 VV RVG ist auch dann erstattungsfähig angefallen, wenn der Antrag auf Erlass eines Versäumnisurteils nach § 331 Abs. 3 ZPO nicht gestellt wurde.
+
+7 a) Nach Nr. 3104 VV RVG beträgt die Terminsgebühr, soweit in Nummer 3106 nichts anderes geregelt ist, 1,2. Sie ermäßigt sich nach Nr. 3105 VV RVG auf 0,5, wenn nur ein Termin wahrgenommen wird, in dem eine Partei oder ein Beteiligter nicht erschienen oder nicht ordnungsgemäß vertreten ist und lediglich ein Antrag auf Versäumnisurteil, Versäumnisentscheidung oder zur Prozess-, Verfahrens- oder Sachleitung gestellt wird. Nach Nr. 3105 Anm. Abs. 1 Nr. 2 VV RVG fällt die 0,5-Gebühr auch dann an, wenn "eine Entscheidung gemäß § 331 Abs. 3 ZPO" ergeht. In Rechtsprechung und Literatur ist umstritten, ob dies voraussetzt, dass der für den Erlass eines Versäumnisurteils nach § 331 Abs. 3 ZPO erforderliche Antrag gestellt wurde, oder ob die Gebühr auch dann anfällt, wenn das Versäumnisurteil ohne einen entsprechenden Antrag des Klägers ergeht.
+
+8 aa) Von einem Teil der Rechtsprechung (OLG Oldenburg, NJW-RR 2008, 1670, 1671; OLG Düsseldorf, MDR 1984, 950 [noch zu § 35 BRAGO aF]) und Literatur (Hartmann; Kostengesetze, 47. Aufl., VV 3105 Rn. 7; unklar Winkler in: Schneider/Volpert/Fölsch, Gesamtes Kostenrecht, 2017, Nr. 3105 VV RVG Rn. 23) wird vertreten, die Gebühr nach Nr. 3105 Anm. Abs. 1 Nr. 2 VV RVG falle nur dann an, wenn der Kläger den Erlass des ergangenen Versäumnisurteils, wie von § 331 Abs. 3 Satz 1 ZPO verlangt, beantragt habe. Begründet wird dies zunächst mit dem Wortlaut von Nr. 3105 VV RVG, der, wenn auch nicht in Anm. Abs. 1 Nr. 2, ausdrücklich auf einen Antrag abstelle (OLG Oldenburg aaO). Verwiesen wird ferner auf den Sinn und Zweck von Rechtsanwaltsgebühren, die anwaltliche Tätigkeit vergüten sollten; anwaltliche Tätigkeit liege im Falle des § 331 Abs. 3 ZPO neben der durch die Verfahrensgebühr bereits abgegoltenen Erhebung einer schlüssigen Klage aber ausschließlich im Stellen des Antrags auf Erlass eines Versäumnisurteils (OLG Oldenburg aaO). Schließlich wird angeführt, vom Gesetzgeber könne eine gebührenrechtliche Regelung für den Fall des prozessordnungswidrigen Ergehens einer Entscheidung nicht erwartet werden (Winkler aaO).
+
+9 bb) Demgegenüber überwiegt die Auffassung, die Gebühr nach Nr. 3105 Anm. Abs. 1 Nr. 2 VV RVG falle auch dann an, wenn das Versäumnisurteil nach § 331 Abs. 3 ZPO ohne den erforderlichen Antrag ergeht (z.B. KGR Berlin 2008, 806, 807; OLG München, FamRZ 2008, 913, 914; OLG Jena, MDR 2006, 1196, 1197; Hansens, RVGreport 2006, 321, 323; Mayer in: Mayer/Kroiß, Rechtsanwaltsvergütungsgesetz, 6. Aufl., Nr. 3105 VV Rn. 17; Müller-Rabe in: Gerold/Schmidt, Rechtsanwaltsvergütungsgesetz, 22. Aufl., VV 3105 Rn. 33; AnwK-RVG/Onderka, RVG, 7. Aufl., VV 3105 Rn. 38; Schneider, RVGreport 2013, 82; Hartung/Schons/Enders/Schons, 3. Aufl., Nr. 3105 VV Rn. 22 f.). Auch diese Auffassung stützt sich zur Begründung zunächst auf den Gesetzeswortlaut; Nr. 3105 Anm. Abs. 1 Nr. 2 VV RVG verlange dem Wortlaut nach nur eine Entscheidung nach § 331 Abs. 3 ZPO, nicht aber einen entsprechenden Antrag (so: KG Berlin aaO; OLG München aaO; OLG Jena aaO; Hansens aaO; Müller-Rabe aaO; AnwK-RVG/Onderka, aaO Rn. 38; Hartung/Schons/Enders/Schons, aaO Rn. 23; wohl auch Mayer aaO). Zudem vergüte die Gebühr nach Nr. 3105 Anm. Abs. 1 Nr. 2 VV RVG nicht einen besonderen Aufwand des Anwalts, sondern schaffe einen Ausgleich dafür, dass dem Rechtsanwalt durch die Erledigung im schriftlichen Verfahren die bei Verfahren mit vorgeschriebener mündlicher Verhandlung sonst zu erwartende Terminsgebühr für die Wahrnehmung eines Termins entgehe (KG Berlin aaO). Schließlich bestehe für kostenrechtliche Tatbestände der Grundsatz, dass sie allein an ein formales Prozessmerkmal, hier den Erlass einer Entscheidung, anknüpften, ohne dass die dafür maßgebenden Voraussetzungen zu hinterfragen seien (OLG Jena aaO; AnwK-RVG/Onderka aaO).
+
+10 b) Die zuletzt dargestellte Auffassung trifft im Ergebnis zu. Die 0,5-Gebühr nach Nr. 3105 Anm. Abs. 1 Nr. 2 VV RVG fällt unabhängig davon an, ob das Versäumnisurteil nach § 331 Abs. 3 ZPO auf einem entsprechenden Antrag des Klägers beruht.
+
+11 Auch der erkennende Senat ist der Auffassung, dass bereits der Wortlaut der Vorschrift eher für diese Auslegung spricht; denn maßgebliche Voraussetzung für den Anfall der Gebühr ist danach das Ergehen der Entscheidung. Freilich ist der Wortlaut insoweit nicht zwingend, denn das Wort "gemäß" kann - jedenfalls bei isolierter Betrachtung - auch als "in Übereinstimmung mit" verstanden werden, was zur Folge hätte, dass die Voraussetzungen des § 331 Abs. 3 ZPO und damit das Antragserfordernis von Nr. 3105 Anm. Abs. 1 Nr. 2 VV RVG in Bezug genommen wären (vgl. hierzu Schons, AGS 2006, 228, 229). Dass dies vom Gesetzgeber nicht gewollt ist, ergibt sich aber aus Sinn und Zweck der Vorschrift.
+
+12 Zu Nr. 3104 Anm. Abs. 1 Nr. 1 VV RVG hat der Bundesgerichtsgerichtshof (BGH, Beschluss vom 27. Oktober 2005 - III ZB 42/05, NJW 2006, 157 Rn. 8) bereits ausgeführt, mit ihr solle - "in Übereinstimmung mit der bisherigen Rechtslage" (§ 35 BRAGO aF) - erreicht werden, dass der Prozessbevollmächtigte, der in einem Zivilprozess im Hinblick auf den Grundsatz der Mündlichkeit (§ 128 Abs. 1 ZPO) erwarten könne, in der mündlichen Verhandlung seine Terminsgebühr zu verdienen, keinen Gebührennachteil erleide, wenn durch eine andere Verfahrensgestaltung auf eine mündliche Verhandlung verzichtet werde. Nichts anderes kann für Nr. 3105 Anm. Abs. 1 Nr. 2 VV RVG gelten (im Ergebnis ebenso KGR Berlin 2008, 806, 807). Denn auch mit dieser Vorschrift wird der Fall einer besonderen Gestaltung des Verfahrens ohne mündliche Verhandlung dem entsprechenden "Normalverfahren" mit mündlicher Verhandlung gebührenrechtlich gleichgestellt; auch sie hat ihren Vorläufer in § 35 BRAGO aF. Mit der 0,5-Gebühr nach Nr. 3105 Anm. Abs. 1 Nr. 2 VV RVG soll also gerade nicht der mit der Stellung des (Prozess-)Antrags auf Erlass eines Versäumnisurteils verbundene - denkbar geringe - zusätzliche Aufwand des Prozessbevollmächtigten vergütet werden, sondern der dem Prozessbevollmächtigten ohne die Vorschrift drohende gebührenrechtliche Nachteil einer Entscheidung ohne mündliche Verhandlung vermieden werden. Dieser Nachteil droht aber unabhängig davon, ob das die mündliche Verhandlung verhindernde Versäumnisurteil nach § 331 Abs. 3 ZPO auf einem Antrag des Klägers beruht oder nicht.
+
+13 c) Die von der Rechtsbeschwerde für ihre gegenteilige Auffassung weiter angeführten Argumente greifen nicht. Insbesondere ist anzumerken:
+
+14 Soweit die Rechtsbeschwerde darauf abhebt, dass Nr. 3105 VV RVG auch im Falle der Wahrnehmung eines Termins für das Entstehen einer auf 0,5 reduzierten Gebühr verlangt, dass ein Prozessantrag gestellt wird, berücksichtigt sie die Vorschrift der Nr. 3105 Anm. Abs. 1 Nr. 1 VV RVG nicht, aus der sich das Gegenteil ergibt. Danach fällt die Gebühr in einem solche Fall gerade auch dann an, wenn der erschienene Rechtsanwalt solche Anträge selbst nicht stellt, sondern das Gericht von Amts wegen eine Entscheidung zur Prozess- oder Sachlage fällt (Hartung/Schons/Enders/Schons, 3. Aufl., Nr. 3105 VV Rn. 16).
+
+15 Schließlich hilft der Rechtsbeschwerde auch der Hinweis nicht weiter, der Gesetzgeber habe die Regelung der Nr. 3105 VV RVG ausweislich der Entwurfsbegründung (BT-Drucks. 15/1971, S. 212) damit begründet, dass der Aufwand in der dort geregelten Fallkonstellation in der Regel vermindert sei, bei Erlass eines Versäumnisurteils im schriftlichen Verfahren, welches nicht einmal auf einer dahingehenden vorherigen Antragstellung des Rechtsanwaltes beruhe, könne von einem "Aufwand" aber keine Rede sein. Denn mit dem "verminderten Aufwand" wird im Gesetzentwurf nur die gegenüber Nr. 3104 VV RVG geringere Gebührenhöhe von Nr. 3105 VV RVG begründet, nicht hingegen die in Nr. 3105 Anm. Abs. 1 Nr. 2 VV RVG geregelte gebührenrechtliche Gleichstellung eines Versäumnisurteils im schriftlichen Verfahren mit den - eine mündliche Verhandlung einschließenden - "Grundfällen" der Nr. 3105 VV RVG.
+
+Galke
+
+Wellner
+
+v. Pentz
+
+Offenloch
+
+Müller

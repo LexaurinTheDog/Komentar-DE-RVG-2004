@@ -1,0 +1,199 @@
+{
+  "complete": false,
+  "task_kind": "bounded_independent_second_pass",
+  "decisive_date": "2026-10-19",
+  "reviewed_at": "2026-10-20T11:01:13.843390+00:00",
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "vv3103",
+    "vv3104",
+    "vv3105",
+    "vv3106",
+    "vb3.2",
+    "vb3.2.1",
+    "vv3200",
+    "vv3201",
+    "vv3202",
+    "vv3203",
+    "vv3204",
+    "vv3205",
+    "vb3.2.2",
+    "vv3206",
+    "vv3207",
+    "vv3208",
+    "vv3209",
+    "vv3210",
+    "vv3211",
+    "vv3212"
+  ],
+  "changed_ids": [
+    "vv3104",
+    "vv3105",
+    "vv3106",
+    "vb3.2",
+    "vb3.2.1",
+    "vv3200",
+    "vv3201",
+    "vv3202",
+    "vv3203",
+    "vv3204",
+    "vv3205",
+    "vb3.2.2",
+    "vv3206",
+    "vv3207",
+    "vv3208",
+    "vv3209",
+    "vv3210",
+    "vv3211",
+    "vv3212"
+  ],
+  "unchanged_assigned_ids": [
+    "vv3103"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "vv3103",
+      "disposition": "preserved",
+      "assessment": "Amtlichen Wegfallslot vollständig geprüft. Kommentar mit historischer Prüfung nach § 60 und ohne erfundenen aktuellen Tarif zutreffend; unverändert erhalten."
+    },
+    {
+      "id": "vv3104",
+      "disposition": "corrected_or_expanded",
+      "assessment": "Tarif und sämtliche vier Anmerkungsabsätze gelesen. Verhandlung/Erörterung seit 1. Juni 2025, drei Ersatzereignisse, Gerichtsbescheid-Antragsmöglichkeit, Mehrbetrag, bloße Protokollierung und Voranrechnung nun einzeln erläutert. BGH I ZB 1/17 vollständig geprüft und auf Entstehung/Erstattung begrenzt."
+    },
+    {
+      "id": "vv3105",
+      "disposition": "corrected_or_expanded",
+      "assessment": "0,5-Tarif und beide Anmerkungsabsätze gelesen. Einziger Termin, begrenzter Antrag und fehlende ordnungsgemäße Vertretung präzisiert. Bisher nicht erklärten Ausschluss des § 333 ZPO ergänzt. BGH VI ZB 21/16 betrifft tatsächlich ergangenes schriftliches Urteil auch ohne Prozessantrag, nicht dessen prozessuale Fehlerfreiheit."
+    },
+    {
+      "id": "vv3106",
+      "disposition": "corrected_or_expanded",
+      "assessment": "Rahmen 65–665 Euro, alle drei Ersatzfälle und 90-Prozent-Bezug geprüft. Missverständliches altes Beispiel zur vorgeschriebenen Verhandlung ersetzt. § 14 gegenüber fester Quote, keine automatische Erörterungstermin-Übernahme, 400×90%=360 und Nr. 1008 erklärt. BSG zum angenommenen Anerkenntnis mit Grenzen ausgewertet."
+    },
+    {
+      "id": "vb3.2",
+      "disposition": "corrected_or_expanded",
+      "assessment": "Beide Absätze vollständig geprüft. Zulassung und § 16 Nr. 11, alle Eiltypen einschließlich Aufhebung/Widerruf/Änderung und GWB-Satznummern erläutert. Erstmaliger Eilantrag beim Rechtsmittelgericht als Hauptsachegericht von Eilbeschwerde unterschieden; keine höhere Gebühr allein wegen Gerichtsebene."
+    },
+    {
+      "id": "vb3.2.1",
+      "disposition": "corrected_or_expanded",
+      "assessment": "Gesamten Katalog mit Nummern 1–4 und allen Buchstaben geprüft. Finanzgericht, rechtszugbeendende und Hauptgegenstandsentscheidungen, sieben Wirtschaftsgesetze, Eilbeschwerden, WpHG und Europäische Kontenpfändung sowie StVollzG/JGG erfasst. Kein Einschluss beliebiger Zwischen-/Kostenbeschwerden."
+    },
+    {
+      "id": "vv3200",
+      "disposition": "corrected_or_expanded",
+      "assessment": "1,6-Tarif und Ausnahme Nr. 3204 gegengelesen. Entstehung, endgültiger Satz nach Nr. 3201, eigener Rechtszug und Gebühreneinheit getrennt; Beispiel mehrerer Schriftsätze. Keine freie Anrechnung erstinstanzlicher Gebühren."
+    },
+    {
+      "id": "vv3201",
+      "disposition": "corrected_or_expanded",
+      "assessment": "Alle Handlungen und beide Absätze gelesen. Einlegung, Sach-/Rücknahmeschriftsatz und Termin alternativ ausschließend für frühes Ende. Mehrvergleich mit Gleichstellungen, § 15 Abs. 3 und Überschussanrechnung vollständig erklärt. Beschränkte Familien-/freiwillige Tätigkeit eigenständig. BGH 2018 unmittelbar statt nur analog verwendet."
+    },
+    {
+      "id": "vv3202",
+      "disposition": "corrected_or_expanded",
+      "assessment": "Tarif, selektive Übernahme Nr. 3104 Abs. 1 Nr. 1/3 und Abs. 2/3 sowie FGO-Gerichtsbescheide gelesen. Keine pauschale Übernahme Nr. 2 oder Abs. 4. Nr. 3203/3205 und Besprechungsgrundlage getrennt; amtliche FGO-Verweisungstexte geprüft."
+    },
+    {
+      "id": "vv3203",
+      "disposition": "corrected_or_expanded",
+      "assessment": "Ganzer Tatbestand und beide Verweisungen gelesen. Im Berufungs-/Beschwerdeverfahren maßgeblicher Rechtsmittelführer, eingeschränkter Antrag, Nr.-3105-Erweiterungen und §-333-Ausschluss erläutert. Finanzgerichtlicher Verweis ausdrücklich erhalten; keine Summierung 0,5+1,2."
+    },
+    {
+      "id": "vv3204",
+      "disposition": "corrected_or_expanded",
+      "assessment": "Rahmen 78–889 Euro, Inkrafttreten und §-3-Modell geprüft. Rahmenmitte 483,50 nur Rechenwert; § 14 mit § 14 Abs. 2 bei anzurechnender Vorbefassung, keine Übertragung der 1,1-Ermäßigung. Bezug zur 75-Prozent-Regel der Terminsgebühr richtig."
+    },
+    {
+      "id": "vv3205",
+      "disposition": "corrected_or_expanded",
+      "assessment": "Rahmen 65–665 und genaue Rückverweisung auf Nr. 3106 Satz 1 Nr. 1/3 gelesen. Gerichtsbescheidfall Nr. 2 nicht übernommen. Tatsächlicher Termin nach § 14 versus 75 Prozent ohne Nr. 1008; 600×75%=450 nachgerechnet. Abschlussprüfliste ergänzt."
+    },
+    {
+      "id": "vb3.2.2",
+      "disposition": "corrected_or_expanded",
+      "assessment": "Alle drei Nummern samt Buchstaben gelesen. Rückverweisung nur auf Nr. 2 der Vorbemerkung 3.2.1, KapMuG § 23, ZPO § 1065, BPatG-Rechtsmittel und genau bezeichneter BFH-Fall erfasst. Zuordnung von ausschließlicher BGH-Anwaltsvertretung nach Nr. 3208 getrennt."
+    },
+    {
+      "id": "vv3206",
+      "disposition": "corrected_or_expanded",
+      "assessment": "1,6, Nr.-3212-Vorrang und Zusammenspiel Nrn. 3207/3208 geprüft. Geschäftsbetreiben, einheitlicher Anspruch je Angelegenheit, neue Instanz und ausdrückliche Nichtzulassungsbeschwerdeanrechnung erläutert; keine höhere Gebühr für bloße Befassung eines obersten Gerichts."
+    },
+    {
+      "id": "vv3207",
+      "disposition": "corrected_or_expanded",
+      "assessment": "1,1 und vollständige Anmerkungsübernahme Nr. 3201 geprüft. Frühes Ende von Mehrgegenständen/Überschuss und beschränkter Tätigkeit getrennt. Einlegung schließt nur den zeitlichen Weg aus, nicht jeden beschränkten Tätigkeitsfall. Sondertarif Nr. 3209 vorgehalten."
+    },
+    {
+      "id": "vv3208",
+      "disposition": "corrected_or_expanded",
+      "assessment": "2,3-Tarif und ausschließlicher Vertretungskreis gelesen. BGH-Gerichtsort oder persönliche Zulassung allein reichen nicht; Zuordnung vor Satzwahl. Keine Addition zum Grundsatz und keine entsprechende Erhöhung des Terminsatzes. Ermäßigung nach Nr. 3209 erklärt."
+    },
+    {
+      "id": "vv3209",
+      "disposition": "corrected_or_expanded",
+      "assessment": "1,8-Tarif samt vollständiger Anmerkungsübernahme gelesen. Alle qualifizierten Handlungen und zusätzlich Mehrgegenstands-/Beschränkungsfälle berücksichtigt. Ersetzt volle 2,3 statt Zuschlag zu 1,6 oder Kumulation mit 1,1. Prüfung ohne Verfahrensauftrag abgegrenzt."
+    },
+    {
+      "id": "vv3210",
+      "disposition": "corrected_or_expanded",
+      "assessment": "1,5 und sämtliche ausdrücklichen Rückverweisungen gelesen. Tatsächlicher Termin/Besprechung und Ersatzereignisse getrennt, kein pauschaler Gerichtsbescheidverweis. Nr. 3211/3213 und Mehrgegenstandsregeln berücksichtigt; wording zur vorgeschriebenen, aber nicht durchgeführten Verhandlung präzisiert."
+    },
+    {
+      "id": "vv3211",
+      "disposition": "corrected_or_expanded",
+      "assessment": "0,8, Rechtsmittelführer, Vertretungslage, nur ein Termin und beschränkte Anträge vollständig gelesen. §-333-Ausschluss und beide Erweiterungsverweise erläutert. Kein automatischer Säumnisfall bei bloß wenig Vortrag und keine Addition neben voller Gebühr."
+    },
+    {
+      "id": "vv3212",
+      "disposition": "corrected_or_expanded",
+      "assessment": "105–1.151-Euro-Rahmen und §-3-Zuordnung geprüft; Mitte 628 Euro nachgerechnet. § 14 Abs. 2 bei Voranrechnung und Bezug zu Nr. 3213 mit richtiger 90-Prozent-Quote aus dessen vollständiger Rückverweisung auf Nr. 3106 Satz 2 kontrolliert. Keine neue inhaltliche Prüfung des unzugewiesenen Nr.-3213-Kommentars."
+    }
+  ],
+  "limitations": [
+    "Exactly 20 assigned units reviewed; all 324 other commentary blocks preserved against work commit 1f2277e. No whole-book substantive completion claim.",
+    "Three new primary decisions and one existing fully reread primary decision selectively support 3104, 3105, 3106 and 3201. No new sufficiently relevant verified case asserted for the other 16 units; no exhaustive negative case survey.",
+    "Old cases are confined to their actual holdings: 2017 default judgment does not establish procedural validity; 2017 comparison concerns its cost agreement; 2020 recognition does not exclude every current alternative fee event; 2018 mailing does not decide every electronic transmission issue.",
+    "Current official consolidation, intake comparison and all current XML nodes/annexes checked; no complete historical archive or guarantee against legislation not yet incorporated by the official service.",
+    "External procedural provisions were checked only to understand express RVG referrals; this is no comprehensive commentary or amendment audit of ZPO, FGO or SGG.",
+    "Technical word-for-word, link and repetition checks do not establish substantive legal quality. No external professional approval or external submission."
+  ],
+  "source_preflight": {
+    "complete": true,
+    "evidence": "preflight-result.json",
+    "fresh_sources": "sources/review-vv3103-vv3212-2026-10-20/requests.json",
+    "version_evidence": "sources/review-vv3103-vv3212-2026-10-20/version-evidence.json",
+    "assigned_wording_evidence": "review-vv3103-vv3212-unit-evidence.json",
+    "annex_evidence": "annex-coverage.json"
+  },
+  "case_law_sources": [
+    {
+      "id": "VI ZB 21/16",
+      "source": "sources/review-vv3103-vv3212-2026-10-20/KORE312782017.xml",
+      "ecli": "ECLI:DE:BGH:2017:240117BVIZB21.16.0"
+    },
+    {
+      "id": "B 4 AS 13/20 R",
+      "source": "sources/review-vv3103-vv3212-2026-10-20/KSRE138480209.xml",
+      "ecli": "ECLI:DE:BSG:2020:170920UB4AS1320R0"
+    },
+    {
+      "id": "I ZB 1/17",
+      "source": "sources/review-vv3103-vv3212-2026-10-20/KORE302152017.xml",
+      "ecli": "ECLI:DE:BGH:2017:140617BIZB1.17.0"
+    },
+    {
+      "id": "XII ZB 112/17",
+      "source": "sources/review-vb23-vv3102-2026-10-20/KORE300332018.xml",
+      "scope": "Existing decision fully reread, direct support for 3201"
+    }
+  ],
+  "validation": {
+    "status": "Awaiting rebuild and strict validation; substantive review of all exact IDs completed"
+  },
+  "whole_book_review_complete": false,
+  "external_professional_approval": false
+}

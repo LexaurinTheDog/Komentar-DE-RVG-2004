@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-20",
+  "scope": "Selective primary authority research for the exact assigned units",
+  "steps": [
+    {
+      "method": "Local national corpus rg",
+      "queries": [
+        "Nr. 3104 / Nr 3104 / Nummer 3104",
+        "Nr. 3106 / 3205 / 3203 / 3209 / 3211"
+      ],
+      "result": "KORE312782017, KSRE138480209 and KORE302152017 selected and read in full. Other hits, including merely incidental fee calculations, not used as holdings."
+    },
+    {
+      "method": "Web search",
+      "queries": [
+        "site.rechtsprechung-im-internet.de \"VI ZB 21/16\"",
+        "site.rechtsprechung-im-internet.de \"B 4 AS 13/20 R\"",
+        "site.rechtsprechung-im-internet.de \"I ZB 54/16\""
+      ],
+      "result": "BSG official PDF discovery corroborates identity; third-party hits not used as authority. The I ZB 54/16 query was an irrelevant discovery lead, not the cited I ZB 1/17; discarded. Correct I ZB 1/17 found from local full text and verified by official XML docket/date."
+    },
+    {
+      "method": "Official ZIP/XML",
+      "evidence": "authority-requests.json",
+      "result": "Three expected single-file XML documents parsed, docket/date/ECLI recorded, all nonempty judicial paragraphs compared to local intake. Every decision actually read."
+    },
+    {
+      "method": "Existing primary evidence reread",
+      "decision": "KORE300332018",
+      "evidence": "../review-vb23-vv3102-2026-10-20/KORE300332018.xml",
+      "result": "Full Rn.1–33 and tenor reread; direct 3201 holding used. No new case or duplicate source alleged."
+    }
+  ],
+  "no_new_case_units": [
+    "vv3103",
+    "vb3.2",
+    "vb3.2.1",
+    "vv3200",
+    "vv3202",
+    "vv3203",
+    "vv3204",
+    "vv3205",
+    "vb3.2.2",
+    "vv3206",
+    "vv3207",
+    "vv3208",
+    "vv3209",
+    "vv3210",
+    "vv3211",
+    "vv3212"
+  ],
+  "limits": "Statute-based review of remaining units. No exhaustive case coverage or exhaustive negative search claimed."
+}

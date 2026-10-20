@@ -1,0 +1,29 @@
+{
+  "decisive_date": "2026-10-19",
+  "verified_at": "2026-10-20T11:01:13.843390+00:00",
+  "official_url": "https://www.gesetze-im-internet.de/rvg/",
+  "official_stand": [
+    "Neugefasst durch Bek. v. 15.3.2022 I 610",
+    "zuletzt geändert durch Art. 14 G v. 8.12.2025 I Nr. 318"
+  ],
+  "xml_sha256": "be5571d1735031133f154071b08a77ccdb89f3e047330ed057a494dfd128f5d1",
+  "rvg_xml_identical_to_authoring": true,
+  "commencement_current": {
+    "source": "sources/review-vv3103-vv3212-2026-10-20/bgbl-318.pdf",
+    "read": "Article 14 and Article 21(2)/(3) in actual promulgation text",
+    "effective": "Article 14 nos. 1/3/4 since 1 January 2026; no. 2 since 1 July 2026. This act does not change the assigned tariff rows."
+  },
+  "assigned_changes": {
+    "source": "sources/review-vv3103-vv3212-2026-10-20/bgbl-109.pdf",
+    "read": "Article 11(2) nos. 17–23 and Article 13(3)",
+    "effective": "1 June 2025",
+    "scope": "3104 prescribed discussion hearings; 3106 money frame; 3.2 GWB sentence numbering; 3204/3205/3212/3213 money frames. No percentage change in these amendments."
+  },
+  "history": "All 92 current XML nodes classified again. No duplicate operative labels or unlabelled operative Content; no separate Eingangsformel. Global official notes retained. Preserved intake, canonical source and change map show no normative intake change. This is not a complete historical archive.",
+  "annexes": "Anlage 1: 231 tariff IDs and 32 operative remarks independently derived from first XML cells before loading parsed IDs; all 536 rows preserved. Anlage 2: 22 rows preserved, no invented child IDs.",
+  "external_scope": "Current official single-provision pages ZPO §§ 331/333, FGO §§ 79a/90a/94a and SGG § 105 read only for express RVG references. No external new deadline or independent procedure advice added.",
+  "limitations": [
+    "Current official consolidation, intake comparison and all current XML nodes/annexes checked; no complete historical archive or guarantee against legislation not yet incorporated by the official service.",
+    "External procedural provisions were checked only to understand express RVG referrals; this is no comprehensive commentary or amendment audit of ZPO, FGO or SGG."
+  ]
+}

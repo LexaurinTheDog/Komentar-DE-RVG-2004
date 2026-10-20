@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/zpo/__333.html",
+    "accessed_at": "2026-10-20T10:54:49.667693+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "local_path": "sources/review-vv3103-vv3212-2026-10-20/zpo-333.html",
+    "sha256": "cfce682a8178b3c0b8959069085f8e5d33f1ebd1356bbcd9c336c6c3550e138e",
+    "validated_format": "HTML and expected provision page; source is current official consolidation"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/zpo/__331.html",
+    "accessed_at": "2026-10-20T10:54:49.810990+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "local_path": "sources/review-vv3103-vv3212-2026-10-20/zpo-331.html",
+    "sha256": "78dfa53787795cc16b7d43f1747559a55f6d144468655311985fa44263481c7f",
+    "validated_format": "HTML and expected provision page; source is current official consolidation"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/fgo/__79a.html",
+    "accessed_at": "2026-10-20T10:54:49.908923+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "local_path": "sources/review-vv3103-vv3212-2026-10-20/fgo-79a.html",
+    "sha256": "84f4775600364df0bb8f66c64320305bcfe0b3edf54e98e8aeecfbf61f892bb6",
+    "validated_format": "HTML and expected provision page; source is current official consolidation"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/fgo/__90a.html",
+    "accessed_at": "2026-10-20T10:54:50.005204+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "local_path": "sources/review-vv3103-vv3212-2026-10-20/fgo-90a.html",
+    "sha256": "0c4d80cf46e52854f59e8ca6a1eb6e44f12a2ba7211a91a8ab342b863e8a99a1",
+    "validated_format": "HTML and expected provision page; source is current official consolidation"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/fgo/__94a.html",
+    "accessed_at": "2026-10-20T10:54:50.106585+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "local_path": "sources/review-vv3103-vv3212-2026-10-20/fgo-94a.html",
+    "sha256": "fd8d08624e365778b06821a4d6fc04f960c85e05882cdb21763f197274823bad",
+    "validated_format": "HTML and expected provision page; source is current official consolidation"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/sgg/__105.html",
+    "accessed_at": "2026-10-20T10:54:50.210306+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "local_path": "sources/review-vv3103-vv3212-2026-10-20/sgg-105.html",
+    "sha256": "f3dafe9d4e3bca58c187d7b2a07b6fde94696f2fd315601010deb6be88e304c6",
+    "validated_format": "HTML and expected provision page; source is current official consolidation"
+  }
+]

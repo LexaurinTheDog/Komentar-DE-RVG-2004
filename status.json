@@ -3,7 +3,7 @@
   "title": "Gesetz über die Vergütung der Rechtsanwältinnen und Rechtsanwälte",
   "country": "de",
   "decisive_date": "2026-10-19",
-  "updated_at": "2026-10-20T10:52:45.015340+00:00",
+  "updated_at": "2026-10-20T11:02:39.416043+00:00",
   "stage": "bounded_review_checkpoint",
   "official_norm_units": 81,
   "numbered_paragraphs": 79,
@@ -12,7 +12,7 @@
   "operative_preliminary_remarks": 32,
   "total_units": 344,
   "completed_units": 344,
-  "commentary_chars": 349422,
+  "commentary_chars": 373331,
   "chapters": 17,
   "source_checks": {
     "official_source": "https://www.gesetze-im-internet.de/rvg/",
@@ -27,9 +27,9 @@
     "preflight_version_evidence": "sources/preflight-version-evidence.json",
     "annex_coverage": "annex-coverage.json",
     "frontmatter": "sources/rvg-frontmatter.json",
-    "bounded_review_recheck": "sources/review-vb23-vv3102-2026-10-20/requests.json",
-    "additional_authorities": "sources/review-vb23-vv3102-2026-10-20/authority-requests.json",
-    "assigned_version_evidence": "sources/review-vb23-vv3102-2026-10-20/version-evidence.json"
+    "bounded_review_recheck": "sources/review-vv3103-vv3212-2026-10-20/requests.json",
+    "additional_authorities": "sources/review-vv3103-vv3212-2026-10-20/authority-requests.json",
+    "assigned_version_evidence": "sources/review-vv3103-vv3212-2026-10-20/version-evidence.json"
   },
   "case_law_sources": [
     {
@@ -115,37 +115,32 @@
       "docket": "XII ZB 112/17",
       "ecli": "ECLI:DE:BGH:2018:070218BXIIZB112.17.0",
       "source": "sources/review-vb23-vv3102-2026-10-20/KORE300332018.xml"
+    },
+    {
+      "court": "BGH",
+      "date": "2017-01-24",
+      "docket": "VI ZB 21/16",
+      "ecli": "ECLI:DE:BGH:2017:240117BVIZB21.16.0",
+      "source": "sources/review-vv3103-vv3212-2026-10-20/KORE312782017.xml"
+    },
+    {
+      "court": "BSG",
+      "date": "2020-09-17",
+      "docket": "B 4 AS 13/20 R",
+      "ecli": "ECLI:DE:BSG:2020:170920UB4AS1320R0",
+      "source": "sources/review-vv3103-vv3212-2026-10-20/KSRE138480209.xml"
+    },
+    {
+      "court": "BGH",
+      "date": "2017-06-14",
+      "docket": "I ZB 1/17",
+      "ecli": "ECLI:DE:BGH:2017:140617BIZB1.17.0",
+      "source": "sources/review-vv3103-vv3212-2026-10-20/KORE302152017.xml"
     }
   ],
-  "case_law_scope": "Twelve selectively verified decisions: eight BGH, three BVerfG and one BSG. Current batch adds support for 2300 and limited comparison for 3101; no exhaustive per-unit research.",
+  "case_law_scope": "Fifteen selectively verified decisions: ten BGH, three BVerfG and two BSG. Current batch adds three decisions and rereads one existing decision for 3104/3105/3106/3201; no exhaustive per-unit research.",
   "validation": {
-    "strict": {
-      "repo": "Komentar-DE-RVG-2004",
-      "units": 344,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 349422,
-      "errors": [],
-      "warnings": [],
-      "ok": true
-    },
-    "validated_at": "2026-10-20T10:52:44.736434+00:00",
-    "validated_work_commit": "e9a7f842c8e05f4ad1d4d46ed9ebd2693cd28d47",
-    "validated_output_commit": "1f3e300b82e86e0dfc5806e7a7d51b8eda15da1a",
-    "build": "success",
-    "independent_xml_coverage": {
-      "expected": 344,
-      "parsed": 344,
-      "missing": [],
-      "duplicates": [],
-      "ok": true
-    },
-    "assigned_full_wording_matches": 20,
-    "unassigned_commentary_blocks_preserved": 324,
-    "local_links_checked": 272,
-    "broken_local_links": [],
-    "exact_repeated_long_sentences": 0,
-    "exact_repeated_long_paragraphs": 0,
-    "meaning": "Technical checks support the independently read 20-unit review. They do not independently establish legal quality or whole-book completion."
+    "status": "Awaiting rebuild and strict validation; substantive review of all exact IDs completed"
   },
   "completeness": {
     "report": "completeness.json",
@@ -155,12 +150,12 @@
     "ok": true
   },
   "remaining_limitations": [
-    "Exactly20 assigned units reviewed; all324 unassigned commentary blocks preserved against e271eaa. No whole-book review or completion claim.",
-    "Selective new case research only for2300 and3101; no new sufficiently relevant verified case asserted for the other18units. No exhaustive negative case survey.",
-    "BGH2012 addresses the general1.3threshold, not later special uncontroverted-collection rules. BGH2018 directly concerns3201/postal transmission, used only as a limited interpretive comparison for3101.",
-    "Current consolidation, intake change map, all currentXML nodes and annexes checked; no complete historical archive or guarantee against legislation not yet incorporated by the official service.",
-    "External laws checked only in the cited scope. Commencement/amendment checks of the latest relevant acts are not a complete historical commentary on those laws.",
-    "Technical text/length/repetition checks do not certify substantive legal quality. No external professional approval, publication, push or external submission."
+    "Exactly 20 assigned units reviewed; all 324 other commentary blocks preserved against work commit 1f2277e. No whole-book substantive completion claim.",
+    "Three new primary decisions and one existing fully reread primary decision selectively support 3104, 3105, 3106 and 3201. No new sufficiently relevant verified case asserted for the other 16 units; no exhaustive negative case survey.",
+    "Old cases are confined to their actual holdings: 2017 default judgment does not establish procedural validity; 2017 comparison concerns its cost agreement; 2020 recognition does not exclude every current alternative fee event; 2018 mailing does not decide every electronic transmission issue.",
+    "Current official consolidation, intake comparison and all current XML nodes/annexes checked; no complete historical archive or guarantee against legislation not yet incorporated by the official service.",
+    "External procedural provisions were checked only to understand express RVG referrals; this is no comprehensive commentary or amendment audit of ZPO, FGO or SGG.",
+    "Technical word-for-word, link and repetition checks do not establish substantive legal quality. No external professional approval or external submission."
   ],
   "unresolved_material_source_blockers": [],
   "independent_review_complete": false,
@@ -168,7 +163,7 @@
   "authoring_started_date": "2026-10-19",
   "quality": {
     "ok": true,
-    "local_links_checked": 272,
+    "local_links_checked": 325,
     "broken_local_links": [],
     "identical_long_sentences": 0,
     "identical_long_paragraphs": 0
@@ -186,84 +181,60 @@
     "independent_coverage_ok": true
   },
   "bounded_review": {
-    "complete": true,
+    "complete": false,
     "units_reviewed": 20,
     "reviewed_ids": [
-      "vb2.3",
-      "vv2300",
-      "vv2301",
-      "vv2302",
-      "vv2303",
-      "vb2.5",
-      "vv2500",
-      "vv2501",
-      "vv2502",
-      "vv2503",
-      "vv2504",
-      "vv2505",
-      "vv2506",
-      "vv2507",
-      "vv2508",
-      "vb3",
-      "vb3.1",
-      "vv3100",
-      "vv3101",
-      "vv3102"
+      "vv3103",
+      "vv3104",
+      "vv3105",
+      "vv3106",
+      "vb3.2",
+      "vb3.2.1",
+      "vv3200",
+      "vv3201",
+      "vv3202",
+      "vv3203",
+      "vv3204",
+      "vv3205",
+      "vb3.2.2",
+      "vv3206",
+      "vv3207",
+      "vv3208",
+      "vv3209",
+      "vv3210",
+      "vv3211",
+      "vv3212"
     ],
     "changed_ids": [
-      "vb2.3",
-      "vv2300",
-      "vv2301",
-      "vv2302",
-      "vv2303",
-      "vb2.5",
-      "vv2500",
-      "vv2501",
-      "vv2502",
-      "vv2503",
-      "vv2504",
-      "vv2505",
-      "vv2506",
-      "vv2507",
-      "vv2508",
-      "vb3",
-      "vb3.1",
-      "vv3100",
-      "vv3101",
-      "vv3102"
+      "vv3104",
+      "vv3105",
+      "vv3106",
+      "vb3.2",
+      "vb3.2.1",
+      "vv3200",
+      "vv3201",
+      "vv3202",
+      "vv3203",
+      "vv3204",
+      "vv3205",
+      "vb3.2.2",
+      "vv3206",
+      "vv3207",
+      "vv3208",
+      "vv3209",
+      "vv3210",
+      "vv3211",
+      "vv3212"
+    ],
+    "unchanged_assigned_ids": [
+      "vv3103"
     ],
     "unresolved_blockers": [],
-    "result": "review-vb23-vv3102-result.json",
+    "result": "review-vv3103-vv3212-result.json",
     "unassigned_units_preserved": 324,
     "whole_book_review_complete": false,
     "validation": {
-      "strict": {
-        "repo": "Komentar-DE-RVG-2004",
-        "units": 344,
-        "verbatim_ratio": 1.0,
-        "commentary_chars": 349422,
-        "errors": [],
-        "warnings": [],
-        "ok": true
-      },
-      "validated_at": "2026-10-20T10:52:44.736434+00:00",
-      "validated_work_commit": "e9a7f842c8e05f4ad1d4d46ed9ebd2693cd28d47",
-      "validated_output_commit": "1f3e300b82e86e0dfc5806e7a7d51b8eda15da1a",
-      "build": "success",
-      "independent_xml_coverage": {
-        "expected": 344,
-        "parsed": 344,
-        "missing": [],
-        "duplicates": [],
-        "ok": true
-      },
-      "assigned_full_wording_matches": 20,
-      "unassigned_commentary_blocks_preserved": 324,
-      "local_links_checked": 272,
-      "broken_local_links": [],
-      "exact_repeated_long_sentences": 0,
-      "exact_repeated_long_paragraphs": 0,
-      "meaning": "Technical checks support the independently read 20-unit review. They do not independently establish legal quality or whole-book completion."
+      "status": "Awaiting rebuild and strict validation; substantive review of all exact IDs completed"
     }
   },
   "previous_bounded_review": {
@@ -578,6 +549,87 @@
         "identical_long_paragraphs": 0,
         "quality_report": "quality-report.json",
         "limitations": "Technical whole-band validation does not establish substantive review of unassigned units; legal review remains exactly20units."
+      }
+    },
+    {
+      "complete": true,
+      "units_reviewed": 20,
+      "reviewed_ids": [
+        "vb2.3",
+        "vv2300",
+        "vv2301",
+        "vv2302",
+        "vv2303",
+        "vb2.5",
+        "vv2500",
+        "vv2501",
+        "vv2502",
+        "vv2503",
+        "vv2504",
+        "vv2505",
+        "vv2506",
+        "vv2507",
+        "vv2508",
+        "vb3",
+        "vb3.1",
+        "vv3100",
+        "vv3101",
+        "vv3102"
+      ],
+      "changed_ids": [
+        "vb2.3",
+        "vv2300",
+        "vv2301",
+        "vv2302",
+        "vv2303",
+        "vb2.5",
+        "vv2500",
+        "vv2501",
+        "vv2502",
+        "vv2503",
+        "vv2504",
+        "vv2505",
+        "vv2506",
+        "vv2507",
+        "vv2508",
+        "vb3",
+        "vb3.1",
+        "vv3100",
+        "vv3101",
+        "vv3102"
+      ],
+      "unresolved_blockers": [],
+      "result": "review-vb23-vv3102-result.json",
+      "unassigned_units_preserved": 324,
+      "whole_book_review_complete": false,
+      "validation": {
+        "strict": {
+          "repo": "Komentar-DE-RVG-2004",
+          "units": 344,
+          "verbatim_ratio": 1.0,
+          "commentary_chars": 349422,
+          "errors": [],
+          "warnings": [],
+          "ok": true
+        },
+        "validated_at": "2026-10-20T10:52:44.736434+00:00",
+        "validated_work_commit": "e9a7f842c8e05f4ad1d4d46ed9ebd2693cd28d47",
+        "validated_output_commit": "1f3e300b82e86e0dfc5806e7a7d51b8eda15da1a",
+        "build": "success",
+        "independent_xml_coverage": {
+          "expected": 344,
+          "parsed": 344,
+          "missing": [],
+          "duplicates": [],
+          "ok": true
+        },
+        "assigned_full_wording_matches": 20,
+        "unassigned_commentary_blocks_preserved": 324,
+        "local_links_checked": 272,
+        "broken_local_links": [],
+        "exact_repeated_long_sentences": 0,
+        "exact_repeated_long_paragraphs": 0,
+        "meaning": "Technical checks support the independently read 20-unit review. They do not independently establish legal quality or whole-book completion."
       }
     }
   ],

@@ -1,0 +1,53 @@
+[
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE312782017.zip",
+    "accessed_at": "2026-10-20T10:54:10.510123+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "local_path": "sources/review-vv3103-vv3212-2026-10-20/KORE312782017.zip",
+    "sha256": "ea77b6b48ad4906ba30e050fcf0885bed1052b3fc98bf9e1ad58a7cbba9a3659",
+    "validated_format": "ZIP, single expected decision XML, XML parsed",
+    "xml_path": "sources/review-vv3103-vv3212-2026-10-20/KORE312782017.xml",
+    "xml_sha256": "3ed2d4119951858458001ab41bc362326dba2f85241dcf2cfc9d86055eb1bba0",
+    "court": "BGH",
+    "date": "20170124",
+    "docket": "VI ZB 21/16",
+    "ecli": "ECLI:DE:BGH:2017:240117BVIZB21.16.0",
+    "local_intake_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore312782017.md",
+    "local_intake_sha256": "9b9263dd5db42b32917cf7a3747ac4257eb11464c398865aa247c4ed8cab9ee6"
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KSRE138480209.zip",
+    "accessed_at": "2026-10-20T10:54:10.803930+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "local_path": "sources/review-vv3103-vv3212-2026-10-20/KSRE138480209.zip",
+    "sha256": "fe3f24349b7ec0cd13bfa1258a80ac2585e1ed77c0cd4810ecc9c4a65cad8ccb",
+    "validated_format": "ZIP, single expected decision XML, XML parsed",
+    "xml_path": "sources/review-vv3103-vv3212-2026-10-20/KSRE138480209.xml",
+    "xml_sha256": "9845417fce9fa7e3abb3fd2daf8d7cd46412711e154433ee25c5ebd7ad0fc686",
+    "court": "BSG",
+    "date": "20200917",
+    "docket": "B 4 AS 13/20 R",
+    "ecli": "ECLI:DE:BSG:2020:170920UB4AS1320R0",
+    "local_intake_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-ksre138480209.md",
+    "local_intake_sha256": "fdef7dbfd82794cbec46b11854b748a7651054332160e09e271bbd49a97720c9"
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE302152017.zip",
+    "accessed_at": "2026-10-20T10:54:10.910198+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "local_path": "sources/review-vv3103-vv3212-2026-10-20/KORE302152017.zip",
+    "sha256": "08390697efbfad89de731a807cd945e453cb4282d7f16b0f0b279239925599f5",
+    "validated_format": "ZIP, single expected decision XML, XML parsed",
+    "xml_path": "sources/review-vv3103-vv3212-2026-10-20/KORE302152017.xml",
+    "xml_sha256": "3adaf23a38d1a8d159c7c43906fe0b37653476d043e68303ab6a189e52322b00",
+    "court": "BGH",
+    "date": "20170614",
+    "docket": "I ZB 1/17",
+    "ecli": "ECLI:DE:BGH:2017:140617BIZB1.17.0",
+    "local_intake_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore302152017.md",
+    "local_intake_sha256": "f8770a387abf2d43e90f1083ebe2e7056e119be7adaa28c61aa0b29267a6432e"
+  }
+]
