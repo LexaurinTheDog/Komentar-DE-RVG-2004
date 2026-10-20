@@ -453,6 +453,13 @@
     "limitations": [
       "Two selectively chosen official decisions read in full; no exhaustive case-law or subsequent-case research. 3BGs440/25 is an investigating-judge ruling in a specific replacement appointment, not a senate ruling on every short appointment.",
       "Current consolidation, actual commencement and intake change-map checked; no full historical or indirect-amendment archive audit."
-    ]
+    ],
+    "validation": {
+      "strict_ok": true,
+      "verbatim_ratio": 1.0,
+      "validated_at": "2026-10-20T11:48:35.200809+00:00",
+      "reviewed_commentary_units": 20,
+      "whole_book_review_complete": false
+    }
   }
 }
