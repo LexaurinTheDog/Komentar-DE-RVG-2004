@@ -161,6 +161,27 @@
     "cases/bgh-2023-vi-zb-39-21.md"
   ],
   "validation": {
-    "status": "pending rebuild and strict validation"
+    "strict": {
+      "repo": "Komentar-DE-RVG-2004",
+      "units": 344,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 291994,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "validated_at": "2026-10-20T10:07:17.308117+00:00",
+    "validated_output_checkpoint": "d5ca8cc",
+    "completeness_report": "preflight-coverage.json",
+    "completeness_ok": true,
+    "annex_coverage": "annex-coverage.json",
+    "all_assigned_official_texts_equal": true,
+    "local_links_checked": 120,
+    "broken_local_links": [],
+    "identical_long_commentary_sentences": 0,
+    "identical_long_commentary_paragraphs": 0,
+    "unassigned_commentary_preserved": 324,
+    "quality_report": "quality-report.json",
+    "limitations": "Strict validator verifies technical properties and clean committed output; legal review findings are recorded per unit separately."
   }
 }

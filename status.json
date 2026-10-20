@@ -3,7 +3,7 @@
   "title": "Gesetz über die Vergütung der Rechtsanwältinnen und Rechtsanwälte",
   "country": "de",
   "decisive_date": "2026-10-19",
-  "updated_at": "2026-10-20T10:06:04.569205+00:00",
+  "updated_at": "2026-10-20T10:07:17.308117+00:00",
   "stage": "bounded_independent_review_checkpoint",
   "official_norm_units": 81,
   "numbered_paragraphs": 79,
@@ -12,7 +12,7 @@
   "operative_preliminary_remarks": 32,
   "total_units": 344,
   "completed_units": 344,
-  "commentary_chars": 281786,
+  "commentary_chars": 291994,
   "chapters": 17,
   "source_checks": {
     "official_source": "https://www.gesetze-im-internet.de/rvg/",
@@ -65,7 +65,7 @@
     "repo": "Komentar-DE-RVG-2004",
     "units": 344,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 281786,
+    "commentary_chars": 291994,
     "errors": [],
     "warnings": [],
     "ok": true
@@ -93,7 +93,7 @@
     "broken_local_links": 0,
     "identical_long_sentences": 0,
     "identical_long_paragraphs": 0,
-    "local_links_checked": 89
+    "local_links_checked": 120
   },
   "previous_authoring_stage": "drafted_technical_validation",
   "preflight": {
@@ -152,7 +152,8 @@
     "result": "review-result.json",
     "unassigned_units_preserved": 324,
     "whole_book_review_complete": false,
-    "strict_validation_ok": false
+    "strict_validation_ok": true,
+    "validated_output_commit": "d5ca8cc"
   },
   "previous_bounded_review": {
     "result": "review-p1-p14-result.json",
