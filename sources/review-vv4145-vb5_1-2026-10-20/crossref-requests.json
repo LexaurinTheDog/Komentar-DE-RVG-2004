@@ -1,0 +1,69 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/stpo/xml.zip",
+    "accessed_at": "2026-10-20T12:14:58.996553+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "local_path": "sources/review-vv4145-vb5_1-2026-10-20/stpo.zip",
+    "sha256": "fb59fced4b71b550a0320054e2e4f51cbf6db67df9adab7e6d3eb5f138dd0dd9",
+    "xml_path": "sources/review-vv4145-vb5_1-2026-10-20/stpo.xml",
+    "xml_sha256": "dc2a551f062dbb6afb69d16a337f78656d1cadb5cd20c0dd4cc89396711f7838",
+    "validated_format": "ZIP and XML parsed, official abbreviation checked",
+    "scope": [
+      "§ 406",
+      "§ 406a",
+      "§ 115",
+      "§ 172",
+      "§ 173",
+      "§ 456"
+    ],
+    "limitation": "Current official cross-reference context only; no separate historical archive or full commentary of the external code"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/strrehag/xml.zip",
+    "accessed_at": "2026-10-20T12:14:59.322279+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "local_path": "sources/review-vv4145-vb5_1-2026-10-20/strrehag.zip",
+    "sha256": "33043b189cb4ac28ffe7b8f59f153ed357f77d09934fab7f9d2591933ac92cb6",
+    "xml_path": "sources/review-vv4145-vb5_1-2026-10-20/strrehag.xml",
+    "xml_sha256": "da61185c4edd849e6a93e70f09f5e3406b510d17ab322759ae2f5efa99dd003e",
+    "validated_format": "ZIP and XML parsed, official abbreviation checked",
+    "scope": [
+      "§ 13",
+      "§ 25"
+    ],
+    "limitation": "Current official cross-reference context only; no separate historical archive or full commentary of the external code"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/stgb/xml.zip",
+    "accessed_at": "2026-10-20T12:14:59.429975+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "local_path": "sources/review-vv4145-vb5_1-2026-10-20/stgb.zip",
+    "sha256": "43e12baef8aed20424b3358a88921a68fb5589079344226ea54a798395d0ec11",
+    "xml_path": "sources/review-vv4145-vb5_1-2026-10-20/stgb.xml",
+    "xml_sha256": "2762d32c5254858eafdaa537d715d36e0cafe2803921b3fa6d39f6ad44d9b6c9",
+    "validated_format": "ZIP and XML parsed, official abbreviation checked",
+    "scope": [
+      "§ 57a",
+      "§ 67e"
+    ],
+    "limitation": "Current official cross-reference context only; no separate historical archive or full commentary of the external code"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/owig_1968/xml.zip",
+    "accessed_at": "2026-10-20T12:14:59.671363+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "local_path": "sources/review-vv4145-vb5_1-2026-10-20/owig_1968.zip",
+    "sha256": "45dcbbb7f8b562e36a94e8fbdf8a850fbd262631a04d22f9d6301d3214f1fb3d",
+    "xml_path": "sources/review-vv4145-vb5_1-2026-10-20/owig_1968.xml",
+    "xml_sha256": "565be49468363a54cdc41a5adca6ba84c7c93e1d9d41725e7629843d7ab64f3f",
+    "validated_format": "ZIP and XML parsed, official abbreviation checked",
+    "scope": [
+      "§ 108"
+    ],
+    "limitation": "Current official cross-reference context only; no separate historical archive or full commentary of the external code"
+  }
+]

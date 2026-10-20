@@ -1,0 +1,10 @@
+[
+  {
+    "doknr": "KORE616772026",
+    "judicial_paragraphs": 24,
+    "all_judicial_paragraphs_present_in_local_corpus": true,
+    "missing": [],
+    "official_xml_sha256": "5f06966d41351d20d5de5e2f2572db0c0eae3a0a24b4747a90a62345b2f61c5c",
+    "local_intake_sha256": "9cb5f1c963a4ad1035786b5d78f018634040367c78f4d07e3c0face4c5a5d862"
+  }
+]

@@ -1,0 +1,96 @@
+{
+  "authoring_started_date": "2026-10-19",
+  "decisive_date": "2026-10-19",
+  "recheck_date": "2026-10-20",
+  "official_stand": [
+    "Neugefasst durch Bek. v. 15.3.2022 I 610;",
+    "zuletzt geändert durch Art. 14 G v. 8.12.2025 I Nr. 318"
+  ],
+  "last_amending_act": "Art. 14 G v. 8.12.2025, BGBl. 2025 I Nr. 318",
+  "commencement_evidence": {
+    "path": "sources/bgbl-2025-318.pdf",
+    "rechecked_path": "sources/preflight-2026-10-20-bgbl-318.pdf",
+    "sha256": "89f50d3f611d6f05089d6d4827783cf1531cfd3c800cd808e86c763b9db28c41",
+    "text_path": "sources/bgbl-2025-318.txt",
+    "provisions": "Artikel 14 und Artikel 21 Absätze 2 und 3",
+    "effective_dates": {
+      "2026-01-01": "Article 14 numbers 1, 3 and 4: contents, § 33, § 61",
+      "2026-07-01": "Article 14 number 2: § 19(1) sentence 2 number 6"
+    },
+    "method": "Actual promulgation text read; current XML § 19, § 33(3) (300 Euro) and § 61 checked against the amendment. PDF re-fetch identical by SHA-256."
+  },
+  "current_source_xml": {
+    "path": "sources/rvg.xml",
+    "sha256": "be5571d1735031133f154071b08a77ccdb89f3e047330ed057a494dfd128f5d1",
+    "builddate": "20260630215537"
+  },
+  "recheck_xml": {
+    "path": "sources/preflight-2026-10-20/rvg.xml",
+    "sha256": "be5571d1735031133f154071b08a77ccdb89f3e047330ed057a494dfd128f5d1",
+    "identical_to_authoring_source": true
+  },
+  "intake_version": "Original intake 2026-10-02 preserved; sources/change-map.json retains the per-unit comparison. No normative content change detected there; current re-fetch is byte-identical to authoring XML.",
+  "current_update_service": "sources/preflight-2026-10-20-updates.html; checked against 19 October snapshot; newly listed issues 301–304 do not identify RVG. An update-service title scan alone is not proof of absence of indirect amendments.",
+  "basis": "Current official index, full HTML and actual parsed RVG ZIP/XML; stand metadata plus promulgated commencement, not fetch/build timestamps alone.",
+  "limitations": [
+    "Current official consolidation checked, not a complete historical-version archive or an exhaustive search of every amending act.",
+    "No guarantee against not-yet-incorporated legislation; decisive manuscript date remains authoring start 19 October 2026."
+  ],
+  "verified_at": "2026-10-20T12:23:02.407146+00:00",
+  "fresh_requests": "sources/review-vv4145-vb5_1-2026-10-20/requests.json",
+  "current_rvg_xml_identical": true,
+  "review_scope": [
+    "vv4145",
+    "vv4146",
+    "vv4147",
+    "vb4.2",
+    "vv4200",
+    "vv4201",
+    "vv4202",
+    "vv4203",
+    "vv4204",
+    "vv4205",
+    "vv4206",
+    "vv4207",
+    "vb4.3",
+    "vv4300",
+    "vv4301",
+    "vv4302",
+    "vv4303",
+    "vv4304",
+    "vb5",
+    "vb5.1"
+  ],
+  "commencement_read": {
+    "snapshot": "sources/review-vv4145-vb5_1-2026-10-20/bgbl-318.pdf",
+    "text": "sources/bgbl-2025-318.txt",
+    "actual_provisions": "Article14 and Article21(2)/(3) re-read: numbers1/3/4 effective1January2026,number2 effective1July2026. No change to these assigned tariffs."
+  },
+  "assigned_money_change": {
+    "path": "sources/review-vv3103-vv3212-2026-10-20/bgbl-109.pdf",
+    "text_path": "sources/review-vv3103-vv3212-2026-10-20/bgbl-109.txt",
+    "sha256": "1ff13f868178c6ca85497562b13de3e37a591793b5fe9f820432210ca17fc36d",
+    "read": "Actual Article11(2)numbers72–84 and Article13(3): current4200–4304amounts since1June2025. This is a preserved official snapshot re-read, not a claimed fresh fetch. §60 controls old mandates."
+  },
+  "external_crossrefs": {
+    "records": "sources/review-vv4145-vb5_1-2026-10-20/crossref-requests.json",
+    "contact_records": "sources/review-vv4145-vb5_1-2026-10-20/contact-requests.json",
+    "read": "All captured §§406/406a/115/172/173/456StPO,13/25StrRehaG,57a/67eStGB,108OWiG,31/34aEGGVG read. Scope is only the referenced context."
+  },
+  "external_amendment_context": {
+    "preserved_snapshots": [
+      "sources/review-vv4126-vv4144-2026-10-20/bgbl-2026-95.txt",
+      "sources/review-vv4126-vv4144-2026-10-20/bgbl-2026-199.txt",
+      "sources/review-vv4126-vv4144-2026-10-20/bgbl-2025-63.txt"
+    ],
+    "actual_read": "Art1 and2(7) of2026I95 do not change57a/67eStGB or referencedStPOsections;Art4 commencement next day after1April2026. Art15(16) of2026I199 changes only492(3)StPO, effective1January2027 byArt16(3), not used. Art3 of2025I63 changes1(6),17a,18,21StrRehaG,not13or25;Art7(2) effective1July2025. Art2 of2025I318 adds44EGGVG,doesnotchange31/34a. No comprehensive historical audit of foreign-context codes claimed."
+  },
+  "updates": {
+    "path": "sources/review-vv4145-vb5_1-2026-10-20/updates.html",
+    "identical_to_previous_round": true,
+    "limitation": "Current update-title scan is not proof against every indirect or not yet consolidated amendment."
+  },
+  "format_repair": {
+    "contact_xml_abbreviation": "Official XML uses GVGEG, although commonly cited as EGGVG. Initial expected-abbreviation assertion failed; expected identity repaired to actual verified GVGEG before acceptance. No false statutory content accepted."
+  }
+}

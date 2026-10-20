@@ -1,13 +1,13 @@
 {
   "commentary_units": 344,
   "statutory_units": 344,
-  "commentary_chars": 513891,
-  "mean_comment_chars": 1493,
-  "minimum_comment_chars": 426,
+  "commentary_chars": 544718,
+  "mean_comment_chars": 1583,
+  "minimum_comment_chars": 442,
   "missing_comments": [],
   "identical_sentences_over_90_characters": [],
   "identical_paragraphs_over_150_characters": [],
-  "local_links_checked": 592,
+  "local_links_checked": 619,
   "broken_local_links": [],
   "external_urls": [
     "http://cordis.europa.eu/en/",

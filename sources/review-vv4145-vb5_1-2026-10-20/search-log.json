@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-20",
+  "scope": [
+    "vv4145",
+    "vv4146",
+    "vv4147",
+    "vb4.2",
+    "vv4200",
+    "vv4201",
+    "vv4202",
+    "vv4203",
+    "vv4204",
+    "vv4205",
+    "vv4206",
+    "vv4207",
+    "vb4.3",
+    "vv4300",
+    "vv4301",
+    "vv4302",
+    "vv4303",
+    "vv4304",
+    "vb5",
+    "vb5.1"
+  ],
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii",
+  "local_search": {
+    "pattern": "(Nr|Nummer|VV RVG)near4200/4204/4301/4147/4145/4146; Vorbemerkung5.1",
+    "evidence": "local-case-hits.txt",
+    "limitations": "Numerical false positives and irrelevant social-law reporter citations are included; raw hit count does not establish relevance. Secondary focused search is saved in local-tariff-case-hits.txt."
+  },
+  "firecrawl": {
+    "query": "site.rechtsprechung-im-internet.de RVG \"4301\" \"4200\"",
+    "evidence": "firecrawl-search.json",
+    "result": "Discovery results including current official RVG page; no third-party fee table or commentary treated as authority."
+  },
+  "additional_web_queries": [
+    "site.rechtsprechung-im-internet.de RVG \"4200\"",
+    "site.bundesgerichtshof.de \"4301\" Zeugenbeistand",
+    "site.rechtsprechung-im-internet.de \"Vorbemerkung 5.1\"",
+    "\"4202\" \"Terminsgebühr\" site.landesrecht-hamburg.de",
+    "\"4202\" \"Terminsgebühr\" site.gesetze-bayern.de",
+    "\"4200\" site.rechtsprechung.sachsen.de",
+    "\"Geldbuße\" \"Vorbemerkung 5.1\" site.gesetze-bayern.de",
+    "\"4202\" \"mehrere\" \"2024\" \"Terminsgebühr\"",
+    "\"16 Qs 30/19\"",
+    "\"1 AR 1/24\" site.gesetze.berlin.de",
+    "\"1 AR 1/24\" \"Kammergericht\" \"2024\""
+  ],
+  "not_selected": [
+    {
+      "decision": "KG23September2024,1AR1/24",
+      "reason": "Discovery yielded secondary reproductions only; no official full text secured, therefore not cited. Once-per-matter explanation rests on current15(2)andactualtariffwording."
+    },
+    {
+      "decision": "LGFreiburg29October2019,16Qs30/19",
+      "url": "https://www.landesrecht-bw.de/bsbw/document/NJRE001402343",
+      "reason": "Browser opening returned SPA shell without readable full text; concerns separate confiscation tariff. Not used for assigned commentary."
+    },
+    {
+      "decision": "OLGBraunschweig6July2010,Ws163/10",
+      "reason": "Discovery result about witness assistance not selected as authority for the different2025limitedreplacementcase."
+    }
+  ],
+  "official_full_texts_read": [
+    "KORE616772026"
+  ],
+  "supported_units": {
+    "KORE616772026": [
+      "vb4.3",
+      "vv4301"
+    ]
+  },
+  "no_additional_sufficiently_relevant_verified_case_selected_for": [
+    "vv4145",
+    "vv4146",
+    "vv4147",
+    "vb4.2",
+    "vv4200",
+    "vv4201",
+    "vv4202",
+    "vv4203",
+    "vv4204",
+    "vv4205",
+    "vv4206",
+    "vv4207",
+    "vv4300",
+    "vv4302",
+    "vv4303",
+    "vv4304",
+    "vb5",
+    "vb5.1"
+  ],
+  "limits": "Selective national-corpus and official-database research; no claim of exhaustive per-unit negatives or later-case census. No holdings reconstructed from search snippets."
+}

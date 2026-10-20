@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/gvgeg/xml.zip",
+    "accessed_at": "2026-10-20T12:15:33.928882+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "local_path": "sources/review-vv4145-vb5_1-2026-10-20/gvgeg.zip",
+    "sha256": "6b6ac16c80494d233a6c1dc425b4e175a1132e8b17322780e1613ef5248c115a",
+    "xml_path": "sources/review-vv4145-vb5_1-2026-10-20/gvgeg.xml",
+    "xml_sha256": "8339d0c9405f279b9d2e97ba97b2e02864184001165b823a66e098ee2e0b8c98",
+    "validated_format": "ZIP and XML parsed, official abbreviation checked",
+    "scope": [
+      "§ 31",
+      "§ 34a"
+    ],
+    "limitation": "Current official cross-reference context only; no separate historical archive or full commentary of the external code"
+  }
+]
