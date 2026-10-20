@@ -397,6 +397,13 @@
       "Three selectively chosen official decisions were read in full and checked against the national corpus; no exhaustive case-law coverage or subsequent-case search.",
       "Current RVG consolidation, authenticated commencement provisions and intake comparison checked; no complete historical or indirect-amendment archive audit.",
       "External KapMuG/VDuG/ZPO sources are used for stated tariff context only; no independent complete commentary or historical commencement audit of those statutes."
-    ]
+    ],
+    "validation": {
+      "strict_ok": true,
+      "verbatim_ratio": 1.0,
+      "validated_at": "2026-10-20T11:39:29.039448+00:00",
+      "reviewed_commentary_units": 20,
+      "whole_book_review_complete": false
+    }
   }
 }

@@ -3,7 +3,7 @@
   "title": "Gesetz über die Vergütung der Rechtsanwältinnen und Rechtsanwälte",
   "country": "de",
   "decisive_date": "2026-10-19",
-  "updated_at": "2026-10-20T11:38:41.377345+00:00",
+  "updated_at": "2026-10-20T11:39:29.162816+00:00",
   "stage": "bounded_review_checkpoint",
   "official_norm_units": 81,
   "numbered_paragraphs": 79,
@@ -196,8 +196,33 @@
   ],
   "case_law_scope": "23 selectively verified decisions: 16 BGH, three BVerfG, two BSG and two BAG. This batch adds BGH VI ZB 58/22 for 3401/3402, BGH XI ZB 2/13 for 3403/3405, and BAG 3 AZB 22/11 for 3506/3507. No exhaustive per-unit or subsequent-case research.",
   "validation": {
-    "build": "pending",
-    "strict": "pending"
+    "strict": {
+      "repo": "Komentar-DE-RVG-2004",
+      "units": 344,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 444613,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "validated_at": "2026-10-20T11:39:29.039448+00:00",
+    "validated_work_commit": "219c434506a8de14e50e4b3bd619f932461aaeff",
+    "validated_output_commit": "4463fb699acf26c23c3e9e0bfc8b78ff875ee9c8",
+    "build": "success",
+    "independent_xml_coverage": {
+      "expected": 344,
+      "parsed": 344,
+      "missing": [],
+      "duplicates": [],
+      "ok": true
+    },
+    "assigned_complete_wording_matches": 20,
+    "unassigned_commentary_blocks_preserved": 324,
+    "local_links_checked": 470,
+    "broken_local_links": [],
+    "exact_repeated_long_sentences": 0,
+    "exact_repeated_long_paragraphs": 0,
+    "meaning": "Technical checks supplement the actual exact-twenty-unit substantive review; no whole-book or external professional approval."
   },
   "completeness": {
     "report": "completeness.json",
@@ -238,7 +263,7 @@
     "independent_coverage_ok": true
   },
   "bounded_review": {
-    "complete": false,
+    "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
       "vv3337",
@@ -289,8 +314,33 @@
     "unassigned_units_preserved": 324,
     "whole_book_review_complete": false,
     "validation": {
-      "build": "pending",
-      "strict": "pending"
+      "strict": {
+        "repo": "Komentar-DE-RVG-2004",
+        "units": 344,
+        "verbatim_ratio": 1.0,
+        "commentary_chars": 444613,
+        "errors": [],
+        "warnings": [],
+        "ok": true
+      },
+      "validated_at": "2026-10-20T11:39:29.039448+00:00",
+      "validated_work_commit": "219c434506a8de14e50e4b3bd619f932461aaeff",
+      "validated_output_commit": "4463fb699acf26c23c3e9e0bfc8b78ff875ee9c8",
+      "build": "success",
+      "independent_xml_coverage": {
+        "expected": 344,
+        "parsed": 344,
+        "missing": [],
+        "duplicates": [],
+        "ok": true
+      },
+      "assigned_complete_wording_matches": 20,
+      "unassigned_commentary_blocks_preserved": 324,
+      "local_links_checked": 470,
+      "broken_local_links": [],
+      "exact_repeated_long_sentences": 0,
+      "exact_repeated_long_paragraphs": 0,
+      "meaning": "Technical checks supplement the actual exact-twenty-unit substantive review; no whole-book or external professional approval."
     }
   },
   "previous_bounded_review": {

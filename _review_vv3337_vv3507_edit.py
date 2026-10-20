@@ -120,6 +120,6 @@ for p in (W/'commentary').glob('*.md'):
   if i not in C:return m[0]
   found.append(i);return '=== '+i+'\n'+C[i].strip()+'\n\n'
  n=re.sub(r'^=== (\S+)\n(.*?)(?=^=== |\Z)',replace,s,flags=re.M|re.S)
- if n!=s:p.write_text(n)
+ if n!=s:p.write_text(n.rstrip()+'\n')
 assert set(found)==set(ids) and len(found)==20
 print(json.dumps({i:len(C[i]) for i in ids},ensure_ascii=False))
