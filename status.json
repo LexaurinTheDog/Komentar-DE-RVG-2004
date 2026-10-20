@@ -3,7 +3,7 @@
   "title": "Gesetz über die Vergütung der Rechtsanwältinnen und Rechtsanwälte",
   "country": "de",
   "decisive_date": "2026-10-19",
-  "updated_at": "2026-10-20T11:02:39.416043+00:00",
+  "updated_at": "2026-10-20T11:03:28.905568+00:00",
   "stage": "bounded_review_checkpoint",
   "official_norm_units": 81,
   "numbered_paragraphs": 79,
@@ -140,7 +140,33 @@
   ],
   "case_law_scope": "Fifteen selectively verified decisions: ten BGH, three BVerfG and two BSG. Current batch adds three decisions and rereads one existing decision for 3104/3105/3106/3201; no exhaustive per-unit research.",
   "validation": {
-    "status": "Awaiting rebuild and strict validation; substantive review of all exact IDs completed"
+    "strict": {
+      "repo": "Komentar-DE-RVG-2004",
+      "units": 344,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 373331,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "validated_at": "2026-10-20T11:03:28.603428+00:00",
+    "validated_work_commit": "a170e3b8418f8758d314c25048f78e8b03e97284",
+    "validated_output_commit": "3a3aff795585cd2196ddd2476dfbf090aae56243",
+    "build": "success",
+    "independent_xml_coverage": {
+      "expected": 344,
+      "parsed": 344,
+      "missing": [],
+      "duplicates": [],
+      "ok": true
+    },
+    "assigned_complete_wording_matches": 20,
+    "unassigned_commentary_blocks_preserved": 324,
+    "local_links_checked": 325,
+    "broken_local_links": [],
+    "exact_repeated_long_sentences": 0,
+    "exact_repeated_long_paragraphs": 0,
+    "meaning": "Technical checks support the separately read exact 20-unit review. They do not establish substantive review of unassigned units or external professional approval."
   },
   "completeness": {
     "report": "completeness.json",
@@ -181,7 +207,7 @@
     "independent_coverage_ok": true
   },
   "bounded_review": {
-    "complete": false,
+    "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
       "vv3103",
@@ -234,7 +260,33 @@
     "unassigned_units_preserved": 324,
     "whole_book_review_complete": false,
     "validation": {
-      "status": "Awaiting rebuild and strict validation; substantive review of all exact IDs completed"
+      "strict": {
+        "repo": "Komentar-DE-RVG-2004",
+        "units": 344,
+        "verbatim_ratio": 1.0,
+        "commentary_chars": 373331,
+        "errors": [],
+        "warnings": [],
+        "ok": true
+      },
+      "validated_at": "2026-10-20T11:03:28.603428+00:00",
+      "validated_work_commit": "a170e3b8418f8758d314c25048f78e8b03e97284",
+      "validated_output_commit": "3a3aff795585cd2196ddd2476dfbf090aae56243",
+      "build": "success",
+      "independent_xml_coverage": {
+        "expected": 344,
+        "parsed": 344,
+        "missing": [],
+        "duplicates": [],
+        "ok": true
+      },
+      "assigned_complete_wording_matches": 20,
+      "unassigned_commentary_blocks_preserved": 324,
+      "local_links_checked": 325,
+      "broken_local_links": [],
+      "exact_repeated_long_sentences": 0,
+      "exact_repeated_long_paragraphs": 0,
+      "meaning": "Technical checks support the separately read exact 20-unit review. They do not establish substantive review of unassigned units or external professional approval."
     }
   },
   "previous_bounded_review": {
